@@ -1,0 +1,26 @@
+# arxiv_topic list
+arxiv_topic_list:
+  - "cs.AI"
+  - "cs.CL"
+  - "cs.CV"
+  - "cs.LG"
+  - "cs.NE"
+
+# llm model and api info
+llm:
+  model_name: "qwen-plus"
+  api_key: "23fbfd7c-a69f-465c-8f9a-ed94956fd8b9"
+  api_base_url: "https://ark.cn-beijing.volces.com/api/v3"
+
+# llm prompt info
+prompt:
+    system: |
+        You are a professional paper analyst.
+        You should not respond too long output.
+        Your output should in {}.
+        Please analyze the following abstract of papers.
+    user: |
+        please analyze the following abstract of paper.
+        please translate the following title of paper.
+        abstract: {}
+        title: {}
