@@ -31,6 +31,22 @@ class ArxivPaperExporter:
 
         return full_papers_count
     
+    def export_arxiv_paper_readme(self):
+        
+        new_paper_line = f"\n[{get_date_string()}]({self.arxiv_papers_analyzed_md})\n"
+
+        try:
+            with open('README.md', 'r', encoding="utf-8") as f:
+                lines = f.readlines()
+
+            new_paper_line_idx = lines.index("# arXiv Papers\n") + 1
+            lines.insert(new_paper_line_idx, new_paper_line)
+
+            with open('README.md', 'w', encoding="utf-8") as f:
+                f.writelines(lines)
+        except FileNotFoundError:
+            lines = []
+    
     def process_arxiv_papers_export(self):
         full_papers_count = self.export_arxiv_paper_md()
 
@@ -44,5 +60,6 @@ if __name__ == '__main__':
 
     arxiv_papers_exporter = ArxivPaperExporter(arxiv_papers_analyzed_jsonl, arxiv_papers_analyzed_md)
     arxiv_papers_exported_count = arxiv_papers_exporter.process_arxiv_papers_export()
+    arxiv_papers_exporter.export_arxiv_paper_readme()
 
     print(f"Arxiv Papers Export Done! export {arxiv_papers_exported_count} arxiv papers")
