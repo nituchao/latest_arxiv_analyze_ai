@@ -1,4 +1,4 @@
-# 1. `cs.AI` - CALM: 基于上下文模拟逻辑与多模态 [PDF](https://arxiv.org/pdf/2506.14936), [HTML](https://arxiv.org/abs/2506.14936)
+# 1. cs.AI - CALM: 基于上下文模拟逻辑与多模态 [PDF](https://arxiv.org/pdf/2506.14936), [HTML](https://arxiv.org/abs/2506.14936)
 ## Authors
 Maxwell J. Jacobson,Corey J. Maley,Yexiang Xue
 ## Background
