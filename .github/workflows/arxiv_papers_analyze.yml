@@ -21,6 +21,10 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
     - name: arxiv_papers_analyze
+      env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL_NAME: ${{ secrets.LLM_MODEL_NAME }}
       run: |
         chmod +x bootstrap.sh
         ./bootstrap.sh

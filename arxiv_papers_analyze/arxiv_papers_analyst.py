@@ -119,6 +119,8 @@ if __name__ == '__main__':
     arxiv_papers_crawled_jsonl = conf['analysis']['arxiv_papers_crawled_jsonl']
     arxiv_papers_analyzed_jsonl = conf['analysis']['arxiv_papers_analyzed_jsonl']
 
+    print(f"llm_api_key: {llm_api_key}, llm_base_url: {llm_base_url}, llm_model_name: {llm_model_name}")
+
     arxiv_papers_analyst = ArxivPaperAnalyst(arxiv_papers_crawled_jsonl, llm_api_key, llm_base_url, llm_model_name, arxiv_analysis_language, prompt_system, prompt_user, arxiv_papers_analyzed_jsonl)
     arxiv_papers_analyzed_count = arxiv_papers_analyst.process_arxiv_papers_analyze()
 
