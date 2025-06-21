@@ -18,9 +18,9 @@ analysis:
 
 # llm model and api info, if null then taking from environment variables
 llm:
-  model_name: "Qwen/Qwen2.5-7B-Instruct"
-  api_key: "sk-iihrkstmasbjrmpoolpyyoxiyaeqbwlkehxfermzuhmbdnbg"
-  base_url: "https://api.siliconflow.cn/v1"
+  model_name: ""
+  api_key: ""
+  base_url: ""
 
 # llm prompt info
 prompt:

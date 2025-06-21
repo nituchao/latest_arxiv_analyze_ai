@@ -4,12 +4,7 @@ from datetime import datetime
 from openai import OpenAI
 import json
 import time
-
-class PaperAnalysis(BaseModel):
-    title: str=Field(description='translate the title of this paper')
-    abstract: str=Field(description='describe the abstract of this paper')
-    innovation: str=Field(description='describe the innovation of this paper')
-    conclusion: str=Field(description='describe the conclusion of this paper')
+import os
 
 class ArxivPaperAnalyst:
     """
@@ -113,9 +108,9 @@ class ArxivPaperAnalyst:
 if __name__ == '__main__':
     conf = init_environment_conf()
 
-    llm_api_key = conf['llm']['api_key']
-    llm_base_url = conf['llm']['base_url']
-    llm_model_name = conf['llm']['model_name']
+    llm_api_key = conf['llm']['api_key'] if conf['llm']['api_key'].strip() else os.environ.get('LLM_API_KEY', '').strip()
+    llm_base_url = conf['llm']['base_url'] if conf['llm']['base_url'].strip() else os.environ.get('LLM_BASE_URL', '').strip()
+    llm_model_name = conf['llm']['model_name'] if conf['llm']['model_name'].strip() else os.environ.get('LLM_MODEL_NAME', '').strip()
 
     prompt_user = conf['prompt']['user']
     prompt_system = conf['prompt']['system']
