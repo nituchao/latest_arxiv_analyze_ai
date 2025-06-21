@@ -31,9 +31,9 @@ class ArxivPaperExporter:
 
         return full_papers_count
     
-    def export_arxiv_paper_readme(self):
+    def export_arxiv_paper_readme(self, arxiv_papers_exported_count):
         
-        new_paper_line = f"\n[{get_date_string()}]({self.arxiv_papers_analyzed_md})\n"
+        new_paper_line = f"\n[{get_date_string()}]({self.arxiv_papers_analyzed_md}) - {arxiv_papers_exported_count} arxiv papers\n"
 
         try:
             with open('README.md', 'r', encoding="utf-8") as f:
@@ -60,6 +60,6 @@ if __name__ == '__main__':
 
     arxiv_papers_exporter = ArxivPaperExporter(arxiv_papers_analyzed_jsonl, arxiv_papers_analyzed_md)
     arxiv_papers_exported_count = arxiv_papers_exporter.process_arxiv_papers_export()
-    arxiv_papers_exporter.export_arxiv_paper_readme()
+    arxiv_papers_exporter.export_arxiv_paper_readme(arxiv_papers_exported_count)
 
     print(f"Arxiv Papers Export Done! export {arxiv_papers_exported_count} arxiv papers")
