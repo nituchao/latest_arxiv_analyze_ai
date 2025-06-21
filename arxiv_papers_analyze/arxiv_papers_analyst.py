@@ -57,7 +57,7 @@ class ArxivPaperAnalyst:
             paper_analysis['html_url'] = paper['html_url']
 
             paper_analysis['title'] = paperAnalysis['title']
-            
+
             paper_analysis['title_en'] = paper['title']
             paper_analysis['authors'] = paper['authors']
     
@@ -85,9 +85,6 @@ class ArxivPaperAnalyst:
             print(f"analyze paper {idx+1}/{total_count}, title: {analyzed_paper['title']}")
             time.sleep(1)
             idx = idx + 1
-
-            if idx >= 10:
-                break
 
         return analyzed_paper_list
 
