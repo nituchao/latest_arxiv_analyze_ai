@@ -1,3 +1,5 @@
+from datetime import datetime
+from pytz import timezone
 import argparse
 import yaml
 
@@ -11,3 +13,8 @@ def init_environment_conf():
         conf = yaml.load(conf_file, Loader=yaml.FullLoader)
     
     return conf
+
+def get_date_string(dt=None, fmt='%Y%m%d', tz=timezone('Asia/Shanghai')):
+    if dt is None:
+        return datetime.now(tz).strftime(fmt)
+    return dt.strftime(fmt)

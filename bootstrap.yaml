@@ -4,10 +4,10 @@ arxiv:
   arxiv_topic_url: "https://arxiv.org/list/{}/new"
   arxiv_topic_list:
     - "cs.AI"
-    - "cs.CL"
-    - "cs.CV"
-    - "cs.LG"
-    - "cs.NE"
+    #- "cs.CL"
+    #- "cs.CV"
+    #- "cs.LG"
+    #- "cs.NE"
 
 analysis:
   arxiv_papers_dir: "arxiv_papers"
@@ -16,21 +16,22 @@ analysis:
   arxiv_papers_analyzed_jsonl: "arxiv_papers_data/arxiv_papers_{}_analyzed.jsonl"
   arxiv_papers_analyzed_md: "arxiv_papers_data/arxiv_papers_{}_analyzed.md"
 
-# llm model and api info, prioritize taking from environment variables
+# llm model and api info, if null then taking from environment variables
 llm:
-  model_name: "qwen-plus"
-  api_key: "23fbfd7c-a69f-465c-8f9a-ed94956fd8b9"
-  base_url: "https://ark.cn-beijing.volces.com/api/v3"
+  model_name: "Qwen/Qwen2.5-7B-Instruct"
+  api_key: "sk-iihrkstmasbjrmpoolpyyoxiyaeqbwlkehxfermzuhmbdnbg"
+  base_url: "https://api.siliconflow.cn/v1"
 
 # llm prompt info
 prompt:
     system: |
         You are a professional paper analyst.
         You should not respond too long output.
-        Your output should in {}.
-        Please analyze the following abstract of papers.
+        Your output should in language {}.
+        Please analyze the following content of papers.
     user: |
-        please analyze the following abstract of paper.
+        please analyze the following content of paper, tell me the `background`, `innovation`, `conclusion` of this paper.
         please translate the following title of paper.
-        abstract: {}
-        title: {}
+        content: {},
+        title: {},
+        the result is output in a parseable json format containing fields 'title', 'background', 'innovation', 'conclusion'.

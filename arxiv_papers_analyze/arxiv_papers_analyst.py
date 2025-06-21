@@ -55,19 +55,16 @@ class ArxivPaperAnalyst:
                     {"role": "system", "content": self.prompt_system.format(self.arxiv_analysis_language)},
                     {"role": "user", "content": self.prompt_user.format(paper['abstract'], paper['title'])},
                 ],
-                response_format=PaperAnalysis,
-                extra_body={
-                    "thinking": {
-                        "type": "disabled"
-                    }}
+                response_format={"type": "json_object"}
             )
             
-            paperAnalysis = completion.choices[0].message.parsed
+            paperAnalysis = completion.choices[0].message.content
+            paperAnalysis = json.loads(paperAnalysis)
             
-            paper_analysis['title'] = paperAnalysis.title
-            paper_analysis['abstract'] = paperAnalysis.abstract
-            paper_analysis['innovation'] = paperAnalysis.innovation
-            paper_analysis['conclusion'] = paperAnalysis.conclusion
+            paper_analysis['title'] = paperAnalysis['title']
+            paper_analysis['background'] = paperAnalysis['background']
+            paper_analysis['innovation'] = paperAnalysis['innovation']
+            paper_analysis['conclusion'] = paperAnalysis['conclusion']
         except Exception as e:
             paper_analysis['title'] = ""
             paper_analysis['abstract'] = ""
@@ -86,8 +83,12 @@ class ArxivPaperAnalyst:
             analyzed_paper = self.analyze_arxiv_paper_by_llm(origin_paper)
             analyzed_paper_list.append(analyzed_paper)
             
-            print(f"analyze paper {idx}/{total_count}, title: {analyzed_paper['title']}")
+            print(f"analyze paper {idx+1}/{total_count}, title: {analyzed_paper['title']}")
             time.sleep(1)
+            idx = idx + 1
+
+            if idx >= 10:
+                break
 
         return analyzed_paper_list
 
