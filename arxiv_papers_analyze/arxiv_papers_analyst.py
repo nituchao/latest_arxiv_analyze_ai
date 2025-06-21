@@ -1,7 +1,7 @@
+from arxiv_papers_utils import init_environment_conf
 from pydantic import BaseModel, Field
 from datetime import datetime
 from openai import OpenAI
-import requests
 import json
 import time
 
@@ -14,9 +14,9 @@ class PaperAnalysis(BaseModel):
 class ArxivPaperAnalyst:
     """
     Arxiv Paper Analyst
+    Step2: analyze the arxiv paper by llm
     """
-    def __init__(self, filename, llm_api_key, llm_base_url, llm_model_name, arxiv_analysis_language, prompt_system, prompt_user, arxiv_papers_analyzed_jsonl):
-        self.filename = filename
+    def __init__(self, arxiv_papers_crawled_jsonl, llm_api_key, llm_base_url, llm_model_name, arxiv_analysis_language, prompt_system, prompt_user, arxiv_papers_analyzed_jsonl):
         self.llm_api_key = llm_api_key
         self.llm_base_url = llm_base_url
         self.llm_model_name = llm_model_name
@@ -24,12 +24,15 @@ class ArxivPaperAnalyst:
         self.prompt_user = prompt_user
         self.prompt_system = prompt_system
 
+        self.current_date = datetime.now().strftime("%Y%m%d")
         self.arxiv_analysis_language = arxiv_analysis_language
-        self.arxiv_papers_analyzed_jsonl = arxiv_papers_analyzed_jsonl
+        self.arxiv_papers_crawled_jsonl = arxiv_papers_crawled_jsonl.format(self.current_date)
+        self.arxiv_papers_analyzed_jsonl = arxiv_papers_analyzed_jsonl.format(self.current_date)
 
     def load_arxiv_paper_jsonl(self, filename):
         papers = []
-        with open(filename, "r", encoding="utf-8") as jsonl_file:
+
+        with open(self.arxiv_papers_crawled_jsonl, "r", encoding="utf-8") as jsonl_file:
             for line in jsonl_file:
                 data = json.loads(line)
                 papers.append(data)
@@ -89,10 +92,38 @@ class ArxivPaperAnalyst:
         return analyzed_paper_list
 
     def save_arxiv_full_paper_list_to_jsonl(self, analyzed_paper_list):
-        current_date = datetime.now().strftime("%Y%m%d")
-        arxiv_papers_analyzed_jsonl = self.arxiv_papers_analyzed_jsonl.format(current_date)
 
-        with open(arxiv_papers_analyzed_jsonl, "w", encoding="utf-8") as jsonl_file:
+        full_papers_count = 0
+        with open(self.arxiv_papers_analyzed_jsonl, "w", encoding="utf-8") as jsonl_file:
             for paper in analyzed_paper_list:
                 json.dump(paper, jsonl_file, ensure_ascii=False)
                 jsonl_file.write("\n")
+                full_papers_count += 1
+
+        return full_papers_count
+
+    def process_arxiv_papers_analyze(self):
+        origin_paper_list = self.load_arxiv_paper_jsonl(self.arxiv_papers_crawled_jsonl)
+        analyzed_paper_list = self.analyze_arxiv_full_paper_list_by_llm(origin_paper_list)
+        full_papers_count = self.save_arxiv_full_paper_list_to_jsonl(analyzed_paper_list)
+
+        return full_papers_count
+    
+if __name__ == '__main__':
+    conf = init_environment_conf()
+
+    llm_api_key = conf['llm']['api_key']
+    llm_base_url = conf['llm']['base_url']
+    llm_model_name = conf['llm']['model_name']
+
+    prompt_user = conf['prompt']['user']
+    prompt_system = conf['prompt']['system']
+
+    arxiv_analysis_language = conf['analysis']['arxiv_analysis_language']
+    arxiv_papers_crawled_jsonl = conf['analysis']['arxiv_papers_crawled_jsonl']
+    arxiv_papers_analyzed_jsonl = conf['analysis']['arxiv_papers_analyzed_jsonl']
+
+    arxiv_papers_analyst = ArxivPaperAnalyst(arxiv_papers_crawled_jsonl, llm_api_key, llm_base_url, llm_model_name, arxiv_analysis_language, prompt_system, prompt_user, arxiv_papers_analyzed_jsonl)
+    arxiv_papers_analyzed_count = arxiv_papers_analyst.process_arxiv_papers_analyze()
+
+    print(f"Arxiv Papers Analyze Done! analyze {arxiv_papers_analyzed_count} arxiv papers")

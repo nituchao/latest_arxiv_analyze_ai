@@ -3,10 +3,12 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 from urllib.parse import urljoin
+from arxiv_papers_utils import init_environment_conf
 
 class ArxivPapersCrawler:
     """
     Arxiv Papers Crawler
+    Step1: crawl arxiv papers by topic list
     """
     def __init__(self, arxiv_base_url, arxiv_topic_url, arxiv_topic_list, arxiv_papers_crawled_jsonl):
         self.arxiv_base_url = arxiv_base_url
@@ -21,7 +23,7 @@ class ArxivPapersCrawler:
         }
 
         # get page content
-        request_url = self.arxiv_url.format(topic)
+        request_url = self.arxiv_topic_url.format(topic)
         response = requests.get(request_url, headers=headers)
 
         # check if the request was successful
@@ -60,7 +62,7 @@ class ArxivPapersCrawler:
     def crawl_arxiv_papers_by_full_topic_list(self):
         full_papers = []
         for topic in self.arxiv_topic_list:
-            papers = self.crawl_arxiv_papers_by_topic(topic)
+            papers = self.crawl_arxiv_papers_by_single_topic(topic)
             full_papers.extend(papers)
 
         return full_papers
@@ -73,3 +75,24 @@ class ArxivPapersCrawler:
             for paper in full_papers:
                 json.dump(paper, jsonl_file, ensure_ascii=False)
                 jsonl_file.write("\n")
+
+        return len(full_papers)
+
+    def process_arxiv_papers_crawl(self):
+        full_papers = self.crawl_arxiv_papers_by_full_topic_list()
+        full_papers_count = self.save_arxiv_papers(full_papers, self.arxiv_papers_crawled_jsonl)
+
+        return full_papers_count
+    
+if __name__ == '__main__':
+    conf = init_environment_conf()
+    
+    arxiv_base_url = conf['arxiv']['arxiv_base_url']
+    arxiv_topic_url = conf['arxiv']['arxiv_topic_url']
+    arxiv_topic_list = conf['arxiv']['arxiv_topic_list']
+    arxiv_papers_crawled_jsonl = conf['analysis']['arxiv_papers_crawled_jsonl']
+    
+    arxiv_papers_crawler = ArxivPapersCrawler(arxiv_base_url, arxiv_topic_url, arxiv_topic_list, arxiv_papers_crawled_jsonl)
+    arxiv_papers_crawled_count = arxiv_papers_crawler.process_arxiv_papers_crawl()
+
+    print(f"Arxiv Papers Crawl: Done! arxiv_papers_crawled_count: {arxiv_papers_crawled_count}")
