@@ -17,7 +17,7 @@ class ArxivPaperExporter:
         with open(self.arxiv_papers_analyzed_jsonl, "r", encoding="utf-8") as jsonl_file, open(self.arxiv_papers_analyzed_md, "w", encoding="utf-8") as md_file:
             for idx, line in enumerate(jsonl_file, start=1):
                 data = json.loads(line)
-                md_file.write(f"# {idx}. {data['title']} [PDF]({data['pdf_url']}), [HTML]({data['html_url']})\n")
+                md_file.write(f"# {idx}. `{data['topic']}` - {data['title']} [PDF]({data['pdf_url']}), [HTML]({data['html_url']})\n")
                 md_file.write(f"## Authors\n")
                 md_file.write(f"{data['authors']}\n")
                 md_file.write(f"## Background\n")

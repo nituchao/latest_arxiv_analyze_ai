@@ -50,6 +50,7 @@ class ArxivPapersCrawler:
             abstract = dd.find("p", class_="mathjax").get_text(strip=True)
 
             papers.append({
+                "topic": topic,
                 "pdf_url": pdf_link,
                 "html_url": html_link,
                 "authors": authors,

@@ -36,10 +36,6 @@ class ArxivPaperAnalyst:
 
     def analyze_arxiv_paper_by_llm(self, paper):
         paper_analysis = {}
-        paper_analysis['title_en'] = paper['title']
-        paper_analysis['authors'] = paper['authors']
-        paper_analysis['pdf_url'] = paper['pdf_url']
-        paper_analysis['html_url'] = paper['html_url']
 
         try:
             client = OpenAI(api_key=self.llm_api_key, base_url=self.llm_base_url)
@@ -56,7 +52,15 @@ class ArxivPaperAnalyst:
             paperAnalysis = completion.choices[0].message.content
             paperAnalysis = json.loads(paperAnalysis)
             
+            paper_analysis['topic'] = paper['topic']
+            paper_analysis['pdf_url'] = paper['pdf_url']
+            paper_analysis['html_url'] = paper['html_url']
+
             paper_analysis['title'] = paperAnalysis['title']
+            
+            paper_analysis['title_en'] = paper['title']
+            paper_analysis['authors'] = paper['authors']
+    
             paper_analysis['background'] = paperAnalysis['background']
             paper_analysis['innovation'] = paperAnalysis['innovation']
             paper_analysis['conclusion'] = paperAnalysis['conclusion']

@@ -28,3 +28,13 @@ jobs:
       run: |
         chmod +x bootstrap.sh
         ./bootstrap.sh
+    - name: commit
+      run: |
+        git config --global user.email "${{ vars.EMAIL }}"
+        git config --global user.name "${{ vars.NAME }}"
+        git add .
+        git commit -m "update"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.ARXIV_ANALYZE_AI_TOKEN }}
