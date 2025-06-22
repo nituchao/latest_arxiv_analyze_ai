@@ -92,7 +92,7 @@ class ArxivPaperExporter:
                     
                 idx += 1
 
-        fg.atom_file(self.arxiv_papers_atom, encoding="utf-8") # Write the ATOM feed to a file
+        # fg.atom_file(self.arxiv_papers_atom, encoding="utf-8") # Write the ATOM feed to a file
         fg.rss_file(self.arxiv_papers_rss, encoding="utf-8") # Write the RSS feed to a file
 
     def export_arxiv_paper_to_readme(self, arxiv_papers_exported_count):
