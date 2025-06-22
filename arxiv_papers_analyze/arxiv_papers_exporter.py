@@ -133,6 +133,6 @@ if __name__ == '__main__':
     arxiv_papers_exporter = ArxivPaperExporter(arxiv_papers_analyzed_jsonl, arxiv_papers_analyzed_md, arxiv_papers_rss, arxiv_papers_atom, arxiv_analysis_language, current_date)
     arxiv_papers_exported_count = arxiv_papers_exporter.process_arxiv_papers_export()
     arxiv_papers_exporter.export_arxiv_paper_to_readme(arxiv_papers_exported_count)
-    arxiv_papers_exporter.export_arxiv_paper_to_rss(arxiv_papers_exported_count)
+    # arxiv_papers_exporter.export_arxiv_paper_to_rss(arxiv_papers_exported_count)
 
     print(f"Arxiv Papers Export Done! export {arxiv_papers_exported_count} arxiv papers")
