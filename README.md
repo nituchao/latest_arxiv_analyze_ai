@@ -13,8 +13,9 @@ The following fields will be exported to markdown file and rss/atom file:
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 
 ## RSS
+The lastest arxiv papers analyzed by AI will be updated daily:
 
-[RSS](https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/rss.xml){:target="_blank"} | [ATOM](https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/atom.xml){:target="_blank"}
+<a href="https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/rss.xml" target="_blank">RSS</a> | <a href="https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/atom.xml" target="_blank">ATOM</a>
 
 ## Markdown
 The lastest arxiv papers analyzed by AI will be updated daily:
