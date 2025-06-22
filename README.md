@@ -10,3 +10,6 @@ You can fork this repo to run the code on your github actions workflow to analyz
 | topic | title | title_en | authors | background | innovation | conclusion |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
+
+[20250621](arxiv_papers_data/arxiv_papers_20250621_analyzed_Chinese.md) - 10 arxiv papers
+
