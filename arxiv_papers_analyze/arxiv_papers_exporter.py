@@ -21,16 +21,19 @@ class ArxivPaperExporter:
         full_papers_count = 0
         with open(self.arxiv_papers_analyzed_jsonl, "r", encoding="utf-8") as jsonl_file, open(self.arxiv_papers_analyzed_md, "w", encoding="utf-8") as md_file:
             for idx, line in enumerate(jsonl_file, start=1):
-                data = json.loads(line)
-                md_file.write(f"# {idx}. `{data['topic']}` - {data['title']} [PDF]({data['pdf_url']}), [HTML]({data['html_url']})\n")
-                md_file.write(f"## Authors\n")
-                md_file.write(f"{data['authors']}\n")
-                md_file.write(f"## Background\n")
-                md_file.write(f"{data['background']}\n")
-                md_file.write(f"## Innovation\n")
-                md_file.write(f"{data['innovation']}\n")
-                md_file.write(f"## Conclusion\n")
-                md_file.write(f"{data['conclusion']}\n")
+                try:
+                    data = json.loads(line)
+                    md_file.write(f"# {idx}. `{data['topic']}` - {data['title']} [PDF]({data['pdf_url']}), [HTML]({data['html_url']})\n")
+                    md_file.write(f"## Authors\n")
+                    md_file.write(f"{data['authors']}\n")
+                    md_file.write(f"## Background\n")
+                    md_file.write(f"{data['background']}\n")
+                    md_file.write(f"## Innovation\n")
+                    md_file.write(f"{data['innovation']}\n")
+                    md_file.write(f"## Conclusion\n")
+                    md_file.write(f"{data['conclusion']}\n")
+                except Exception as e:
+                    print(f"error happens: {e}")
 
                 full_papers_count += 1
 
@@ -52,18 +55,22 @@ class ArxivPaperExporter:
 
             idx = 0
             for line in jsonl_lines:
-                data = json.loads(line)
-
-                fe = fg.add_entry()
-                fe.id(f"{arxiv_papers_exported_count - idx}. {data['title']}")
-                fe.title(f"{arxiv_papers_exported_count - idx}. {data['title']}")
-                fe.updated(get_date_rfc822_string())
-                fe.category(term=data['topic'])
-                fe.link(href=data['pdf_url'])
-                
-                fe.summary(f"{data['background']}")
-                fe.content(f"{data['innovation']}\n{data['conclusion']}", type='CDATA')
-                fe.pubDate(get_date_rfc822_string())
+                try:
+                    data = json.loads(line)
+    
+                    fe = fg.add_entry()
+                    fe.id(f"{arxiv_papers_exported_count - idx}. {data['title']}")
+                    fe.title(f"{arxiv_papers_exported_count - idx}. {data['title']}")
+                    fe.updated(get_date_rfc822_string())
+                    fe.category(term=data['topic'])
+                    fe.link(href=data['pdf_url'])
+                    
+                    fe.summary(f"{data['background']}")
+                    fe.content(f"{data['innovation']}\n{data['conclusion']}", type='CDATA')
+                    fe.pubDate(get_date_rfc822_string())
+                except Exception as e:
+                     print(f"error happens: {e}")
+                    
                 idx += 1
 
         fg.atom_file(self.arxiv_papers_atom, encoding="utf-8") # Write the ATOM feed to a file
