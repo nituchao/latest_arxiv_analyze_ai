@@ -5,7 +5,7 @@
 [![Markdown](https://img.shields.io/badge/Markdown-Static-25c2a0)](https://github.com/nituchao/latest_arxiv_analyze_ai/)
 
 # Introduction
-Analyze the latest papers on arXiv using large language models.
+Analyze the synopsis of latest papers on arXiv using large language models by daily.
 
 The lasted arxiv papers will be crawled and analyzed by topics, eg: cs.AI, cs.LG, stat.ML, etc.
 
