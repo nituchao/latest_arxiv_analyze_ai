@@ -1,3 +1,4 @@
+[![AI|LLM](https://img.shields.io/badge/AI-Large_Language_Model-ab47bc)](https://github.com/nituchao/latest_arxiv_analyze_ai/)
 [![Python](https://img.shields.io/badge/Python-3.9%7C3.10%7C3.11%7C3.12%7C3.13-blue)](https://github.com/nituchao/latest_arxiv_analyze_ai/)
 [![PyPI](https://badge.fury.io/py/tensorflow.svg)](https://badge.fury.io/py/tensorflow)
 [![arXiv](https://img.shields.io/badge/arXiv-2025-red)](https://arxiv.org)
