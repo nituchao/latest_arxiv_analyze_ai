@@ -4,7 +4,7 @@ arxiv:
   arxiv_topic_url: "https://arxiv.org/list/{}/new"
   arxiv_topic_list:
     - "cs.AI"
-    - "cs.CL"
+    # - "cs.CL"
     # - "cs.CV"
     # - "cs.LG"
     # - "cs.NE"

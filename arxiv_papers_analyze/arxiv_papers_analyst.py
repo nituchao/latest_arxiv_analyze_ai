@@ -64,10 +64,7 @@ class ArxivPaperAnalyst:
             paper_analysis['innovation'] = paperAnalysis['innovation']
             paper_analysis['conclusion'] = paperAnalysis['conclusion']
         except Exception as e:
-            paper_analysis['title'] = ""
-            paper_analysis['abstract'] = ""
-            paper_analysis['innovation'] = ""
-            paper_analysis['conclusion'] = ""
+            paper_analysis = None
             print(f"error happens when analyze paper {paper['title']}, error message: {e}")
 
         return paper_analysis
@@ -79,6 +76,10 @@ class ArxivPaperAnalyst:
         analyzed_paper_list = []
         for origin_paper in origin_paper_list:
             analyzed_paper = self.analyze_arxiv_paper_by_llm(origin_paper)
+
+            if analyzed_paper is None:
+                continue
+            
             analyzed_paper_list.append(analyzed_paper)
             
             print(f"analyze paper {idx+1}/{total_count}, title: {analyzed_paper['title']}")

@@ -15,4 +15,4 @@ The following fields will be exported in the analyzed arxiv papers:
 The lastest arxiv papers analyzed by AI will be updated daily:
 
 
-
+[20250622](arxiv_papers_data/arxiv_papers_20250622_analyzed_Chinese.md) - 5 arxiv papers
