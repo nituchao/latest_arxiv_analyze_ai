@@ -31,4 +31,6 @@ You can subscribe to the fllowing rss source to get the latest papers analyzed b
 ## Markdown
 The lastest arxiv papers will be analyzed by AI on daily and listed as below:
 
+
+[20250622](arxiv_papers_data/arxiv_papers_20250622_analyzed_Chinese.md) - 219 arxiv papers
 [20250622](arxiv_papers_data/arxiv_papers_20250622_analyzed_Chinese.md) - 5 arxiv papers
