@@ -2,6 +2,7 @@
 [![PyPI](https://badge.fury.io/py/tensorflow.svg)](https://badge.fury.io/py/tensorflow)
 [![arXiv](https://img.shields.io/badge/arXiv-2025-red)](https://arxiv.org)
 [![RSS|ATOM](https://img.shields.io/badge/RSS%7CATOM-Feed-8A2BE2)](https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/rss.xml)
+[![Markdown](https://img.shields.io/badge/Markdown-Static-25c2a0)(https://github.com/nituchao/latest_arxiv_analyze_ai/)
 
 # Introduction
 Analyze the latest papers on arXiv using large language models.
