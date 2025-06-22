@@ -7,9 +7,11 @@ class ArxivPaperExporter:
     Arxiv Paper Exporter
     Step3: export arxiv paper analyzed jsonl to markdown file
     """
-    def __init__(self, arxiv_papers_analyzed_jsonl, arxiv_papers_analyzed_md, current_date):
+    def __init__(self, arxiv_papers_analyzed_jsonl, arxiv_papers_analyzed_md, arxiv_analysis_language, current_date):
+        self.current_date = current_date
+        self.arxiv_analysis_language = arxiv_analysis_language
         self.arxiv_papers_analyzed_jsonl = arxiv_papers_analyzed_jsonl.format(current_date)
-        self.arxiv_papers_analyzed_md = arxiv_papers_analyzed_md.format(current_date)
+        self.arxiv_papers_analyzed_md = arxiv_papers_analyzed_md.format(current_date, arxiv_analysis_language)
 
     def export_arxiv_paper_md(self):
 
@@ -33,7 +35,7 @@ class ArxivPaperExporter:
     
     def export_arxiv_paper_readme(self, arxiv_papers_exported_count):
         
-        new_paper_line = f"\n[{get_date_string()}]({self.arxiv_papers_analyzed_md}) - {arxiv_papers_exported_count} arxiv papers\n"
+        new_paper_line = f"\n[{self.current_date}_{self.arxiv_analysis_language}]({self.arxiv_papers_analyzed_md}) - {arxiv_papers_exported_count} arxiv papers\n"
 
         try:
             with open('README.md', 'r', encoding="utf-8") as f:
@@ -55,12 +57,13 @@ class ArxivPaperExporter:
 if __name__ == '__main__':
     conf = init_environment_conf()
 
+    arxiv_analysis_language = conf['analysis']['arxiv_analysis_language']
     arxiv_papers_analyzed_md = conf['analysis']['arxiv_papers_analyzed_md']
     arxiv_papers_analyzed_jsonl = conf['analysis']['arxiv_papers_analyzed_jsonl']
 
     current_date = os.environ.get('current_date', get_date_string()).strip()
 
-    arxiv_papers_exporter = ArxivPaperExporter(arxiv_papers_analyzed_jsonl, arxiv_papers_analyzed_md, current_date)
+    arxiv_papers_exporter = ArxivPaperExporter(arxiv_papers_analyzed_jsonl, arxiv_papers_analyzed_md, arxiv_analysis_language, current_date)
     arxiv_papers_exported_count = arxiv_papers_exporter.process_arxiv_papers_export()
     arxiv_papers_exporter.export_arxiv_paper_readme(arxiv_papers_exported_count)
 
