@@ -7,10 +7,12 @@ You can fork this repo to run the code on your github actions workflow to analyz
 
 # arXiv Papers
 
+The following fields will be exported in the analyzed arxiv papers:
 
 | topic | title | title_en | authors | background | innovation | conclusion |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 
+The lastest arxiv papers analyzed by AI will be updated daily:
 
-[20250621](arxiv_papers_data/arxiv_papers_20250621_analyzed_Chinese.md) - 10 arxiv papers
+
 
