@@ -1,20 +1,21 @@
+import os
 import json
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 from urllib.parse import urljoin
-from arxiv_papers_utils import init_environment_conf
+from arxiv_papers_utils import init_environment_conf, get_date_string
 
 class ArxivPapersCrawler:
     """
     Arxiv Papers Crawler
     Step1: crawl arxiv papers by topic list
     """
-    def __init__(self, arxiv_base_url, arxiv_topic_url, arxiv_topic_list, arxiv_papers_crawled_jsonl):
+    def __init__(self, arxiv_base_url, arxiv_topic_url, arxiv_topic_list, arxiv_papers_crawled_jsonl, current_date):
         self.arxiv_base_url = arxiv_base_url
         self.arxiv_topic_url = arxiv_topic_url
         self.arxiv_topic_list = arxiv_topic_list
-        self.arxiv_papers_crawled_jsonl = arxiv_papers_crawled_jsonl
+        self.arxiv_papers_crawled_jsonl = arxiv_papers_crawled_jsonl.format(current_date)
 
     def crawl_arxiv_papers_by_single_topic(self, topic):
         # set request header to simulate browser
@@ -69,10 +70,8 @@ class ArxivPapersCrawler:
         return full_papers
 
     def save_arxiv_papers(self, full_papers, filename):
-        current_date = datetime.now().strftime("%Y%m%d")
-        filename = self.arxiv_papers_crawled_jsonl.format(current_date)
 
-        with open(filename, "w", encoding="utf-8") as jsonl_file:
+        with open(self.arxiv_papers_crawled_jsonl, "w", encoding="utf-8") as jsonl_file:
             for paper in full_papers:
                 json.dump(paper, jsonl_file, ensure_ascii=False)
                 jsonl_file.write("\n")
@@ -87,13 +86,15 @@ class ArxivPapersCrawler:
     
 if __name__ == '__main__':
     conf = init_environment_conf()
-    
+
     arxiv_base_url = conf['arxiv']['arxiv_base_url']
     arxiv_topic_url = conf['arxiv']['arxiv_topic_url']
     arxiv_topic_list = conf['arxiv']['arxiv_topic_list']
     arxiv_papers_crawled_jsonl = conf['analysis']['arxiv_papers_crawled_jsonl']
     
-    arxiv_papers_crawler = ArxivPapersCrawler(arxiv_base_url, arxiv_topic_url, arxiv_topic_list, arxiv_papers_crawled_jsonl)
+    current_date = os.environ.get('current_date', get_date_string()).strip()
+
+    arxiv_papers_crawler = ArxivPapersCrawler(arxiv_base_url, arxiv_topic_url, arxiv_topic_list, arxiv_papers_crawled_jsonl, current_date)
     arxiv_papers_crawled_count = arxiv_papers_crawler.process_arxiv_papers_crawl()
 
     print(f"Arxiv Papers Crawl: Done! arxiv_papers_crawled_count: {arxiv_papers_crawled_count}")

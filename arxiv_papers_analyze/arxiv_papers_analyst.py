@@ -1,4 +1,4 @@
-from arxiv_papers_utils import init_environment_conf
+from arxiv_papers_utils import init_environment_conf, get_date_string
 from pydantic import BaseModel, Field
 from datetime import datetime
 from openai import OpenAI
@@ -11,7 +11,7 @@ class ArxivPaperAnalyst:
     Arxiv Paper Analyst
     Step2: analyze the arxiv paper by llm
     """
-    def __init__(self, arxiv_papers_crawled_jsonl, llm_api_key, llm_base_url, llm_model_name, arxiv_analysis_language, prompt_system, prompt_user, arxiv_papers_analyzed_jsonl):
+    def __init__(self, arxiv_papers_crawled_jsonl, llm_api_key, llm_base_url, llm_model_name, arxiv_analysis_language, prompt_system, prompt_user, arxiv_papers_analyzed_jsonl, current_date):
         self.llm_api_key = llm_api_key
         self.llm_base_url = llm_base_url
         self.llm_model_name = llm_model_name
@@ -19,10 +19,9 @@ class ArxivPaperAnalyst:
         self.prompt_user = prompt_user
         self.prompt_system = prompt_system
 
-        self.current_date = datetime.now().strftime("%Y%m%d")
         self.arxiv_analysis_language = arxiv_analysis_language
-        self.arxiv_papers_crawled_jsonl = arxiv_papers_crawled_jsonl.format(self.current_date)
-        self.arxiv_papers_analyzed_jsonl = arxiv_papers_analyzed_jsonl.format(self.current_date)
+        self.arxiv_papers_crawled_jsonl = arxiv_papers_crawled_jsonl.format(current_date)
+        self.arxiv_papers_analyzed_jsonl = arxiv_papers_analyzed_jsonl.format(current_date)
 
     def load_arxiv_paper_jsonl(self, filename):
         papers = []
@@ -120,9 +119,9 @@ if __name__ == '__main__':
     arxiv_papers_crawled_jsonl = conf['analysis']['arxiv_papers_crawled_jsonl']
     arxiv_papers_analyzed_jsonl = conf['analysis']['arxiv_papers_analyzed_jsonl']
 
-    print(f"llm_api_key: {llm_api_key}, llm_base_url: {llm_base_url}, llm_model_name: {llm_model_name}")
+    current_date = os.environ.get('current_date', get_date_string()).strip()
 
-    arxiv_papers_analyst = ArxivPaperAnalyst(arxiv_papers_crawled_jsonl, llm_api_key, llm_base_url, llm_model_name, arxiv_analysis_language, prompt_system, prompt_user, arxiv_papers_analyzed_jsonl)
+    arxiv_papers_analyst = ArxivPaperAnalyst(arxiv_papers_crawled_jsonl, llm_api_key, llm_base_url, llm_model_name, arxiv_analysis_language, prompt_system, prompt_user, arxiv_papers_analyzed_jsonl, current_date)
     arxiv_papers_analyzed_count = arxiv_papers_analyst.process_arxiv_papers_analyze()
 
     print(f"Arxiv Papers Analyze Done! analyze {arxiv_papers_analyzed_count} arxiv papers")

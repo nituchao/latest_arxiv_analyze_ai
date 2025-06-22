@@ -7,6 +7,7 @@ def init_environment_conf():
     parser = argparse.ArgumentParser()
 
     parser.add_argument("--conf", type=str, required=True, help="the path of conf file, eg: bootstrap_conf.yaml")
+    parser.add_argument("--current_date", type=str, required=False, help="the current date string, eg: 20230518")
     args = parser.parse_args()
 
     with open(args.conf, "r", encoding="utf-8") as conf_file:

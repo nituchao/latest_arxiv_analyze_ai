@@ -11,5 +11,7 @@ You can fork this repo to run the code on your github actions workflow to analyz
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 
+[20250622](arxiv_papers_data/arxiv_papers_20250622_analyzed.md) - 5 arxiv papers
+
 
 
