@@ -2,10 +2,6 @@
 name: arxiv_papers_analyze
 
 on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
   schedule:
       - cron: "20 16 * * *"
   workflow_dispatch:
