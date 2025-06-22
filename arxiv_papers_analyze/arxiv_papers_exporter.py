@@ -16,12 +16,28 @@ class ArxivPaperExporter:
         self.arxiv_papers_analyzed_jsonl = arxiv_papers_analyzed_jsonl.format(current_date)
         self.arxiv_papers_analyzed_md = arxiv_papers_analyzed_md.format(current_date, arxiv_analysis_language)
 
+    def check_required_files(self, line):
+        data = json.loads(line)
+
+        required_fields = ['topic', 'title', 'title_en', 'authors', 'background', 'innovation', 'conclusion', 'pdf_url', 'html_url']
+        for field in required_fields:
+            if field not in data:
+                return False
+            
+            if data[field].strip() == "":
+                return False
+            
+        return True
+
     def export_arxiv_paper_to_markdown(self):
 
         full_papers_count = 0
         with open(self.arxiv_papers_analyzed_jsonl, "r", encoding="utf-8") as jsonl_file, open(self.arxiv_papers_analyzed_md, "w", encoding="utf-8") as md_file:
             for idx, line in enumerate(jsonl_file, start=1):
                 try:
+                    if not self.check_required_files(line):
+                        raise ValueError(f"required fields not found in line: {line}")
+
                     data = json.loads(line)
                     md_file.write(f"# {idx}. `{data['topic']}` - {data['title']} [PDF]({data['pdf_url']}), [HTML]({data['html_url']})\n")
                     md_file.write(f"## Authors\n")
@@ -33,7 +49,7 @@ class ArxivPaperExporter:
                     md_file.write(f"## Conclusion\n")
                     md_file.write(f"{data['conclusion']}\n")
                 except Exception as e:
-                    print(f"error happens: {e}")
+                    print(f"idx: {idx}, error happens: {e}, skip this paper, line: {line}")
 
                 full_papers_count += 1
 
@@ -56,6 +72,9 @@ class ArxivPaperExporter:
             idx = 0
             for line in jsonl_lines:
                 try:
+                    if not self.check_required_files(line):
+                        raise ValueError(f"required fields not found in line: {line}")
+                    
                     data = json.loads(line)
     
                     fe = fg.add_entry()
@@ -69,7 +88,7 @@ class ArxivPaperExporter:
                     fe.content(f"{data['innovation']}\n{data['conclusion']}", type='CDATA')
                     fe.pubDate(get_date_rfc822_string())
                 except Exception as e:
-                     print(f"error happens: {e}")
+                    print(f"idx: {idx}, error happens: {e}, skip this paper, line: {line}")
                     
                 idx += 1
 
