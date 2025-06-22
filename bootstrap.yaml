@@ -5,9 +5,9 @@ arxiv:
   arxiv_topic_list:
     - "cs.AI"
     - "cs.CL"
-    - "cs.CV"
-    - "cs.LG"
-    - "cs.NE"
+    # - "cs.CV"
+    # - "cs.LG"
+    # - "cs.NE"
 
 analysis:
   arxiv_papers_dir: "arxiv_papers"
