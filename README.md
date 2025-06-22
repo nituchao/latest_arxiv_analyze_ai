@@ -13,12 +13,11 @@ The following fields will be exported to markdown file and rss/atom file:
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 
 ## RSS
-The lastest arxiv papers analyzed by AI will be updated daily:
+You can subscribe to the latest papers using an RSS reader daily:
 
 <a href="https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/rss.xml" target="_blank">RSS</a> | <a href="https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/atom.xml" target="_blank">ATOM</a>
 
 ## Markdown
-The lastest arxiv papers analyzed by AI will be updated daily:
-
+You can subscribe to the latest papers using an Markdown reader daily:
 
 [20250622](arxiv_papers_data/arxiv_papers_20250622_analyzed_Chinese.md) - 5 arxiv papers
