@@ -7,11 +7,16 @@ You can fork this repo to run the code on your github actions workflow to analyz
 
 # arXiv Papers
 
-The following fields will be exported in the analyzed arxiv papers:
+The following fields will be exported to markdown file and rss/atom file:
 
 | topic | title | title_en | authors | background | innovation | conclusion |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 
+## RSS
+
+[RSS](https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/rss.xml) | [ATOM](https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/atom.xml)
+
+## Markdown
 The lastest arxiv papers analyzed by AI will be updated daily:
 
 
