@@ -97,7 +97,7 @@ class ArxivPaperExporter:
 
     def export_arxiv_paper_to_readme(self, arxiv_papers_exported_count):
         
-        new_paper_line = f"\n[{self.current_date}]({self.arxiv_papers_analyzed_md}) - {arxiv_papers_exported_count} arxiv papers\n"
+        new_paper_line = f"\n[{self.current_date}]({self.arxiv_papers_analyzed_md}) - {arxiv_papers_exported_count} arxiv papers\n\n"
 
         try:
             with open('README.md', 'r', encoding="utf-8") as f:
