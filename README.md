@@ -1,4 +1,4 @@
-![arXiv](https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-one-color-white.svg)
+![arXiv](https://info.arxiv.org/brand/images/brand-logo-dark-mode.jpg)
 ---
 [![AI|LLM](https://img.shields.io/badge/AI-Large_Language_Model-8A2BE2)](https://github.com/nituchao/latest_arxiv_analyze_ai/)
 [![Python](https://img.shields.io/badge/Python-3.9%7C3.10%7C3.11%7C3.12%7C3.13-blue)](https://github.com/nituchao/latest_arxiv_analyze_ai/)
