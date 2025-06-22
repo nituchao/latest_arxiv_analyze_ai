@@ -1,12 +1,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9%7C3.10%7C3.11%7C3.12%7C3.13-blue)](https://github.com/nituchao/latest_arxiv_analyze_ai/)
 [![PyPI](https://badge.fury.io/py/tensorflow.svg)](https://badge.fury.io/py/tensorflow)
-[![Static Badge](https://img.shields.io/badge/arXiv-2025-red)](https://arxiv.org)
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/1486/badge)](https://bestpractices.coreinfrastructure.org/projects/1486)
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/tensorflow/tensorflow/badge)](https://securityscorecards.dev/viewer/?uri=github.com/tensorflow/tensorflow)
-[![Fuzzing Status](https://oss-fuzz-build-logs.storage.googleapis.com/badges/tensorflow.svg)](https://bugs.chromium.org/p/oss-fuzz/issues/list?sort=-opened&can=1&q=proj:tensorflow)
-[![Fuzzing Status](https://oss-fuzz-build-logs.storage.googleapis.com/badges/tensorflow-py.svg)](https://bugs.chromium.org/p/oss-fuzz/issues/list?sort=-opened&can=1&q=proj:tensorflow-py)
-[![OSSRank](https://shields.io/endpoint?url=https://ossrank.com/shield/44)](https://ossrank.com/p/44)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
+[![arXiv](https://img.shields.io/badge/arXiv-2025-red)](https://arxiv.org)
+[![RSS|ATOM](https://img.shields.io/badge/RSS%7CATOM-Feed-8A2BE2)](https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/rss.xml)
 
 # Introduction
 Analyze the latest papers on arXiv using large language models.
