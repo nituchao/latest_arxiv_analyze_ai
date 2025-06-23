@@ -91,7 +91,7 @@ class ArxivPaperExporter:
                         topic = escape(f"{data['topic']}")
                         title = escape(f"{idx}. {topic}-{data['title']}")
                         link = escape(f"{data['pdf_url']}")
-                        content = escape(f"Background: <br/>{data['background']}<br/><br/>Innovation: <br/>{data['innovation']}<br/><br/>Conclusion: <br/>{data['conclusion']}")
+                        content = escape(f"Background: \n{data['background']}\n\nInnovation: \n{data['innovation']}\n\nConclusion: \n{data['conclusion']}")
 
                         item = PyRSS2Gen.RSSItem(  
                             title = title,  
@@ -109,7 +109,7 @@ class ArxivPaperExporter:
                 link = "https://github.com/nituchao/latest_arxiv_analyze_ai",
                 description = f"Arxiv papers analyzed by AI on {self.current_date}",
                 lastBuildDate = lastBuildDate,
-                items = items
+                items = items,
             )
 
             rss.write_xml(open(f"{self.arxiv_papers_rss}", "w", encoding="utf-8"), encoding='utf-8')
@@ -138,7 +138,7 @@ class ArxivPaperExporter:
                         title = escape(f"{idx}. {topic}-{data['title']}")
                         
                         summary = escape(f"{data['background']}")
-                        content = escape(f"Background: <br/>{data['background']}<br/><br/>Innovation: <br/>{data['innovation']}<br/><br/>Conclusion: <br/>{data['conclusion']}")
+                        content = escape(f"Background: \n{data['background']}\n\nInnovation: \n{data['innovation']}\n\nConclusion: \n{data['conclusion']}")
                         entry = get_arxiv_papers_feed_atom_entry(id, title, link, topic, summary, content, date_rfc822)
                         
                         atom_entry_list.append(entry)
