@@ -35,8 +35,11 @@ def get_date_rfc3339_string(dt=None, tz=timezone('Asia/Shanghai')):
     
     return dt.isoformat(timespec='seconds')
 
-def get_arxiv_papers_feed_atom_entry(id, title, link, author, topic, summary, content, modified):
-    entry_atom = f"""<entry><id>{id}</id><title>{title}</title><link href="{link}" rel="alternate" type="text/html" /><author><name>{author}</name></author><summary>{summary}</summary><content type="text/xml">{content}</content><updated>{modified}</updated><category term="{topic}" /></entry>"""
+def get_arxiv_papers_feed_atom_entry(id, title, link, author, topic, summary, content, llm_update_time):
+    dt = datetime.strptime(llm_update_time, "%Y-%m-%d %H:%M:%S")
+    modified_rfc3339 = get_date_rfc3339_string(dt)
+    
+    entry_atom = f"""<entry><id>{id}</id><title>{title}</title><link href="{link}" rel="alternate" type="text/html" /><author><name>{author}</name></author><summary>{summary}</summary><content type="text/xml">{content}</content><updated>{modified_rfc3339}</updated><category term="{topic}" /></entry>"""
 
     return entry_atom
 

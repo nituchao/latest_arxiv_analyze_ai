@@ -1,5 +1,4 @@
 from arxiv_papers_utils import init_environment_conf, get_date_string
-from pydantic import BaseModel, Field
 from datetime import datetime
 from openai import OpenAI
 import json
@@ -63,6 +62,7 @@ class ArxivPaperAnalyst:
             paper_analysis['background'] = paperAnalysis['background']
             paper_analysis['innovation'] = paperAnalysis['innovation']
             paper_analysis['conclusion'] = paperAnalysis['conclusion']
+            paper_analysis['llm_update_time'] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         except Exception as e:
             paper_analysis = None
             print(f"error happens when analyze paper {paper['title']}, error message: {e}")
@@ -85,6 +85,9 @@ class ArxivPaperAnalyst:
             print(f"analyze paper {idx+1}/{total_count}, title: {analyzed_paper['title']}")
             time.sleep(1)
             idx = idx + 1
+
+            if idx >= 5:
+                break
 
         return analyzed_paper_list
 

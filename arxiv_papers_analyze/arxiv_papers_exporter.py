@@ -135,12 +135,12 @@ class ArxivPaperExporter:
                         topic = escape(f"{data['topic']}")
                         link = escape(f"{data['pdf_url']}")
                         author = escape(f"{data['authors']}")
-                        date_rfc3339 = escape(f"{get_date_rfc3339_string()}")
                         title = escape(f"{idx}. {topic}-{data['title']}")
+                        llm_update_time = escape(f"{data['llm_update_time']}")
                         
                         summary = escape(f"{data['background']}")
                         content = escape(f"Background: <br>{data['background']}<br><br>Innovation: <br>{data['innovation']}<br><br>Conclusion: <br>{data['conclusion']}")
-                        entry = get_arxiv_papers_feed_atom_entry(id, title, link, author, topic, summary, content, date_rfc3339)
+                        entry = get_arxiv_papers_feed_atom_entry(id, title, link, author, topic, summary, content, llm_update_time)
                         
                         atom_entry_list.append(entry)
                     except Exception as e:
