@@ -4,7 +4,7 @@ import json
 import PyRSS2Gen
 from datetime import datetime
 from xml.sax.saxutils import escape
-from arxiv_papers_utils import init_environment_conf, get_date_string, get_date_rfc822_string, get_arxiv_papers_feed_atom_entry, get_arxiv_papers_feed_atom_message, convert_c_escapes_to_ascii
+from arxiv_papers_utils import init_environment_conf, get_date_string, get_date_rfc822_string, get_date_rfc3339_string, get_arxiv_papers_feed_atom_entry, get_arxiv_papers_feed_atom_message, convert_c_escapes_to_ascii
 
 class ArxivPaperExporter:
     """
@@ -134,12 +134,12 @@ class ArxivPaperExporter:
                         id = escape(f"{data['pdf_url']}")
                         topic = escape(f"{data['topic']}")
                         link = escape(f"{data['pdf_url']}")
-                        date_rfc822 = escape(f"{get_date_rfc822_string()}")
+                        date_rfc3339 = escape(f"{get_date_rfc3339_string()}")
                         title = escape(f"{idx}. {topic}-{data['title']}")
                         
                         summary = escape(f"{data['background']}")
                         content = escape(f"Background: \n{data['background']}\n\nInnovation: \n{data['innovation']}\n\nConclusion: \n{data['conclusion']}")
-                        entry = get_arxiv_papers_feed_atom_entry(id, title, link, topic, summary, content, date_rfc822)
+                        entry = get_arxiv_papers_feed_atom_entry(id, title, link, topic, summary, content, date_rfc3339)
                         
                         atom_entry_list.append(entry)
                     except Exception as e:
