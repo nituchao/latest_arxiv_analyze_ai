@@ -20,8 +20,20 @@ You can fork this repo to run the code on your github actions workflow to analyz
 
 The following fields will be exported to markdown file and rss/atom file:
 
-| topic | title | title_en | authors | background | innovation | conclusion |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+<table>
+    <caption>Arxiv Papers Analyze AI</caption>
+    <thead>
+        <tr>
+            <th>topic</th>
+            <th>title</th>
+            <th>title_en</th>
+            <th>authors</th>
+            <th>background</th>
+            <th>innovation</th>
+            <th>conclusion</th>
+        </tr>
+    </thead>
+</table>
 
 ## RSS
 You can subscribe to the fllowing rss source to get the latest papers analyzed by AI on daily:
