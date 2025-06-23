@@ -139,7 +139,7 @@ class ArxivPaperExporter:
                         title = escape(f"{idx}. {topic}-{data['title']}")
                         
                         summary = escape(f"{data['background']}")
-                        content = escape(f"Background: \n{data['background']}\n\nInnovation: \n{data['innovation']}\n\nConclusion: \n{data['conclusion']}")
+                        content = escape(f"Background: <br>{data['background']}<br><br>Innovation: <br>{data['innovation']}<br><br>Conclusion: <br>{data['conclusion']}")
                         entry = get_arxiv_papers_feed_atom_entry(id, title, link, author, topic, summary, content, date_rfc3339)
                         
                         atom_entry_list.append(entry)
