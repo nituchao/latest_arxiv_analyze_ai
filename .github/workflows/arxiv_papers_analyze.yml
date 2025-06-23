@@ -4,6 +4,9 @@ name: arxiv_papers_analyze
 on:
   schedule:
     - cron: "20 12 * * *"
+      timezone: "Asia/Shanghai"
+    - cron: "45 21 * * *"
+      timezone: "Asia/Shanghai"
   workflow_dispatch:
   
 jobs:
