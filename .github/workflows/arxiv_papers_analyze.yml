@@ -3,10 +3,9 @@ name: arxiv_papers_analyze
 
 on:
   schedule:
-      - cron: "20 6 * * *"
+    - cron: "20 12 * * *"
   workflow_dispatch:
   
-
 jobs:
   arxiv_papers_analyze:
     runs-on: ubuntu-latest
