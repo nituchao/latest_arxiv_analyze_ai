@@ -74,7 +74,7 @@ class ArxivPaperExporter:
 
         try:
             items = []
-            lastBuildDate = datetime.now()
+            lastBuildDate = get_date_rfc822_string()
             with open(self.arxiv_papers_analyzed_jsonl, "r", encoding="utf-8") as jsonl_file:
                 jsonl_lines = jsonl_file.readlines()
                 jsonl_lines.reverse()
