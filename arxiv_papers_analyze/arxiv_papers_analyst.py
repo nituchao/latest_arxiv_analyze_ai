@@ -86,9 +86,6 @@ class ArxivPaperAnalyst:
             time.sleep(1)
             idx = idx + 1
 
-            if idx >= 5:
-                break
-
         return analyzed_paper_list
 
     def save_arxiv_full_paper_list_to_jsonl(self, analyzed_paper_list):
