@@ -43,7 +43,7 @@ def get_arxiv_papers_feed_atom_message(entry_content):
     modified = f"{get_date_rfc822_string()}"
     id = f"Arxiv Papers Analyzed by AI on {get_date_string(fmt='%Y-%m-%d-%H-%M-%S')}"
 
-    feed_atom = f"""<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>{title}</title><link rel="alternate" type="text/html" hreflang="en" href="https://github.com/nituchao/latest_arxiv_analyze_ai"/><atom:link rel="self" type="application/atom+xml" href="https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/atom.xml"/><updated>{modified}</updated><id>{id}</id>{entry_content}</feed>"""
+    feed_atom = f"""<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>{title}</title>link rel="self" type="application/atom+xml" href="https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/atom.xml"/><link rel="alternate" type="text/html" hreflang="en" href="https://github.com/nituchao/latest_arxiv_analyze_ai"/><<updated>{modified}</updated><id>{id}</id>{entry_content}</feed>"""
 
     return feed_atom
 
