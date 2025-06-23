@@ -26,7 +26,6 @@ The following fields will be exported to markdown file and rss/atom file:
         <tr>
             <th>topic</th>
             <th>title</th>
-            <th>title_en</th>
             <th>authors</th>
             <th>background</th>
             <th>innovation</th>
