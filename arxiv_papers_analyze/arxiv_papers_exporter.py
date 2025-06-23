@@ -70,7 +70,7 @@ class ArxivPaperExporter:
             print(f"export_arxiv_paper_to_markdown error: {e}")
             return 0
     
-    def export_arxiv_paper_to_rss(self, arxiv_papers_exported_count):
+    def export_arxiv_paper_to_rss(self):
 
         try:
             items = []
@@ -84,20 +84,20 @@ class ArxivPaperExporter:
                         if not self.check_required_files(line):
                             raise ValueError(f"required fields not found in line: {line}")
                         
-                        line = line.replace("\\n", "").replace("\n", "")
                         line = convert_c_escapes_to_ascii(line)
                         data = json.loads(line)
         
+                        id = escape(f"{data['pdf_url']}")
                         topic = escape(f"{data['topic']}")
-                        title = escape(f"{arxiv_papers_exported_count - idx}. {topic}-{data['title']}")
+                        title = escape(f"{idx}. {topic}-{data['title']}")
                         link = escape(f"{data['pdf_url']}")
-                        content = escape(f"{data['background']}\n{data['innovation']}\n{data['conclusion']}")
+                        content = escape(f"Background: \n{data['background']}\nInnovation: \n{data['innovation']}\nConclusion: \n{data['conclusion']}")
 
                         item = PyRSS2Gen.RSSItem(  
                             title = title,  
                             link = link,  
                             description = content,
-                            guid = PyRSS2Gen.Guid(title),  
+                            guid = PyRSS2Gen.Guid(id),  
                             pubDate = lastBuildDate
                         )
                         items.append(item)
@@ -128,18 +128,17 @@ class ArxivPaperExporter:
                 
                 for idx, line in enumerate(jsonl_lines, start=1):
                     try:
-                        line = line.replace("\\n", "").replace("\n", "")
                         line = convert_c_escapes_to_ascii(line)
                         data = json.loads(line)
 
+                        id = escape(f"{data['pdf_url']}")
                         topic = escape(f"{data['topic']}")
                         link = escape(f"{data['pdf_url']}")
                         date_rfc822 = escape(f"{get_date_rfc822_string()}")
-                        id = escape(f"{idx}. {data['title']}")
                         title = escape(f"{idx}. {topic}-{data['title']}")
                         
                         summary = escape(f"{data['background']}")
-                        content = escape(f"{data['innovation']}\n{data['conclusion']}")
+                        content = escape(f"Background: \n{data['background']}\nInnovation: \n{data['innovation']}\nConclusion: \n{data['conclusion']}")
                         entry = get_arxiv_papers_feed_atom_entry(id, title, link, topic, summary, content, date_rfc822)
                         
                         atom_entry_list.append(entry)
@@ -191,7 +190,7 @@ if __name__ == '__main__':
     # export arxiv papers to markdown, readme, rss, atom
     arxiv_papers_exported_count = arxiv_papers_exporter.export_arxiv_paper_to_markdown()
     arxiv_papers_exporter.export_arxiv_paper_to_readme(arxiv_papers_exported_count)
-    arxiv_papers_exporter.export_arxiv_paper_to_rss(arxiv_papers_exported_count)
     arxiv_papers_exporter.export_arxiv_paper_to_atom()
+    arxiv_papers_exporter.export_arxiv_paper_to_rss()
 
     print(f"Arxiv Papers Export Done! export {arxiv_papers_exported_count} arxiv papers, current date: {current_date}")

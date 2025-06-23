@@ -35,7 +35,6 @@ if __name__ == "__main__":
 
 def get_arxiv_papers_feed_atom_entry(id, title, link, topic, summary, content, modified):
     entry_atom = f"""<entry><id>{id}</id><title>{title}</title><link href="{link}" rel="alternate" type="text/html" /><summary>{summary}</summary><content>{content}</content><updated>{modified}</updated><category term="{topic}" /></entry>"""
-    entry_atom = entry_atom.replace("\n", "").replace("\\n", "")
 
     return entry_atom
 
@@ -45,7 +44,6 @@ def get_arxiv_papers_feed_atom_message(entry_content):
     id = f"Arxiv Papers Analyzed by AI on {get_date_string(fmt='%Y-%m-%d-%H-%M-%S')}"
 
     feed_atom = f"""<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>{title}</title><link rel="alternate" type="text/html" hreflang="en" href="https://github.com/nituchao/latest_arxiv_analyze_ai"/><link rel="self" type="application/atom+xml" href="https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/atom.xml"/><updated>{modified}</updated><id>{id}</id>{entry_content}</feed>"""
-    feed_atom = feed_atom.replace("\n", "").replace("\\n", "")
 
     return feed_atom
 
