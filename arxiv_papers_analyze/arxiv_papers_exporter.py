@@ -63,6 +63,8 @@ class ArxivPaperExporter:
 
                     full_papers_count += 1
 
+            print(f"Arxiv Papers Export to [markdown] Done! {full_papers_count} arxiv papers have been exported to markdown file.")
+
             return full_papers_count
         except Exception as e:
             print(f"export_arxiv_paper_to_markdown error: {e}")
@@ -111,6 +113,8 @@ class ArxivPaperExporter:
             )
 
             rss.write_xml(open(f"{self.arxiv_papers_rss}", "w", encoding="utf-8"), encoding='utf-8')
+
+            print(f"Arxiv Papers Export to [rss.xml] Done! {len(items)} arxiv papers have been exported to markdown file.")
         except Exception as e:
             print(f"export_arxiv_paper_to_rss2gen error: {e}")
 
@@ -147,6 +151,8 @@ class ArxivPaperExporter:
 
             with open(self.arxiv_papers_atom, "w", encoding="utf-8") as atom_file:
                 atom_file.write(atom_message)
+
+            print(f"Arxiv Papers Export to [atom.xml] Done! {len(atom_entry_list)} arxiv papers have been exported to atom file.")
         except Exception as e:
             print(f"export_arxiv_paper_to_atom error: {e}")
 
@@ -163,6 +169,8 @@ class ArxivPaperExporter:
 
             with open('README.md', 'w', encoding="utf-8") as f:
                 f.writelines(lines)
+
+            print(f"Arxiv Papers Export to [readme] Done! current_date: {self.current_date}.")
         except FileNotFoundError:
             lines = []
     
