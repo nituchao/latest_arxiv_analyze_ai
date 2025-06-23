@@ -1,0 +1,41 @@
+name: main
+
+on:
+  schedule:
+    - cron: "0 16 * * *"
+  workflow_dispatch:
+  
+jobs:
+  arxiv_papers_analyze:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Python 3.13.5
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.13.5
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: arxiv_papers_analyze
+      env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL_NAME: ${{ secrets.LLM_MODEL_NAME }}
+      run: |
+        chmod +x bootstrap.sh
+        ./bootstrap.sh
+    - name: commit
+      run: |
+        git config --global user.email "${{ vars.EMAIL }}"
+        git config --global user.name "${{ vars.NAME }}"
+        git add .
+        git commit -m "update"
+    - name: Pull rebase
+      run: |
+        git pull --rebase origin main
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.ARXIV_ANALYZE_AI_TOKEN }}
