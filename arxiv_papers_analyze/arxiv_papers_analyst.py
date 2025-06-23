@@ -50,6 +50,8 @@ class ArxivPaperAnalyst:
             paperAnalysis = completion.choices[0].message.content
             paperAnalysis = json.loads(paperAnalysis)
             
+            paper_analysis['llm_update_time'] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
             paper_analysis['topic'] = paper['topic']
             paper_analysis['pdf_url'] = paper['pdf_url']
             paper_analysis['html_url'] = paper['html_url']
@@ -62,7 +64,6 @@ class ArxivPaperAnalyst:
             paper_analysis['background'] = paperAnalysis['background']
             paper_analysis['innovation'] = paperAnalysis['innovation']
             paper_analysis['conclusion'] = paperAnalysis['conclusion']
-            paper_analysis['llm_update_time'] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         except Exception as e:
             paper_analysis = None
             print(f"error happens when analyze paper {paper['title']}, error message: {e}")
