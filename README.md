@@ -10,18 +10,17 @@
 [![Markdown](https://img.shields.io/badge/Markdown-Static-25c2a0)](https://github.com/nituchao/latest_arxiv_analyze_ai/)
 
 # Introduction
-Analyze the synopsis of latest papers on arXiv using LLM(large language models) by daily.
+Analyze and give a summary of latest papers on arXiv using LLM(large language models) by daily.
 
-The lasted arxiv papers will be crawled and analyzed by topics, eg: cs.AI, cs.LG, stat.ML, etc.
+The latest arXiv papers will be crawled and analyzed by topic (e.g., `cs.AI`, `cs.LG`, `stat.ML`, etc.), and LLM will be used to extract `background`, `innovation`, and `conclusion`. The results will be exported daily as markdown files and rss/atom files.
 
-You can fork this repo to run the code on your github actions workflow to analyze the latest arxiv papers automatically.
+You can also fork this repo to run the code on your local machine or Github actions workflow to analyze the latest arXiv papers automatically.
 
 # arXiv Papers
 
 The following fields will be exported to markdown file and rss/atom file:
 
 <table>
-    <caption>Arxiv Papers Analyze AI</caption>
     <thead>
         <tr>
             <th>topic</th>
