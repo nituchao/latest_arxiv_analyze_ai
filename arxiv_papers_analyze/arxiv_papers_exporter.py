@@ -91,7 +91,7 @@ class ArxivPaperExporter:
                         topic = escape(f"{data['topic']}")
                         title = escape(f"{idx}. {topic}-{data['title']}")
                         link = escape(f"{data['pdf_url']}")
-                        content = escape(f"Background: \n{data['background']}\nInnovation: \n{data['innovation']}\nConclusion: \n{data['conclusion']}")
+                        content = escape(f"Background: <br/>{data['background']}<br/><br/>Innovation: <br/>{data['innovation']}<br/><br/>Conclusion: <br/>{data['conclusion']}")
 
                         item = PyRSS2Gen.RSSItem(  
                             title = title,  
@@ -138,7 +138,7 @@ class ArxivPaperExporter:
                         title = escape(f"{idx}. {topic}-{data['title']}")
                         
                         summary = escape(f"{data['background']}")
-                        content = escape(f"Background: \n{data['background']}\nInnovation: \n{data['innovation']}\nConclusion: \n{data['conclusion']}")
+                        content = escape(f"Background: <br/>{data['background']}<br/><br/>Innovation: <br/>{data['innovation']}<br/><br/>Conclusion: <br/>{data['conclusion']}")
                         entry = get_arxiv_papers_feed_atom_entry(id, title, link, topic, summary, content, date_rfc822)
                         
                         atom_entry_list.append(entry)
