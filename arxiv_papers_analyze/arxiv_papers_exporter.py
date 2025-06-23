@@ -4,7 +4,7 @@ import json
 import PyRSS2Gen
 from datetime import datetime
 from xml.sax.saxutils import escape
-from arxiv_papers_utils import init_environment_conf, get_date_string, get_date_rfc822_string, get_arxiv_papers_feed_atom_entry, get_arxiv_papers_feed_atom_message
+from arxiv_papers_utils import init_environment_conf, get_date_string, get_date_rfc822_string, get_arxiv_papers_feed_atom_entry, get_arxiv_papers_feed_atom_message, convert_c_escapes_to_ascii
 
 class ArxivPaperExporter:
     """
@@ -46,6 +46,8 @@ class ArxivPaperExporter:
                         if not self.check_required_files(line):
                             raise ValueError(f"required fields not found in line: {line}")
 
+                        line = line.replace("\\n", "").replace("\n", "")
+                        line = convert_c_escapes_to_ascii(line)
                         data = json.loads(line)
                         md_file.write(f"# {idx}. `{data['topic']}` - {data['title']} [PDF]({data['pdf_url']}), [HTML]({data['html_url']})\n")
                         md_file.write(f"## Authors\n")
@@ -72,11 +74,16 @@ class ArxivPaperExporter:
             items = []
             lastBuildDate = datetime.now()
             with open(self.arxiv_papers_analyzed_jsonl, "r", encoding="utf-8") as jsonl_file:
-                for idx, line in enumerate(jsonl_file, start=1):
+                jsonl_lines = jsonl_file.readlines()
+                jsonl_lines.reverse()
+                
+                for idx, line in enumerate(jsonl_lines, start=1):
                     try:
                         if not self.check_required_files(line):
                             raise ValueError(f"required fields not found in line: {line}")
                         
+                        line = line.replace("\\n", "").replace("\n", "")
+                        line = convert_c_escapes_to_ascii(line)
                         data = json.loads(line)
         
                         topic = escape(f"{data['topic']}")
@@ -97,13 +104,13 @@ class ArxivPaperExporter:
                         
             rss = PyRSS2Gen.RSS2(
                 title = "Arxiv Papers Analyze AI",
-                link = "https://github.com/nituchao/latest_arXiv_analyze_ai",
-                description = "Arxiv papers analyzed by AI on {self.current_date}",
+                link = "https://github.com/nituchao/latest_arxiv_analyze_ai",
+                description = f"Arxiv papers analyzed by AI on {self.current_date}",
                 lastBuildDate = lastBuildDate,
                 items = items
             )
 
-            rss.write_xml(open(f"{self.arxiv_papers_rss}", "w", encoding="utf-8"))
+            rss.write_xml(open(f"{self.arxiv_papers_rss}", "w", encoding="utf-8"), encoding='utf-8')
         except Exception as e:
             print(f"export_arxiv_paper_to_rss2gen error: {e}")
 
@@ -116,20 +123,24 @@ class ArxivPaperExporter:
                 jsonl_lines.reverse()
                 
                 for idx, line in enumerate(jsonl_lines, start=1):
-                    line = line.replace("\\n", "").replace("\n", "")
-                    data = json.loads(line)
+                    try:
+                        line = line.replace("\\n", "").replace("\n", "")
+                        line = convert_c_escapes_to_ascii(line)
+                        data = json.loads(line)
 
-                    topic = escape(f"{data['topic']}")
-                    link = escape(f"{data['pdf_url']}")
-                    date_rfc822 = escape(f"{get_date_rfc822_string()}")
-                    id = escape(f"{idx}. {data['title']}")
-                    title = escape(f"{idx}. {topic}-{data['title']}")
-                    
-                    summary = escape(f"{data['background']}")
-                    content = escape(f"{data['innovation']}\n{data['conclusion']}")
-                    entry = get_arxiv_papers_feed_atom_entry(id, title, link, topic, summary, content, date_rfc822)
-                    
-                    atom_entry_list.append(entry)
+                        topic = escape(f"{data['topic']}")
+                        link = escape(f"{data['pdf_url']}")
+                        date_rfc822 = escape(f"{get_date_rfc822_string()}")
+                        id = escape(f"{idx}. {data['title']}")
+                        title = escape(f"{idx}. {topic}-{data['title']}")
+                        
+                        summary = escape(f"{data['background']}")
+                        content = escape(f"{data['innovation']}\n{data['conclusion']}")
+                        entry = get_arxiv_papers_feed_atom_entry(id, title, link, topic, summary, content, date_rfc822)
+                        
+                        atom_entry_list.append(entry)
+                    except Exception as e:
+                        print(f"idx: {idx}, error happens: {e}, skip this paper, line: {line}")
 
             atom_entry_str = "".join(atom_entry_list)
             atom_message = get_arxiv_papers_feed_atom_message(atom_entry_str)

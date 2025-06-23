@@ -3,6 +3,7 @@ from datetime import datetime
 from pytz import timezone
 import argparse
 import yaml
+import re
 
 def init_environment_conf():
     parser = argparse.ArgumentParser()
@@ -33,17 +34,38 @@ if __name__ == "__main__":
     print(get_date_rfc822_string())
 
 def get_arxiv_papers_feed_atom_entry(id, title, link, topic, summary, content, modified):
-    entry_atom = f"""<entry><id>{id}</id><title>{title}</title><link href="{link}" rel="alternate" type="text/html" /><summary>{summary}</summary><content>{content}</content><issued>{modified}</issued><modified>{modified}</modified><category term="{topic}" /></entry>"""
+    entry_atom = f"""<entry><id>{id}</id><title>{title}</title><link href="{link}" rel="alternate" type="text/html" /><summary>{summary}</summary><content>{content}</content><updated>{modified}</updated><category term="{topic}" /></entry>"""
     entry_atom = entry_atom.replace("\n", "").replace("\\n", "")
+
     return entry_atom
 
 def get_arxiv_papers_feed_atom_message(entry_content):
-    author = f"nituchao"
     title = f"Arxiv Papers Analyze AI"
     modified = f"{get_date_rfc822_string()}"
     id = f"Arxiv Papers Analyzed by AI on {get_date_string(fmt='%Y-%m-%d-%H-%M-%S')}"
-    link = "https://github.com/nituchao/latest_arXiv_analyze_ai"
-    feed_atom = f"""<?xml version="1.0"?><feed version="0.3" xmlns="http://purl.org/atom/ns#" xmlns:g="http://base.google.com/ns/1.0"><title>{title}</title><link href="{link}" rel="alternate" type="text/html" /><modified>{modified}</modified><author><name>{author}</name></author><id>{id}</id>{entry_content}</feed>"""
+
+    feed_atom = f"""<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>{title}</title><link rel="alternate" type="text/html" hreflang="en" href="https://github.com/nituchao/latest_arxiv_analyze_ai"/><link rel="self" type="application/atom+xml" href="https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/atom.xml"/><updated>{modified}</updated><id>{id}</id>{entry_content}</feed>"""
     feed_atom = feed_atom.replace("\n", "").replace("\\n", "")
-    
+
     return feed_atom
+
+def convert_c_escapes_to_ascii(c_string: str) -> str:
+    C_ESCAPE_MAP = {
+        'a': 'a',  # BEL (0x07)
+        'b': 'b',  # BS (0x08)
+        'f': 'f',  # FF (0x0C)
+        'n': 'n',  # LF (0x0A)
+        'r': 'r',  # CR (0x0D)
+        't': 't',  # HT (0x09)
+        'v': 'v',  # VT (0x0B)
+        '\\': '?',  # \
+        '"': '?',   # "
+        "'": "?",   # '
+    }
+    escape_pattern = re.compile(r'\\([abfnrtv\\"\' ])')
+    
+    def replace_match(match: re.Match) -> str:
+        escape_char = match.group(1)
+        return C_ESCAPE_MAP.get(escape_char, match.group(0))
+    
+    return escape_pattern.sub(replace_match, c_string)
