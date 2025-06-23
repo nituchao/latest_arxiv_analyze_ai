@@ -1,5 +1,5 @@
 <div  align="center">    
-<img src="https://info.arxiv.org/brand/images/brand-logo-dark-mode.jpg" width = "400" height = "252" alt="arXiv" align=center />
+<img src="https://info.arxiv.org/brand/images/brand-logo-dark-mode.jpg" width = "320" height = "200" alt="arXiv" align=center />
 </div>
 
 [![AI|LLM](https://img.shields.io/badge/AI-Large_Language_Model-8A2BE2)](https://github.com/nituchao/latest_arxiv_analyze_ai/)
