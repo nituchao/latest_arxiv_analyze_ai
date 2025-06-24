@@ -1,4 +1,5 @@
 from arxiv_papers_utils import init_environment_conf, get_date_string
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 from openai import OpenAI
 import json
@@ -71,21 +72,20 @@ class ArxivPaperAnalyst:
         return paper_analysis
 
     def analyze_arxiv_full_paper_list_by_llm(self, origin_paper_list):
-        idx = 0
         total_count = len(origin_paper_list)
-
         analyzed_paper_list = []
-        for origin_paper in origin_paper_list:
-            analyzed_paper = self.analyze_arxiv_paper_by_llm(origin_paper)
 
-            if analyzed_paper is None:
-                continue
-            
-            analyzed_paper_list.append(analyzed_paper)
-            
-            print(f"analyze paper {idx+1}/{total_count}, title: {analyzed_paper['title']}")
-            time.sleep(1)
-            idx = idx + 1
+        with ThreadPoolExecutor(max_workers=10) as executor:
+            futures = [executor.submit(self.analyze_arxiv_paper_by_llm, paper) for paper in origin_paper_list]
+
+            for idx, future in enumerate(as_completed(futures), start=1):
+                try:
+                    analyzed_paper = future.result()
+                    if analyzed_paper is not None:
+                        analyzed_paper_list.append(analyzed_paper)
+                        print(f"analyze paper {idx}/{total_count}, title: {analyzed_paper['title']}")
+                except Exception as e:
+                    print(f"error happens in thread: {e}")
 
         return analyzed_paper_list
 
