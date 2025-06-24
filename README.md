@@ -32,10 +32,11 @@ The following fields will be exported to markdown file and rss/atom file:
     </thead>
 </table>
 
-## RSS
+## ATOM/RSS
 You can subscribe to the fllowing rss source to get the latest papers analyzed by AI on daily:
 
-<a href="https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/rss.xml" target="_blank">RSS</a> | <a href="https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/atom.xml" target="_blank">ATOM</a>
+- Feed: <a href="https://zhangliang.ai/papers/atom.xml" target="_blank">ATOM</a> (**Recommended**)
+- Feed: <a href="https://zhangliang.ai/papers/rss.xml" target="_blank">RSS</a>
 
 ## Markdown
 The latest arxiv papers will be analyzed by AI on daily and listed as below:
