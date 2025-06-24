@@ -3,7 +3,7 @@ name: arxiv_papers_analyze
 
 on:
   schedule:
-    - cron: "50 18 * * *"
+    - cron: "50 2 * * *"
   workflow_dispatch:
 
 
