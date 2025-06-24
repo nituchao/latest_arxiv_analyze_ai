@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # current date
-current_date=$(date +%Y%m%d)
+current_date=$(TZ=Asia/Shanghai date +%Y%m%d)
 export CURRENT_DATE=$current_date
 
 # step1: crawl arxiv papers
