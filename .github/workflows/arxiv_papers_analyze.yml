@@ -2,9 +2,9 @@
 name: arxiv_papers_analyze
 
 on:
-  schedule:
-    - cron: "20 * * * *"
   workflow_dispatch:
+  schedule:
+    - cron: "25 * * * *"
 
 
 jobs:
