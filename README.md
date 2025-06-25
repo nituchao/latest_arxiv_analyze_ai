@@ -38,11 +38,11 @@ The following fields will be exported to markdown file and rss/atom file:
 ## ATOM/RSS
 You can subscribe to the fllowing atom/rss source to get the latest papers analyzed by AI on daily:
 
-**<font color=green>Press the badge to subscribe</font>👇**:
+**<font color=green>Click the badge to subscribe</font>👇**
 
- [![Static Badge](https://img.shields.io/badge/ATOM-Press_To_Subscribe%20%7C%20Recommended-00CED1)](https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/atom.xml) 
+ [![Static Badge](https://img.shields.io/badge/ATOM-Click_To_Subscribe%20%7C%20Recommended-00CED1)](https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/atom.xml) 
 
-[![Static Badge](https://img.shields.io/badge/RSS-Press_To_Subscribe-00CED1)](https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/rss.xml) 
+[![Static Badge](https://img.shields.io/badge/RSS-Click_To_Subscribe-00CED1)](https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/rss.xml) 
 
 [Zotero](https://www.zotero.org/) is a cross-platform(Mac, Windows, Linux, iOS, and Android) reference management tool that can be used to manage your references. You can also use it to import the arxiv papers from atom/rss.
 
@@ -56,7 +56,7 @@ You can subscribe to the fllowing atom/rss source to get the latest papers analy
 ## Markdown
 The latest arxiv papers in subfields `cs.AI`, `cs.CL`, `cs.CV`, `cs.LG`, `cs.SE` will be analyzed by AI on daily and markdown files will be exported as below. 
 
-**<font color=green>Press the badge to read</font>👇**:
+**<font color=green>Click the badge to read</font>👇**
 
 ![Static Badge](https://img.shields.io/badge/Markdown-arXivPaper-00BFFF)    [![Static Badge](https://img.shields.io/badge/20250625-748_Papers-32CD32)](arxiv_papers_data/arxiv_papers_20250625_analyzed_Chinese.md)    [![Static Badge](https://img.shields.io/badge/20250624-444_Papers-32CD32)](arxiv_papers_data/arxiv_papers_20250624_analyzed_Chinese.md)    [![Static Badge](https://img.shields.io/badge/20250623-371_Papers-32CD32)](arxiv_papers_data/arxiv_papers_20250623_analyzed_Chinese.md)    [![Static Badge](https://img.shields.io/badge/20250622-219_Papers-32CD32)](arxiv_papers_data/arxiv_papers_20250622_analyzed_Chinese.md)    [![Static Badge](https://img.shields.io/badge/20250621-010_Papers-32CD32)](arxiv_papers_data/arxiv_papers_20250621_analyzed_Chinese.md)    [![Static Badge](https://img.shields.io/badge/20250620-291_Papers-32CD32)](arxiv_papers_data/arxiv_papers_20250620_analyzed_Chinese.md)
 
