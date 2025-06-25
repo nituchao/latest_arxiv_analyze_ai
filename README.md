@@ -8,7 +8,7 @@
 [![arxiv_papers_analyze](https://github.com/nituchao/latest_arxiv_analyze_ai/actions/workflows/arxiv_papers_analyze.yml/badge.svg)](https://github.com/nituchao/latest_arxiv_analyze_ai/actions/workflows/arxiv_papers_analyze.yml)
 [![AI|LLM](https://img.shields.io/badge/AI-Large_Language_Model-8A2BE2)](https://github.com/nituchao/latest_arxiv_analyze_ai/)
 [![Python](https://img.shields.io/badge/Python-3.9%7C3.10%7C3.11%7C3.12%7C3.13-blue)](https://github.com/nituchao/latest_arxiv_analyze_ai/)
-[![RSS|ATOM](https://img.shields.io/badge/RSS%7CATOM-Feed-e6a700)](https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/rss.xml)
+[![RSS|ATOM](https://img.shields.io/badge/RSS%7CATOM-Subscribe-e6a700)](https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/rss.xml)
 [![Markdown](https://img.shields.io/badge/Markdown-Static-25c2a0)](https://github.com/nituchao/latest_arxiv_analyze_ai/)
 
 # Introduction
