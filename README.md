@@ -48,16 +48,9 @@ You can subscribe to the fllowing atom/rss source to get the latest papers analy
 
 `Readkit` can sync subscriptions, articles and read statuses between platforms if you use one of the supported feed aggregators or read-later services..
 
-<table>
-  <tr>
-    <td align="center"><img src="static/imgs/zotero-rss-20250625.jpeg" alt="zotero"></td>
-    <td align="center"><img src="static/imgs/readkit-rss-20250625.jpeg" alt="readkit"></td>
-  </tr>
-</table>
-
 <div align="center">
-  <img src="static/imgs/zotero-rss-20250625.jpeg" alt="zotero" height="150">
-  <img src="static/imgs/readkit-rss-20250625.jpeg" alt="readkit" height="150">
+  <img src="static/imgs/zotero-rss-20250625.jpeg" alt="zotero" height="200">
+  <img src="static/imgs/readkit-rss-20250625.jpeg" alt="readkit" height="200">
 </div>
 
 ## Markdown
