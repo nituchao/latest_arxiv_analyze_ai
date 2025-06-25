@@ -1,5 +1,5 @@
 <div  align="center">    
-<img src="https://info.arxiv.org/brand/images/brand-logo-dark-mode.jpg" width = "320" height = "200" alt="arXiv" align=center />
+<img src="static/imgs/arxiv-logomark@2x.png" alt="arXiv" align=center />
 </div>
 
 [![arxiv_papers_analyze](https://github.com/nituchao/latest_arxiv_analyze_ai/actions/workflows/arxiv_papers_analyze.yml/badge.svg)](https://github.com/nituchao/latest_arxiv_analyze_ai/actions/workflows/arxiv_papers_analyze.yml)
@@ -33,10 +33,10 @@ The following fields will be exported to markdown file and rss/atom file:
 </table>
 
 ## ATOM/RSS
-You can subscribe to the fllowing rss source to get the latest papers analyzed by AI on daily:
+You can subscribe to the fllowing atom/rss source to get the latest papers analyzed by AI on daily:
 
-- Feed: <a href="https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/atom.xml" target="_blank">ATOM</a> (**Recommended**)
-- Feed: <a href="https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/rss.xml" target="_blank">RSS</a>
+ [![Static Badge](https://img.shields.io/badge/ATOM-Press_To_Subscribe%20%7C%20Recommended-Green)](https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/atom.xml)
+ [![Static Badge](https://img.shields.io/badge/RSS-Press_To_Subscribe-Green)](https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/rss.xml)
 
 ## Markdown
 The latest arxiv papers will be analyzed by AI on daily and listed as below:
