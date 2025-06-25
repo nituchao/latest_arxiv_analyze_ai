@@ -57,6 +57,8 @@ You can subscribe to the fllowing atom/rss source to get the latest papers analy
 The latest arxiv papers will be analyzed by AI on daily and listed as below:
 
 
+[20250625](arxiv_papers_data/arxiv_papers_20250625_analyzed_Chinese.md) - 219 arxiv papers 
+
 [20250624](arxiv_papers_data/arxiv_papers_20250624_analyzed_Chinese.md) - 444 arxiv papers 
 
 [20250623](arxiv_papers_data/arxiv_papers_20250623_analyzed_Chinese.md) - 371 arxiv papers 
