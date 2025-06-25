@@ -156,16 +156,36 @@ class ArxivPaperExporter:
         except Exception as e:
             print(f"export_arxiv_paper_to_atom error: {e}")
 
+    def find_first_line_startswith(self, file_lines, anchor_str):
+
+        anchor_line = ""
+        anchor_line_id = -1
+        for line_id, line in enumerate(file_lines, start=0):
+            if line.strip().startswith(anchor_str):
+                anchor_line_id = line_id
+                anchor_line = line
+                break
+
+        return anchor_line_id, anchor_line
+
     def export_arxiv_paper_to_readme(self, arxiv_papers_exported_count):
-        
-        new_paper_line = f"\n[{self.current_date}]({self.arxiv_papers_analyzed_md}) - {arxiv_papers_exported_count} arxiv papers \n"
+        anchor_str = f"![Static Badge](https://img.shields.io/badge/Markdown-arXivPaper-00BFFF)"
+        new_paper_line = f"[![Static Badge](https://img.shields.io/badge/{self.current_date}-{arxiv_papers_exported_count}_Papers-32CD32)](arxiv_papers_data/arxiv_papers_{self.current_date}_analyzed_Chinese.md)"
 
         try:
             with open('README.md', 'r', encoding="utf-8") as f:
                 lines = f.readlines()
 
-            new_paper_line_idx = lines.index("The latest arxiv papers in subfields `cs.AI`, `cs.CL`, `cs.CV`, `cs.LG`, `cs.SE` will be analyzed by AI on daily and listed as below:\n") + 2
-            lines.insert(new_paper_line_idx, new_paper_line)
+            anchor_line_id, anchor_line = self.find_first_line_startswith(lines, anchor_str)
+            if anchor_line == "" or anchor_line_id == -1:
+                print("Arxiv Papers Export to [readme] Fail! matched_line_id not found, skip.")
+                return
+
+            anchor_line_items = anchor_line.split("    ")
+            anchor_line_items.insert(1, new_paper_line)
+            
+            anchor_line = "    ".join(anchor_line_items)
+            lines[anchor_line_id] = anchor_line
 
             with open('README.md', 'w', encoding="utf-8") as f:
                 f.writelines(lines)
@@ -191,7 +211,7 @@ if __name__ == '__main__':
     # export arxiv papers to markdown, readme, rss, atom
     arxiv_papers_exported_count = arxiv_papers_exporter.export_arxiv_paper_to_markdown()
     arxiv_papers_exporter.export_arxiv_paper_to_readme(arxiv_papers_exported_count)
-    arxiv_papers_exporter.export_arxiv_paper_to_atom()
-    arxiv_papers_exporter.export_arxiv_paper_to_rss()
+    # arxiv_papers_exporter.export_arxiv_paper_to_atom()
+    # arxiv_papers_exporter.export_arxiv_paper_to_rss()
 
     print(f"Arxiv Papers Export Done! export {arxiv_papers_exported_count} arxiv papers, current date: {current_date}")
