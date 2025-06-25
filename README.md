@@ -4,8 +4,6 @@
 </div>
 
 
-<center>
-
 [![arxiv_papers_analyze](https://github.com/nituchao/latest_arxiv_analyze_ai/actions/workflows/arxiv_papers_analyze.yml/badge.svg)](https://github.com/nituchao/latest_arxiv_analyze_ai/actions/workflows/arxiv_papers_analyze.yml)
 [![AI|LLM](https://img.shields.io/badge/AI-Large_Language_Model-8A2BE2)](https://github.com/nituchao/latest_arxiv_analyze_ai/)
 [![OpenAI|Agent](https://img.shields.io/badge/OpenAI-Agent-FF00FF)](https://github.com/nituchao/latest_arxiv_analyze_ai/)
@@ -13,7 +11,6 @@
 [![ATOM|RSS](https://img.shields.io/badge/ATOM%7CRSS-Subscribe-00CED1)](https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/rss.xml)
 [![Markdown](https://img.shields.io/badge/Markdown-Static-00BFFF)](https://github.com/nituchao/latest_arxiv_analyze_ai/)
 
-</center>
 
 # Introduction
 Analyze and give a summary of latest papers on arXiv using LLM(large language models) by daily.
