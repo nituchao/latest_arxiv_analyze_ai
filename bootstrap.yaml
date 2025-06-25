@@ -4,10 +4,10 @@ arxiv:
   arxiv_topic_url: "https://arxiv.org/list/{}/new"
   arxiv_topic_list:
     - "cs.AI"
-    # - "cs.CL"
-    # - "cs.CV"
-    # - "cs.LG"
-    # - "cs.NE"
+    - "cs.CL"
+    - "cs.CV"
+    - "cs.LG"
+    - "cs.SE"
 
 analysis:
   arxiv_papers_dir: "arxiv_papers"

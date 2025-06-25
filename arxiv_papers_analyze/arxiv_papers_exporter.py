@@ -164,7 +164,7 @@ class ArxivPaperExporter:
             with open('README.md', 'r', encoding="utf-8") as f:
                 lines = f.readlines()
 
-            new_paper_line_idx = lines.index("The latest arxiv papers will be analyzed by AI on daily and listed as below:\n") + 2
+            new_paper_line_idx = lines.index("The latest arxiv papers in subfields `cs.AI`, `cs.CL`, `cs.CV`, `cs.LG`, `cs.SE` will be analyzed by AI on daily and listed as below:\n") + 2
             lines.insert(new_paper_line_idx, new_paper_line)
 
             with open('README.md', 'w', encoding="utf-8") as f:
