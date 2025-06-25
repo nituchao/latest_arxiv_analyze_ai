@@ -5,6 +5,7 @@
 
 ---
 
+<div align="center">
 
 [![arxiv_papers_analyze](https://github.com/nituchao/latest_arxiv_analyze_ai/actions/workflows/arxiv_papers_analyze.yml/badge.svg)](https://github.com/nituchao/latest_arxiv_analyze_ai/actions/workflows/arxiv_papers_analyze.yml)
 [![AI|LLM](https://img.shields.io/badge/AI-Large_Language_Model-8A2BE2)](https://github.com/nituchao/latest_arxiv_analyze_ai/)
@@ -12,6 +13,8 @@
 [![Python](https://img.shields.io/badge/Python-3.9~3.13-1E90FF)](https://github.com/nituchao/latest_arxiv_analyze_ai/)
 [![ATOM|RSS](https://img.shields.io/badge/ATOM%7CRSS-Subscribe-00CED1)](https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/rss.xml)
 [![Markdown](https://img.shields.io/badge/Markdown-Static-00BFFF)](https://github.com/nituchao/latest_arxiv_analyze_ai/)
+
+</div>
 
 # Introduction
 Analyze and give a summary of latest papers on arXiv using LLM(large language models) by daily.
@@ -44,9 +47,9 @@ You can subscribe to the fllowing atom/rss source to get the latest papers analy
 
 [![Static Badge](https://img.shields.io/badge/RSS-Press_To_Subscribe-00CED1)](https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/rss.xml) 
 
-`Zotero` is a reference management tool that can be used to manage your references. You can also use it to import the arxiv papers from atom/rss.
+[Zotero](https://www.zotero.org/) is a cross-platform(Mac, Windows, Linux, iOS, and Android) reference management tool that can be used to manage your references. You can also use it to import the arxiv papers from atom/rss.
 
-`Readkit` can sync subscriptions, articles and read statuses between platforms if you use one of the supported feed aggregators or read-later services..
+[Readkit](https://readkit.app/) is a cross-platform app(Mac, iOS, iPad) that can sync subscriptions, articles and read statuses between platforms if you use one of the supported feed aggregators or read-later services.
 
 <div align="center">
   <img src="static/imgs/zotero-rss-20250625.jpeg" alt="zotero" height="200">
