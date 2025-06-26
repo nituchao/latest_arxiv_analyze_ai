@@ -12,6 +12,9 @@
 
 
 # Introduction
+
+**600+ papers analyze** every day!
+
 Analyze and summarize the latest hot papers on arXiv using LLM(large language models) by daily.
 
 The latest arXiv papers will be crawled and analyzed by topic (e.g., `cs.AI`, `cs.CL`, `cs.CV`, `cs.LG`, `cs.SE`, etc.), and LLM will be used to extract `background`, `innovation`, and `conclusion`. The results will be exported daily as `markdown` files and `rss/atom` files.
