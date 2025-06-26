@@ -72,3 +72,23 @@ According to the recent submission dynamics and field activity of the computer s
 | `CS.CV` | Computer Vision | ☆☆☆☆Multimodal technologies drive growth, with demand for industrial applications surging. | 3D generation (AR fusion), video understanding, weakly supervised positioning, medical image analysis. | 
 | `CS.LG` | Learning and Optimization | ☆☆☆☆High level of basic theory + applied research, closely intertwined with AI/CV. | Dynamic data pruning, efficient training, graph neural networks, federated learning. |
 | `CS.SE` | Software Engineering | ☆☆☆Generative AI drives innovation, and emerging tool chains attract attention. | AI-assisted programming, multi-agent systems, protocol fuzz testing, code generation. |
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://api.star-history.com/svg?repos=nituchao/latest_arxiv_analyze_ai&type=Date&theme=dark
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://api.star-history.com/svg?repos=nituchao/latest_arxiv_analyze_ai&type=Date
+    "
+  />
+  <img
+    alt="Star History Chart"
+    src="https://api.star-history.com/svg?repos=nituchao/latest_arxiv_analyze_ai&type=Date"
+  />
+</picture>
