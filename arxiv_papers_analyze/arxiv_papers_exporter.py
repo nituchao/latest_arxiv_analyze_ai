@@ -211,7 +211,7 @@ if __name__ == '__main__':
     # export arxiv papers to markdown, readme, rss, atom
     arxiv_papers_exported_count = arxiv_papers_exporter.export_arxiv_paper_to_markdown()
     arxiv_papers_exporter.export_arxiv_paper_to_readme(arxiv_papers_exported_count)
-    # arxiv_papers_exporter.export_arxiv_paper_to_atom()
-    # arxiv_papers_exporter.export_arxiv_paper_to_rss()
+    arxiv_papers_exporter.export_arxiv_paper_to_atom()
+    arxiv_papers_exporter.export_arxiv_paper_to_rss()
 
     print(f"Arxiv Papers Export Done! export {arxiv_papers_exported_count} arxiv papers, current date: {current_date}")
