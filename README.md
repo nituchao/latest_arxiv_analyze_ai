@@ -40,9 +40,9 @@ You can subscribe to the fllowing atom/rss source to get the latest papers analy
 
 **<font color=green>Click the badge to subscribe</font>👇**
 
- [![Static Badge](https://img.shields.io/badge/ATOM-Click_To_Subscribe%20%7C%20Recommended-00CED1)](https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/atom.xml) 
+ [![Static Badge](https://img.shields.io/badge/ATOM-Click_To_Subscribe%20%7C%20Recommended-32CD32)](https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/atom.xml) 
 
-[![Static Badge](https://img.shields.io/badge/RSS-Click_To_Subscribe-00CED1)](https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/rss.xml) 
+[![Static Badge](https://img.shields.io/badge/RSS-Click_To_Subscribe-32CD32)](https://nituchao.github.io/latest_arxiv_analyze_ai/arxiv_papers_data/rss.xml) 
 
 [Zotero](https://www.zotero.org/) is a cross-platform(Mac, Windows, Linux, iOS, and Android) reference management tool that can be used to manage your references. You can also use it to import the arxiv papers from atom/rss.
 
