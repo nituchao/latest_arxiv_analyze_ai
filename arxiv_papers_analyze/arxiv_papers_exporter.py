@@ -170,7 +170,7 @@ class ArxivPaperExporter:
 
     def export_arxiv_paper_to_readme(self, arxiv_papers_exported_count):
         anchor_str = f"![Static Badge](https://img.shields.io/badge/Markdown-arXivPaper-00BFFF)"
-        new_paper_line = f"[![Static Badge](https://img.shields.io/badge/{self.current_date}-{arxiv_papers_exported_count}_Papers-32CD32)](arxiv_papers_data/arxiv_papers_{self.current_date}_analyzed_Chinese.md)"
+        new_paper_line = f"[![Static Badge](https://img.shields.io/badge/{self.current_date}-{arxiv_papers_exported_count}_Papers-32CD32)](https://github.com/nituchao/latest_arxiv_analyze_ai/blob/main/arxiv_papers_data/arxiv_papers_{self.current_date}_analyzed_Chinese.md)"
 
         try:
             with open('README.md', 'r', encoding="utf-8") as f:
