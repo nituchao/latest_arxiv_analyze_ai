@@ -13,7 +13,7 @@
 
 # Introduction
 
-**600+ papers analyze** every day!
+**600+ papers analyzed by LLM** every day!
 
 Analyze and summarize the latest hot papers on arXiv using LLM(large language models) by daily.
 
