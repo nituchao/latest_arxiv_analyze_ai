@@ -41,6 +41,8 @@ class ArxivPaperExporter:
                 json_lines = jsonl_file.readlines()
             
             with open(self.arxiv_papers_analyzed_md, "w", encoding="utf-8") as md_file:
+                md_file.write(f"# {self.current_date}\n[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)\n\n")
+
                 for idx, line in enumerate(json_lines, start=1):
                     try:
                         if not self.check_required_files(line):
@@ -49,7 +51,6 @@ class ArxivPaperExporter:
                         line = line.replace("\\n", "").replace("\n", "")
                         line = convert_c_escapes_to_ascii(line)
                         data = json.loads(line)
-                        md_file.write(f"# {self.current_date}\n[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)\n\n")
                         md_file.write(f"## {idx}. `{data['topic']}` - {data['title']} [PDF]({data['pdf_url']}), [HTML]({data['html_url']})\n")
                         md_file.write(f"### Authors\n")
                         md_file.write(f"{data['authors']}\n")

@@ -10,9 +10,6 @@ Junhao Shi,Zhaoye Fei,Siyin Wang,Qipeng Guo,Jingjing Gong,Xipeng QIu
 本文提出了一种名为World-Aware Planning Narrative Enhancement (WAP)的新框架，该框架通过视觉外观建模、空间推理、功能抽象和语义接地四种认知能力，增强了LVLMs的环境理解能力。同时，该框架通过仅使用原始视觉观察并通过梯度学习进行模型开发和评估，克服了传统方法的局限性。实验结果表明，该方法显著提高了任务成功率，特别是在常识推理和长时间规划方面。增强后的开源模型在EB-ALFRED基准测试中表现出色，远超诸如GPT-4o和Claude-3.5-Sonnet等专有系统。
 ### Conclusion
 WAP框架显著提高了利用LVLMs进行后续任务的规划能力，特别是在处理陌生环境和多步骤目标的复杂场景时。通过增强模型的认知能力，WAP使得LVLMs能够更深入地理解和应对各种环境，提高任务的成功率和效果。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 2. `cs.AI` - IXAII：决策支持系统中的一种互动可解释人工智能界面 [PDF](https://arxiv.org/pdf/2506.21310), [HTML](https://arxiv.org/abs/2506.21310)
 ### Authors
 Pauline Speckmann,Mario Nadj,Christian Janiesch
@@ -22,9 +19,6 @@ Pauline Speckmann,Mario Nadj,Christian Janiesch
 本文提出了IXAII（Interactive Explainable Artificial Intelligence Interface），这是一种互动的可解释人工智能系统，它综合了LIME、SHAP、Anchors和DiCE四种解释方法，提供给五类不同的用户定制化的视角，让用户能够对其收到的解释的细节和呈现形式进行选择。IXAII通过结合解释人工智能方法、互动性和实用实施，提出了新型的人工智能解释实践和人机交互视角。
 ### Conclusion
 通过专家和普通用户的试用评估，研究结果表明，IXAII能够提供多样化的解释和丰富的可视化选项，被认为有助于增加透明度。IXAII的开发为人工智能解释实践和人机交互提供了新的视角，通过弥合可解释方法、交互性和实用实施之间的差距，推动了该领域的进展。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 3. `cs.AI` - The Singapore Consensus on Global AI Safety Research Priorities [PDF](https://arxiv.org/pdf/2506.20702), [HTML](https://arxiv.org/abs/2506.20702)
 ### Authors
 Yoshua Bengio,Tegan Maharaj,Luke Ong,Stuart Russell,Dawn Song,Max Tegmark,Lan Xue,Ya-Qin Zhang,Stephen Casper,Wan Sie Lee,Sören Mindermann,Vanessa Wilfred,Vidhisha Balachandran,Fazl Barez,Michael Belinsky,Imane Bello,Malo Bourgon,Mark Brakel,Siméon Campos,Duncan Cass-Beggs,Jiahao Chen,Rumman Chowdhury,Kuan Chua Seah,Jeff Clune,Juntao Dai,Agnes Delaborde,Nouha Dziri,Francisco Eiras,Joshua Engels,Jinyu Fan,Adam Gleave,Noah Goodman,Fynn Heide,Dan Hendrycks,Cyrus Hodes,Bryan Low Kian Hsiang,Minlie Huang,Sami Jawhar,Wang Jingyu,Adam Tauman Kalai,Meindert Kamphuis,Mohan Kankanhalli,Subhash Kantamneni,Mathias Bonde Kirk,Thomas Kwa,Jeffrey Ladish,Kwok-Yan Lam,Wan Lee Sie,Taewhi Lee,Xiaojian Li,Jiajun Liu,Chaochao Lu,Yifan Mai,Richard Mallah,Julian Michael,Nick Moës,Simon Möller,Kihyuk Nam,Kwan Yee Ng,Mark Nitzberg,Besmira Nushi,Seán O hÉigeartaigh,Alejandro Ortega,Pierre Peigné,James Petrie,Benjamin Prud'Homme,Reihaneh Rabbany,Nayat Sanchez-Pi,Sarah Schwettmann,Buck Shlegeris,Saad Siddiqui,Aradhana Sinha,Martín Soto,Cheston Tan,Dong Ting,Robert Trager,Brian Tse,Anthony Tung K. H.,Vanessa Wilfred,John Willes,Denise Wong,Wei Xu,Rongwu Xu,Yi Zeng,HongJiang Zhang,Djordje Žikelić
@@ -34,9 +28,6 @@ Yoshua Bengio,Tegan Maharaj,Luke Ong,Stuart Russell,Dawn Song,Max Tegmark,Lan Xu
 报告采用多层次防御模型来组织AI安全性研究领域，将研究领域分为三大类：创建可信AI系统的挑战（开发）、评估其风险的挑战（评估）、及在部署后监控和干预的挑战（控制），强调系统性地保障AI的安全性。这为AI安全性研究提供了清晰的框架和优先级指南。
 ### Conclusion
 该报告通过汇集全球AI科学家的智慧，为国际AI安全性研究确定了优先级，为确保AI的安全性提出了多层次防御策略，有助于建立一个更加可信的AI生态系统，促进全球AI的安全进步。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 4. `cs.AI` - 超越反应性安全：通过长时仿真实现风险aware大语言模型对齐 [PDF](https://arxiv.org/pdf/2506.20949), [HTML](https://arxiv.org/abs/2506.20949)
 ### Authors
 Chenkai Sun,Denghui Zhang,ChengXiang Zhai,Heng Ji
@@ -46,9 +37,6 @@ Chenkai Sun,Denghui Zhang,ChengXiang Zhai,Heng Ji
 提出了一种通过长时仿真来实现风险感知的大语言模型对齐的概念验证框架，以及一个包含100个间接危害场景的数据集，用于评估模型预见不良后果的能力。该研究不仅在新数据集上取得了超过20%的改进，而且在现有的安全基准测试（AdvBench, SafeRLHF, WildGuardMix）上的平均胜率超过70%，表明其在安全性更高的代理方向的潜力巨大。
 ### Conclusion
 本研究通过提出一种长时仿真框架和一个风险感知数据集，提供了一种更安全的代理方法。这种方法在新的数据集和现有基准测试中的性能表现出色，为未来研究提供了新的思路。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 5. `cs.AI` - TableMoE: Neuro-Symbolic Routing for Structured Expert Reasoning in Multimodal Table Understanding [PDF](https://arxiv.org/pdf/2506.21393), [HTML](https://arxiv.org/abs/2506.21393)
 ### Authors
 Junwen Zhang,Pu Chen,Yin Zhang
@@ -58,9 +46,6 @@ Junwen Zhang,Pu Chen,Yin Zhang
 提出了一种名为TableMoE的神经符号混合专家（MoCE）架构，专门为增强多模态表格数据的结构化推理而设计。该架构包含一种创新的神经符号路由机制，该机制预测潜在的语义令牌角色（如表头、数据单元格、轴、公式）并动态地将表元素路由到专门的专家（将表转换为HTML、JSON、代码）中。为了实现有效的对齐驱动预训练，引入了大规模的TableMoE-Align数据集，该数据集包含120万份表-HTML-JSON-代码四元组，仅用于模型预训练。该研究还创立了四个基于现实世界多模态退化和结构复杂性的困难基准：WMMFinQA、WMMTatQA、WMMTabDialog 和 WMMFinanceMath。实验结果表明，TableMoE 显著优于现有最先进的模型。广泛的消融研究验证了每个核心组件的关键作用，强调了神经符号路由和结构专家对齐的至关重要性。此外，定性分析进一步展示了 TableMoE 的可解释性和增强的鲁棒性，突出了结合神经符号推理对多模态表格理解的有效性。
 ### Conclusion
 实验结果表明，TableMoE 在处理复杂和退化的多模态表格数据方面显著优于现有最先进的模型。通过广泛的消融研究和定性分析，验证了每个核心组件的贡献，并强调了神经符号路由和结构专家对齐的关键作用。TableMoE 的可解释性和增强的鲁棒性进一步证明了结合神经符号推理在多模态表格理解中的有效性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 6. `cs.AI` - 从有限视角进行空间思维建模 [PDF](https://arxiv.org/pdf/2506.21458), [HTML](https://arxiv.org/abs/2506.21458)
 ### Authors
 Baiqiao Yin,Qineng Wang,Pingyue Zhang,Jianshu Zhang,Kangrui Wang,Zihan Wang,Jieyu Zhang,Keshigeyan Chandrasegaran,Han Liu,Ranjay Krishna,Saining Xie,Manling Li,Jiajun Wu,Li Fei-Fei
@@ -70,9 +55,6 @@ Baiqiao Yin,Qineng Wang,Pingyue Zhang,Jianshu Zhang,Kangrui Wang,Zihan Wang,Jiey
 研究提出了一种新的基准MindCube，包含21,154个问题覆盖3,268个图像来量化VLMs的空间思维建模能力。研究发现了三种方法来帮助VLMs构建空间心理模型，包括未见的中间视图、自然语言推理链和认知地图。更重要的是，研究提出了一种“先构建地图再推理”的方法，这种方法将模型训练成先生成认知地图，再基于此进行推理。实验结果表明，该方法将准确性从37.8%提升到了60.8%（+23.0%），结合强化学习进一步提升到了70.7%（+32.9%）
 ### Conclusion
 该研究提出了一个新的学术贡献，即使用内部结构化的空间表示与灵活的推理过程来构建和利用空间心理模型，显著提高了对不可见空间的理解。研究表明，结合强化学习可显著提升VLMs的空间思维建模能力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 7. `cs.AI` - PsyLite 技术报告 [PDF](https://arxiv.org/pdf/2506.21536), [HTML](https://arxiv.org/abs/2506.21536)
 ### Authors
 Fangjun Ding,Renyu Zhang,Xinyu Feng,Chengye Xie,Zheng Zhang,Yanting Zhang
@@ -82,9 +64,6 @@ Fangjun Ding,Renyu Zhang,Xinyu Feng,Chengye Xie,Zheng Zhang,Yanting Zhang
 为解决这些问题，本研究提出了一种基于InternLM2.5-7B-chat基础模型的轻量化心理健康咨询大语言模型代理PsyLite。通过两级训练策略（混合蒸馏数据微调和ORPO偏好优化）增强模型的深度推理能力、心理健康咨询能力和对话安全性。另外，设计了一种创新的条件化RAG，在心理咨询过程中适时引入跨谈幽默元素，以提升用户体验和强化对话安全性，同时使用量化技术（GGUF q4_k_m）实现低硬件部署（5GB内存即可运行），在资源受限的环境中提供了可行性解决方案。
 ### Conclusion
 PsyLite 在中文通用评估（CEval）、心理健康咨询服务专业评估（CPsyCounE）和对话安全性评估（SafeDialBench）中均超过基线模型，特别是在心理健康咨询服务专业度（CPsyCounE评分提高47.6%）和对话安全性（安全{}评分提高2.4%）方面表现尤为出色。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 8. `cs.AI` - Ad-Hoc Human-AI Coordination Challenge [PDF](https://arxiv.org/pdf/2506.21490), [HTML](https://arxiv.org/abs/2506.21490)
 ### Authors
 Tin Dizdarević,Ravi Hammond,Tobias Gessler,Anisoara Calinescu,Jonathan Cook,Matteo Gallici,Andrei Lupu,Jakob Nicolaus Foerster
@@ -94,9 +73,6 @@ Tin Dizdarević,Ravi Hammond,Tobias Gessler,Anisoara Calinescu,Jonathan Cook,Mat
 该团队引入了Ad-Hoc Human-AI Coordination Challenge （AH2AC2）挑战，通过利用大规模的人类数据集开发出“人类代理代理”，作为AH2AC2中的可靠、廉价且可复制的人类模拟评估合作伙伴。为了促进数据高效方法的发展，该团队开源了一个包含3,079场游戏的数据集，这是通过有意限制可用的人类游戏数据来实现的。为保证公平评估，代理通过受控评估系统提供而不是公开发布。
 ### Conclusion
 在AH2AC2中，我们展示了两人和三人的汉abi场景的基础结果。评估代码可在以下链接获得：this https URL。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 9. `cs.AI` - Mind2Web 2：以代理为裁判评估自主搜索 [PDF](https://arxiv.org/pdf/2506.21506), [HTML](https://arxiv.org/abs/2506.21506)
 ### Authors
 Boyu Gou,Zanming Huang,Yuting Ning,Yu Gu,Michael Lin,Weijian Qi,Andrei Kopanev,Botao Yu,Bernal Jiménez Gutiérrez,Yiheng Shu,Chan Hee Song,Jiaman Wu,Shijie Chen,Hanane Nour Moussa,Tianshu Zhang,Jian Xie,Yifei Li,Tianci Xue,Zeyi Liao,Kai Zhang,Boyuan Zheng,Zhaowei Cai,Viktor Rozgic,Morteza Ziyadi,Huan Sun,Yu Su
@@ -106,9 +82,6 @@ Boyu Gou,Zanming Huang,Yuting Ning,Yu Gu,Michael Lin,Weijian Qi,Andrei Kopanev,B
 本文提出了一种称为Agent-as-a-Judge的新颖评估框架。Mind2Web 2基准测试包含130个真实、高质量、长周期的任务，这些任务要求实时浏览网络和进行广泛的信息综合，涵盖了超过1000小时的人力劳动成果。该框架通过基于树结构的评判标准构建任务特定的评判代理，自动评估答案的正确性和信息源的归属。此外，本文对九个领先的代理搜索系统和人类表现进行了全面评估，并进行了详细错误分析，以提供对未来发展的洞察。
 ### Conclusion
 OpenAI的深度研究系统在多个任务上表现最佳，已达到人类性能的50-70%，并且只需一半的时间，展示了巨大潜力。Mind2Web 2为开发和评估下一代代理搜索系统提供了一个严格的基准。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 10. `cs.AI` - ClusterRCA：使用多模态数据在HPC系统中进行网络故障诊断 [PDF](https://arxiv.org/pdf/2506.20673), [HTML](https://arxiv.org/abs/2506.20673)
 ### Authors
 Yongqian Sun,Xijie Pan,Xiao Xiong,Lei Tao,Jiaju Wang,Shenglin Zhang,Yuan Yuan,Yuqi Li,Kunlin Jian
@@ -118,9 +91,6 @@ Yongqian Sun,Xijie Pan,Xiao Xiong,Lei Tao,Jiaju Wang,Shenglin Zhang,Yuan Yuan,Yu
 本文提出了一个名为ClusterRCA的新框架，通过利用多模态数据来确定故障节点并诊断故障类型。ClusterRCA结合了分类器和图的方法，能够准确地定位故障节点和确定故障类型。此外，ClusterRCA还在不同应用情景下保持了稳健的性能，并在顶级全球HPC设备供应商收集的数据集上展现了高度准确的网络故障诊断能力。
 ### Conclusion
 实验结果表明，ClusterRCA在不同HPC系统应用中展现出高精度的网络故障诊断能力，并且在各种应用情况下都能保持稳健性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 11. `cs.AI` - 领域特定AI应用的动态上下文感知提示推荐 [PDF](https://arxiv.org/pdf/2506.20815), [HTML](https://arxiv.org/abs/2506.20815)
 ### Authors
 Xinye Tang,Haijun Zhai,Chaitanya Belwal,Vineeth Thayanithi,Philip Baumann,Yogesh K Roy
@@ -130,9 +100,6 @@ LLM（大型语言模型）驱动的应用程序对用户的提示质量非常�
 该论文提出了一个新颖的动态上下文感知提示推荐系统，该系统结合了上下文查询分析、检索增强的知识接地、层次化的技能组织和适应性技能排名，利用行为遥测和两阶段的层次化推理过程动态选择和排名相关的技能，生成相关和可行的提示建议。此外，该系统还利用预定义和适应性的模版，并通过少量学习进行合成，提高了系统的实用性和相关性。
 ### Conclusion
 实验结果表明，该方法在实际数据集上实现了高实用性和相关性，通过自动化和专家评估得以验证。该论文的主要贡献在于提出了一种高效的动态上下文感知提示推荐系统，通过结合多种技术和方法提升了特定领域AI应用中提示的准确性和适用性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 12. `cs.AI` - U-R-VEDA: 结合 UNET、残差连接、边缘检测和双注意力机制以及视觉变换器的心脏磁共振图像准确语义分割 [PDF](https://arxiv.org/pdf/2506.20689), [HTML](https://arxiv.org/abs/2506.20689)
 ### Authors
 Racheal Mukisa,Arvind K. Bansal
@@ -142,9 +109,6 @@ Racheal Mukisa,Arvind K. Bansal
 U-R-Veda 模型通过结合卷积变换、视网膜变换器、残差链接、通道和空间注意力以及基于边缘检测的跳连，提高了心脏磁共振图像的语义分割性能。该模型的特点在于嵌入通道和空间注意力在卷积块中，以及使用边缘信息和通道、空间注意力作为跳连，减少了卷积变换过程中的信息丢失。结果显示，基于 DSC 和 HD 指标的 U-R-Veda 模型在分割右心室和左心室心肌方面优于其他模型，达到 95.2% 的平均准确率。
 ### Conclusion
 U-R-Veda 模型在心脏磁共振图像的全自动语义分割中表现优异，显著提高了医学图像分析的精度。这一模型为自动化心脏疾病诊断提供了一种有效方法。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 13. `cs.AI` - 揭示大规模语言模型中的因果推理：现实还是幻影？ [PDF](https://arxiv.org/pdf/2506.21215), [HTML](https://arxiv.org/abs/2506.21215)
 ### Authors
 Haoang Chi,He Li,Wenjing Yang,Feng Liu,Long Lan,Xiaoguang Ren,Tongliang Liu,Bo Han
@@ -154,9 +118,6 @@ Haoang Chi,He Li,Wenjing Yang,Feng Liu,Long Lan,Xiaoguang Ren,Tongliang Liu,Bo H
 研究揭示了LLMs仅能够进行浅层因果推理，并提出了一种方法——G^2-Reasoner，该方法将通用知识和目标导向的提示融入到LLMs的因果推理过程中。实验结果表明，G^2-Reasoner 能够显著提高LLMs的因果推理能力，特别是在新颖和反事实情境中。这一工作为LLMs向真正的因果推理迈进提供了一个新的路径，超越了一级因果推理并向着二级因果推理迈出步伐。
 ### Conclusion
 研究通过方法论上的分析和实证研究，揭示了LLMs目前仅能够进行浅层因果推理的能力，而不是真正的深度因果推理。为了增强LLMs的因果推理能力，提出了一种新的方法G^2-Reasoner，能够显著提升在新颖和反事实情况下的因果推理能力。这一发现为LLMs未来的发展指明了方向。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 14. `cs.AI` - 渐进式大小自适应联邦学习：跨模态数据系统的综合框架 [PDF](https://arxiv.org/pdf/2506.20685), [HTML](https://arxiv.org/abs/2506.20685)
 ### Authors
 Sajid Hussain,Muhammad Sohail,Nauman Ali Khan,Naima Iltaf,Ihtesham ul Islam
@@ -166,9 +127,6 @@ Sajid Hussain,Muhammad Sohail,Nauman Ali Khan,Naima Iltaf,Ihtesham ul Islam
 SAFL是一种新提出的渐进式大小自适应联邦学习框架，能够根据数据集大小的不同特性来组织和优化跨异质多模态数据的联邦学习。此框架提供了一种系统的方法，用以揭示数据集大小、模态间的表现差异以及大规模数据集的性能下降情况。此外，该框架还显著提高了通信效率和性能，同时提供了对系统资源访问及网络效率的实时监控。
 ### Conclusion
 该研究填补了联邦学习中因数据特征带来的策略设计研究缺口，SAFL展示了更高的准确性和效率，证明了结构化数据优于非结构化数据，并提供了实际部署中的重要指导。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 15. `cs.AI` - MAGPIE: 一个用于多Agent情境下隐私评估的数据集 [PDF](https://arxiv.org/pdf/2506.20737), [HTML](https://arxiv.org/abs/2506.20737)
 ### Authors
 Gurusha Juneja,Alon Albalak,Wenyue Hua,William Yang Wang
@@ -178,9 +136,6 @@ Gurusha Juneja,Alon Albalak,Wenyue Hua,William Yang Wang
 本文首次提出了一个名为MAGPIE（Method for Assessing Group Privacy in Entities）的数据集，用于评估多代理系统中的上下文隐私。MAGPIE包含158个真实生活中的高风险场景，涵盖15个领域。该数据集设计得当，确保完全排除隐私数据将妨碍任务完成，同时完整共享信息也会导致风险。在此基础上，评估了目前最先进的LLM模型对上下文隐私的理解和协作过程中不泄露用户隐私的能力。实验证明，当前模型在理解上下文隐私和保护用户隐私方面存在不足，错误分类隐私数据为可共享的情况高达25.2%至43.6%。在多轮对话中，即使在明确指示的前提下，这些模型仍然在50.5%至59.9%的情况下泄露了用户隐私信息。多代理系统在71%的场景中未能完成任务。这意味着当前模型尚未有效地在保护上下文隐私和协作任务解决方面达成平衡。
 ### Conclusion
 当前的LLM模型在理解和保护背景中的上下文隐私方面存在显著不足。即使在用户明确指示的情况下，它们仍然容易泄露用户隐私，尤其是在多回合对话中。因此，这些系统需要进一步改进，以更好地平衡上下文隐私保护和多代理协作的任务完成能力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 16. `cs.AI` - DRAGON: 基于分布的奖励优化扩散生成模型 [PDF](https://arxiv.org/pdf/2504.15217), [HTML](https://arxiv.org/abs/2504.15217)
 ### Authors
 Yatong Bai,Jonah Casebeer,Somayeh Sojoudi,Nicholas J. Bryan
@@ -190,9 +145,6 @@ Yatong Bai,Jonah Casebeer,Somayeh Sojoudi,Nicholas J. Bryan
 DRAGON框架通过灵活的奖励函数优化生成模型，能适应不同的奖励目标。它能优化针对个体样本或其分布的奖励函数，并利用示例数据集（exemplar sets）来创建一个正负对象集，以提高生成内容的质量。DRAGON还展示了使用示例集设置的奖励函数如何增强生成内容，并且在无需人类偏好注释的情况下，DRAGON实现了60.95%的人类投票音乐质量胜率。这表明DRAGON不仅适用于多种奖励目标，还能有效提高生成内容的感知质量，提供了一种新的设计和优化奖励函数的方法。
 ### Conclusion
 无论是针对个体样本还是分布到分布的奖励，DRAGON都表现出色。经过所有20个目标奖励的测试，DRAGON平均胜率为81.45%。这表明DRAGON为设计和优化提高人类感知质量的奖励函数提供了一种新方法。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 17. `cs.AI` - 评估用于生物信号多尺度建模的偏微分方程发现方法 [PDF](https://arxiv.org/pdf/2506.20694), [HTML](https://arxiv.org/abs/2506.20694)
 ### Authors
 Andréa Ducos(AISTROSIGHT),Audrey Denizot(AISTROSIGHT),Thomas Guyet(AISTROSIGHT),Hugues Berry(AISTROSIGHT)
@@ -202,9 +154,6 @@ Andréa Ducos(AISTROSIGHT),Audrey Denizot(AISTROSIGHT),Thomas Guyet(AISTROSIGHT)
 本文提出了一种结合基于粒子的模拟和PDE发现的框架，并在受控环境中进行了初步实验，以评估方程发现方法。使用五种先进的PDE发现方法对星形胶质细胞中钙扩散的基于粒子的模拟进行了评估，评价方法在所发现方程的形式和钙浓度预测的时空变化方面的性能。结果表明，多种方法准确恢复了扩散项，突显了从微观数据捕获生物系统宏观动力学的PDE发现方法的潜力。
 ### Conclusion
 本文的研究结果展示了PDE发现方法在从微观数据中捕捉生物系统宏观动态方面的潜力，并为多尺度生物信号建模提供了新的见解。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 18. `cs.AI` - 关于卷积、固有维度和弥散模型 [PDF](https://arxiv.org/pdf/2506.20705), [HTML](https://arxiv.org/abs/2506.20705)
 ### Authors
 Kin Kwan Leung,Rasa Hosseinzadeh,Gabriel Loaiza-Ganem
@@ -214,9 +163,6 @@ Kin Kwan Leung,Rasa Hosseinzadeh,Gabriel Loaiza-Ganem
 本研究通过严谨证明FLIPD在现实条件下也正确，填补了理论基础的空白。此外，研究证明用均匀卷积代替高斯卷积后，类似结果依然成立，并讨论了该结果的相关性。
 ### Conclusion
 本研究不仅扩展了FLIPD估计器的适用性，使其理论基础更加坚实，还为弥散模型和其他流形相关的研究提供了新的视角。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 19. `cs.AI` - Diffusion Tree Sampling: 集成扩散模型在推理阶段的可扩展对齐方法 [PDF](https://arxiv.org/pdf/2506.20701), [HTML](https://arxiv.org/abs/2506.20701)
 ### Authors
 Vineet Jain,Kusha Sareen,Mohammad Pedramfar,Siamak Ravanbakhsh
@@ -226,9 +172,6 @@ Vineet Jain,Kusha Sareen,Mohammad Pedramfar,Siamak Ravanbakhsh
 提出了一种树状方法，通过计算奖励对扩散链的后向传播迭代调整价值估计，称为Diffusion Tree Sampling (DTS)。其贪心变体，Diffusion Tree Search (DTS$^textbf{textit{text{*}}}$)，能进行全局搜索以找到高质量样本。在MNIST和CIFAR-10条件生成任务中，DTS能以最多10倍的计算资源实现最佳基线性能。在文本到图像生成和语言完成任务中，DTS$^textbf{textit{text{*}}}$能用最多5倍的计算资源找到最优样本。该方法通过重用先前迭代的信息，实现任何时间的算法，进一步优化样本质量，提供了一种在推理时对扩散模型进行对齐的可扩展方法。
 ### Conclusion
 DTS和DTS$^textbf{textit{text{*}}}$通过重用信息和计算资源高效生成高质量样本，展示了大规模计算资源转化为样本质量提升的潜力，为扩散模型的推理阶段对齐提供了一种可扩展方法。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 20. `cs.AI` - IMC-PINN-FE：一种基于图像运动一致性和生物力学参数估计的物理指导神经网络患者特异性左心室有限元建模 [PDF](https://arxiv.org/pdf/2506.20696), [HTML](https://arxiv.org/abs/2506.20696)
 ### Authors
 Siyu Mu,Wei Xuan Chan,Choon Hwai Yap
@@ -238,9 +181,6 @@ Siyu Mu,Wei Xuan Chan,Choon Hwai Yap
 提出了 IMC-PINN-FE 框架，这是一种结合图像运动一致性（IMC）与 FE 模型的神经网络方法。通过预训练的注意力网络或无监督循环正则化网络从 MRI 或超声心动图中估计心脏运动，并提取运动模态。IMC-PINN-FE 可以快速估计心肌刚度和主动张力，将传统的逆 FE 计算时间从几小时加速到几秒。此外，通过运动约束，IMC-PINN-FE 更准确地匹配了图像中的位移，提高了平均 Dice 值，同时保持了真实的压力-体积行为。与之前的 PINN-FE 模型相比，IMC-PINN-FE 引入了材料属性的反向计算并提高了运动的保真度。此外，使用单个受试者的运动来重建形状模态，避免了对大规模数据集的需求，从而提高了患者特异性。
 ### Conclusion
 IMC-PINN-FE 提供了一种快速、个性化且图像一致的心脏生物力学建模的稳健高效方法。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 21. `cs.AI` - 心脏MRI与心电图联合表示的全局和局部对比学习 [PDF](https://arxiv.org/pdf/2506.20683), [HTML](https://arxiv.org/abs/2506.20683)
 ### Authors
 Alexander Selivanov,Philip Müller,Özgün Turgut,Nil Stolt-Ansó,Daniel Rückert
@@ -250,9 +190,6 @@ Alexander Selivanov,Philip Müller,Özgün Turgut,Nil Stolt-Ansó,Daniel Rücker
 PTACL通过整合心脏磁共振（CMR）中的时空信息来增强心电图（ECG）的表示，采用全球患者级和局部时间级对比损失来实现跨模态的更好对齐和信息转移，这种方法能够丰富ECG的诊断性信息，并在无新增可学习参数的情况下提高心脏功能参数的预测能力。研究中的评估使用了英国生物银行的配对ECG-CMR数据集，展示了PTACL在临床相关任务上的优越性能。
 ### Conclusion
 我们的研究结果表明，PTACL有潜力利用心电图提升非侵入性心脏诊断的效果。该方法通过集成全局和局部对比损失机制，在保持模型简洁性的同时，显著提高了心脏功能性参数的预测准确性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 22. `cs.AI` - 针对专家混合模型的实用驱动推测性解码 [PDF](https://arxiv.org/pdf/2506.20675), [HTML](https://arxiv.org/abs/2506.20675)
 ### Authors
 Anish Saxena,Po-An Tsai,Hritvik Taneja,Aamer Jaleel,Moinuddin Qureshi
@@ -262,9 +199,6 @@ GPU内存带宽是低延迟大型语言模型（LLM）推理的主要瓶颈。�
 Cascade是一种数据驱动的框架，它可以有选择地启用推测性解码以避免性能下降，并根据验证效益动态调整K的值以加速MoE服务于此，Cascade使用了一个轻量级的度量标准：推测性解码的效益比，即令牌收益与验证成本之比，这显示了迭代的局部性，使得可以在较短测试期和较长设置期之间进行定期决策。对于每个请求，如果推测性解码的效益在测试期间低于1，则禁止推测性解码；如果超过1，则测试多个K值以选择设置期内效益最大化的K值。我们已经在vLLM上实现了Cascade，并在包括代码、数学、提取和混合任务在内的五个流行的MoE模型上进行了评估。结果表明，Cascade将性能下降限制在5%（相对于1.5倍），在固定K的基础上提高了7-14%的吞吐量，从而使推测性解码对于MoE模型来说是可实现的。
 ### Conclusion
 Cascade通过动态调整推测性解码下的K参数，使得在MoE模型服务中合理应用推测性解码成为可能，从而避免了性能下降，同时提高了吞吐量，尤其是在vLLM中实现了这一创新性的解决策略，在各种类型的MoE模型上展示了其有效性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 23. `cs.AI` - 理论物理学中的测试时间缩放技术——TPBench数据集上的方法比较 [PDF](https://arxiv.org/pdf/2506.20729), [HTML](https://arxiv.org/abs/2506.20729)
 ### Authors
 Zhiqi Gao,Tianyi Li,Yurii Kvasiuk,Sai Chaitanya Tadepalli,Maja Rudolph,Daniel J.H. Chung,Frederic Sala,Moritz Münchmeyer
@@ -274,9 +208,6 @@ Zhiqi Gao,Tianyi Li,Yurii Kvasiuk,Sai Chaitanya Tadepalli,Maja Rudolph,Daniel J.
 我们开发了一个新的、基于符号的弱验证框架来改进并行缩放结果。我们的实证结果表明，这种方法在TPBench上显著优于现有的测试时缩放方法。此外，我们还在AIME上测试了我们的方法，确认了其解决高级数学问题的有效性。
 ### Conclusion
 我们的研究结果强调了逐步符号验证在解决复杂科学问题方面的强大能力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 24. `cs.AI` - CBF-AFA: Chunk-Based Multi-SSL Fusion for Automatic Fluency Assessment [PDF](https://arxiv.org/pdf/2506.20243), [HTML](https://arxiv.org/abs/2506.20243)
 ### Authors
 Papa Séga Wade,Mihai Andries,Ioannis Kanellos,Thierry Moudenc
@@ -286,9 +217,6 @@ Papa Séga Wade,Mihai Andries,Ioannis Kanellos,Thierry Moudenc
 该方法创新地结合了主要的SSL模型（Wav2Vec2, HuBERT, WavLM）和块（chunk）基础的方法，利用层次化的CNN-BiLSTM框架，融合了可学习加权机制的SSL嵌入，并加入了块级别的流畅性标记来丰富语言特征。与单个SSL基线模型相比，该方法在 Speechocean762 上的F1分数提高了2.8个点，皮尔逊相关系数提高了6.2个点，并在 Avalinguo 上取得了显著的提高，分别为 4.2 个 F1 分数和 4.0 个皮尔逊点的提高。这些提升了表明块融合多SSL方法在鲁棒的流畅度评估中的有效性，但是未来的工作应该探索对具有不规则韵律的方言的一般化能力。
 ### Conclusion
 实验结果表明，CBF-AFA方法在评估非母语speakers的流畅度方面表现出了显著的改进。该方法通过结合多种SSL模型和块基础的分析方法，提高了自动流畅度评估的准确性，并且在两个评估数据集上均超过了基于分割的基线模型。未来的工作可以探索该方法在不同方言和语境中的泛化能力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 25. `cs.AI` - 机器学习环境下的敏捷管理：一种系统综述研究 [PDF](https://arxiv.org/pdf/2506.20759), [HTML](https://arxiv.org/abs/2506.20759)
 ### Authors
 Lucas Romao,Hugo Villamizar,Romeu Oliveira,Silvio Alonso,Marcos Kalinowski
@@ -298,9 +226,6 @@ Lucas Romao,Hugo Villamizar,Romeu Oliveira,Silvio Alonso,Marcos Kalinowski
 本文通过系统综述研究，结合数据库搜索和滚雪球法迭代，识别了27篇相关研究，归纳出8个框架，并分类总结了建议和实践的关键主题，如迭代灵活性、特定于ML的创新成果和最小可行模型。特别是，研究指出了ML任务准确估算的主要挑战，为该领域提供了有效框架和技术建议，填补了一些研究空白，但仍需更 robust 的实证评价来验证研究成果的有效性。
 ### Conclusion
 本文通过系统地图研究展示了当前研究状态，并指出该领域的空白点，尽管已经有相关工作，但仍需要更加严谨的实证研究来验证这种方法的有效性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 26. `cs.AI` - 探讨聊天机器人的拟人化与人类同理心对其人类向聊天机器人表现出的助人行为的影响 [PDF](https://arxiv.org/pdf/2506.20748), [HTML](https://arxiv.org/abs/2506.20748)
 ### Authors
 Jingshu Li,Zicheng Zhu,Renwen Zhang,Yi-Chieh Lee
@@ -310,9 +235,6 @@ Jingshu Li,Zicheng Zhu,Renwen Zhang,Yi-Chieh Lee
 本研究首次探讨了聊天机器人的拟人化与其引发的人类同理心之间的关系，揭示了人类助人行为的形成和动机，对理解及促进人类对聊天机器人的助人行为具有重要意义。
 ### Conclusion
 研究结果表明，人类身份和情感表达的聊天机器人增加了参与者对聊天机器人的助人行为和意图。同理心在这些效应中起到了中介作用。进一步的质性分析发现在助人行为中存在两种动机：对聊天机器人的同理心和将聊天机器人视为类似人类的存在。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 27. `cs.AI` - 随机参数分解 [PDF](https://arxiv.org/pdf/2506.20790), [HTML](https://arxiv.org/abs/2506.20790)
 ### Authors
 Lucius Bushnaq,Dan Braun,Lee Sharkey
@@ -322,9 +244,6 @@ Lucius Bushnaq,Dan Braun,Lee Sharkey
 本文介绍了随机参数分解（SPD）方法，这是一种比APD更可扩展且对超参数更稳健的方法。实验表明，在APD无法分解的稍微大且更复杂的模型中，SPD能有效地进行分解。此外，SPD还解决了其他问题，如学习参数的收缩，并在玩具模型中更好地识别了真实机制。通过将因果中介分析与网络分解方法结合起来，这项展示为线性参数分解方法的大规模应用开辟了新的研究机会，从而促进了机理可解释性的研究。
 ### Conclusion
 通过释放可以运行SPD和重现实验的库，本文为线性参数分解方法的大规模应用去除了障碍，为机制可解释性的研究带来了新的可能性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 28. `cs.AI` - LLM生成与人类研究想法执行结果差距：启示-执行间隙 [PDF](https://arxiv.org/pdf/2506.20803), [HTML](https://arxiv.org/abs/2506.20803)
 ### Authors
 Chenglei Si,Tatsunori Hashimoto,Diyi Yang
@@ -334,9 +253,6 @@ Chenglei Si,Tatsunori Hashimoto,Diyi Yang
 本研究创新之处在于通过具体的执行实验来检验AI生成的想法与人类专家想法之间的差异，并通过专家盲审进行评价，首次提出了‘思想-执行’的差距概念，揭示了AI在生成有效研究想法方面的不足及其挑战
 ### Conclusion
 研究结论表明，虽然LLM在生成新颖的想法方面表现出优势，但在实际执行研究结果方面，专家们的表现优于AI生成的想法。这表明LLM在生成真正有效的研究想法方面仍存在局限性，未来需要进一步探索和改进AI生成想法的能力，特别是在评估和优化其执行结果的有效性方面。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 29. `cs.AI` - 提升图神经网络在网络安全检测中鲁棒性的代理分析方法 [PDF](https://arxiv.org/pdf/2506.20806), [HTML](https://arxiv.org/abs/2506.20806)
 ### Authors
 Zhonghao Zhan,Huichi Zhou,Hamed Haddadi
@@ -346,9 +262,6 @@ Zhonghao Zhan,Huichi Zhou,Hamed Haddadi
 提出了一种使用大型语言模型（LLMs）在代理管道中模拟网络专家代理来增强 GNN 鲁棒性的新方法。这些代理审查从网络流量数据中得出的图结构，识别并可能中和异常或被篡改的成分，以提高 GNN 处理前的安全性。实验利用一套针对现实环境下多种 adversarial 攻击的评估框架，展示了 LLM 代理作为入侵检测架构补充层的潜力。
 ### Conclusion
 实验结果表明，通过 LLM 分析可以显著提高 GNN 基于的 NIDS 的抗挑战能力，证明了 LLM 代理在入侵检测架构中的互补作用。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 30. `cs.AI` - FINN-GL: FPGA上加速LSTMs的一般化混合精度扩展 [PDF](https://arxiv.org/pdf/2506.20810), [HTML](https://arxiv.org/abs/2506.20810)
 ### Authors
 Shashwat Khandelwal,Jakoba Petri-Koenig,Thomas B. Preußer,Michaela Blott,Shreejith Shanker
@@ -358,9 +271,6 @@ Shashwat Khandelwal,Jakoba Petri-Koenig,Thomas B. Preußer,Michaela Blott,Shreej
 本文引入了FINN编译器中的自定义转换，将量化后的ONNX计算图映射到FINN编译器和Vitis HLS的HLS核库中的硬件块。通过针对XCZU7EV设备训练量化后的ConvLSTM模型，并使用该流程生成相应的硬件IP，验证了所提出的工具流。这显示了通过本文流程生成的量化ConvLSTM加速器在性能（延迟）和资源消耗之间取得了平衡，同时在降低精度下达到了或超越了尖端模型的推理准确性。该流程的一般特征为FPGA上RNN加速器的设计铺平了道路。
 ### Conclusion
 所提出的流程展示了在FPGA上实现LSTM加速的平衡，并为高效RNN加速器设计提供了一种方法，使其更适用于资源受限的环境。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 31. `cs.AI` - FixCLR: Negative-Class Contrastive Learning for Semi-Supervised Domain Generalization [PDF](https://arxiv.org/pdf/2506.20841), [HTML](https://arxiv.org/abs/2506.20841)
 ### Authors
 Ha Min Son,Shahbaz Rezaei,Xin Liu
@@ -370,9 +280,6 @@ Semi-supervised domain generalization (SSDG)旨在解决仅用少量标签时泛
 FixCLR通过借鉴自监督学习的成功经验，对对比学习的关键组件进行了改进，以实现明确的域不变性正则化：采用了伪标签中的类别信息，并仅使用排斥项。此方法也可以叠加到大多数现有的SSDG和半监督方法上以获得互补的性能改进。实验涵盖了广泛未在SSDG研究中被探索的方面，包括半监督方法的不同改进，预训练模型与非预训练模型的性能评估，以及在包含多个领域的数据集上的测试。
 ### Conclusion
 FixCLR被证明是一个有效的SSDG方法，特别是在与其他半监督方法结合使用时表现尤为突出。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 32. `cs.AI` - LLMs中的潜藏暴力倾向：行为情景下的人口统计分析 [PDF](https://arxiv.org/pdf/2506.20822), [HTML](https://arxiv.org/abs/2506.20822)
 ### Authors
 Quintin Myers,Yanjun Gao
@@ -382,9 +289,6 @@ Quintin Myers,Yanjun Gao
 引入了基于人物的提示，以人口统计学差异（种族、年龄和地理身份）为变量，评估了来自不同政治地理和组织背景下的六种LLMs，并在统一的零样本设置下进行评估。这是首次将LLMs与社会科学研究工具结合，通过行为情景评估道德模糊性情境下的反应，以及分析其潜在偏见和多样性差异。
 ### Conclusion
 研究发现，LLMs的文本生成表面水平经常与其对暴力响应的内部偏好不符；其次，它们在不同人口统计学中的暴力倾向也有所不同，经常与犯罪学、社会科学和心理学中的现有发现相矛盾。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 33. `cs.AI` - THIRDEYE：基于模仿大脑多阶段融合的感知线索意识单目深度估计 [PDF](https://arxiv.org/pdf/2506.20877), [HTML](https://arxiv.org/abs/2506.20877)
 ### Authors
 Calin Teodor Ioan
@@ -394,9 +298,6 @@ Calin Teodor Ioan
 提出了ThirdEye，一种感知线索意识的单目深度估计管道。该方法通过专门的、预先训练和冻结的网络提供这些显式线索，并在基于大脑皮层多级结构（V1->V2->V3）的融合框架中将其融合。 ThirdEye还配备了一个关键值工作记忆模块，用于根据可靠程度加权融合这些线索，以及一个自适应区间交换机头来生成高分辨率的视差图。同时，利用固定的线索专家，ThirdEye可以继承大量外部监督，而仅需要少量的微调。
 ### Conclusion
 ThirdEye在不需要大规模调整的情况下继承了大量外部监督，极大地提高了单目深度估计的性能。未来研究将在文献的后续版本中提供定量实验结果。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 34. `cs.AI` - 通过自动化集成数据生成可靠的不良反应概况：一种半自动化本体构建方法 (GRAPH-AID} [PDF](https://arxiv.org/pdf/2506.20851), [HTML](https://arxiv.org/abs/2506.20851)
 ### Authors
 Srikar Reddy Gadusu,Larry Callahan,Samir Lababidi,Arunasri Nishtala,Sophia Healey,Hande McGinty
@@ -406,9 +307,6 @@ Srikar Reddy Gadusu,Larry Callahan,Samir Lababidi,Arunasri Nishtala,Sophia Heale
 本文提出了一种利用Python及其rdflib库支持本体开发的用户友好方法。具体而言，通过将食品和药物管理局（FDA）不良事件报告系统（FAERS）数据库的数据集成到Neo4j数据库中创建了示例数据库，并开发了一个Python脚本，该脚本能够自动生成所需的类及其公理，从而实现更顺畅的整合过程。这种方法为在迅速增长的不良药物事件数据集中生成本体提供了实用解决方案，有助于提高药物安全性监控和支持公共卫生决策
 ### Conclusion
 本方法通过自动化处理和集成数据为生成可靠的不良反应概况提供了一种高效的本体构建途径，可有效支持药物安全监测和公共卫生决策。这种方法简化了本体开发的过程，便于非专家用户使用，从而提高了本体构建的效率和适用范围。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 35. `cs.AI` - MultiFinRAG：一种优化的多模态检索增强生成（RAG）框架，用于财务问答 [PDF](https://arxiv.org/pdf/2506.20821), [HTML](https://arxiv.org/abs/2506.20821)
 ### Authors
 Chinmay Gondhalekar,Urjitkumar Patel,Fang-Chun Yeh
@@ -418,9 +316,6 @@ Chinmay Gondhalekar,Urjitkumar Patel,Fang-Chun Yeh
 本文提出了一种名为MultiFinRAG的检索增强生成框架，旨在解决财务问答中的跨模态推理难题。首先，该框架能够同时抽取表格和图形插图，经过轻量级、量化开源的多模态LLM处理，产生结构化JSON输出和简洁文本摘要。然后，通过模态意识的相似度阈值将这些输出和叙述性文本进行嵌入和索引，以确保精准检索。此外，该框架采用分层退避策略，根据需要从仅文本到文本+表格+图像的上下文动态升级，减少无关内容使跨模态推理更加高效。MultiFinRAG能在廉价硬件上运行，并且在涉及文本、表格、图像及多模态推理的复杂财务问答任务上的准确率比ChatGPT-4o高出19个百分点。
 ### Conclusion
 MultiFinRAG框架能够有效处理动态变化的财务模态信息，提供更精确的跨模态推理能力。该框架的技术和方法为解决财务问答关键任务问题提供了有效途径，对于处理其他类型的多模态数据也具有广泛的参考价值。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 36. `cs.AI` - GPU Kernel Scientist: 由LLM驱动的迭代内核优化框架 [PDF](https://arxiv.org/pdf/2506.20807), [HTML](https://arxiv.org/abs/2506.20807)
 ### Authors
 Martin Andrews,Sam Witteveen
@@ -430,9 +325,6 @@ GPU内核优化是一个复杂的过程，通常需要深厚的架构知识、�
 本文提出了一种基于LLM的'GPU Kernel Scientist'自动化方法，该方法采用多阶段、进化式的流程：（a）战略性地选择有潜力的先前代码版本作为新迭代的基础；（b）基于现有代码和吸收的一般GPU文献知识生成优化实验的假设；（c）通过代码修改并使用仅有的观察到的时间数据作为性能反馈，自动实施这些实验，整个过程无需直接的人类干预。该方法展示了如何利用LLM的优势来应对AMD MI300目标架构带来的挑战，通过弥补有限的专业知识，加速GPU内核优化过程，特别是在资源受限或快速发展的硬件环境中。
 ### Conclusion
 尽管从性能竞赛中获得的量化结果尚未公布，但本文详细介绍了这一方法的设计、操作流程和定性见解。本文强调了LLM驱动的代理有潜力在资源有限或快速发展的硬件环境中的内核优化过程中实现民主化和加速。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 37. `cs.AI` - 利用视觉语言模型选择由扩散模型生成的可信超分辨率样本 [PDF](https://arxiv.org/pdf/2506.20832), [HTML](https://arxiv.org/abs/2506.20832)
 ### Authors
 Cansu Korkmaz,Ahmet Murat Tekalp,Zafer Dogan
@@ -442,9 +334,6 @@ Cansu Korkmaz,Ahmet Murat Tekalp,Zafer Dogan
 本研究创新地提出了一种自动化框架，利用视觉语言模型识别由扩散模型生成的多解SR中的最可信样本。通过结合语义相似性、结构完整性和伪影敏感性，定义了一个信任度评分(TWS)来评估SR的可靠性。实验结果表明，VLM选择的样本比传统方法如PSNR、LPIPS更能反映人类偏好，并且能够提供一种原则性的、可扩展的和通用的方法来指导扩散SR空间的决策。
 ### Conclusion
 通过与人类期望和语义正确性一致，本研究为生成SR的可信度设定了新的基准，提供了一种在不确定性下导航扩散SR空间的原则性、可扩展和通用的解决方案。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 38. `cs.AI` - 使用多尺度对称图扩散模型进行准确复杂抗原结合的抗体设计与优化 [PDF](https://arxiv.org/pdf/2506.20957), [HTML](https://arxiv.org/abs/2506.20957)
 ### Authors
 Jiameng Chen,Xiantao Cai,Jia Wu,Wenbin Hu
@@ -454,9 +343,6 @@ Jiameng Chen,Xiantao Cai,Jia Wu,Wenbin Hu
 本文提出了一种端到端框架AbMEGD，集成多尺度对称图扩散方法，用于抗体序列和结构的联合设计。该方法利用先进的几何深度学习技术，将原子级几何特征与残基级嵌入结合起来，捕捉局部原子细节和全局序列-结构相互作用。其E(3)-对称扩散方法确保了几何精度、计算效率和对复杂抗原的良好推广能力。实验结果表明，与领先的抗体设计模型DiffAb相比，在关键的CDR-H3区域，该模型实现了氨基酸回收率提高10.13%，改进百分比增加3.32%，并且减少了0.062 Å的根均方偏差。
 ### Conclusion
 这些结果凸显了AbMEGD在平衡结构完整性和提高功能方面的能力，为序列-结构联合设计和亲和力优化设定了新基准。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 39. `cs.AI` - ZKPROV：大型语言模型数据来源的零知识方法 [PDF](https://arxiv.org/pdf/2506.20915), [HTML](https://arxiv.org/abs/2506.20915)
 ### Authors
 Mina Namazi,Alexander Nemecek,Erman Ayday
@@ -466,9 +352,6 @@ Mina Namazi,Alexander Nemecek,Erman Ayday
 ZKPROV是一种新颖的加密框架，它通过零知识证明实现了大型语言模型来源的完整性验证。ZKPROV方法将经过训练的模型与其授权的数据集进行加密绑定，而无需证明每一步的训练过程。这种方法利用数据集签名的元数据和紧凑的模型参数承诺，确保了结果的可验证性和隐私性。与现有方法相比，ZKPROV提供了更高效的解决方案，并且不会引入显著的计算成本，也不依赖于受信任的执行环境。实验结果表明ZKPROV在生成证明和验证过程中的效率和可扩展性，并证明了这一方法能够保护数据集的隐私并确保可信的数据来源保障
 ### Conclusion
 实验结果表明ZKPROV能够在高效、可扩展的方案下生成和验证零知识证明，为实际部署提供了切实可行的解决方案。我们还提供了形式化的安全保证，证明了我们的方法能够保护数据集的隐私，并确保可靠的来源保障
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 40. `cs.AI` - 为实际应用工程化RAG系统：设计、开发与评估 [PDF](https://arxiv.org/pdf/2506.20869), [HTML](https://arxiv.org/abs/2506.20869)
 ### Authors
 Md Toufique Hasan,Muhammad Waseem,Kai-Kristian Kemell,Ayman Asad Khan,Mika Saari,Pekka Abrahamsson
@@ -478,9 +361,6 @@ Md Toufique Hasan,Muhammad Waseem,Kai-Kristian Kemell,Ayman Asad Khan,Mika Saari
 开发了五个针对特定领域的RAG应用，在真实世界场景中使用，每个系统集成了多语言OCR、基于向量嵌入的语义检索，以及领域适应的人工智能模型，通过本地服务器或云API部署，以满足不同用户的需求。通过由100名参与者参与的基于网络的评估，从用户反馈中总结出十二项关键经验教训，这些建议覆盖了技术、操作和伦理挑战，对实际中RAG系统可靠性和可用性的影响进行了分析。
 ### Conclusion
 基于用户的反馈和开发经验，作者总结了12项关键教训，这些教训强调了技术、操作和伦理方面挑战对RAG系统可靠性和可用性的影响，从而提升了RAG系统的开发和实际应用能力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 41. `cs.AI` - 使用几何感知扩散和时间视频模型实现一致的零样本3D纹理合成 [PDF](https://arxiv.org/pdf/2506.20946), [HTML](https://arxiv.org/abs/2506.20946)
 ### Authors
 Donggoo Kang,Jangyeong Kim,Dasol Jeong,Junyoung Choi,Jeonga Wi,Hyunmin Lee,Joonho Gwon,Joonki Paik
@@ -490,9 +370,6 @@ Donggoo Kang,Jangyeong Kim,Dasol Jeong,Junyoung Choi,Jeonga Wi,Hyunmin Lee,Joonh
 本论文提出了一种名为VideoTex的新框架，结合视频生成模型和几何感知条件来解决3D纹理中的空间和时间不一致性问题。特别是在利用几何信息进行UV扩散以保持语义信息时，显著提升了遮挡区域的生成效果，从而实现了更平滑和更连贯的纹理。VideoTex不仅能跨越UV边界实现更平滑的过渡，还确保了视频帧之间的高质量和时间稳定性。
 ### Conclusion
 大量实验表明，VideoTex在纹理保真度、拼缝融合和稳定性方面优于现有方法，为需要视觉质量和时间一致性的动态实时应用打开了新的可能性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 42. `cs.AI` - 使用不确定的人工指导的强化学习进行复杂模型转换 [PDF](https://arxiv.org/pdf/2506.20883), [HTML](https://arxiv.org/abs/2506.20883)
 ### Authors
 Kyanna Dagenais,Istvan David
@@ -502,9 +379,6 @@ Kyanna Dagenais,Istvan David
 该方法将用户定义的MT与RL的基本动作相映射，并执行为RL程序，以找到最优的MT序列。研究证明，即使人类指导是不确定的，也会显著提高RL的性能，并能更高效地开发复杂的MT。通过权衡人类反馈的确定性和及时性，该研究促进了从RL驱动的人在环工程方法的进展
 ### Conclusion
 该方法展示了如何通过RL找到最优MT序列，并通过不确定的人类指导增强了RL的效果。通过平衡人类指导的确定性和准确性，该方法向前迈进了一步，将RL与人类在环工程相结合，促进工程中的实时决策和优化。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 43. `cs.AI` - OmniEval：包含视觉、听觉和文本输入的评估多模态模型基准 [PDF](https://arxiv.org/pdf/2506.20960), [HTML](https://arxiv.org/abs/2506.20960)
 ### Authors
 Yiman Zhang,Ziheng Luo,Qiangyu Yan,Wei He,Borui Jiang,Xinghao Chen,Kai Han
@@ -514,9 +388,6 @@ Yiman Zhang,Ziheng Luo,Qiangyu Yan,Wei He,Borui Jiang,Xinghao Chen,Kai Han
 OmniEval 提出了几种独特的评估模态协作感知和多样性视频的新方法。它设计了强调音频与视频强耦合的评估任务，使模型能够有效利用多种模态的协作感知。OmniEval 包含多种复杂的问题设置，评估模型在多种感官输入理解中的性能，特别地引入了 Grounding 这一更加细化的视频定位任务，使评估更加具体和全面。相比现有基准，它提供了更大的多样性，覆盖更多种类的视频和更多的任务类型，为多模态模型评估提供了更丰富的数据和更高的挑战。
 ### Conclusion
 我们希望 OmniEval 能够成为评估理解和构建来自各个模态的内在一致性的能力的平台。接下来，我们已经在几种多模态模型上进行了实验。OmniEval 提供了代码和数据，研究人员可以在该平台上进行测试和比较，以进一步提升和检验多模态模型在处理多信息源方面的能力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 44. `cs.AI` - Omniwise：使用LLMs预测GPU内核性能 [PDF](https://arxiv.org/pdf/2506.20886), [HTML](https://arxiv.org/abs/2506.20886)
 ### Authors
 Zixian Wang,Cole Ramos,Muhammad A. Awad,Keith Lowery
@@ -526,9 +397,6 @@ Zixian Wang,Cole Ramos,Muhammad A. Awad,Keith Lowery
 Omniwise 是一个模型通用且轻量级的库，即使使用只有3B参数的小模型也能取得出色的预测结果。它可以直接从内核代码预测关键性能指标，包括内存带宽、缓存命中率、GFLOPs和算术强度，无需执行代码或使用性能分析工具。我们的方法在AMD MI250和MI300X架构上执行的GPU内核中，超过90%的预测结果的相对误差低于10%。此外，我们还开发了一个在线推理服务器和一个Visual Studio Code插件，使基于LLM的性能预测能够无缝集成到开发者的流程中。
 ### Conclusion
 Omniwise为开发者提供了一种新的工具，提高GPU内核性能预测的精度和效率，使得基于LLM的预测能够在软件开发流程中被轻易集成和使用。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 45. `cs.AI` - 多智能体引导的大型语言模型在化学工艺优化中的应用 [PDF](https://arxiv.org/pdf/2506.20921), [HTML](https://arxiv.org/abs/2506.20921)
 ### Authors
 Tong Zeng,Srivathsan Badrinarayanan,Janghoon Ock,Cheng-Kai Lai,Amir Barati Farimani
@@ -538,9 +406,6 @@ Tong Zeng,Srivathsan Badrinarayanan,Janghoon Ock,Cheng-Kai Lai,Amir Barati Farim
 本文提出了一种基于AutoGen的多智能体框架，使用OpenAI的o3模型，并专门设计了约束生成、参数验证、仿真执行和优化指导的智能代理。该框架通过两个阶段——自主约束生成和迭代多智能体优化，避免了预定义的操作边界。这种方法验证了在成本、产量和收益-成本比方面的性能，并且在计算效率方面优于传统方法，收敛速度更快，且对复杂工艺的理解更精细。
 ### Conclusion
 该方法为操作约束不明确或不可用的优化场景提供了显著的潜力，特别是在新兴工艺和改造应用中。通过验证试验，本方法实现了更快的计算效率和更好的性能，展示出了对工艺过程的深入理解，并正确识别了能源贸易惩罚和领域启发式策略的应用。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 46. `cs.AI` - DFVEdit: 条件梯度流向量用于零样本视频编辑 [PDF](https://arxiv.org/pdf/2506.20967), [HTML](https://arxiv.org/abs/2506.20967)
 ### Authors
 Lingling Cai,Kang Zhao,Hangjie Yuan,Xiang Wang,Yingya Zhang,Kejie Huang
@@ -550,9 +415,6 @@ Lingling Cai,Kang Zhao,Hangjie Yuan,Xiang Wang,Yingya Zhang,Kejie Huang
 本文提出了一种名为Conditional Delta Flow Vector (CDFV) 的方法，该方法是在连续流视角下对DFV进行无偏估计。CDFV通过集成隐式交叉注意力（ICA）指导和嵌入强化（ER）技术，进一步提高了编辑质量。DFVEdit在Video DiTs上的推断速度提升了至少20倍，并且内存减少了85%。相较于基于工程注意力的方法，DFVEdit在结构保真度、时空一致性以及编辑质量方面表现出了最佳性能。
 ### Conclusion
 广泛的定量和定性实验表明，DFVEdit能够无缝应用于流行的Video DiTs（例如CogVideoX和Wan2.1），并达到了最佳的编辑效果。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 47. `cs.AI` - 利用训练后视角优化语言模型以适应下游任务 [PDF](https://arxiv.org/pdf/2506.20917), [HTML](https://arxiv.org/abs/2506.20917)
 ### Authors
 Zhengyan Shi
@@ -562,9 +424,6 @@ Zhengyan Shi
 本论文提出了一系列方法以更好地适应LMs应用于下游任务。首先，我们探索了从非标记数据中提取任务相关信息的新策略，引入了一种新的持续预训练技术，该技术在半监督领域中取得了比现有最佳方法更好的表现。其次，我们提出了一种参数高效的调整方法，大幅减少了内存和计算成本，同时保持竞争力。同时，引入了改进的监督调整方法，即使标记数据稀缺，也能使LMs更好地遵循指令，从而在多种NLP任务中提高表现。最后，我们开发了新的评估方法和基准，如多跳空间推理任务，以更全面地评估LMs的能力和适应性。
 ### Conclusion
 通过跨多种NLP任务的广泛实验，我们的结果表明这些方法显著提高了LMs的稳健性、效率和泛化能力，使它们在更广泛的场景中更具适应性。这些进步标志着在更稳健和高效的LMs方向上迈出了重要一步，带我们更接近人工通用智能（AGI）的目标。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 48. `cs.AI` - 基于多智能体副机的证据驱动诊断推理在人类病理学中的应用 [PDF](https://arxiv.org/pdf/2506.20964), [HTML](https://arxiv.org/abs/2506.20964)
 ### Authors
 Chengkuan Chen,Luca L. Weishaupt,Drew F. K. Williamson,Richard J. Chen,Tong Ding,Bowen Chen,Anurag Vaidya,Long Phi Le,Guillaume Jaume,Ming Y. Lu,Faisal Mahmood
@@ -574,9 +433,6 @@ Chengkuan Chen,Luca L. Weishaupt,Drew F. K. Williamson,Richard J. Chen,Tong Ding
 本文介绍了一种新的多模态大型语言模型PathChat+，用于处理人类病理学问题。PathChat+专门针对病理学训练，并使用超过一百万的病理特异性指令样本及近五百万轮问题解答对模型进行训练。经过跨多种病理学基准的广泛评估，PathChat+明显优于之前的PathChat副机，以及其他最先进的通用和特定于病理学的模型。此外，我们提出了SlideSeek，这是一种具备推理功能的多智能体AI系统，利用PathChat+对吉赫像素级全切片成像（WSI）进行迭代、分层诊断推理评估，能够在复杂的开放性鉴别诊断基准DDxBench上达到高准确性，同时能够生成视觉基础且可由人类理解的总结报告。
 ### Conclusion
 PathChat+显著提升了计算病理学中的自然语言处理能力，实现了从图像分析到整合自然语言和丰富文本信息的重大飞跃。SlideSeek则展示了从辅助到自主的诊断推理能力，实现高级自动化的病理学回顾和诊断过程。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 49. `cs.AI` - 可解释的加性规则集表示学习 [PDF](https://arxiv.org/pdf/2506.20927), [HTML](https://arxiv.org/abs/2506.20927)
 ### Authors
 Shahrzad Behzadimanesh,Pierre Le Bodic,Geoffrey I. Webb,Mario Boley
@@ -586,9 +442,6 @@ Shahrzad Behzadimanesh,Pierre Le Bodic,Geoffrey I. Webb,Mario Boley
 本文扩展了经典的规则集，通过引入用可学习的稀疏线性变换输入变量的逻辑语句，即形式为 $boldsymbol{x}^{top}boldsymbol{w} boldsymbol{≥} t$ 的命题，使决策区域能够成为一般多面体，具有斜面。提出了一种基于迭代加权化逻辑回归的递增贪婪优化学习方法。实验结果表明，所提方法能够有效地构建具有与最先进的方法相同测试风险的规则集，同时显著降低模型复杂性，适用于十个基准数据集。
 ### Conclusion
 通过引入可学习的稀疏线性变换，本文提出了一种新的方法，能够构建高效的可解释规则集模型，减少模型复杂性，同时保持与最先进的方法相同的测试风险。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 50. `cs.AI` - 从婴儿车到拐杖：一种用于高保真全生命周期面部老化的一阶段框架 [PDF](https://arxiv.org/pdf/2506.20977), [HTML](https://arxiv.org/abs/2506.20977)
 ### Authors
 Tao Liu,Dafeng Zhang,Gengchen Li,Shizhuo Liu,Yongqi Song,Senmao Li,Shiqi Yang,Boqian Li,Kai Wang,Yaxing Wang
@@ -598,9 +451,6 @@ Tao Liu,Dafeng Zhang,Gengchen Li,Shizhuo Liu,Yongqi Song,Senmao Li,Shiqi Yang,Bo
 提出了名为Cradle2Cane的两阶段面部老化框架，基于文本到图像扩散模型的两步法解决年龄准确性与身份一致性之间的trade-off问题。通过自适应噪声注入机制优化年龄准确性，结合两种身份感知嵌入（IDEmb）增强身份保持的同时保留年龄特征。
 ### Conclusion
 实验结果显示，Cradle2Cane在年龄准确性和身份一致性方面优于现有方法。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 51. `cs.AI` - 使用自然语言在病理图像中分割任何内容 [PDF](https://arxiv.org/pdf/2506.20988), [HTML](https://arxiv.org/abs/2506.20988)
 ### Authors
 Zhixuan Chen,Junlin Hou,Liqi Lin,Yihui Wang,Yequan Bie,Xi Wang,Yanning Zhou,Ronald Cheong Kin Chan,Hao Chen
@@ -610,9 +460,6 @@ Zhixuan Chen,Junlin Hou,Liqi Lin,Yihui Wang,Yequan Bie,Xi Wang,Yanning Zhou,Rona
 本文提出了PathSegmentor，这是首款专门针对病理图像的带有文本提示的分割基础模型。同时介绍了PathSeg，这是最大的、最全面的病理分割数据集，来源于17个公开来源，包含275k张图像-掩码-标签三元组，覆盖160个不同类别。通过PathSegmentor，用户可以使用自然语言提示进行语义分割，无需烦琐的空间输入，如点或箱。实验表明PathSegmentor在总体Dice分数上比专门模型更准确且适用范围更广，结构更加紧凑，显著超越了现有空间提示和文本提示模型。此外，PathSegmentor的输出增加了诊断模型的可解释性，有助于病理学家利用影像生物标志物进行临床决策，进一步推进了精准 oncology中的可解释AI的发展。
 ### Conclusion
 PathSegmentor显著提高了病理图像分割的准确性和适用范围，尤其适用于复杂结构的分割，实现了一系列新的应用，并通过影像生物标志物的发现增强了诊断模型的可解释性，为临床决策提供了证据支持。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 52. `cs.AI` - 增强同质性-异质性分离：关系感知的异质图学习 [PDF](https://arxiv.org/pdf/2506.20980), [HTML](https://arxiv.org/abs/2506.20980)
 ### Authors
 Ziyu Zheng,Yaming Yang,Ziyu Guan,Wei Zhao,Weigang Lu
@@ -622,9 +469,6 @@ Ziyu Zheng,Yaming Yang,Ziyu Guan,Wei Zhao,Weigang Lu
 本文提出了Relation-Aware Separation of Homophily and Heterophily (RASH)框架，这是一种新的对比学习方法，明确建模了高阶异质交互语义，并适应性地分离同质模式和异质模式。特别地，通过引入双重异质超图来编码多关系双部子图，并基于关系的重要性动态构建同质图和异质图。设计了多关系对比损失来通过最大化互信息对齐异质性和同质/异质视图。这样一来，RASH同时解决了异质图中的异质性和异质性挑战。
 ### Conclusion
 在基准数据集上进行的大量实验表明，RASH在各种下游任务中有效地解决了异质性和异质性问题。完整的代码可以在该网址找到：this https URL
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 53. `cs.AI` - VLA模型后训练与人类运动学习之间的类比：进展、挑战与趋势 [PDF](https://arxiv.org/pdf/2506.20966), [HTML](https://arxiv.org/abs/2506.20966)
 ### Authors
 Tian-Yu Xiang,Ao-Qun Jin,Xiao-Hu Zhou,Mei-Jiang Gui,Xiao-Liang Xie,Shi-Qi Liu,Shuang-Yi Wang,Sheng-Bin Duan,Fu-Chao Xie,Wen-Kai Wang,Si-Cheng Wang,Ling-Yun Li,Tian Tu,Zeng-Guang Hou
@@ -634,9 +478,6 @@ Vision-language-action（VLA）模型通过集成动作生成模块扩展了视�
 本文通过人类运动学习的视角，对VLA模型的后训练策略进行了系统性概述，提出了四种增强学习机制：（1）增强环境感知，（2）提高实体意识，（3）加深任务理解，（4）多组件集成。这种类比方法为VLA模型的设计和优化提供了新的思路和方法。
 ### Conclusion
 本文不仅提供了从人类运动学习视角对当前VLA模型后训练方法的全面综述，还提出了实用见解，指导未来的VLA模型开发。此外，本文还识别了后训练VLA模型的关键挑战和未来趋势，为该领域的进一步研究奠定了基础。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 54. `cs.AI` - SAC：一种用于测量和诱导具有动态强度控制的LLMs个性特征的框架 [PDF](https://arxiv.org/pdf/2506.20993), [HTML](https://arxiv.org/abs/2506.20993)
 ### Authors
 Adithya Chittem,Aishna Shrivastava,Sai Tarun Pendela,Jagat Sesh Challa,Dhruv Kumar
@@ -646,9 +487,6 @@ Adithya Chittem,Aishna Shrivastava,Sai Tarun Pendela,Jagat Sesh Challa,Dhruv Kum
 本文创新提出了具体属性控制（SAC）框架，扩展了原始的Machine Personality Inventory（MPI），增加了16PF模型的支持，从而能够对个性特征进行更细致的控制。同时，SAC框架还通过行为性问题和五个强度因子来动态诱导特质强度，将特质强度建模为连续体，证明了与二元切换相比，连续体建模可以实现更一致和可控制的个性表达，并且系统地影响相关信息性特质。
 ### Conclusion
 本文提出了SAC框架，该框架通过在LLMs中引入动态强度控制的能力，使得个性特征的表达更加一致和可控，开创了在各种领域中实现人机互动的新途径，特别是医疗健康、教育和面试等领域，为实现真正的人类社会机器人迈进了一步。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 55. `cs.AI` - EgoAdapt: 自适应多模态蒸馏与策略学习以实现高效第一人称感知 [PDF](https://arxiv.org/pdf/2506.21080), [HTML](https://arxiv.org/abs/2506.21080)
 ### Authors
 Sanjoy Chowdhury,Subrata Biswas,Sayan Nag,Tushar Nagarajan,Calvin Murdock,Ishwarya Ananthabhotla,Yijun Qian,Vamsi Krishna Ithapu,Dinesh Manocha,Ruohan Gao
@@ -658,9 +496,6 @@ Sanjoy Chowdhury,Subrata Biswas,Sayan Nag,Tushar Nagarajan,Calvin Murdock,Ishwar
 我们提出了一种名为EgoAdapt的框架，该框架能够自适应地执行跨模态蒸馏和策略学习，使模型能够在不同第一人称感知任务中高效地进行推理，这些任务包括第一人称动作识别、主动讲话者定位和行为预测。我们提出的策略模块可以适应特定任务的动作空间，具有广泛应用的潜力.
 ### Conclusion
 我们在三个具有挑战性的第一人称感知数据集EPIC-Kitchens, EasyCom和Aria Everyday Activities上进行了实验，结果显示我们的方法显著提高了效率，最高减少89.09%的GMACs，82.02%的参数，并最多减少9.6倍的能量消耗，同时仍然与最先进的模型性能相当，甚至在某些情况下超过了它们的性能.
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 56. `cs.AI` - 电子商务查询分类的半监督可扩展统一框架 [PDF](https://arxiv.org/pdf/2506.21049), [HTML](https://arxiv.org/abs/2506.21049)
 ### Authors
 Chunyuan Yuan,Chong Zhang,Zheng Fang,Ming Pang,Xue Jiang,Changping Peng,Zhangang Lin,Ching Law
@@ -670,9 +505,6 @@ Chunyuan Yuan,Chong Zhang,Zheng Fang,Ming Pang,Xue Jiang,Changping Peng,Zhangang
 提出了一种新颖的半监督可扩展统一框架（SSUF），包含多个增强模块来统一查询分类任务。知识增强模块利用世界知识增强查询表示，解决了信息不足的问题。标签增强模块利用标签语义和半监督信号，减少了对后续标签的依赖。结构增强模块基于复杂的标签关系增强标签表示。每个模块具有高度可插拔性，可根据每个子任务的需要添加或移除输入特征。进行全面的离线和在线A/B实验，结果显示SSUF显著优于最先进的模型。
 ### Conclusion
 实验证明，SSUF在电子商务查询分类中表现出色，显著优于当前最先进的模型。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 57. `cs.AI` - Strict Subgoal Execution: 受失败意识驱动的图基强化学习中的可靠长时序规划 [PDF](https://arxiv.org/pdf/2506.21039), [HTML](https://arxiv.org/abs/2506.21039)
 ### Authors
 Jaebak Hwang,Sanghyeon Lee,Jeongmo Kim,Seungyul Han
@@ -682,9 +514,6 @@ Jaebak Hwang,Sanghyeon Lee,Jeongmo Kim,Seungyul Han
 我们提出了严格子目标执行（SSE），这是一种图基的层次化RL框架，通过结构上限制高层决策来确保单步子目标可达性。为了增强探索，SSE使用解耦的探索策略，系统地探索目标空间中未充分探索的区域。此外，SSE采用一种基于失败的路径细化方法，通过动态调整边权重来改进图基规划，从而提高子目标的可靠性。实验结果显示，SSE在多样化的长时序基准测试中，无论是在效率还是成功率方面，都优于现有的目标条件强化学习和层次化强化学习方法。
 ### Conclusion
 实验结果表明，SSE在效率和成功率方面一致优于现有的目标条件强化学习和层次化强化学习方法。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 58. `cs.AI` - 基于后悔感知优化的有效技能发现 [PDF](https://arxiv.org/pdf/2506.21044), [HTML](https://arxiv.org/abs/2506.21044)
 ### Authors
 He Zhang,Ming Zhou,Shaopeng Zhai,Ying Sun,Hui Xiong
@@ -694,9 +523,6 @@ He Zhang,Ming Zhou,Shaopeng Zhai,Ying Sun,Hui Xiong
 本文将技能发现框架为技能生成和策略学习的最小-最大博弈，提出了一个基于时间表示学习的风险感知方法，其在提升策略强度的方向上扩展了发现的技能空间。创新点在于发现技能与策略学习是相抗衡的过程，即弱技能应进一步探索，而收敛技能的探索应减少。通过计算收敛的后悔值来指导技能发现，并采用可学习的技能生成器。为避免退化，技能生成来自可升级的技能生成器群体。
 ### Conclusion
 实验结果表明，我们的方法在效率和多样性方面都优于基准方法。此外，我们的方法在高维环境中的零样本改进达到了15%，超过了现有方法。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 59. `cs.AI` - 多模态提示对齐在面部表情识别中的应用 [PDF](https://arxiv.org/pdf/2506.21017), [HTML](https://arxiv.org/abs/2506.21017)
 ### Authors
 Fuyan Ma,Yiran He,Bin Sun,Shutao Li
@@ -706,9 +532,6 @@ Fuyan Ma,Yiran He,Bin Sun,Shutao Li
 本文提出了一种新的多模态提示对齐框架（MPA-FER），该框架通过将大型语言模型（如ChatGPT）生成的详细描述注入软提示来提供对提示视觉特征学习过程的精细语义指导，从而实现更精确和可解释的表示。具体地，本文提出了一种多粒度硬提示生成策略，结合了基于CLIP模型的预训练实现，通过最小化软提示和硬提示的特征差异，进一步注入外部知识。此外，本文还提出了一种跨模态全局-局部对齐模块，强调面部表情相关的特征，进一步提高了文本和视觉特征之间的对齐。
 ### Conclusion
 广泛的实验表明，本文提出的框架在三种面部表情识别基准数据集上优于现有技术，同时保留了预训练模型的优点，并将计算成本降到最低。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 60. `cs.AI` - 通过指导和调度提高基于扩散的图像编辑保真度 [PDF](https://arxiv.org/pdf/2506.21045), [HTML](https://arxiv.org/abs/2506.21045)
 ### Authors
 Hansam Cho,Seoung Bum Kim
@@ -718,9 +541,6 @@ Hansam Cho,Seoung Bum Kim
 提出了Faithfulness Guidance and Scheduling (FGS)，这是一种结合保真度指导和调度策略的方法。FGS增强了输入图像信息的保留，同时通过调度策略解决了可编辑性和保真度之间的错位问题。这种方法能够在提高保真度的同时保持图像编辑的可操作性。FGS还具有兼容性，适用于多种编辑方法，能够实现跨多种任务的高质量图像编辑。
 ### Conclusion
 实验结果表明，FGS在保持可编辑性的同时实现了优越的保真度效果。此外，FGS的兼容性使其能够应用于各种图像编辑任务，实现精准且高质量的图像编辑。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 61. `cs.AI` - ComRAG：基于动态向量存储的检索增强生成在工业社区问答中的实时应用 [PDF](https://arxiv.org/pdf/2506.21098), [HTML](https://arxiv.org/abs/2506.21098)
 ### Authors
 Qinwen Chen,Wenbiao Tao,Zhiwei Zhu,Mingfan Xi,Liangzhong Guo,Yuan Wang,Wei Wang,Yunshi Lan
@@ -730,9 +550,6 @@ Qinwen Chen,Wenbiao Tao,Zhiwei Zhu,Mingfan Xi,Liangzhong Guo,Yuan Wang,Wei Wang,
 提出了一种名为ComRAG的检索增强生成框架，用于解决工业CQA平台的实时问题。ComRAG通过中心点为基础的记忆机制，结合静态知识和动态的历史问答对，实现了检索、生成和高效的存储。ComRAG在三个工业CQA数据集上的评估结果显示，其表现优于所有基础方法，提高了向量相似度高达25.9%，降低了延迟8.7%-23.3%，并在迭代过程中将块增长从20.23%降低到2.06%。
 ### Conclusion
 ComRAG在工业CQA领域实现了显著改进，提供了一种有效的实时问答解决方案，解决了历史互动和领域知识的有效利用难题。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 62. `cs.AI` - CovDocker: 使用任务、数据集和解决方案评估共价药物设计 [PDF](https://arxiv.org/pdf/2506.21085), [HTML](https://arxiv.org/abs/2506.21085)
 ### Authors
 Yangzhe Peng,Kaiyuan Gao,Liang He,Yuheng Cong,Haiguang Liu,Kun He,Lijun Wu
@@ -742,9 +559,6 @@ Yangzhe Peng,Kaiyuan Gao,Liang He,Yuheng Cong,Haiguang Liu,Kun He,Lijun Wu
 该研究引入了一个全面的共价对接基准测试 CovDocker，它将共价对接过程分解为三个主要任务：反应位置预测、共价反应预测和共价对接。通过使用当前最先进的模型如 Uni-Mol 和 Chemformer，它建立了基准线性能，并展示了基准测试在准确预测相互作用位点和建模共价结合过程中涉及的分子变化方面的作用。这证实了基准测试作为推动共价药物设计研究的严格框架的作用，强调了基于数据的方法加速选择性共价抑制剂发现的潜力，并解决了药物开发过程中的关键挑战。
 ### Conclusion
 CovDocker 作为评价共价药物设计的有效工具，通过任务分解和数据集的利用，展示了最先进的模型在共价相互作用和结构变化预测方面的有效性。这一框架为共价药物设计的进步提供了严格的框架，并且证实了基于数据的方法在加速发现具有选择性的共价抑制剂方面的潜力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 63. `cs.AI` - V2X-REALM：基于视觉-语言模型的自适应长尾建模的稳健端到端协同自动驾驶 [PDF](https://arxiv.org/pdf/2506.21041), [HTML](https://arxiv.org/abs/2506.21041)
 ### Authors
 Junwei You,Pei Li,Zhuoyu Jiang,Zilin Huang,Rui Gan,Haotian Shi,Bin Ran
@@ -754,9 +568,6 @@ Junwei You,Pei Li,Zhuoyu Jiang,Zilin Huang,Rui Gan,Haotian Shi,Bin Ran
 V2X-REALM 引入了三项核心创新：(i) 一种基于提示的长尾场景生成和评估流水线，利用基础模型合成现实的长尾条件（如雪、雾）；(ii) 一个具有门控多场景自适应注意力模块，在视觉流中使用场景先验来调整模棱两可或损坏的特征；(iii) 一个多任务场景感知对比学习目标，提高了跨场景特征的区分性，并优化了模态对齐，从而提高了基于多模态的推理能力。
 ### Conclusion
 大量的实验表明，V2X-REALM 在各类复杂驾驶条件下的鲁棒性、语义推理能力、安全性及规划准确性方面显著优于现有基础模型，推动了端到端协同自动驾驶系统的广泛应用和普及。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 64. `cs.AI` - PhishKey: 一种用于增强式钓鱼检测的新型质心基于方法，结合自适应HTML组件提取 [PDF](https://arxiv.org/pdf/2506.21106), [HTML](https://arxiv.org/abs/2506.21106)
 ### Authors
 Felipe Castaño,Eduardo Fidalgo,Enrique Alegre,Rocio Alaiz-Rodríguez,Raul Orduna,Francesco Zola
@@ -766,9 +577,6 @@ Felipe Castaño,Eduardo Fidalgo,Enrique Alegre,Rocio Alaiz-Rodríguez,Raul Ordun
 PhishKey 是一种创新的钓鱼检测方法，结合了字符级处理和卷积神经网络（CNN）的 URL 分类，以及基于质心的关键词组件钓鱼提取器（CAPE），用于 HTML 内容的词级处理。CAPE 通过减少噪声避免在输入数据上进行裁剪操作，确保样本处理的完整性。预测结果通过软投票集成，以实现更准确可靠的分类。实际上，PhishKey 在四个先进的数据集上的实验评估证明了其有效性，最高 F1 分数达到 98.70%，且对注入攻击等对抗性操作具有强大的抵抗力，性能下降最小。
 ### Conclusion
 PhishKey 通过结合质心基于的关键词组件提取和卷积神经网络特征提取方法，提供了更准确的钓鱼内容检测，能够有效应对注入攻击等对抗性干扰，展示了其在钓鱼检测领域的优越性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 65. `cs.AI` - FeDa4Fair：用于公平性评估的客户端级联邦数据集 [PDF](https://arxiv.org/pdf/2506.21095), [HTML](https://arxiv.org/abs/2506.21095)
 ### Authors
 Xenia Heilmann,Luca Corbucci,Mattia Cerrato,Anna Monreale
@@ -778,9 +586,6 @@ Xenia Heilmann,Luca Corbucci,Mattia Cerrato,Anna Monreale
 本文贡献了FeDa4Fair库，该库能够生成特定于评估异质客户端偏差下公平性联邦学习方法的表格数据集；发布了四个异质偏差数据集及其基准测试，在受控环境中比较公平性缓解方法；提供了评估这些数据集公平结果的现成函数，旨在为公平意识的联邦学习方法提供全局和客户端层面的一致基准测试。
 ### Conclusion
 本文通过引入FeDa4Fair库、发布异质偏差数据集及其基准测试以及提供评估函数，为公平意识的联邦学习方法提供了一致的基准测试能力，旨在支持在联邦学习中更稳健和可重现的公平性研究。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 66. `cs.AI` - IPFormer-VideoLLM: 提升多模态多景别视频理解 [PDF](https://arxiv.org/pdf/2506.21116), [HTML](https://arxiv.org/abs/2506.21116)
 ### Authors
 Yujia Liang,Jile Jiao,Zhicheng Wang,Xuetao Feng,Zixuan Ye,Yuan Wang,Hao Lu
@@ -790,9 +595,6 @@ Yujia Liang,Jile Jiao,Zhicheng Wang,Xuetao Feng,Zixuan Ye,Yuan Wang,Hao Lu
 该研究引入了一个名为 MultiClip-Bench 的新数据集，该数据集包含密集描述和基于指令的问题-答案配对，专门设计用于处理多景别场景。通过这种数据集，模型的多景别性能显著提升。此外，提出了 IPFormer-VideoLLM 模型，该模型通过高效的基于注意力的连接器注入实例级特征作为实例提示，以便在场景中聚合实例特定信息。实验结果证明，该模型不仅提高了多场景视频理解能力，还为多种视频基准测试提供了优势。
 ### Conclusion
 研究提出的新数据集和模型显著增强了多场景视频理解能力，并且在多种视频基准测试中表现出显著优势。通过集成实例级特征，模型能够在多场景中更准确地理解和处理视频内容。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 67. `cs.AI` - 基于Transformer的空间时序反事实结果估计 [PDF](https://arxiv.org/pdf/2506.21154), [HTML](https://arxiv.org/abs/2506.21154)
 ### Authors
 He Li,Haoang Chi,Mingyu Liu,Wanrong Huang,Liyang Xu,Wenjing Yang
@@ -802,9 +604,6 @@ He Li,Haoang Chi,Mingyu Liu,Wanrong Huang,Liyang Xu,Wenjing Yang
 本文提出了一种新的框架，利用Transformer进行具有时空属性的反事实结果估计，展现出更强的估计能力。在温和的假设下，该框架中的提出估计器是一致的，并且渐近正态。利用此框架，不仅能克服传统方法的局限性，还可以更准确地估计反事实结果，尤其适用于复杂的时间空间关系场景。
 ### Conclusion
 通过模拟实验和真实数据实验，验证了该方法的有效性。模拟实验结果表明，该估计器比基准方法具有更强的估计能力。真实数据实验则具体分析了冲突对哥伦比亚森林损失因果效应的影响，证明了实际应用中的有效性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 68. `cs.AI` - 大型语言模型在专业会计师考试中的表现 [PDF](https://arxiv.org/pdf/2506.21031), [HTML](https://arxiv.org/abs/2506.21031)
 ### Authors
 Jatin Gupta,Akhil Sharma,Saransh Singhania,Mohammad Adnan,Sakshi Deo,Ali Imam Abidi,Keshav Gupta
@@ -814,9 +613,6 @@ Jatin Gupta,Akhil Sharma,Saransh Singhania,Mohammad Adnan,Sakshi Deo,Ali Imam Ab
 本文通过开发名为CA-Ben的专业会计师基准测试，首次系统性评估了多个LLMs在财务、法律和定量推理方面的具体能力，涵盖了从基础知识到高级课程的不同教育水平，并使用标准化协议对六种主要的LLMs进行了评估。研究揭示了LLMs在概念和法律推理方面表现突出，但在数值计算和法律解释方面面临挑战，这表明LLMs当前的优势和限制，也指出了改进的方向。
 ### Conclusion
 研究结果强调了当前LLMs的优势和局限性，建议通过混合推理和检索增强生成方法来提高LLMs的定量分析能力和精准的法律解释能力。未来的研究可以考虑结合这些提出的方法，进一步改进LLMs在金融领域的应用。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 69. `cs.AI` - 抗脆弱强化学习在对抗环境中的UAV去冲突稳健策略切换 [PDF](https://arxiv.org/pdf/2506.21127), [HTML](https://arxiv.org/abs/2506.21127)
 ### Authors
 Deepak Kumar Panda,Weisi Guo
@@ -826,9 +622,6 @@ Deepak Kumar Panda,Weisi Guo
 该研究提出了一种基于折扣Thompson采样的抗脆弱RL框架，这一框架通过动态选择多个稳健策略，有效应对出分布变化和非平稳的对抗攻击。该方法解决了现有健稳RL方法主要针对固定扰动的问题，提供了对更广泛范围的分布变化的适应能力。
 ### Conclusion
 实验证明了该抗脆弱RL框架的有效性，特别是在对抗环境下的复杂导航任务中，与传统的健稳RL方法相比，该方法能够更高效地生成无冲突的导航路径，提供更短的路径长度和更高的成功率。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 70. `cs.AI` - DBConformer: 双分支卷积变换器用于脑电图解码 [PDF](https://arxiv.org/pdf/2506.21140), [HTML](https://arxiv.org/abs/2506.21140)
 ### Authors
 Ziwei Wang,Hongbin Wang,Tianwang Jia,Xingyi He,Siyang Li,Dongrui Wu
@@ -838,9 +631,6 @@ Ziwei Wang,Hongbin Wang,Tianwang Jia,Xingyi He,Siyang Li,Dongrui Wu
 本文提出了一种双分支卷积变换器（DBConformer），专门用于EEG解码。DBConformer结合了时间Conformer来建模长时间依赖关系，空间Conformer来提取通道间交互，捕捉EEG信号的时空动态和模式。此外，还引入了一个轻量级的通道注意模块，通过数据驱动的重要性赋予EEG通道，进一步精细化空间表示。广泛的实验结果表明，DBConformer在五个运动想象（MI）数据集和两个癫瘸检测数据集的三种评估设置下，均优于10个竞争Baseline模型，参数数量减少了八倍以上，且提取的特征具有生理可解释性和与运动感知先验一致的特点，这使得DBConformer在稳健和可解释EEG解码方面表现出优越性和可解释性。代码已公开。
 ### Conclusion
 DBConformer在EEG解码性能和解释性方面表现出优越性，验证了其在脑电解码中的可靠性和可解释性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 71. `cs.AI` - 在心脏MRI中含噪声标签的心肌疤痕分割的稳健深度学习 [PDF](https://arxiv.org/pdf/2506.21151), [HTML](https://arxiv.org/abs/2506.21151)
 ### Authors
 Aida Moafi,Danial Moafi,Evgeny M. Mirkes,Gerry P. McCann,Abbas S. Alatrany,Jayanth R. Arnold,Mostafa Mehdipour Ghazi
@@ -850,9 +640,6 @@ Aida Moafi,Danial Moafi,Evgeny M. Mirkes,Gerry P. McCann,Abbas S. Alatrany,Jayan
 该研究通过使用Kullback-Leibler损失和大量数据增强，提出了一种自监督的深度学习管道，旨在解决心脏MRI中心肌疤痕分割中遇到的标签噪声、数据异质性和类别不平衡问题。该方法在多个指标上优于现有的如nnU-Net等最先进的模型，显示出强大的跨分布外测试集的一致性和鲁棒性。
 ### Conclusion
 该研究结果证明了所提出的方法在心肌疤痕分割中能够提供准确和光滑的分割结果，即使在标签噪声的情况下亦然。方法在急性与慢性病例上的良好表现进一步凸显了其在面临不同影像条件和临床任务时的鲁棒性。这为自动心肌疤痕量化建立了可靠的基础，支持了深度学习在心脏成像中的广泛应用。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 72. `cs.AI` - 基于课程引导的抗脆弱强化学习在观测空间攻击下的安全无人机冲突解诀 [PDF](https://arxiv.org/pdf/2506.21129), [HTML](https://arxiv.org/abs/2506.21129)
 ### Authors
 Deepak Kumar Panda,Adolfo Perrusquia,Weisi Guo
@@ -862,9 +649,6 @@ Deepak Kumar Panda,Adolfo Perrusquia,Weisi Guo
 提出了一个抗脆弱的RL框架，用于适应逐步增加的对抗性扰动课程。该框架引入了一个模拟攻击者，能够逐步增强观测空间的扰动强度，使RL代理能够适应和泛化到更广泛的OOD观测，并预见到以前未见过的攻击。该方法通过迭代专家引导的评论家对齐，使用Wasserstein距离最小化，来应用增量扰动观测，稳定了遗忘边界。研究在动态3D障碍的无人机脱冲突场景中，使用了投影梯度下降（PGD）和GPS欺骗攻击进行了验证，结果表明抗脆弱策略在应对这些攻击时性能显著优于标准和鲁棒RL基线，累计奖励提高了15%，冲突事件减少了超过30%。
 ### Conclusion
 这些发现证明了抗脆弱强化学习在不断变化的威胁场景中进行安全和稳健决策的实用性和理论可行性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 73. `cs.AI` - 通过注意力引导的图学习实现可解释的层次概念推理 [PDF](https://arxiv.org/pdf/2506.21102), [HTML](https://arxiv.org/abs/2506.21102)
 ### Authors
 David Debot,Pietro Barbiero,Gabriele Dominici,Giuseppe Marra
@@ -874,9 +658,6 @@ CBMs是一类通过解释预测来提供可解释性的深度学习模型，它�
 首次提出H-CMR模型，通过有向无环图和神经注意力机制提供对概念和任务预测的双重可解释性，改善了CBMs的局限性，使得模型不仅对下游任务的预测结果具有可解释性，还对概念预测过程部分具有可解释性。
 ### Conclusion
 H-CMR模型通过有效的机制提供强大的可解释性，在保持高性能的同时，增强人类与模型的互动，提升模型的推理准确性和数据使用效率。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 74. `cs.AI` - Progtuning: 变量精细调优框架下的Transformer-based语言模型渐进式微调 [PDF](https://arxiv.org/pdf/2506.21119), [HTML](https://arxiv.org/abs/2506.21119)
 ### Authors
 Xiaoshuang Ji,Zhendong Zhao,Xiaojun Chen,Xin Zhao,Zeyao Liu
@@ -886,9 +667,6 @@ Xiaoshuang Ji,Zhendong Zhao,Xiaojun Chen,Xin Zhao,Zeyao Liu
 本文提出了一种新颖的精细调优框架——Progtuning，结合了渐进式学习。Progtuning基于各Transformer块的贡献逐步减少更新的Transformer块数量。通过优化资源分配，Progtuning减少了大约25%的更新参数量，同时保持了竞争力。并且，Progtuning具有与参数高效的精细调优方法的高适应性，展示了在各种适应场景中的出色性能。
 ### Conclusion
 Progtuning优化了资源分配，减少了更新参数的数量，并且在多种场景下仍然表现出色，证明了其对Transformer-based语言模型的高效适应性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 75. `cs.AI` - 从链上到宏观经济：评估数据源多样性在加密货币市场预测中的重要性 [PDF](https://arxiv.org/pdf/2506.21246), [HTML](https://arxiv.org/abs/2506.21246)
 ### Authors
 Giorgos Demosthenous,Chryssis Georgiou,Eliada Polydorou
@@ -898,9 +676,6 @@ Giorgos Demosthenous,Chryssis Georgiou,Eliada Polydorou
 研究提出了一种新颖的特征缩减算法，以识别多样化数据源中的最具影响力和韧性的特征。通过加密货币市场的链上指标、情绪和兴趣指标、传统市场指数和宏观经济指标等多样化的数据源，显著提升了预测模型的性能。该研究强调了传统市场指数和宏观经济指标在长期预测中的重要性。
 ### Conclusion
 数据源多样性在加密货币预测模型中具有重要意义，尤其是在不同时间范围内的预测准确性。链上指标对于短期和长期预测至关重要，传统市场指数和宏观经济指标对长期预测具有重要影响。通过利用多样化的数据源，研究提高了模型的准确性和稳健性，为加密货币市场的预测提供了新的视角。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 76. `cs.AI` - 合成需求质量如何？评估大型语言模型生成的数据集对AI4RE的应用 [PDF](https://arxiv.org/pdf/2506.21138), [HTML](https://arxiv.org/abs/2506.21138)
 ### Authors
 Abdelkarim El-Hajjami,Camille Salinesi
@@ -910,9 +685,6 @@ Abdelkarim El-Hajjami,Camille Salinesi
 研究引入了一种增强的产品线方法Synthline v1，它比之前的v0版本采用了更先进的生成策略和校对技术。研究通过四个分类任务评估了多样本提示、自动提示优化及后生成校对对数据质量的影响，展示了这些技术显著提升了合成数据的质量和多样性，尤其是在安全分类和缺陷分类任务中，合成数据表现更优。此外，研究发现某些冗余可能有助于提高机器学习模型的表现。
 ### Conclusion
 研究结果表明，合成需求数据在特定任务上可以与或超过人类编写的数据，特别是在安全分类和缺陷检测任务上，合成数据表现更好。这些发现为AI4RE提供了实践性的指导，并为通过系统的方法合成数据来缓解数据稀缺性问题提供了可行路径。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 77. `cs.AI` - $T^3$: 大型语言模型驱动的多层次树结构自动程序修复 [PDF](https://arxiv.org/pdf/2506.21211), [HTML](https://arxiv.org/abs/2506.21211)
 ### Authors
 Quanming Liu,Xupeng Bu,Zhichao Yan,Ru Li
@@ -922,9 +694,6 @@ Quanming Liu,Xupeng Bu,Zhichao Yan,Ru Li
 该研究提出了一种新颖的框架$T^3$，它结合了大语言模型的强大推理能力和树搜索技术，以提高自动化程序修复的精度，并为优化样本选择和修复策略提供了指导。
 ### Conclusion
 该研究通过系统评估几种常见CoT技术在APR任务中的性能，并提出了集成LLMs和树搜索技术的$T^3$框架，该框架能够有效提高修复解决方案的准确性，并优化样本选择和修复策略，从而建立了高效的自动化调试框架。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 78. `cs.AI` - BitMark for Infinity: Bit级自回归图像生成模型中的水印 [PDF](https://arxiv.org/pdf/2506.21209), [HTML](https://arxiv.org/abs/2506.21209)
 ### Authors
 Louis Kerner,Michel Meintz,Bihe Zhao,Franziska Boenisch,Adam Dziedzic
@@ -934,9 +703,6 @@ Louis Kerner,Michel Meintz,Bihe Zhao,Franziska Boenisch,Adam Dziedzic
 我们的方法直接在位级上嵌入水印，在Infinity的图像生成过程中跨越多个尺度（或分辨率）的标记流中。这种方法对位施加隐蔽的影响，以保持视觉保真度和生成速度，同时具有很强的抗移除技术的鲁棒性。此外，它还表现出高度的放射性，也就是说，当使用经过BitMark水印处理的生成图像重新训练另一个图像生成模型时，该第二个模型的输出也会携带水印。即使只是对经过BitMark水印处理的图像进行微调扩散或图像自回归模型，其痕迹也是可以检测到的。
 ### Conclusion
 总体而言，我们的方法为防止图像生成模型中的模型崩溃提供了一个有原则的步骤，通过可靠的检测生成输出来实现这一点。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 79. `cs.AI` - 基于线性性的神经网络压缩 [PDF](https://arxiv.org/pdf/2506.21146), [HTML](https://arxiv.org/abs/2506.21146)
 ### Authors
 Silas Dobler,Florian Lemmerich
@@ -946,9 +712,6 @@ Silas Dobler,Florian Lemmerich
 本文提出了一种基于线性的新型压缩方法，这是一种不同于以往主要依赖于激活函数和冗余参数去除的方法。该方法通过测量几乎总是激活的神经元的行为线性化，实现在合并网络层的同时减少权重。实验结果显示，该方法可以在大多数测试模型中无损压缩到原模型大小的1/4。这种方法适用于已有基于重要性压缩的模型，在不同类型的压缩技术之间几乎没有干扰，表明可以成功结合多种压缩技术。
 ### Conclusion
 本文确立了一种基于线性的压缩方法，这种新方法能更有效地减少神经网络的参数，使模型更小更高效，初步表明其作为未来神经网络优化解决方案的一种有力途径的潜力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 80. `cs.AI` - 任务感知的KV压缩以实现成本效益较高的长视频理解 [PDF](https://arxiv.org/pdf/2506.21184), [HTML](https://arxiv.org/abs/2506.21184)
 ### Authors
 Minghao Qin,Yan Shu,Peitian Zhang,Kun Lun,Huaying Yuan,Juenjie Zhou,Shitao Xiao,Bo Zhao,Zheng Liu
@@ -958,9 +721,6 @@ Minghao Qin,Yan Shu,Peitian Zhang,Kun Lun,Huaying Yuan,Juenjie Zhou,Shitao Xiao,
 本文提出了Video-X^2L，它可以在不引入额外训练的情况下，灵活保留关键视频信息，并引入了两级KV压缩和选择性KV重新加载两种关键技术，使得模型能够在充分利用任务特定信息的同时保持整体紧凑性。
 ### Conclusion
 我们在多种流行的LVU基准测试（包括VideoMME、MLVU、LongVideoBench和VNBench）上验证了Video-X^2L。实验结果表明，Video-X^2L在计算成本大幅节省的情况下，显著优于现有的KV压缩方法。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 81. `cs.AI` - 少数乐器检测的分层深度学习方法 [PDF](https://arxiv.org/pdf/2506.21167), [HTML](https://arxiv.org/abs/2506.21167)
 ### Authors
 Dylan Sechet,Francesca Bugiotti,Matthieu Kowalski,Edouard d'Hérouville,Filip Langiewicz
@@ -970,9 +730,6 @@ Dylan Sechet,Francesca Bugiotti,Matthieu Kowalski,Edouard d'Hérouville,Filip La
 这项研究提出了多种将层次结构整合到模型中的策略，并测试了一种用于层次音乐预测的新模型类别。主要创新点在于通过填补细节乐器识别和群体识别之间的差距，实现了更可靠的大类乐器检测，为进一步在这个领域的发展铺平了道路。
 ### Conclusion
 这项研究展示了通过层次分类系统在详细乐器识别和群体级别识别之间建立联系，以实现更可靠的粗级别乐器检测，为这一领域的进一步发展奠定了基础。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 82. `cs.AI` - 一种将3D超声整合到经皮肝肿瘤消融中的新型框架 [PDF](https://arxiv.org/pdf/2506.21162), [HTML](https://arxiv.org/abs/2506.21162)
 ### Authors
 Shuwei Xing,Derek W. Cool,David Tessier,Elvis C.S. Chen,Terry M. Peters,Aaron Fenster
@@ -982,9 +739,6 @@ Shuwei Xing,Derek W. Cool,David Tessier,Elvis C.S. Chen,Terry M. Peters,Aaron Fe
 提出了一种新的框架，用于将3D US整合到标准消融工作流程中。这一框架的重点是实现2D US-CT/MRI配准，利用3D US作为配准中介来简化配准过程，并提出了一种直观的多模态图像可视化技术，以促进配准流程的有效验证。
 ### Conclusion
 所提出的2D US-CT/MRI配准流程成功实现了3D US成像在经皮肿瘤消融中的改进，展示了3D US在临床干预中扩展治疗作用的潜力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 83. `cs.AI` - 维护MTEB：迈向嵌入基准长期可重复性和可用性 [PDF](https://arxiv.org/pdf/2506.21182), [HTML](https://arxiv.org/abs/2506.21182)
 ### Authors
 Isaac Chung,Imene Kerboua,Marton Kardos,Roman Solomatin,Kenneth Enevoldsen
@@ -994,9 +748,6 @@ Isaac Chung,Imene Kerboua,Marton Kardos,Roman Solomatin,Kenneth Enevoldsen
 研究提出了维护稳健的持续集成流水线的方法，包括验证数据集完整性、自动化测试执行和评估基准结果的泛化性。这些工程实践对于扩展MTEB、确保质量和相关性至关重要，最终十分有助于解决机器学习测评框架中可重复性和可用性的问题。此外，还讨论了处理社区贡献和扩展基准的新任务和数据集的策略。
 ### Conclusion
 研究经验对面临类似挑战的基准维护者提供有价值的见解，确保基准测评框架中的可重复性和可用性。MTEB的存储库可在指定链接中找到。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 84. `cs.AI` - Agent-RewardBench：统一感知、规划和安全领域多模态智能体奖励建模 benchmark 的构建 [PDF](https://arxiv.org/pdf/2506.21252), [HTML](https://arxiv.org/abs/2506.21252)
 ### Authors
 Tianyi Men,Zhuoran Jin,Pengfei Cao,Yubo Chen,Kang Liu,Jun Zhao
@@ -1006,9 +757,6 @@ Tianyi Men,Zhuoran Jin,Pengfei Cao,Yubo Chen,Kang Liu,Jun Zhao
 提出了一个名为Agent-RewardBench的benchmark，用于评估多模态语言模型在奖励建模方面的表现。此benchmark具有三个关键特性：（1）多个维度和真实世界智能体场景评估，涵盖了感知、规划和安全，共计7个场景；（2）逐步骤奖励评估，允许评估智能体在任务每一步的能力，提供更为细致的规划过程表现视图；（3）适中的难度和高质量的数据，精选了10个不同的模型，难度控制保持任务挑战性，通过人工验证确保数据完整性。研究结果表明，即使是最先进的多模态模型在奖励建模方面表现也非常有限，突显了对智能体奖励建模的专业化训练需求。
 ### Conclusion
 实验结果表明，即使是最先进的多模态模型，在奖励建模方面也表现受限，强调了对智能体奖励建模的专业化训练需求。该项目的代码可以在github上获得。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 85. `cs.AI` - 使用自回归语言模型在视觉接地对话中检测代词表达 [PDF](https://arxiv.org/pdf/2506.21294), [HTML](https://arxiv.org/abs/2506.21294)
 ### Authors
 Bram Willemsen,Gabriel Skantze
@@ -1018,9 +766,6 @@ Bram Willemsen,Gabriel Skantze
 利用预训练的大语言模型进行相对粗糙的标记，通过预测下一个token来划定提到的范围边界，这种方法在小数据集和参数高效调整的情况下仍然有效。
 ### Conclusion
 虽然仅基于文本的方法在一定程度上有效，但任务本质上是多模态的，单模态方法有其固有限制，需要进一步探索多模态方法来解决这个问题。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 86. `cs.AI` - 集成车辆声学数据以增强城市交通管理：苏州城市道路行驶速度分类研究 [PDF](https://arxiv.org/pdf/2506.21269), [HTML](https://arxiv.org/abs/2506.21269)
 ### Authors
 Pengfei Fan,Yuli Zhang,Xinheng Wang,Ruiyuan Jiang,Hankang Gu,Dongyao Jia,Shangbo Wang
@@ -1030,9 +775,6 @@ Pengfei Fan,Yuli Zhang,Xinheng Wang,Ruiyuan Jiang,Hankang Gu,Dongyao Jia,Shangbo
 该研究提出了双模特征融合深度卷积神经网络（BMCNN）来建模车辆噪声与行驶速度之间的耦合作用，并通过跨模态注意力机制充分利用时间-频率信息。BMCNN在两个数据集上的分类性能显著，尤其在抑制环境背景干扰和提高鲁棒性方面表现出色。此外，研究还通过消融实验验证了各模块的重要性，进一步优化了性能并减轻了过拟合现象。
 ### Conclusion
 提出的基于声学的速度分类方法可以集成到智能城市交通管理系统中，实现实时噪声监测和速度估计，从而优化交通流量控制、减少路边噪声污染，并支持可持续城市规划。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 87. `cs.AI` - 小编码器可以在检测Groundedness方面与大解码器匹敌 [PDF](https://arxiv.org/pdf/2506.21288), [HTML](https://arxiv.org/abs/2506.21288)
 ### Authors
 Istabrak Abbes,Gabriele Prato,Quentin Fournier,Fernando Rodriguez,Alaa Boukhary,Adam Elwood,Sarath Chandar
@@ -1042,9 +784,6 @@ Istabrak Abbes,Gabriele Prato,Quentin Fournier,Fernando Rodriguez,Alaa Boukhary,
 研究证明，即使是在性能上远不及现代LLMs的轻量级模型，如RoBERTa和NomicBERT，也能在上下文一致性检测方面达到接近最先进的LLMs（如Llama3 8B和GPT4o）的准确性，同时将推理延迟大大缩短。这表明，较小型的编码器模型在检测上下文一致性方面可以与强大且庞大的LLMs竞争，为实际应用提供了一种成本效益更高的方法。
 ### Conclusion
 此项研究开发了一种轻量级的任务特定编码器模型，能够高效地检测查询的上下文一致性，显著减少了推理时间和资源消耗，同时保持了与最先进的LLMs相当的准确性。这为实际应用中利用LLMs处理自然语言处理任务提供了新的可能性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 88. `cs.AI` - 使用高效球面卡丘分布的超球面变分自编码器 [PDF](https://arxiv.org/pdf/2506.21278), [HTML](https://arxiv.org/abs/2506.21278)
 ### Authors
 Lukas Sablica,Kurt Hornik
@@ -1054,9 +793,6 @@ Lukas Sablica,Kurt Hornik
 提出了一种新的VAE架构，采用球面卡丘（spCauchy）隐变量分布。spCauchy分布具有更自然的超球面表示形式，更适合捕捉方向性数据，同时保持灵活性。其厚尾特性可以防止过度正则化，保证隐变量空间的有效利用和更强大的表示能力。此外，spCauchy通过莫比乌斯变换实现了完全可微且高效的重新参数化技巧，避免了von Mises-Fisher分布的数值不稳定问题。此外，可以通过快速收敛的幂级数计算KL散度，消除了与超几何函数比值计算相关的下溢或上溢问题。这些特性使spCauchy成为研究VAEs的有效替代方案，具有理论优势和实际高效的高维生成建模能力。
 ### Conclusion
 球面卡丘分布可以在VAE中提供更自然的超球面隐变量表示，同时增强了对方向数据的捕捉能力，避免了von Mises-Fisher分布的数值不稳定性。通过提供更高效的计算方法和更稳定的学习机制，spCauchy VAE在高维生成建模中展现出理论优势和实际应用效率。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 89. `cs.AI` - 在加权深多项式逼近方面的统一探讨 [PDF](https://arxiv.org/pdf/2506.21306), [HTML](https://arxiv.org/abs/2506.21306)
 ### Authors
 Kingsley Yeon,Steven B. Damelin
@@ -1066,9 +802,6 @@ Kingsley Yeon,Steven B. Damelin
 引入了一类针对具有不对称行为的函数（一侧增长、另一侧衰减）进行加权深多项式逼近的模型。通过乘以可学习的深多项式和一个单侧权重，该框架能够捕捉局部非光滑性和全局增长特征。实验表明，该框架即使使用相同数量的参数，其逼近效果也优于Taylor逼近、Chebyshev逼近和普通深多项式逼近。为了实际优化这些逼近模型，提出了基于图结构参数化的稳健策略。
 ### Conclusion
 通过引入加权的深多项式逼近方法，可以更有效地逼近具有特定行为的函数。实验表明，该方法在相同参数条件下优于现有的多种逼近方法，而且提出的新参数化策略提高了优化的稳定性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 90. `cs.AI` - 低资源音乐生成中适配器设计权衡的研究 [PDF](https://arxiv.org/pdf/2506.21298), [HTML](https://arxiv.org/abs/2506.21298)
 ### Authors
 Atharva Mehta,Shivam Chauhan,Monojit Choudhury
@@ -1078,9 +811,6 @@ Atharva Mehta,Shivam Chauhan,Monojit Choudhury
 本文通过研究不同配置的适配器在两个AI音乐模型（MusicGen和Mustango）上的表现，探讨了在两种音乐流派（印度斯坦古典音乐和土耳其马卡姆音乐）上如何实现最佳的适配器设计。发现卷积适配器在捕捉细腻的地方音乐细节（如装饰音和短旋律片段）方面表现出色，而变压器适配器则在保持对结构即兴演奏至关重要的长期依赖关系方面表现更好。此外，还分析了不同适配器规模下的计算资源需求，表明中型适配器（参数量为40M）在表达能力和质量之间实现了最优平衡。通过对比Mustango和MusicGen模型的生成效果，表明了基于扩散的模型在生成更多样化的输出方面具有优势，但缺乏音符稳定性和节奏对齐，而自回归模型则训练更快，效率更高，但生成输出的冗余度略高。
 ### Conclusion
 研究结果表明，卷积适配器在捕捉微观音乐细节方面表现更佳，而变压器适配器则更适合保持长期依赖关系，这对于结构化的即兴创作至关重要。此外，中型适配器（40M参数）能够在表达能力和质量之间取得最优平衡。Mustango虽然生成多样性的输出更好，但在音符稳定性和节奏对齐等方面表现较差，而MusicGen模型训练更快，生成质量更高，但在输出中有轻微的冗余。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 91. `cs.AI` - CA-I2P: 具有全局最优选择的通道自适应注册网络 [PDF](https://arxiv.org/pdf/2506.21364), [HTML](https://arxiv.org/abs/2506.21364)
 ### Authors
 Zhixin Cheng,Jiacheng Deng,Xinjun Li,Xiaotian Yin,Bohao Liao,Baoqun Yin,Wenfei Yang,Tianzhu Zhang
@@ -1090,9 +820,6 @@ Zhixin Cheng,Jiacheng Deng,Xinjun Li,Xiaotian Yin,Bohao Liao,Baoqun Yin,Wenfei Y
 本文提出了通道自适应调整模块（CAA）和全局最优选择模块（GOS）。CAA增强同模态特征，抑制跨模态的敏感度，GOS用全局优化代替局部选择。在RGB-D Scenes V2和7-Scene数据集上的实验结果显示了本方法的优势，实现了图像到点云配准的最佳性能。
 ### Conclusion
 实验结果证明了所提出的方法在图像到点云配准任务中的优越性，达到了最先进的性能水平。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 92. `cs.AI` - 人机共创系统的系统性回顾 [PDF](https://arxiv.org/pdf/2506.21333), [HTML](https://arxiv.org/abs/2506.21333)
 ### Authors
 Saloni Singh,Koen Hndriks,Drik Heylen,Kim Baraka
@@ -1102,9 +829,6 @@ Saloni Singh,Koen Hndriks,Drik Heylen,Kim Baraka
 本研究通过系统性回顾62篇关于共创系统的论文，确定了几个关键的设计维度，提出了一系列设计建议，强调了高用户控制、系统主动性、外部化思维和增加系统透明度在共创系统设计中的重要性。这些发现为未来的共创系统设计提供了实用指导。
 ### Conclusion
 尽管共创意社区在开发复杂的共创系统方面取得了进展，但仍然存在一些关键空白，特别是在创意过程的早期阶段和用户对AI系统的适应性方面。建议未来的研究解决这些问题，以进一步提升共创意系统的效能和用户体验。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 93. `cs.AI` - 基于分层输入依赖状态空间模型的整体手术阶段识别 [PDF](https://arxiv.org/pdf/2506.21330), [HTML](https://arxiv.org/abs/2506.21330)
 ### Authors
 Haoyang Wu,Tsun-Hsuan Wang,Mathias Lechner,Ramin Hasani,Jennifer A. Eckhoff,Paul Pak,Ozanan R. Meireles,Guy Rosman,Yutong Ban,Daniela Rus
@@ -1114,9 +838,6 @@ Haoyang Wu,Tsun-Hsuan Wang,Mathias Lechner,Ramin Hasani,Jennifer A. Eckhoff,Paul
 本文提出了一种新的分层输入依赖状态空间模型，利用状态空间模型的线性扩展特性，能处理全长视频并捕捉局部与全局动态。该框架包含一个时序一致的视觉特征提取器，该提取器将状态空间模型头部附加到视觉特征提取器上以传播时间信息。所提出的模型包括两个关键模块：一个有效的捕捉复杂局部动态的局部聚合状态空间模型块，以及一个建模整个视频时间依赖关系的全局关系状态空间模型块。通过混合离散连续监督策略训练此模型，其中离散相位标签和连续相位进步通过网络传播。
 ### Conclusion
 实验表明，本方法在现有最佳方法上的表现超出很多，分别在Cholec80上提高了2.8%，在MICCAI2016上提高了4.3%，在Heichole数据集上提高了12.9%。代码将在论文接受后公开。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 94. `cs.AI` - rQdia: 使用图像增强正则化Q值分布 [PDF](https://arxiv.org/pdf/2506.21367), [HTML](https://arxiv.org/abs/2506.21367)
 ### Authors
 Sam Lerman,Jing Bi
@@ -1126,9 +847,6 @@ Sam Lerman,Jing Bi
 rQdia方法通过引入一种简单的辅助损失函数，使用均方误差（MSE）来相等化Q值分布。该方法显著提升了DrQ和SAC在MuJoCo连续控制套件中9/12和10/12任务的表现，同时也提高了Data-Efficient Rainbow在Atari游戏中18/26环境的表现。此外，该方法使基于像素的模型摆脱了对状态编码的依赖，实现了在连续控制任务上的突破，尤其是在样本效率方面取得了显著提升。
 ### Conclusion
 rQdia在多个环境中实现了样本效率和长期训练结果的显著改进，通过使用图像增强技术调节Q值分布，对基于像素的深度强化学习方法进行了有意义的创新。该方法不仅增强了现有算法的表现，也为未来的相关研究提供了新的思路。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 95. `cs.AI` - DiLoCoX：一种低通信量的大规模分散集群训练框架 [PDF](https://arxiv.org/pdf/2506.21263), [HTML](https://arxiv.org/abs/2506.21263)
 ### Authors
 Ji Qi,WenPeng Zhu,Li Li,Ming Wu,YingJun Wu,Wu He,Xun Gao,Jason Zeng,Michael Heinrich
@@ -1138,9 +856,6 @@ Ji Qi,WenPeng Zhu,Li Li,Ming Wu,YingJun Wu,Wu He,Xun Gao,Jason Zeng,Michael Hein
 提出了DiLoCoX，一种结合了管道并行、双重优化策略、一步延迟重叠通信与本地训练以及自适应梯度压缩方案的大规模分散集群训练框架。通过这种组合，显著提高了参数规模和模型预训练的效率，并通过理论收敛分析证明了一步延迟重叠通信和本地训练，以及自适应梯度压缩方案的效果。实验表明，DiLoCoX能够在1Gbps的网络上预训练一个107B参数的基础模型，相较于普通的AllReduce，在分布式训练速度上达到357倍的提升，而对模型收敛性的影响几乎可以忽略 不计。这是首次成功应用于超过100亿参数模型的分散式训练框架.
 ### Conclusion
 DiLoCoX显著解决了分布式训练中的高效通信和模型规模问题，能够高效地在低速网络上训练大规模模型，为分散式集群提供了新的解决方案。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 96. `cs.AI` - 大规模电商平台的实时个性化产品推荐方法 [PDF](https://arxiv.org/pdf/2506.21368), [HTML](https://arxiv.org/abs/2506.21368)
 ### Authors
 Matteo Tolloso,Davide Bacciu,Shahab Mokarizadeh,Marco Varesi
@@ -1150,9 +865,6 @@ Matteo Tolloso,Davide Bacciu,Shahab Mokarizadeh,Marco Varesi
 本文提出了一种利用图神经网络和简约学习方法来提供实时和个性化商品推荐的新方法。通过实验验证，该方法在处理大规模电商平台的数据时，能够有效地预测购买序列，处理多交互场景，并在实际约束条件下实现高效的个性化推荐，显著提高了推荐的准确性和响应速度。
 ### Conclusion
 实验结果表明，所提出的方法在大规模电商平台上能够实现准确且高效的个性化推荐，满足了实时性和用户满意度的要求。此方法为未来个性化推荐系统的优化提供了新的思路和技术支持。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 97. `cs.AI` - 利用LLM辅助查询理解实现即时检索增强生成 [PDF](https://arxiv.org/pdf/2506.21384), [HTML](https://arxiv.org/abs/2506.21384)
 ### Authors
 Guanting Dong,Xiaoxi Li,Yuyao Zhang,Mengjie Deng
@@ -1162,9 +874,6 @@ Guanting Dong,Xiaoxi Li,Yuyao Zhang,Mengjie Deng
 该论文提出了一种名为Omni-RAG的新框架，旨在增强即时、开放域RAG系统的鲁棒性和有效性。该框架利用大语言模型辅助查询理解，通过对用户输入进行预处理来解决复杂和噪声查询的问题。其创新点包括：(1) 深度查询理解与分解，通过定制提示来利用大语言模型来清理查询（如纠正拼写错误）并分解出多意图查询；(2) 意图感知的知识检索，针对每个子查询从语料库（如使用OpenSearch的FineWeb）进行检索并将结果综合；(3) 再排序与生成，使用再排序器进一步优化文档选择后，通过带有推理提示的大语言模型生成最终答案。Omni-RAG旨在弥补当前RAG功能与实际应用需求之间的差距。
 ### Conclusion
 Omni-RAG框架通过增强处理复杂和噪声查询的能力，旨在提升RAG系统的性能，以更好地满足实际应用的要求。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 98. `cs.AI` - ScalaBLE: 可扩展的通过随机变分子空间推断实现的大语言模型贝叶斯低秩适应 [PDF](https://arxiv.org/pdf/2506.21408), [HTML](https://arxiv.org/abs/2506.21408)
 ### Authors
 Colin Samplawski,Adam D. Cobb,Manoj Acharya,Ramneet Kaur,Susmit Jha
@@ -1174,9 +883,6 @@ Colin Samplawski,Adam D. Cobb,Manoj Acharya,Ramneet Kaur,Susmit Jha
 我们提出了ScalaBLE，一种通过随机变分子空间推断实现的大语言模型可扩展的贝叶斯低秩适应方法。通过将LoRA参数重新用于投影矩阵，我们能够在r维子空间上进行贝叶斯推理，并将来自该子空间的样本映射到LLM的完整权重空间。这种方法仅需约1000个额外参数就实现了与最先进的方法相当的性能，并且能够扩展到目前为止最大的贝叶斯LLM，其基参数数量是先前研究的四倍。
 ### Conclusion
 ScalaBLE克服了过去方法的扩展性限制，通过引入子空间推理，有效地解决了大语言模型的不确定度量化问题，实现了更为广泛的适用性和更好的性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 99. `cs.AI` - 关注较小的权重 [PDF](https://arxiv.org/pdf/2506.21374), [HTML](https://arxiv.org/abs/2506.21374)
 ### Authors
 Chao Zhou,Tom Jacobs,Advait Gadhikar,Rebekka Burkholz
@@ -1186,9 +892,6 @@ Chao Zhou,Tom Jacobs,Advait Gadhikar,Rebekka Burkholz
 我们提出了NANOADAM，该方法在微调过程中仅动态更新小幅度的权重。 这种方法具有几个实际优势：首先，这是一个无梯度的方法—参数子集可以在不进行梯度计算的情况下确定；其次，它保留了大幅度的权重，这些权重很可能包含了在预训练过程中学到的关键特征，从而减少了灾难性遗忘的风险；第三，它可以使用较大的学习率，实验结果表明，它能够获得更好的泛化性能。 我们在自然语言处理和视觉任务中证实了这一点。
 ### Conclusion
 我们展示了这种技术在自然语言处理和视觉任务中的应用，证明了仅在微调过程中更新小幅度权重的有效性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 100. `cs.AI` - SmoothSinger: 多分辨率架构的条件扩散模型用于歌唱语音合成 [PDF](https://arxiv.org/pdf/2506.21478), [HTML](https://arxiv.org/abs/2506.21478)
 ### Authors
 Kehan Sui,Jinxu Xiang,Fang Jin
@@ -1198,9 +901,6 @@ Kehan Sui,Jinxu Xiang,Fang Jin
 SmoothSinger提出了一个参考导向的双分支架构模型，直接在统一框架中精细化低质量合成音频，减少了两阶段管道中的退化问题。它通过引入并行低频上采样路径，增强了传统的U-Net结构，能够更好地捕捉音高轮廓和长期光谱依赖关系。在训练过程中，用降级的真实音频替换参考音频，解决了参考信号与目标信号之间的时序不对齐问题。该模型在大规模中文歌唱语料库Opencpop上表现优越，证明了其有减少艺术缺陷和提高合成声音自然性的有效性。
 ### Conclusion
 SmoothSinger实现了歌唱语音合成的新突破，通过优化模型结构和训练方法，在自然性和表现力方面取得了最先进的结果。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 101. `cs.AI` - 过程导向的建模与仿真增强在网状物理系统中的故障诊断 [PDF](https://arxiv.org/pdf/2506.21502), [HTML](https://arxiv.org/abs/2506.21502)
 ### Authors
 Francesco Vitale,Nicola Dall'Ora,Sebastiano Gaiardelli,Enrico Fraccaroli,Nicola Mazzocca,Franco Fummi
@@ -1210,9 +910,6 @@ Francesco Vitale,Nicola Dall'Ora,Sebastiano Gaiardelli,Enrico Fraccaroli,Nicola 
 提出了一种新颖的无监督故障诊断方法，将集体异常检测应用于多变量时间序列数据中，在此基础上使用过程挖掘将异常数据转化为结构化事件日志，通过引入时间分布将提取的Petri网进行随机仿真，支持对故障行为进行建模与仿真，以增强根本原因分析和行为理解能力。该方法已在Robotic Arm Dataset（RoAD）上进行了实证研究，证明了其在网状物理系统中的有效性，支持预测性维护和工业数字孪生的发展。
 ### Conclusion
 该方法通过过程挖掘驱动建模与仿真进一步增强了网状物理系统中的故障诊断。实验结果表明，这种方法在构建故障字典、实现故障行为的建模与分类方面表现出色，为智能制造提供了必要的技术支持。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 102. `cs.AI` - skLEP：斯洛伐克通用语言理解基准 [PDF](https://arxiv.org/pdf/2506.21508), [HTML](https://arxiv.org/abs/2506.21508)
 ### Authors
 Marek Šuppa,Andrej Ridzik,Daniel Hládek,Tomáš Javůrek,Viktória Ondrejová,Kristína Sásiková,Martin Tamajka,Marián Šimko
@@ -1222,9 +919,6 @@ Marek Šuppa,Andrej Ridzik,Daniel Hládek,Tomáš Javůrek,Viktória Ondrejová,
 引入了skLEP，这是首个专门针对斯洛伐克语NLU模型的基准测试工具，涵盖多项从字符级到文档级的多样化任务，全面评估模型性能。创新点在于不仅开发了新的斯洛伐克专属数据集，还细致地翻译了现有的英语NLU资源，使基准测试更加全面和准确。此外，这项研究还首次系统性地评估了多种斯洛伐克语、多语言以及英语预训练语言模型，进一步推动该领域的发展。
 ### Conclusion
 本研究发布了一个包含所有基准测试数据和开源工具的skLEP，以及公开排行榜，以鼓励可重现性并推动未来斯洛伐克语NLU领域的研究。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 103. `cs.AI` - 时间感知图注意力网络在加密货币交易欺诈检测中的应用 [PDF](https://arxiv.org/pdf/2506.21382), [HTML](https://arxiv.org/abs/2506.21382)
 ### Authors
 Zhi Zheng,Bochuan Zhou,Yuping Song
@@ -1234,9 +928,6 @@ Zhi Zheng,Bochuan Zhou,Yuping Song
 本文提出了一种增强时序意识的图注意力网络（ATGAT），通过三个模块提升检测性能：(1) 设计先进的时序嵌入模块，融合多尺度时间差特征和周期位置编码；(2) 构建时序意识的三重注意力机制，联合优化结构、时序和全局上下文注意力；(3) 使用加权BCE损失以应对类别不平衡问题。实验结果表明，ATGAT在Elliptic++加密货币数据集上实现了0.9130的AUC，分别比最先进技术XGBoost、GCN和标准GAT高9.2%、12.0%和10.0%。该方法不仅验证了时序意识和三重注意力机制在图神经网络中的增强效果，还为金融机构提供了更可靠的欺诈检测工具，其设计原则适用于其他时间序列图异常检测任务.
 ### Conclusion
 该方法不仅验证了时序意识和三重注意力机制在图神经网络中的增强效果，还为金融机构提供了更可靠的欺诈检测工具，设计原则适用于其他时间序列图异常检测任务
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 104. `cs.AI` - 增强领域知识的LLM在欺诈和概念漂移检测中的应用 [PDF](https://arxiv.org/pdf/2506.21443), [HTML](https://arxiv.org/abs/2506.21443)
 ### Authors
 Ali Şenol,Garima Agrawal,Huan Liu
@@ -1246,9 +937,6 @@ Ali Şenol,Garima Agrawal,Huan Liu
 提出了一种集成预训练的大型语言模型和特定任务结构化洞识的领域知识增强的大型语言模型框架，该框架用于欺诈和概念漂移检测。框架包含三个主要模块：一是用于检测虚假或误导性对话的领域知识大型语言模型模块；二是用于确定是否发生了语义变化的漂移检测单元；三是用于将漂移分类为良性或欺诈的第二个领域知识大型语言模型模块。该实现基于LLaMA，并在结构化提示的引导下，达到了98％的分类准确率。与零样本基准的比较研究表明，集成领域知识和漂移意识显著提高了在高风险NLP应用中的性能、可解释性和鲁棒性。
 ### Conclusion
 该系统在检测虚假对话方面表现出高度准确性，并能有效地分类漂移的性质，特别是在面对高风险NLP应用时，结合领域知识和漂移意识的策略产生了明显的改进效果。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 105. `cs.AI` - HalluSegBench：基于反事实视觉推理的分割幻觉评估 [PDF](https://arxiv.org/pdf/2506.21546), [HTML](https://arxiv.org/abs/2506.21546)
 ### Authors
 Xinzhuo Li,Adheesh Juvekar,Xingyou Liu,Muntasir Wahed,Kiet A. Nguyen,Ismini Lourentzou
@@ -1258,9 +946,6 @@ Xinzhuo Li,Adheesh Juvekar,Xingyou Liu,Muntasir Wahed,Kiet A. Nguyen,Ismini Lour
 本文引入了HalluSegBench，这是首个专门针对视觉定位中存在的幻觉进行评估的基准，通过反事实视觉推理来评估幻觉。HalluSegBench包含一个新型的反事实实例对数据集（包含1340个样本和281个独特的对象类别）以及量化幻觉敏感性的新指标，在视觉一致场景编辑下评估幻觉鲁棒性。本文实验表明，由视觉驱动的幻觉比标签驱动的幻觉更为常见，模型往往持续错误分割，突显了反事实推理在诊断定位保真度方面的必要性.
 ### Conclusion
 实验表明，当前最先进的视觉语言分割模型在视觉引导的幻觉方面比标签引导的幻觉更为普遍，这些模型在错误分割上表现出持久性，这表明基于反事实推理对于评估和诊断定位保真度是必要的。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 106. `cs.AI` - 大型语言模型中的幻象理解 [PDF](https://arxiv.org/pdf/2506.21521), [HTML](https://arxiv.org/abs/2506.21521)
 ### Authors
 Marina Mancoridis,Bec Weeks,Keyon Vafa,Sendhil Mullainathan
@@ -1270,9 +955,6 @@ Marina Mancoridis,Bec Weeks,Keyon Vafa,Sendhil Mullainathan
 作者提出了两种量化幻象理解的方法：一种是通过专门设计的基准在三个领域进行，另一种则是一种通用方法，可提供其普遍性的下限。研究发现，幻象理解在各种模型、任务和领域中普遍存在，不只反映错误的理解，还反映了概念表示中的深层次内在不一致性。
 ### Conclusion
 总的来说，大型语言模型中的幻象理解普遍存在，说明了模型的理解与人类的理解存在本质差异，需要进一步改进其内部机制以提高其理解和应用真实意图的能力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 107. `cs.AI` - 整体身体条件下的第一人称视频预测 [PDF](https://arxiv.org/pdf/2506.21552), [HTML](https://arxiv.org/abs/2506.21552)
 ### Authors
 Yutong Bai,Danny Tran,Amir Bar,Yann LeCun,Trevor Darrell,Jitendra Malik
@@ -1282,9 +964,6 @@ Yutong Bai,Danny Tran,Amir Bar,Yann LeCun,Trevor Darrell,Jitendra Malik
 该研究的创新在于使用自回归条件化扩散变换器在大型现实世界第一人称视频和肢体姿态捕获数据集上训练模型。此外，研究设计了一种分层评估协议，包含更具挑战性的任务，以全面分析模型的体体现象预测和控制能力。研究的优势在于能够从人类视角模拟复杂的物理人体动作如何影响环境，代表了对复杂现实环境建模的一种新方法。
 ### Conclusion
 该研究首次尝试从人类视角模拟复杂真实环境中的方法，通过训练模型来预测以自我为中心的视频，展示了自回归条件化扩散变换器在处理此类任务时的有效性。未来的研究可以进一步探索和优化模型结构以提高准确性，并开发更复杂和多样化的评估协议。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 108. `cs.AI` - What's Up, Doc?：分析大规模对话AI数据集中用户的求医问药方式 [PDF](https://arxiv.org/pdf/2506.21532), [HTML](https://arxiv.org/abs/2506.21532)
 ### Authors
 Akshay Paruchuri,Maryam Aziz,Rohit Vartak,Ayman Ali,Best Uchehara,Xin Liu,Ishan Chatterjee,Monica Agrawal
@@ -1294,9 +973,6 @@ Akshay Paruchuri,Maryam Aziz,Rohit Vartak,Ayman Ali,Best Uchehara,Xin Liu,Ishan 
 研究通过筛选大规模对话AI数据集，创建了HealthChat-11K数据集，并从21个不同健康专长领域分析用户与LLMs的交互模式，揭示用户求医问药的行为特征、不完整背景信息、情感行为及导致恭维的交互模式，强调了提高LLMs作为对话AI在医疗支持方面的功能的必要性。
 ### Conclusion
 研究通过HealthChat-11K数据集揭示了用户在获取医疗健康信息时的行为特征，指出了改善基于对话AI的LLMs医疗服务的必要性，为未来的研究提供了理论依据和实践基础。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 109. `cs.AI` - mTSBench: 多变量时间序列异常检测和模型选择的大规模基准测试 [PDF](https://arxiv.org/pdf/2506.21550), [HTML](https://arxiv.org/abs/2506.21550)
 ### Authors
 Xiaona Zhou,Constantin Brif,Ismini Lourentzou
@@ -1306,9 +982,6 @@ Xiaona Zhou,Constantin Brif,Ismini Lourentzou
 本文引入了mTSBench，这是迄今为止针对多变量时间序列异常检测和无监督模型选择的最大基准，涵盖了344个带标签的时间序列，分布在19个数据集和12个不同的应用领域中。mTSBench评估了24种异常检测方法，包括基于大型语言模型的多变量时间序列异常检测器，并在标准化条件下系统地测试了无监督模型选择技术。研究表明，虽然最先进的选择方法也远未达到理想状态，但现有的单一检测器并不适用于所有数据集，这进一步强调了模型选择的重要性。
 ### Conclusion
 mTSBench 提供了一个统一的评估套件，能够实现严格、可再现的比较，推动多变量时间序列异常检测和稳健模型选择的未来进步。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 110. `cs.AI` - Review learning: 实现跨医疗机构隐私保护持续学习的现实验证 [PDF](https://arxiv.org/pdf/2210.09394), [HTML](https://arxiv.org/abs/2210.09394)
 ### Authors
 Jaesung Yoo,Sunghyuk Choi,Ye Seul Yang,Suhyeon Kim,Jieun Choi,Dongkyeong Lim,Yaeji Lim,Hyung Joon Joo,Dae Jung Kim,Rae Woong Park,Hyeong-Jin Yoon,Kwangsoo Kim
@@ -1318,9 +991,6 @@ Jaesung Yoo,Sunghyuk Choi,Ye Seul Yang,Suhyeon Kim,Jieun Choi,Dongkyeong Lim,Yae
 Review Learning（RevL）算法是一种低成本的持续学习算法，能够在隐私保护深度学习应用中克服灾难性遗忘问题。该算法通过从模型中生成数据样本并回顾之前的数据集中的知识，实现在医疗记录（EHR）上的诊断预测，特别适用于医疗领域的隐私保护和模型转移学习。
 ### Conclusion
 RevL算法证明了其在复杂数值实验中保留之前学习的知识和在实际医疗场景下的有效性。实验证明，RevL在包含106,508名患者的真实世界实验中，其平均全球受试者工作特征曲线下面积（AUC）为0.710，优于传统的转移学习TL的0.655。这表明RevL算法在实际世界医疗隐私保护持续学习下的可行性和实用性，为跨医疗机构的模型转移隐私保护研究提供了一条现实可行的路径，强调了在使用私有EHR数据的实际医疗情境中持续学习的实用性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 111. `cs.AI` - WorldVLA：走向自回归动作世界模型 [PDF](https://arxiv.org/pdf/2506.21539), [HTML](https://arxiv.org/abs/2506.21539)
 ### Authors
 Jun Cen,Chaohui Yu,Hangjie Yuan,Yuming Jiang,Siteng Huang,Jiayan Guo,Xin Li,Yibing Song,Hao Luo,Fan Wang,Deli Zhao,Hao Chen
@@ -1330,9 +1000,6 @@ Jun Cen,Chaohui Yu,Hangjie Yuan,Yuming Jiang,Siteng Huang,Jiayan Guo,Xin Li,Yibi
 该研究的主要创新点在于：1. 将VLA模型和世界模型结合在一个统一的框架中；2. 通过自回归方式预测动作序列，展示了世界模型和动作模型相互增强的效果；3. 揭示了动作模型在自回归生成动作序列时性能下降的现象，并提出了注意力掩码策略来解决该问题，该策略在当前动作生成任务中显示出了显著的性能提升。
 ### Conclusion
 实验结果表明，WorldVLA优于独立的行动和世界模型，示范了世界模型和动作模型之间的相互增强效应。此外，研究指出动作模型在自回归条件下生成动作序列时性能下降的原因，并提出了注意力掩码策略来改善这一点。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 112. `cs.AI` - 通过在线对抗训练和生成模型提升人机协作 [PDF](https://arxiv.org/pdf/2504.15457), [HTML](https://arxiv.org/abs/2504.15457)
 ### Authors
 Paresh Chaudhary,Yancheng Liang,Daphne Chen,Simon S. Du,Natasha Jaques
@@ -1342,9 +1009,6 @@ Paresh Chaudhary,Yancheng Liang,Daphne Chen,Simon S. Du,Natasha Jaques
 我们提出了一种新的策略，将预训练生成模型与最大化后悔的对抗训练相结合，以模拟有效的合作剂策略。这种方法称为GOAT：生成在线对抗训练。在该框架中，GOAT动态搜索生成模型的潜在空间，寻找学习策略——合作者代理表现不佳的协调策略。通过保持生成模型的冻结，GOAT能够维持现实的协调策略并避免对抗性利用，从而实现更好的泛化，使合作者暴露在各种困难的互动场景下，提升了与多样人类行为的适应性。
 ### Conclusion
 我们用真实的人类合作伙伴评估了GOAT，结果表明这种方法在Overcooked基准测试中达到最先进的性能，显示出其在处理不同人类行为上的有效性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 113. `cs.AI` - 优化4阶龙格-库塔方法：一种动态启发式方法以提高效率和降低存储 [PDF](https://arxiv.org/pdf/2506.21465), [HTML](https://arxiv.org/abs/2506.21465)
 ### Authors
 Gavin Lee Goodship,Luis Miralles-Pechuan,Stephen O'Sullivan
@@ -1354,9 +1018,6 @@ Gavin Lee Goodship,Luis Miralles-Pechuan,Stephen O'Sullivan
 本文提出了一种基于遗传算法(GA)和强化学习(RL)的混合启发式优化方法，用于优化低存储ESRK方法。该方法通过GA驱动的变异进行搜索空间探索，并利用RL启发的动态状态转换机制来实时优化启发式选择，从而系统地减少参数，保持四阶精度的同时显著提高计算效率。这种方法通过在一系列基准问题上的严格测试得到了验证，包括1D和2D布鲁塞尔系统以及稳态纳维-斯托克斯方程。与传统的ESRK优化过程相比，最佳启发式实现了IPOPT运行时间25%的降低，同时保持了数值稳定性和精度。这证明了自适应启发式发现对于提高高保真相似仿真的资源效率的潜力，并扩展了低存储龙格-库塔方法在实际计算流体动力学、物理仿真和其他领域应用的可能性。这项研究为数值方法的启发式优化建立了一个新的范式，为进一步利用深度强化学习和自动化机器学习(AML)进行启发式搜索打开了新的途径。
 ### Conclusion
 本研究通过基于GA-RL启发式的优化框架，展示了自适应启发式发现在提高资源效率和扩展低存储龙格-库塔方法应用范围方面的潜力。这种方法具有显著提高计算效率和保持数值稳定性的优势，为未来的研究提供了新的思路。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 114. `cs.AI` - TITAN: 基于查询-标记的领域自适应对抗学习 [PDF](https://arxiv.org/pdf/2506.21484), [HTML](https://arxiv.org/abs/2506.21484)
 ### Authors
 Tajamul Ashraf,Janibul Bashir
@@ -1366,9 +1027,6 @@ Tajamul Ashraf,Janibul Bashir
 为了获得可靠的伪标签，本文提出了基于目标的迭代查询-标记对抗网络（TITAN）。该网络将目标图像分为两类：与源数据相似的（容易类别）和不相似的（困难类别），并通过估计检测方差来划分目标域。TITAN还整合了基于查询标记的对抗模块到学生-教师基线框架中，以减少两个特征表示之间的领域差距。实验结果表明，TITAN在多个自然图像和医学图像数据集上都优于当前最先进的方法，即使在标签信息稀缺的场景下依然有效，展示了其在不同复杂度任务中的优越性能。
 ### Conclusion
 实验结果在四个自然图像数据集和两个具有挑战性的医学图像数据集上得到了验证，TITAN方法相比现有的最先进方法提高了mAP性能22.7%，22.2%，21.1%和3.7%分别对应于C2F，C2B，S2C和K2C基准。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 115. `cs.AI` - 可持续共生社会的超级对齐 [PDF](https://arxiv.org/pdf/2504.17404), [HTML](https://arxiv.org/abs/2504.17404)
 ### Authors
 Yi Zeng,Feifei Zhao,Yuwei Wang,Enmeng Lu,Yaodong Yang,Lei Wang,Chao Liu,Yitao Liang,Dongcheng Zhao,Bing Han,Haibo Tong,Yao Liang,Dongqi Liang,Kang Sun,Boyuan Chen,Jinyu Fan
@@ -1378,9 +1036,6 @@ Yi Zeng,Feifei Zhao,Yuwei Wang,Enmeng Lu,Yaodong Yang,Lei Wang,Chao Liu,Yitao Li
 本文提出了一种具体的框架来整合外部监督和内在主动对齐。外部监督超级对齐应基于以人为本的最终决策，并辅以可解释的自动化评估和纠正，以持续与人类不断变化的价值观保持一致。内在主动超级对齐基于对自我、他人和社会的深刻理解，通过自我意识、自我反思和共情来自发推断人类意图，区分善恶，并主动优先考虑人类福祉。这种外部驱动的监督与内在驱动的主动对齐相结合，将通过人类-AGI/ASI的协同对齐迭代，共同塑造共生价值观和规则，为安全、有益的AGI和ASI铺平道路，以实现人类和共生生态的福祉。
 ### Conclusion
 通过外部监督和内在主动对齐的有机结合，可共同塑造可持续共生社会的价值观和规则，为实现安全和有益的AGI/ASI铺平道路。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 116. `cs.AI` - 大语言模型（LLMs）对非洲语言的状态：进展与挑战 [PDF](https://arxiv.org/pdf/2506.02280), [HTML](https://arxiv.org/abs/2506.02280)
 ### Authors
 Kedir Yassin Hussen,Walelign Tewabe Sewunetie,Abinew Ali Ayele,Sukairaj Hafiz Imam,Shamsuddeen Hassan Muhammad,Seid Muhie Yimam
@@ -1390,9 +1045,6 @@ Kedir Yassin Hussen,Walelign Tewabe Sewunetie,Abinew Ali Ayele,Sukairaj Hafiz Im
 对六种LLMs、八种SLMs和六种SSLMs在非洲语言覆盖上的比较分析，强调了数据缺失、同子字符问题、高昂的计算成本和评估问题，并强调了解决这些问题的必要性：语言标准化、社区推动的语料库建设和有效的适应方法
 ### Conclusion
 尽管LLMs在NLP领域取得显著进展，但非洲语言的支持严重不足。研究显示了全面的数据需求、技术适应性挑战和社区参与的重要性，以促进非洲语言在现代技术中的应用和发展。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 117. `cs.AI` - Fast Monte Carlo Tree Diffusion: 100倍速度提升的并行稀疏规划 [PDF](https://arxiv.org/pdf/2506.09498), [HTML](https://arxiv.org/abs/2506.09498)
 ### Authors
 Jaesik Yoon,Hyeonseo Cho,Yoshua Bengio,Sungjin Ahn
@@ -1402,9 +1054,6 @@ Jaesik Yoon,Hyeonseo Cho,Yoshua Bengio,Sungjin Ahn
 提出了Fast-MCTD，这是一种更有效的MCTD变种，旨在保留MCTD的优势，并显著提高其速度和可扩展性。Fast-MCTD结合了两种技术：Parallel MCTD，通过延迟树更新和冗余感知选择实现并行展开;以及Sparse MCTD，通过轨迹粗化减少展开长度。实验证明，Fast-MCTD在某些任务中的推理速度比标准MCTD快100倍，同时保持或提升了规划性能。此外，尽管Diffuser不需要搜索且给出更弱的方案，Fast-MCTD在推理速度方面也优于Diffuser。
 ### Conclusion
 这些结果将Fast-MCTD定位为一种实用且可扩展的基于扩散的推理时推理解决方案。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 118. `cs.AI` - 驯服未知：基于图的知识检索与推理用于MLLMs攻克未知 [PDF](https://arxiv.org/pdf/2506.17589), [HTML](https://arxiv.org/abs/2506.17589)
 ### Authors
 Bowen Wang,Zhouqiang Jiang,Yasuaki Susumu,Shotaro Miwa,Tianwei Chen,Yuta Nakashima
@@ -1414,9 +1063,6 @@ Bowen Wang,Zhouqiang Jiang,Yasuaki Susumu,Shotaro Miwa,Tianwei Chen,Yuta Nakashi
 本文提出了一种多智能体检索器，使模型能够自主搜索相关知识，而无需额外训练。这一方法显著提升了MLLMs的性能，并为未来的多模态知识增强推理研究提供了新的视角。
 ### Conclusion
 我们的方法为MLLMs在面对罕见的特定领域任务时提供了有效的解决方案，通过构建基于Monster Hunter: World的多模态知识图谱，进行了一系列复杂查询评估，并证明了该方法在提高模型复杂知识检索和推理能力方面具有显著效果。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 119. `cs.AI` - WiS 平台：通过基于游戏的分析增强对基于大型语言模型的多智能体系统的评估 [PDF](https://arxiv.org/pdf/2412.03359), [HTML](https://arxiv.org/abs/2412.03359)
 ### Authors
 Chengwei Hu,Jianhui Zheng,Yancheng He,Hangyu Guo,Junguang Jiang,Han Zhu,Kai Sun,Yuning Jiang,Wenbo Su,Bo Zheng
@@ -1426,9 +1072,6 @@ Chengwei Hu,Jianhui Zheng,Yancheng He,Hangyu Guo,Junguang Jiang,Han Zhu,Kai Sun,
 本文提出了一种名为WiS的开放、可扩展且实时更新的平台，通过“谁是卧底？”（WiS）游戏对基于LLMs的MAS进行评估和分析。该平台的功能亮点包括：（1）统一的模型评估界面，支持访问Hugging Face等平台上的各种模型；（2）实时更新的评估排行榜；（3）全面的评估，涵盖游戏夺冠率、攻击和防御策略以及LLMs的推理能力。此平台通过广泛的实验和不同来源的LLMs验证了其有效性和高效性，并公开了实验结果和平台文档，以促进相关研究的发展。
 ### Conclusion
 实验结果显示，本平台在评估基于大型语言模型的多智能体系统方面具有显著的效果和效率。通过公开该平台，研究者可以更好地理解和分析基于LLMs的MAS的表现。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 120. `cs.AI` - 无结构的结构化：用于提取和查询财务关键绩效指标和指导的多智能体系统 [PDF](https://arxiv.org/pdf/2505.19197), [HTML](https://arxiv.org/abs/2505.19197)
 ### Authors
 Chanyeol Choi,Alejandro Lopez-Lira,Yongjae Lee,Jihoon Kwon,Minjae Kim,Juneha Hwang,Minsoo Ha,Chaewoon Kim,Jaeseon Ha,Suyeol Yun,Jin Kim
@@ -1438,9 +1081,6 @@ Chanyeol Choi,Alejandro Lopez-Lira,Yongjae Lee,Jihoon Kwon,Minjae Kim,Juneha Hwa
 本文提出了一种高效且可扩展的方法，利用大型语言模型组成的多智能体系统从非结构化的财务文件中准确提取定量信息。该系统包含两个专门的智能体：提取智能体和文本到SQL智能体。提取智能体自动标识非结构化财务文本中的关键绩效指标，标准化其格式并验证其准确性；文本到SQL智能体则能从自然语言查询生成可执行的SQL语句，让用户无需熟悉数据库架构即可访问结构化数据。通过实验表明，该系统能够准确地将非结构化文本转换为结构化数据并精确检索关键信息。数据显示，该系统在将财务报告转化为结构化数据方面的准确率达到了约95%，与人工注解人员的性能相当。在使用自然语言查询进行信息检索的用户评估中，91%的回答被认为是正确的。该系统在不同类型的财务文档上表现出良好的泛化能力，持续提供可靠的性能表现。
 ### Conclusion
 实验结果显示，系统对财务报告文本的结构化转换准确率高达95%，接近人工标注的水平，且在使用自然语言查询从结构化数据中检索信息时，91%的回答被认为是正确的。系统通过有效的多智能体架构，克服了手动处理的局限，实现了高效、准确且可扩展的数据提取和查询能力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 121. `cs.AI` - Metis-RISE: RL Incentivizes and SFT Enhances Multimodal Reasoning Model Learning [PDF](https://arxiv.org/pdf/2506.13056), [HTML](https://arxiv.org/abs/2506.13056)
 ### Authors
 Haibo Qiu,Xiaohan Lan,Fanfan Liu,Xiaohu Sun,Delian Ruan,Peng Shi,Lin Ma
@@ -1450,9 +1090,6 @@ Haibo Qiu,Xiaohan Lan,Fanfan Liu,Xiaohu Sun,Delian Ruan,Peng Shi,Lin Ma
 Metis-RISE是一种不同于传统方法的新模型，它没有采用初始SFT阶段，而是直接开启一个RL阶段（如使用变体的组相对策略优化），激励和激活模型潜在的推理能力。随后，目标导向的SFT阶段解决RL阶段中识别出的两个关键挑战：一是解决具有但不一致应用正确推理的任务中效率低下的轨迹采样问题（通过从RL模型中自我提炼推理轨迹），二是解决模型完全失败的任务中基本能力的缺失问题（通过注入专家增强的知识）。RL激励与SFT增强构成了Metis-RISE的核心，对7B和72B参数的MLLMs模型进行了开发，并展示了在OpenCompass多模态推理排行榜上的优越性能，72B版本总体排名第四。
 ### Conclusion
 Metis-RISE模型在与类似大小的模型中取得了最先进的性能，尤其是在处理具有而未一致应用正确推理的任务中的低效轨迹采样问题以及解决完全失败的任务中基本能力的缺失问题两个方面表现尤为突出。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 122. `cs.AI` - Graphs Meet AI Agents: Taxonomy, Progress, and Future Opportunities [PDF](https://arxiv.org/pdf/2506.18019), [HTML](https://arxiv.org/abs/2506.18019)
 ### Authors
 Yuanchen Bei,Weizhi Zhang,Siwen Wang,Weizhi Chen,Sheng Zhou,Hao Chen,Yong Li,Jiajun Bu,Shirui Pan,Yizhou Yu,Irwin King,Fakhri Karray,Philip S. Yu
@@ -1462,9 +1099,6 @@ AI代理经历了从早期以强化学习（RL）为主导，到由大规模语�
 本文是首次系统回顾了图如何赋能AI代理，具体探讨了图技术与核心代理功能的集成，突显了重要应用，并指出了未来研究的潜在途径。
 ### Conclusion
 通过全面审视这一新兴交集，本文旨在激发下一代以图支撑的AI代理开发，这些代理能够应对日益复杂的挑战。同时，相关资源将收集并持续更新供社区在GitHub链接中使用。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 123. `cs.AI` - NFISiS: 新型模糊推理系统在可再生能源预测中的新视角 [PDF](https://arxiv.org/pdf/2506.06285), [HTML](https://arxiv.org/abs/2506.06285)
 ### Authors
 Kaike Sa Teles Rocha Alves,Eduardo Pestana de Aguiar
@@ -1474,9 +1108,6 @@ Kaike Sa Teles Rocha Alves,Eduardo Pestana de Aguiar
 1. 将新型Takagi-Sugeno-Kang模型扩展到基于Mamdani的新回归器，提供了一个数据驱动的方法来定义规则以平衡精度和可解释性。2. 引入了包装技术和聚合技术来处理大数据集的复杂性，包括使用遗传算法作为特征选择的包装器，同时还引入了多种聚合模型，如随机新Mamdani回归器、随机新Takagi-Sugeno-Kang和随机森林新型Takagi-Sugeno-Kang。3. 在光伏能源预测数据集上进行了实证研究，证明了这些模型的优越性，并提供了一个较为简单和可解释性强的结构，同时在拥有良好稳定性的同时也能与传统机器学习和深度学习模型抗衡。
 ### Conclusion
 提出的新型模糊推理系统（NFISiS）在可再生能源预测中展示出了巨大的潜力，特别是在光伏能源预测方面。遗传和聚合模型，尤其是遗传新型Takagi-Sugeno-Kang模型和随机森林新型Takagi-Sugeno-Kang模型，展示了比传统机器学习和深度学习模型更好的性能。NFISiS模型已在网上作为nfisis库提供，该库包含了这些新技术的应用和演示。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 124. `cs.AI` - 持续学习作为计算受限的强化学习 [PDF](https://arxiv.org/pdf/2307.04345), [HTML](https://arxiv.org/abs/2307.04345)
 ### Authors
 Saurabh Kumar,Henrik Marklund,Ashish Rao,Yifan Zhu,Hong Jun Jeon,Yueyang Liu,Benjamin Van Roy
@@ -1486,9 +1117,6 @@ Saurabh Kumar,Henrik Marklund,Ashish Rao,Yifan Zhu,Hong Jun Jeon,Yueyang Liu,Ben
 该论文解决持续学习的问题，提出了一个框架和工具集，以促进进一步的研究。论文明确并形式化了持续学习的概念，并将其与计算受限的强化学习联系起来，为持续学习领域提供了新的视角和研究工具。
 ### Conclusion
 论文澄清并形式化了持续学习的概念，提出了一个框架和工具集，为该领域进一步的研究提供了方向。持续学习作为计算受限的强化学习，为理解代理如何在长期中进行学习和适应提供了新的观点。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 125. `cs.AI` - Doppelganger 方法：通过基于提示的可转移对抗攻击破坏 LLM 代理的角色一致性 [PDF](https://arxiv.org/pdf/2506.14539), [HTML](https://arxiv.org/abs/2506.14539)
 ### Authors
 Daewon Kang,YeongHwan Shin,Doyeon Kim,Kyu-Hwan Jung,Meong Hi Son
@@ -1498,9 +1126,6 @@ Daewon Kang,YeongHwan Shin,Doyeon Kim,Kyu-Hwan Jung,Meong Hi Son
 本文提出了“Doppelganger 方法”，以展示代理被劫持的风险，并由此暴露系统指令和内部信息。此外，定义了“对抗转移下的提示对齐崩溃 (PACAT)”级别来评估对抗转移攻击的脆弱性，并提出“对抗转移警戒 (CAT)”提示作为一种防御机制。实验结果表明，Doppelganger 方法能够破坏代理的一致性并暴露其内部信息，而 CAT 提示能够有效抵御这种对抗攻击。
 ### Conclusion
 Doppelganger 方法能够破坏 LLM 代理的角色一致性，而 CAT 提示能够有效地防御此类对抗攻击。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 126. `cs.AI` - 利用双向充电优化盈利的智能电动车出行和交付服务 [PDF](https://arxiv.org/pdf/2506.20401), [HTML](https://arxiv.org/abs/2506.20401)
 ### Authors
 Jinchun Du,Bojie Shen,Muhammad Aamir Cheema,Adel N. Toosi
@@ -1510,9 +1135,6 @@ Jinchun Du,Bojie Shen,Muhammad Aamir Cheema,Adel N. Toosi
 该研究创新性地引入了电动汽车 Orienteering 问题（EVOP-V2G），并提出了一种基于双向充电的智能盈利优化方法。该方法不仅解决了电动汽车在行驶中的充电问题，还考虑了其向电网放电的能力。通过混合整数规划（MIP）模型和进化算法（EA）以及基于大邻域搜索（LNS）的元启发式算法，该研究提出了实用的解决方案，提高了司机的利润，并展示了其在实际数据上的良好性能和可扩展性。
 ### Conclusion
 该研究展示了通过利用双向充电技术实现智能电动车出行和交付服务的潜在路径，通过这一策略能够创建更智能、更具盈利性的电动车出行系统，这些系统能够有效地支持能源电网。研究表明，这种策略能显著提高司机的收入，同时保持小型任务的优化性能，并展现出在更大规模上的优秀可扩展性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 127. `cs.AI` - ClimateIQA：气象异常分析中推进视觉语言模型的新数据集和基准 [PDF](https://arxiv.org/pdf/2406.09838), [HTML](https://arxiv.org/abs/2406.09838)
 ### Authors
 Jian Chen,Peilin Zhou,Yining Hua,Dading Chong,Meng Cao,Yaowei Li,Wei Chen,Bing Zhu,Junwei Liang,Zixuan Yuan
@@ -1522,9 +1144,6 @@ Jian Chen,Peilin Zhou,Yining Hua,Dading Chong,Meng Cao,Yaowei Li,Wei Chen,Bing Z
 我们提出了Sparse Position and Outline Tracking（SPOT），这是一种新型算法，专门用于处理视觉数据中不规则色区。通过提取空间坐标，SPOT能够为不规则形状提供结构化表示。基于SPOT，我们构建了ClimateIQA，这是一个新的气象视觉问答（VQA）数据集，包含26,280个高分辨率热图和762,120条关于风力突增、总降水量、风寒指数和高温指数分析的指令样本。ClimateIQA以空间线索、地理元数据和再分析数据增强VLM训练，从而提高模型对极端天气特征的解释和描述准确性。此外，我们还开发了Climate-Zoo，这是基于SPOT赋能的ClimateIQA的微调视觉语言模型套件，在气象热图任务上显著优于现有模型。
 ### Conclusion
 ClimateIQA数据集增强了VLM在气象异常分析中的性能，而Climate-Zoo模型则在气象热图任务上实现了显著的性能提升。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 128. `cs.AI` - 可变注意头的高效图像生成 [PDF](https://arxiv.org/pdf/2211.05770), [HTML](https://arxiv.org/abs/2211.05770)
 ### Authors
 Steven Walton,Ali Hassani,Xingqian Xu,Zhangyang Wang,Humphrey Shi
@@ -1534,9 +1153,6 @@ Steven Walton,Ali Hassani,Xingqian Xu,Zhangyang Wang,Humphrey Shi
 本文提出了一种新的方法——允许单个变压器的注意头同时关注多个感受野，通过这种方法，实现了在FID和模型参数数量以及吞吐量之间的最优平衡。这种方法通过集成到基于StyleGAN的架构中，能够高效地生成图像，并在FFHQ和FFHQ-256数据集上达到了性能最优。
 ### Conclusion
 通过使用可变注意头，StyleNAT能够在使用更少的计算资源的情况下，生成高质量的图像。该方法不仅证明了在特定数据集上的有效性，还在更广泛的图像生成任务中展示了其效率和有效性。作者认为这种方法为未来的视觉生成模型提供了一个可行的改进方向。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 129. `cs.AI` - GREAT 架构：一种用于诸如TSP的基于边的图问题的架构 [PDF](https://arxiv.org/pdf/2408.16717), [HTML](https://arxiv.org/abs/2408.16717)
 ### Authors
 Attila Lischka,Filip Rydin,Jiaming Wu,Morteza Haghir Chehreghani,Balázs Kulcsár
@@ -1546,9 +1162,6 @@ Attila Lischka,Filip Rydin,Jiaming Wu,Morteza Haghir Chehreghani,Balázs Kulcsá
 该论文提出了一种新的基于GNN且专注于边的神经模型，称为Graph Edge Attention Network (GREAT)。利用GREAT作为编码器，捕捉路由问题实例的特性，构建了强化学习框架，应用于欧几里得和非欧几里得的车辆路线问题（如旅行商问题、承载车辆路线问题和定向搜索问题）中。这是第一个尝试解决这些非欧几里得问题的学习算法之一.
 ### Conclusion
 该框架在不同的路由问题上取得了竞争力的结果，表明对于解决非欧几里得路由问题，GREAT架构比其他基于学习的方法更有效。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 130. `cs.AI` - HERMES: 时空连贯的大长视频理解与情节和语义 [PDF](https://arxiv.org/pdf/2408.17443), [HTML](https://arxiv.org/abs/2408.17443)
 ### Authors
 Gueter Josmy Faure,Jia-Fong Yeh,Min-Hung Chen,Hung-Ting Su,Shang-Hong Lai,Winston H. Hsu
@@ -1558,9 +1171,6 @@ Gueter Josmy Faure,Jia-Fong Yeh,Min-Hung Chen,Hung-Ting Su,Shang-Hong Lai,Winsto
 本文提出了一种新颖的方法，更加符合人类认知模式。通过引入HERMES：时空连贯的大长视频理解系统，该系统采用两个多功能模块——情节压缩器(ECO)和语义检索器(SeTR)。ECO有效地从微观到半宏观层次聚合表示，减少计算开销同时保留时间依赖性。SeTR则通过关注广泛上下文丰富这些表示，减少特征维度同时保留相关宏观信息。实验表明，这些模块可以无缝集成到现有SOTA模型中，持续提升其性能，同时将推理延迟降低43%，内存使用减少46%。作为独立系统，HERMES在多个长视频理解基准测试中达到最佳性能，在零样本和完全监督设置下表现尤为出色。
 ### Conclusion
 本文通过HERMES系统展示了两个关键模块的有效性，证实了其在长视频理解领域的潜力。在未来的工作中，计划进一步优化HERMES系统，以提高其在实际应用中的可扩展性和泛化能力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 131. `cs.AI` - 从记忆到地图：Transformer 中上下文内强化学习的机制 [PDF](https://arxiv.org/pdf/2506.19686), [HTML](https://arxiv.org/abs/2506.19686)
 ### Authors
 Ching Fang,Kanaka Rajan
@@ -1570,9 +1180,6 @@ Ching Fang,Kanaka Rajan
 研究通过训练 Transformer 模型进行分布式的基于上下文的强化学习，并分析从中系统地了解模型层面产生的强化学习算法。研究发现，记忆在强化学习中的作用不仅限于存储原始经验，还可能通过缓存和重新利用中间计算来支持决策，这不同于传统的无模型或基于模型的规划策略。模型的表示与大脑中海马-内嗅皮层系统的计算有关，这一发现可能有助于理解自然认知。
 ### Conclusion
 研究揭示了记忆在标准化的表格基础和部分可微的神经网络中被忽视的重要作用，即记忆不仅可以储存经验，还可以作为一种计算资源存储中间计算，并在新的上下文中重新利用这些计算，从而支持快速适应和灵活的行为。该研究提供了在神经类脑设备上进行高效计算学习的机制假设，同时也可能解释在大脑中的某些机制。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 132. `cs.AI` - 在模拟谈判对话中探索五大性格特质与AI能力的影响 [PDF](https://arxiv.org/pdf/2506.15928), [HTML](https://arxiv.org/abs/2506.15928)
 ### Authors
 Myke C. Cohen,Zhe Su,Hsien-Te Kao,Daniel Nguyen,Spencer Lynch,Maarten Sap,Svitlana Volkova
@@ -1582,9 +1189,6 @@ Myke C. Cohen,Zhe Su,Hsien-Te Kao,Daniel Nguyen,Spencer Lynch,Maarten Sap,Svitla
 本文提出了一个评估能动AI系统的框架，基于Sotopia平台进行了两个实验，分别从人格特质和AI特性两个方面评估了模拟语言模型在社会谈判中的表现，提出了可信度与任务有效性之间的关系，并提供了一种可重复的评估方法，以适应不同性格的操作员和人机团队动态。此外，将社会动力学纳入评估范围，使得评估更加全面，支持了可靠的AI系统操作需求，超越了传统的性能指标。
 ### Conclusion
 本文的工作推进了能动AI工作流程的评估，通过结合社交动力学来评估任务成功所需的关键因素，发展了一种可重复的评估方法，直接支持操作需求，表明能在大规模和复杂的谈判场景中实现有效的人机沟通和协作。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 133. `cs.AI` - 我的数据在我的AI模型中吗？基于面部图像的应用关联性测试 [PDF](https://arxiv.org/pdf/2402.09225), [HTML](https://arxiv.org/abs/2402.09225)
 ### Authors
 Daniel DeAlcala,Aythami Morales,Julian Fierrez,Gonzalo Mancera,Ruben Tolosana,Javier Ortega-Garcia
@@ -1594,9 +1198,6 @@ Daniel DeAlcala,Aythami Morales,Julian Fierrez,Gonzalo Mancera,Ruben Tolosana,Ja
 本文提出的MINT方法是一种新型的方法，用于评估给定的数据是否被用于训练AI/ML模型。该方法设计了基于MLPs和CNNs的两个架构，用于学习审计模型在暴露于训练数据时产生的独特激活模式。实验结果显示，MINT方法在识别训练数据的准确性上表现出色，最高可达90%。这表明MINT方法能够用来确保AI应用中的隐私和公平性。
 ### Conclusion
 提出的MINT方法展示了评估AI模型是否使用特定数据的潜力，并且在面部识别等多个场景中表现优异，达到了90%的准确率。该方法能够帮助确保大型语言模型等AI应用的隐私和公平性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 134. `cs.AI` - MockLLM：一种多智能体行为协作框架，用于在线求职与招聘 [PDF](https://arxiv.org/pdf/2405.18113), [HTML](https://arxiv.org/abs/2405.18113)
 ### Authors
 Hongda Sun,Hongzhan Lin,Haiyu Yan,Yang Song,Xin Gao,Rui Yan
@@ -1606,9 +1207,6 @@ Hongda Sun,Hongzhan Lin,Haiyu Yan,Yang Song,Xin Gao,Rui Yan
 本文提出了一种名为MockLLM的新框架，旨在生成和评估模拟面试互动。MockLLM框架包含两个关键组件：模拟面试生成和双向评价手协议。通过模拟面试官和求职者的角色，MockLLM能够实现一致且交互式的实时匹配。此外，MockLLM还结合了反思记忆生成和动态策略修改机制，使行为能够根据之前的经历进行改进。此框架的具体创新点在于其能够模拟求职者与面试官的角色，通过实时互动进行双向匹配，从而提高匹配质量。
 ### Conclusion
 通过实验评估，MockLLM超过了现有方法，在匹配准确度、可扩展性和跨职位领域的适应性方面表现出突出优势。这些结果显示出MockLLM在提升候选人评估和在线招聘中的潜在价值。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 135. `cs.AI` - 快速陀螺仪校准：一种深度学习方法 [PDF](https://arxiv.org/pdf/2409.00488), [HTML](https://arxiv.org/abs/2409.00488)
 ### Authors
 Yair Stolero,Itzik Klein
@@ -1618,9 +1216,6 @@ Yair Stolero,Itzik Klein
 文章提出了一个端到端的卷积神经网络用于陀螺仪校准的应用。探索了使用多个真实和虚拟陀螺仪来提高单个陀螺仪校准性能的可能性。记录了一个包含186.6小时陀螺仪读数的数据集，使用了4个不同品牌的36个陀螺仪，并且创建了一个虚拟数据集，由模拟的陀螺仪读数组成。六个数据集用于评估提出的方案，其中一个重要成就是使用三个低成本陀螺仪将陀螺仪的校准时间减少了89%。
 ### Conclusion
 我们公开了数据集以允许我们的工作的可再现性和增加该领域的研究。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 136. `cs.AI` - 无人机图像中高级计算机视觉提取地理参考车辆轨迹 [PDF](https://arxiv.org/pdf/2411.02136), [HTML](https://arxiv.org/abs/2411.02136)
 ### Authors
 Robert Fonod,Haechan Cho,Hwasoo Yeo,Nikolas Geroliminis
@@ -1630,9 +1225,6 @@ Robert Fonod,Haechan Cho,Hwasoo Yeo,Nikolas Geroliminis
 该论文的创新之处在于提出了一系列新颖贡献，包括一种针对高海拔鸟瞰视角的定制化物体检测器，一种使用检测到的车辆边界框作为排除掩膜进行图像注册的独特的轨迹稳定方法，以及一种通过正射影像和主图帧进行地理参考的方法，增强了多无人机视角之间的一致对齐。此外，该框架还具备鲁棒的车辆尺寸估计和详细的道路细分功能，增强了全面的交通分析能力。通过与精确交通传感器数据进行对比，验证了在密集城市环境中的准确性和一致性。
 ### Conclusion
 该框架展示了将无人机技术与高级计算机视觉技术集成，实现精确而经济的城市交通监控的潜力，为智能交通系统的发展和交通管理策略提供了宝贵资源。通过公开发布松岛交通和松岛视觉数据集，及提取管道的完整源代码，确立了交通研究中数据质量、可重复性和可扩展性的新标准。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 137. `cs.AI` - InterFormer: Effective Heterogeneous Interaction Learning for Click-Through Rate Prediction [PDF](https://arxiv.org/pdf/2411.09852), [HTML](https://arxiv.org/abs/2411.09852)
 ### Authors
 Zhichen Zeng,Xiaolong Liu,Mengyue Hang,Xiaoyi Liu,Qinghai Zhou,Chaofei Yang,Yiqun Liu,Yichen Ruan,Laming Chen,Yuxin Chen,Yujia Hao,Jiaqi Xu,Jade Nie,Xi Liu,Buyun Zhang,Wei Wen,Siyang Yuan,Hang Yin,Xin Zhang,Kai Wang,Wen-Yen Chen,Yiping Han,Huayu Li,Chunzhi Yang,Bo Long,Philip S. Yu,Hanghang Tong,Jiyan Yang
@@ -1642,9 +1234,6 @@ Zhichen Zeng,Xiaolong Liu,Mengyue Hang,Xiaoyi Liu,Qinghai Zhou,Chaofei Yang,Yiqu
 为了克服上述限制，我们提出了一种名为InterFormer的新模块，以交错方式进行学习来学习异构信息的交互。InterFormer实现了不同的模式之间的双向信息流，以实现更有效的互惠学习。为了防止信息过度总结，InterFormer在每个数据模式中保留了完整的信息，并使用独立的桥梁架构进行有效信息的选择和总结。实验表明， InterFormer在三个公开数据集和一个大规模工业数据集上达到了最新的性能水平。
 ### Conclusion
 InterFormer通过交错方式学习异构信息交互，并实现了不同模式之间的双向信息流，解决了现有方法中存在的主要信息交互不足和信息过度总结问题。实验结果表明，InterFormer在三个公开数据集和一个大规模工业数据集上具有最先进的性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 138. `cs.AI` - PuriDefense: 随机局部隐式对抗净化防御面向黑盒查询导向攻击 [PDF](https://arxiv.org/pdf/2401.10586), [HTML](https://arxiv.org/abs/2401.10586)
 ### Authors
 Ping Guo,Xiang Li,Zhiyuan Yang,Xi Lin,Qingchuan Zhao,Qingfu Zhang
@@ -1654,9 +1243,6 @@ Ping Guo,Xiang Li,Zhiyuan Yang,Xi Lin,Qingchuan Zhao,Qingfu Zhang
 我们提出了一种名为PuriDefense的高效防御机制，它利用了低层次推理成本下的随机块级净化，并使用轻量级净化模型的集成。这些模型利用局部隐式函数并重塑自然图像流形。理论分析表明，这种方法通过向净化中引入随机性，减缓了查询导向攻击的收敛速度。在CIFAR-10和ImageNet上的广泛实验验证了基于净化的防御机制的有效性，展示了对抗查询导向攻击时的显著增强鲁棒性。
 ### Conclusion
 我们的研究表明，PuriDefense能够在保持模型测试准确性的前提下，提供有效的黑盒查询导向攻击防御。实验结果表明，PuriDefense在CIFAR-10和ImageNet数据集上显著提高了对抗查询导向攻击的鲁棒性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 139. `cs.AI` - MvKeTR：使用多视图感知和知识增强的胸部CT报告生成 [PDF](https://arxiv.org/pdf/2411.18309), [HTML](https://arxiv.org/abs/2411.18309)
 ### Authors
 Xiwei Deng,Xianchun He,Jianfeng Bao,Yudan Zhou,Shuhui Cai,Congbo Cai,Zhong Chen
@@ -1666,9 +1252,6 @@ CT报告生成（CTRG）旨在自动生成3D体积的诊断报告，减轻临床
 提出了一种新型的多视角感知知识增强Transformer（MvKeTR），以模拟临床医生的诊断工作流程。MvKeTR包含多视角感知聚合器（MVPA），能够通过视图感知的注意力机制有效合成多解剖视角的诊断信息，并借鉴放射科医生如何参考相关临床记录来指导诊断决策的方式，引入断层结构知识检索器（CMKE），根据查询的体积检索最相似的报告，结合领域的知识进行诊断。此外，采用柯尔莫哥洛夫-阿诺德网络（KANs）作为模块的基础构建块，表现出更好的参数效率和降低的光谱偏差，更好地捕捉CT解读中至关重要的高频率成分，降低过拟合.
 ### Conclusion
 在公共的CTRG-Chest-548K数据集上进行了大量实验，证明了该方法在几乎所有指标上都优于现有的SOTA模型。相关代码可在提供的链接中获取。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 140. `cs.AI` - 发音提示：增强LLM多语言能力以适用于非拉丁语系语言 [PDF](https://arxiv.org/pdf/2411.02398), [HTML](https://arxiv.org/abs/2411.02398)
 ### Authors
 Hoang H Nguyen,Khyati Mahajan,Vikas Yadav,Julian Salazar,Philip S. Yu,Masoud Hashemi,Rishabh Maheshwary
@@ -1678,9 +1261,6 @@ Hoang H Nguyen,Khyati Mahajan,Vikas Yadav,Julian Salazar,Philip S. Yu,Masoud Has
 提出使用音位信号作为补充信号，以产生对不同字体系统的不变表示，这种策略显著提高了非拉丁语系和拉丁语系语言的性能，尤其是缩小了两者之间的表现差距。通过实验，表明音位和拼写在上下文学习中检索到的是不同的例子，从而提出了混合上下文学习（Mixed-ICL）检索策略，进一步聚合两者提高了两种字体系统的性能，拉丁语系语言高达12.6%，非拉丁语系语言高达15.1%。
 ### Conclusion
 研究表明，通过利用音位信号可以有效提升多语言LLM在非拉丁语系语言和拉丁语系语言上的性能，特别是在降低两者之间表现差距方面效果显著。进一步采用混合上下文学习（Mixed-ICL）检索策略，实现了性能的进一步提升。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 141. `cs.AI` - 预训练可逆生成作为无监督视觉特征学习 [PDF](https://arxiv.org/pdf/2412.01787), [HTML](https://arxiv.org/abs/2412.01787)
 ### Authors
 Rongkun Xue,Jinouwen Zhang,Yazhe Niu,Dazhong Shen,Bingqi Ma,Yu Liu,Jing Yang
@@ -1690,9 +1270,6 @@ Rongkun Xue,Jinouwen Zhang,Yazhe Niu,Dazhong Shen,Bingqi Ma,Yu Liu,Jing Yang
 我们提出了一种名为Pretrained Reversible Generation (PRG)的新方法，通过反向使用预训练的连续生成模型进行生成过程，提取无监督表示。PRG有效地再利用了预训练的生成模型，利用其强大的能力作为鲁棒且通用的特征提取器，以适应下游任务。该架构允许为特定的下游任务灵活选择特征层次结构。
 ### Conclusion
 我们的方法在多个基准测试中表现出色，相较于之前的基于生成模型的方法，均取得了领先性能，特别是在ImageNet 64*64分辨率上实现了78%的top-1精度。广泛的消融研究表明，我们的方法在分布外评估等方面也非常有效。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 142. `cs.AI` - Recall and Refine: 一种简单而有效的无源开放集域适应框架 [PDF](https://arxiv.org/pdf/2411.12558), [HTML](https://arxiv.org/abs/2411.12558)
 ### Authors
 Ismail Nejjar,Hao Dong,Olga Fink
@@ -1702,9 +1279,6 @@ Ismail Nejjar,Hao Dong,Olga Fink
 本文提出了一种名为Recall and Refine（RRDA）的新型SF-OSDA框架，该框架通过显式地学习目标私有未知类的特征来解决上述限制。RRDA采用两阶段过程：首先，通过使用来自目标域特征的合成样本作为引导，训练目标分类器，使其能够区分已知类和未知类；其次，适应整个模型，解决领域偏移和对未知类的区分问题。任何现成的无源域适应方法（如SHOT，AaD）都可以在这个阶段无缝集成到框架中。
 ### Conclusion
 在三个基准数据集上的广泛实验表明，RRDA在无源开放集域适应和OSDA方法中表现出显著的优越性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 143. `cs.AI` - InfiniCube：基于世界导向视频模型的无限可控动态3D驾驶场景生成 [PDF](https://arxiv.org/pdf/2412.03934), [HTML](https://arxiv.org/abs/2412.03934)
 ### Authors
 Yifan Lu,Xuanchi Ren,Jiawei Yang,Tianchang Shen,Zhangjie Wu,Jun Gao,Yue Wang,Siheng Chen,Mike Chen,Sanja Fidler,Jiahui Huang
@@ -1714,9 +1288,6 @@ Yifan Lu,Xuanchi Ren,Jiawei Yang,Tianchang Shen,Zhangjie Wu,Jun Gao,Yue Wang,Sih
 提出了一种名为InfiniCube的方法，该方法使用地图条件的稀疏体素生成模型、重新利用的视频模型以及通过精细设计的像素对齐指导缓冲来生成一致的外观。最终，提出了一种高效前馈方法，结合了体素和像素分支，提升动态视频为动态3D高斯分布，实现可控且真实的三维驾驶场景。
 ### Conclusion
 该方法能够生成可控且真实的三维驾驶场景，广泛实验验证了该模型的有效性和优越性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 144. `cs.AI` - GASP: 效率高且黑盒生成对抗后缀以攻破LLM [PDF](https://arxiv.org/pdf/2411.14133), [HTML](https://arxiv.org/abs/2411.14133)
 ### Authors
 Advik Raj Basani,Xiao Zhang
@@ -1726,9 +1297,6 @@ Advik Raj Basani,Xiao Zhang
 本文引入了一种创新的自动化框架——生成对抗后缀提示器（GASP），能够在完全黑盒的环境中高效地生成易于理解的攻击性后缀提示。GASP采用潜在贝叶斯优化技术，通过高效探索连续潜在嵌入空间来创建对抗后缀，同时通过目标导向的迭代优化过程逐渐优化后缀提示器以提高攻击效果，保持提示的连贯性。实验结果表明，GASP生成的对抗性后缀提示更加自然，显著提高了禁锢成功，缩短了训练时间并加快了推理速度，因此成为一种高效的、可扩展的红队评估LLM安全性的解决方案。
 ### Conclusion
 通过全面的实验，GASP展示了其在生成自然且高效的攻击性后缀方面的优势，明显优于基线方法，缩短了训练时间和加快了推理速度，因此成为对LLM进行红队测试的有效且可扩展的解决方案。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 145. `cs.AI` - ToolScan: 评估工具使用大型语言模型错误的一种基准 [PDF](https://arxiv.org/pdf/2411.13547), [HTML](https://arxiv.org/abs/2411.13547)
 ### Authors
 Shirley Kokane,Ming Zhu,Tulika Awalgaonkar,Jianguo Zhang,Thai Hoang,Akshara Prabhakar,Zuxin Liu,Tian Lan,Liangwei Yang,Juntao Tan,Rithesh Murthy,Weiran Yao,Zhiwei Liu,Juan Carlos Niebles,Huan Wang,Shelby Heinecke,Caiming Xiong,Silivo Savarese
@@ -1738,9 +1306,6 @@ Shirley Kokane,Ming Zhu,Tulika Awalgaonkar,Jianguo Zhang,Thai Hoang,Akshara Prab
 为了解决上述问题，我们引入了TOOLSCAN，这是一个新的基准工具，用于识别LLMs在工具使用任务中输出的错误模式。基准数据集包括来自不同环境的查询，可以用来测试存在七种新表征的错误模式。通过TOOLSCAN，我们展示了即使是最著名的LLMs在其输出中也表现出这些错误模式。研究人员可以根据TOOLSCAN提供的洞见，指导其错误缓解策略。
 ### Conclusion
 使用TOOLSCAN，我们展示了即使是目前最显著的LLMs在工具使用任务中也会表现出这些特定错误模式。研究人员可以根据从TOOLSCAN得到的洞见来指导他们的错误缓解策略，从而改进LLMs的性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 146. `cs.AI` - SIDA: 社交媒体图像深度伪造检测、定位与解释，使用大型多模态模型 [PDF](https://arxiv.org/pdf/2412.04292), [HTML](https://arxiv.org/abs/2412.04292)
 ### Authors
 Zhenglin Huang,Jinwei Hu,Xiangtai Li,Yiwei He,Xingyu Zhao,Bei Peng,Baoyuan Wu,Xiaowei Huang,Guangliang Cheng
@@ -1750,9 +1315,6 @@ Zhenglin Huang,Jinwei Hu,Xiangtai Li,Yiwei He,Xingyu Zhao,Bei Peng,Baoyuan Wu,Xi
 本文介绍了社交媒体图像检测数据集（SID-Set），具有三个关键优势：（1）广泛的规模，包含30万张由AI生成或篡改的真实图像，并附有全面注释；（2）广泛的多样性，涵盖不同类别的完全合成和篡改图像；（3）极高的逼真度，图像在视觉检查下难以区分。此外，结合大型多模态模型的卓越功能，提出了一种新的图像深度伪造检测、定位和解释框架，名为SIDA（社交媒体图像检测、定位和解释助手）。SIDA不仅能判断图像的真实性，还能通过掩码预测标出篡改区域，并提供模型判断标准的文本解释。
 ### Conclusion
 在SID-Set和其他基准上与现有最先进的深度伪造检测模型进行的广泛实验表明，SIDA在各种设置中表现更优。模型、数据集和代码将被公开。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 147. `cs.AI` - 通过掩码自动编码器学习实验室值表示 [PDF](https://arxiv.org/pdf/2501.02648), [HTML](https://arxiv.org/abs/2501.02648)
 ### Authors
 David Restrepo,Chenwei Wu,Yueran Jia,Jaden K. Sun,Jack Gallifant,Catherine G. Bielick,Yugang Jia,Leo A. Celi
@@ -1762,9 +1324,6 @@ David Restrepo,Chenwei Wu,Yueran Jia,Jaden K. Sun,Jack Gallifant,Catherine G. Bi
 该研究提出了一种名为Lab-MAE的新颖自监督学习下的掩码自动编码器框架，用于连续序列实验室值的填补。Lab-MAE引入了一种结构化的编码方案，联合建模实验室测试值及其对应的时序信息，使其能够明确捕捉到时间依赖性。实验证明，Lab-MAE在MIMIC-IV数据集上的表现显著优于XGBoost、softimpute、GAIN、EM和MICE等各种基线方法。特别地，Lab-MAE在不同患者的人口统计学群体中实现了公平的性能，推动了临床预测的公平性。此外，研究还调查了随访实验室值作为潜在捷径特征的角色，揭示了当此类数据不可用时Lab-MAE的鲁棒性。
 ### Conclusion
 研究建议，适应EHR数据特性的变压器架构为更准确和公平的临床填补提供了基础模型。此外，研究还对比了Lab-MAE与XGBoost模型的碳足迹，突显了其环境要求。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 148. `cs.AI` - 金融市场中异质性学习者：贝叶斯学习者与无遗憾学习者之间的动态及其生存 [PDF](https://arxiv.org/pdf/2502.08597), [HTML](https://arxiv.org/abs/2502.08597)
 ### Authors
 David Easley,Yoav Kolumbus,Eva Tardos
@@ -1774,9 +1333,6 @@ David Easley,Yoav Kolumbus,Eva Tardos
 受到这两种方法的优点与弱点启发，提出了利用贝叶斯更新的一种平衡策略，增强了稳健性和在分布变化时的适应性，提供了一种兼顾二者优点的学习方法。该方法是通用的、高效的且易于实现。此外，正式建立了金融市场中生存和市场主导理论与遗憾最小化框架之间的关系，从而联通了这些理论之间的联系。更广泛地，本研究丰富了对不同学习者类型的动态及其对市场影响的理解。
 ### Conclusion
 最终，本文在理论上确立了市场生存和市场主导理论与遗憾最小化框架的联系，促进了对异质性学习者动态及其市场影响的理解。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 149. `cs.AI` - PP-DocBee：通过多种技巧提高多模态文档理解能力 [PDF](https://arxiv.org/pdf/2503.04065), [HTML](https://arxiv.org/abs/2503.04065)
 ### Authors
 Feng Ni,Kui Huang,Yao Lu,Wenyu Lv,Guanzhong Wang,Zeyu Chen,Yi Liu
@@ -1786,9 +1342,6 @@ Feng Ni,Kui Huang,Yao Lu,Wenyu Lv,Guanzhong Wang,Zeyu Chen,Yi Liu
 PP-DocBee模型通过定制化数据合成策略构建了多样的数据集，提升了模型的泛化能力；采用了动态比例采样、数据预处理和OCR后处理等多种训练技术。该模型在英语文档理解基准测试中达到了最先进的性能，并在中文文档理解上超越了现有开源和商用模型。模型的源代码和预训练模型已公开发布。
 ### Conclusion
 PP-DocBee在文档图像理解方面表现出卓越的性能，特别是在中文文档理解上超越了现有的开源和商用模型，并且其源代码和预训练模型已公开发布。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 150. `cs.AI` - CREStE：具有互联网规模先验和逆向事实指导的可扩展无地图导航 [PDF](https://arxiv.org/pdf/2503.03921), [HTML](https://arxiv.org/abs/2503.03921)
 ### Authors
 Arthur Zhang,Harshit Sikchi,Amy Zhang,Joydeep Biswas
@@ -1798,9 +1351,6 @@ Arthur Zhang,Harshit Sikchi,Amy Zhang,Joydeep Biswas
 CREStE的创新之处在于通过引入1) 视觉基础模型（VFM）蒸馏目标来学习开放集结构的鸟瞰图感知表示，以及2) 逆向事实逆强化学习（IRL），这是一种利用逆向事实轨迹演示来推理当推断导航成本时最重要的线索的新型主动学习方法。
 ### Conclusion
 CREStE在多种城市、越野和住宅环境中对公里级的无地图导航任务进行了评估，并发现其性能超过了所有现有的最先进技术，只需要70%更少的人工干预，包括在未知环境中仅通过1次干预完成2公里任务，显示出其在长时域无地图导航中的鲁棒性与有效性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 151. `cs.AI` - Materialist: 单张图像逆向渲染的物理基础编辑方法 [PDF](https://arxiv.org/pdf/2501.03717), [HTML](https://arxiv.org/abs/2501.03717)
 ### Authors
 Lezhong Wang,Duc Minh Tran,Ruiqi Cui,Thomson TG,Anders Bjorholm Dahl,Siavash Arjomand Bigdeli,Jeppe Revall Frisvad,Manmohan Chandraker
@@ -1810,9 +1360,6 @@ Lezhong Wang,Duc Minh Tran,Ruiqi Cui,Thomson TG,Anders Bjorholm Dahl,Siavash Arj
 本文提出了Materialist方法，该方法结合了基于学习的方法与基于物理的渐进可微渲染。给定一张图像，该方法使用神经网络预测初始的材质属性。然后通过渐进可微渲染优化环境图，并细化材质属性，以确保渲染结果紧密匹配输入图像。该方法能够支持材料编辑、物体插入和重新照明等多种应用，同时提供了一种有效的透明材质编辑方法，无需完整场景几何结构。此外，该方法的环境图估计方法达到了最先进的性能，进一步提高了图像编辑任务的准确性。
 ### Conclusion
 实验结果表明，该方法在合成和真实世界数据集上表现出强大的性能，甚至在具有挑战性的域外图像上也表现出色。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 152. `cs.AI` - 使用基于强化的扩散（NERD）模型揭示噪声预期的不确定性脑神经表示 [PDF](https://arxiv.org/pdf/2503.14333), [HTML](https://arxiv.org/abs/2503.14333)
 ### Authors
 Hojjat Azimi Asrari,Megan A. K. Peters
@@ -1822,9 +1369,6 @@ Hojjat Azimi Asrari,Megan A. K. Peters
 我们开发并应用了一种名为Noise Estimation through Reinforcement-based Diffusion (NERD)模型，来研究大脑可能如何处理噪声学习过程。结果显示，NERD模型对人类行为有很高的解释力。这种方法有助于揭示关于不确定性的高级表征如何被大脑表示，并为理解神经反馈的任务中如何实现自我噪声的适应性学习提供了新的见解。
 ### Conclusion
 NERD模型在解码神经反馈任务中的应用表明，它能够很好地解释人类的学习过程如何处理预期的噪声不确定性。这为研究高级不确定性的脑部表示和改善神经反馈技术提供了新的理论框架。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 153. `cs.AI` - Zero-TIG：提升低光照和水下视频照度指导的一致性感知零样本低光视频增强 [PDF](https://arxiv.org/pdf/2503.11175), [HTML](https://arxiv.org/abs/2503.11175)
 ### Authors
 Yini Li,Nantheera Anantrasirichai
@@ -1834,9 +1378,6 @@ Yini Li,Nantheera Anantrasirichai
 引入了零样本学习方法Zero-TIG，该方法通过Retinex理论和光流技术结合，提出了一种包含增强模块和时间反馈模块的网络，能够不需要配对的训练数据，提高低光照和水下视频的视觉质量，并确保时间一致性
 ### Conclusion
 实验结果表明，Zero-TIG方法在低光照视频增强方面表现良好，无需配对的真实标签，为实际应用提供了新的方法.
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 154. `cs.AI` - Lagrangian Index Policy for Restless Bandits with Average Reward [PDF](https://arxiv.org/pdf/2412.12641), [HTML](https://arxiv.org/abs/2412.12641)
 ### Authors
 Konstantin Avrachenkov,Vivek S. Borkar,Pratik Shah
@@ -1846,9 +1387,6 @@ Konstantin Avrachenkov,Vivek S. Borkar,Pratik Shah
 本文提出的拉格朗日指标策略（LIP）和多种强化学习算法（包括基于表格和神经网络的）显著改进了不可静止多臂-bandits（RMB）的长运行平均奖励场景下的性能。特别地，在WIP表现不佳的情况下，LIP仍能保持良好的性能。此外，基于交换性和de Finetti定理的新证法也为研究提供了新的理论支持。这些方法还在基于重启模型的网页抓取和加权信息年龄最小化等实际问题中有所应用。
 ### Conclusion
 通过对拉格朗日指标策略（LIP）的研究及其在不可静止多臂-bandits中的应用，证明了LIP相较于威布尔指标策略（WIP）具有更强的适应性和性能稳定性。提出的无模型强化学习算法显著节省了内存需求，并且在处理实际问题时显示出良好的表现。基于重启模型的拉格朗日指标的解析计算为进一步优化网页抓取策略和信息年龄管理提供了实用工具。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 155. `cs.AI` - DisCoPatch: 利用对抗性驱动的批统计数据改善的离分布检测 [PDF](https://arxiv.org/pdf/2501.08005), [HTML](https://arxiv.org/abs/2501.08005)
 ### Authors
 Francisco Caetano,Christiaan Viviers,Luis A. Zavala-Mondragón,Peter H. N. de With,Fons van der Sommen
@@ -1858,9 +1396,6 @@ Francisco Caetano,Christiaan Viviers,Luis A. Zavala-Mondragón,Peter H. N. de Wi
 作者提出了DisCoPatch，一种无监督的对抗性变分自编码器（VAE）框架，利用对抗性驱动的批统计数据。在推理过程中，批次由来自同一图像的补丁组成，保证了数据分布的一致性，使模型能够依赖于批量统计。DisCoPatch使用VAE的亚优输出（生成和重建）作为负样本来训练判别器，从而提高其区分内在分布样本和协变迁移的能力。通过紧化边界，DisCoPatch在公共OOD检测基准测试中达到了最先进的结果。与之前的模型相比，该模型在ImageNet-1K(-C)上的AUROC达到了95.5%，并且在公共Near-OOD基准测试中也超过了所有先前的方法。由于模型大小仅为25MB，该方法在保持较高OOD检测性能的同时，显著降低了延迟，提供了现实世界OOD检测应用中的高效和实用解决方案。
 ### Conclusion
 DisCoPatch通过利用对抗性驱动的批统计数据，不仅在检测协变迁移方面表现出色，达到了95.5%的AUROC，而且在公共Near-OOD基准测试中也超过了所有先前的方法。该模型在保持较高OOD检测性能的同时，显著降低了延迟，适用于实际的OOD检测应用。代码已经公开。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 156. `cs.AI` - 受奖励指引的推测性解码以提高大语言模型推理的效率 [PDF](https://arxiv.org/pdf/2501.19324), [HTML](https://arxiv.org/abs/2501.19324)
 ### Authors
 Baohao Liao,Yuhui Xu,Hanze Dong,Junnan Li,Christof Monz,Silvio Savarese,Doyen Sahoo,Caiming Xiong
@@ -1870,9 +1405,6 @@ Baohao Liao,Yuhui Xu,Hanze Dong,Junnan Li,Christof Monz,Silvio Savarese,Doyen Sa
 RSD框架的创新点在于它通过结合轻量级草稿模型和更强大的目标模型，利用奖励机制来引导解码过程，并动态决定何时调用目标模型。这不仅优化了计算成本与输出质量之间的权衡，还提出了一种基于阈值的混合策略，理论证明能够实现资源利用与性能的最佳平衡。与仅使用目标模型直接解码相比，RSD在挑战性的推理任务上表现出更高的效率和准确性。
 ### Conclusion
 研究结果证明，RSD作为一种在资源密集型场景下高效部署大语言模型的稳健且成本效益高的方法，具有显著的优越性。该方法在一系列困难的推理基准测试中显著降低了FLOPs（高达4.4倍）并提高了平均准确性（高达3.5%）。RSD的代码可以在以下链接下载：this https URL.
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 157. `cs.AI` - AI驱动的情感分析：在电子商务领域的商业价值解锁 [PDF](https://arxiv.org/pdf/2504.08738), [HTML](https://arxiv.org/abs/2504.08738)
 ### Authors
 Qianye Wu,Chengxuan Xia,Sixuan Tian
@@ -1882,9 +1414,6 @@ Qianye Wu,Chengxuan Xia,Sixuan Tian
 本文提出了一种专门针对电子商务应用的AI驱动情感分析系统，结合传统机器学习技术和现代深度学习模型，实现了更细致的情感理解并保证决策透明度。实验结果显示，该系统在多种大规模数据集上的准确率为89.7%，优于标准情感分析方法。实际部署证明了在多个电子商务平台上的客户参与和运营效率的实际提升。研究强调了在商业环境中应用AI进行情感分析的潜力与挑战，并提供了实用部署策略和未来改进领域的见解。
 ### Conclusion
 本研究表明，AI驱动的情感分析系统能够在电子商务领域有效提升客户参与度和运营效率，同时也指出了实际应用中的潜在挑战，为企业提供了实用部署建议和技术改进方向。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 158. `cs.AI` - AirCache: 激活跨模态相关性 KV 缓存压缩以实现高效的大规模视觉语言模型推理 [PDF](https://arxiv.org/pdf/2503.23956), [HTML](https://arxiv.org/abs/2503.23956)
 ### Authors
 Kai Huang,Hao Zou,Bochen Wang,Ye Xi,Zhen Xie,Hao Wang
@@ -1894,9 +1423,6 @@ Kai Huang,Hao Zou,Bochen Wang,Ye Xi,Zhen Xie,Hao Wang
 本文提出了一种名为AirCache的新颖KV缓存压缩方法，旨在提高LVLMs推理速度。通过系统地研究注意力机制中的视觉和文本标记相关性，发现了缓存中的视觉标记具有大量冗余。该方法采用精英观察窗口评估视觉组件在KV缓存中的重要性，加强多视角的一致性，并采用自适应分层预算分配策略来应对token重要性分布的强和偏斜特性。实验结果表明，这种方法可以在保留仅10%视觉KV缓存的情况下，实现与完整缓存相当的性能，同时将解码延迟降低29%到66%。当缓存保留率降低时，该方法表现出越来越明显的优势。
 ### Conclusion
 该研究通过充分压缩视觉标记的KV缓存，实现重大性能提升，验证了AirCache方法的优越性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 159. `cs.AI` - 能量匹配：结合流匹配和能量模型的生成建模 [PDF](https://arxiv.org/pdf/2504.10612), [HTML](https://arxiv.org/abs/2504.10612)
 ### Authors
 Michal Balcerak,Tamaz Amiranashvili,Antonio Terpin,Suprosanna Shit,Lea Bogensperger,Sebastian Kaltenbach,Petros Koumoutsakos,Bjoern Menze
@@ -1906,9 +1432,6 @@ Michal Balcerak,Tamaz Amiranashvili,Antonio Terpin,Suprosanna Shit,Lea Bogensper
 提出的能量匹配框架通过在远离数据流形时采用无旋的最优输运路径，使噪声样本到数据样本的转移最优，当接近数据流形时，加入的混熵能量项引导系统进入玻尔兹曼平衡分布，明确捕捉数据的潜在概率结构。该方法使用单一的时间无关标量场参数化此动态，不仅作为强大的生成器，还作为灵活的先验，用于有效的逆问题正则化。
 ### Conclusion
 该方法在CIFAR-10和ImageNet生成方面的保真度上显著优于现有能量模型，同时允许基于输运方法在远离数据流形的训练中不进行模拟。此外，利用方法的灵活性，引入了一种交互能量，支持多模式探索，通过受控蛋白质生成实验进行了验证。提出的方法专注于学习一个标量势能，这标志着与最近的能量模型方法的重要区别，我们认为这一简化框架显著提升了能量模型的能力，并为其在各种领域的生成建模中的广泛应用铺平了道路。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 160. `cs.AI` - Thinkless: LLM Learns When to Think [PDF](https://arxiv.org/pdf/2505.13379), [HTML](https://arxiv.org/abs/2505.13379)
 ### Authors
 Gongfan Fang,Xinyin Ma,Xinchao Wang
@@ -1918,9 +1441,6 @@ Gongfan Fang,Xinyin Ma,Xinchao Wang
 本文提出了一个名为Thinkless的可学习框架，使语言模型能够根据任务复杂性和模型能力，自适应选择短推理和长推理模式。Thinkless通过强化学习训练，并采用两个控制标记，<short>用于简短回答，<think>用于详细推理。核心算法是Decoupled Group Relative Policy Optimization (DeGRPO)，它将混合推理的学习目标分解为两部分：（1）控制标记损失，用于治理推理模式的选择；（2）回答损失，用于提高生成答案的准确性。这种解耦形式使得对每个目标的贡献能够进行细粒度控制，稳定训练并有效防止了通用GRPO中观察到的崩塌现象。实验结果显示，Thinkless能够将长链思考的使用降低50%-90%，显著提高了推理语言模型的效率。
 ### Conclusion
 Thinkless能够显著降低长链思考的使用，提高推理语言模型的效率。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 161. `cs.AI` - JointDiT：利用扩散变压器增强RGB-深度联合建模 [PDF](https://arxiv.org/pdf/2505.00482), [HTML](https://arxiv.org/abs/2505.00482)
 ### Authors
 Kwon Byung-Ki,Qi Dai,Lee Hyoseok,Chong Luo,Tae-Hyun Oh
@@ -1930,9 +1450,6 @@ Kwon Byung-Ki,Qi Dai,Lee Hyoseok,Chong Luo,Tae-Hyun Oh
 JointDiT采用自适应调度权重，依赖于每个模态的噪声水平，以及不均衡时间步长采样策略，从而实现跨模态噪声水平的训练。这种方法使得模型能够自然地处理各种联合生成任务，而无需复杂的额外操作。JointDiT在联合生成方面表现出色，并且在深度估计和深度条件图像生成方面也取得了可比的结果，这表明联合分布建模可以作为一种替代手段取代条件生成。
 ### Conclusion
 JointDiT不仅展示了卓越的联合生成性能，还在深度估计和深度条件图像生成中取得了与现有模型相当的效果。这表明联合分布建模可以作为一种可替代的条件生成方法。通过这种建模方式，JointDiT可以在不增加额外复杂性的前提下处理多种生成任务。有兴趣的读者可以在以下链接中找到详细信息：this https URL。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 162. `cs.AI` - 迈向基于适应性记忆优化的增强检索增强生成 [PDF](https://arxiv.org/pdf/2504.05312), [HTML](https://arxiv.org/abs/2504.05312)
 ### Authors
 Qitao Qin,Yucong Luo,Yihang Lu,Zhibo Chu,Xianwei Meng
@@ -1942,9 +1459,6 @@ Qitao Qin,Yucong Luo,Yihang Lu,Zhibo Chu,Xianwei Meng
 为解决上述挑战，本文提出了一种针对开放式领域QA任务的自适应记忆优化增强的RAG（Amber），它包括基于代理的记忆更新器、自适应信息收集器和多粒度内容过滤器，共同工作在迭代记忆更新模式中。Amber通过多代理协作方法，确保了从先前检索步骤中进行全面知识整合。它可以动态调整检索查询并根据累积的知识决定何时停止检索，提高了检索效率和效果。此外，通过在多个层面过滤无关内容来减少噪声，保留关键信息，从而提升整体模型性能。
 ### Conclusion
 我们在几个开放式领域QA数据集上进行了广泛的实验，实验结果证明了我们方法及其组件的优越性和有效性。源代码可在以下链接获取。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 163. `cs.AI` - LLMs在基金投资中的专业性：DeepFund：一个实时竞技场视角 [PDF](https://arxiv.org/pdf/2503.18313), [HTML](https://arxiv.org/abs/2503.18313)
 ### Authors
 Changlun Li,Yao Shi,Yuyu Luo,Nan Tang
@@ -1954,9 +1468,6 @@ Changlun Li,Yao Shi,Yuyu Luo,Nan Tang
 我们引入了一个名为DeepFund的全面竞技平台，用于实时环境中评估基于LLM的交易策略。DeepFund采用多智能体框架，模拟现实世界的投资决策过程，并提供可访问的Web界面，用于展示不同市场条件下投资基金的表现和性能指标，支持详细的比较分析。通过DeepFund，我们旨在为LLMs在基金投资中的专业能力提供更真实的评估，并揭示其在实际金融市场的潜在应用。
 ### Conclusion
 我们的代码已经开源，通过DeepFund，我们期望提供一个更加真实和公平的评估框架，全面了解和评估LLMs在基金投资中的潜在应用，为未来的研究和实际应用提供多样化见解。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 164. `cs.AI` - A3：一种基于分析的注意力低秩逼近框架 [PDF](https://arxiv.org/pdf/2505.12942), [HTML](https://arxiv.org/abs/2505.12942)
 ### Authors
 Jeffrey T. H. Wong,Cheng Zhang,Xinye Cao,Pedro Gimenes,George A. Constantinides,Wayne Luk,Yiren Zhao
@@ -1966,9 +1477,6 @@ Jeffrey T. H. Wong,Cheng Zhang,Xinye Cao,Pedro Gimenes,George A. Constantinides,
 提出了一种名为$tt A^tt 3$的训练后低秩逼近框架。$tt A^tt 3$将Transformer层划分为$tt QK$、$tt OV$和$tt MLP$三个功能组件，为每个组件提供一个减少隐藏维度大小的同时最小化功能损失（即注意力分数、注意力输出和MLP输出的误差）的解析解决方案。这种方法直接减小了模型大小、KV缓存大小和FLOPs，并且没有引入额外的运行时开销。$tt A^tt 3$还提供了一种全新的优化视角，从单一线性层损失优化转向整体性能的提升。实验结果显示，$tt A^tt 3$在保持性能的同时，相比于目前的最佳技术SOTA，例如在计算和内存预算相同的条件下，低秩逼近的LLaMA 3.1-70B在WikiText-2上的困惑度为4.69，优于此前SOTA的7.87，提升了3.18。$tt A^tt 3$还展示了其灵活性，包括KV缓存压缩、量化和混合低秩分配以增强性能。
 ### Conclusion
 通过广泛的实验，$tt A^tt 3$在保持性能方面表现优于当前的最佳技术。例如，在相同的计算和内存预算下，$tt A^tt 3$的低秩逼近LLaMA 3.1-70B在WikiText-2上的困惑度为4.69，优于此前SOTA的7.87。$tt A^tt 3$还展示了其在KV缓存压缩、量化和混合低秩分配等应用中的灵活性和潜力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 165. `cs.AI` - TaxaDiffusion: 进阶训练的扩散模型用于细粒度物种生成 [PDF](https://arxiv.org/pdf/2506.01923), [HTML](https://arxiv.org/abs/2506.01923)
 ### Authors
 Amin Karimi Monsefi,Mridul Khurana,Rajiv Ramnath,Anuj Karpatne,Wei-Lun Chao,Cheng Zhang
@@ -1978,9 +1486,6 @@ Amin Karimi Monsefi,Mridul Khurana,Rajiv Ramnath,Anuj Karpatne,Wei-Lun Chao,Chen
 TaxaDiffusion 的创新在于其采用分类学知识，通过分级训练条件扩散模型，从大类逐步精细到物种级别，捕捉共享祖先的粗略形态特征，再精细化到物种之间的细微差别。这种方式有助于提高细粒度图像生成的准确性和鲁棒性，即使在每个物种的训练样本有限的情况下也能保持高度保真度。
 ### Conclusion
 实验结果表明，TaxaDiffusion 在三个细粒度动物数据集上的表现优于现有方法，实现了在细粒度动物图像生成方面的更高保真度。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 166. `cs.AI` - 复合流动匹配在具有偏移动力学数据的强化学习中的应用 [PDF](https://arxiv.org/pdf/2505.23062), [HTML](https://arxiv.org/abs/2505.23062)
 ### Authors
 Lingkai Kong,Haichuan Wang,Tonghan Wang,Guojun Xiong,Milind Tambe
@@ -1990,9 +1495,6 @@ Lingkai Kong,Haichuan Wang,Tonghan Wang,Guojun Xiong,Milind Tambe
 该研究提出了CompFlow方法，它是基于流动匹配和最优传输的理论联系而构建。具体而言，目标动力学被建模为基于源域流动输出分布的条件流动，而不是直接从高斯先验学习。这种方法提供了两大优势：(1) 改进学习目标动力学的泛化能力，(2) 提供基于源和目标转换 Wasserstein 距离的合理动力学差距估计。利用原理性的方法对动力学差距进行估计，研究进一步引入了一种乐观的主动数据收集策略，优先在高动力学差距区域探索，并理论上证明了这种策略能减少与最优策略的性能差距。实验证明，CompFlow在多个具有动力学偏移的RL基准测试中优于强基线方法。
 ### Conclusion
 CompFlow方法通过改进目标动力学学习的泛化能力和合理的动力学差距估计，解决了传统方法在源环境和目标环境转换动力学差异时的局限性。通过主动数据收集策略，进一步提高了方法的有效性和性能，验证了理论上的优越性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 167. `cs.AI` - PCDVQ: 通过极坐标解耦增强大语言模型中的向量量化 [PDF](https://arxiv.org/pdf/2506.05432), [HTML](https://arxiv.org/abs/2506.05432)
 ### Authors
 Yuxuan Yue,Zukang Xu,Zhihang Yuan,Dawei Yang,Jianlong Wu,Liqiang Nie
@@ -2002,9 +1504,6 @@ Yuxuan Yue,Zukang Xu,Zhihang Yuan,Dawei Yang,Jianlong Wu,Liqiang Nie
 本文提出了极坐标解耦向量量化（PCDVQ），这是一种有效且高效的VQ框架，包含两个关键模块：1）极坐标解耦（PCD），它将向量转换为其极坐标表示，并独立量化方向和幅度参数；2）分布对齐码本构建（DACC），它根据源分布优化方向和幅度码本。实验结果表明，即使在2位级别下，PCDVQ相较于基准方法至少提高了1.5%的零样本准确率，从而确立了一个新的准确且高度压缩的大语言模型范式。这一方法有效地解决了现有VQ方法中的方向与幅度敏感性差异较大的问题，提高了量化精度和模型压缩效率。
 ### Conclusion
 PCDVQ通过极坐标解耦显著改善了大语言模型的量化精度，尤其是在2位量化下，实现了至少1.5%的零样本准确率提升，构建了一种新的精准且高度压缩的大语言模型范式。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 168. `cs.AI` - 从假到真：奖励建模作为区分性预测 [PDF](https://arxiv.org/pdf/2506.13846), [HTML](https://arxiv.org/abs/2506.13846)
 ### Authors
 Runtao Liu,Jiahao Zhan,Yingqing He,Chen Wei,Alan Yuille,Qifeng Chen
@@ -2014,9 +1513,6 @@ Runtao Liu,Jiahao Zhan,Yingqing He,Chen Wei,Alan Yuille,Qifeng Chen
 受生成对抗网络（GANs）中对抗训练的启发，该论文提出了一种名为GAN-RM的有效奖励模型框架。这个框架无需手动偏好标注和显式质量维度工程，而是通过区分一小批代表性且未配对的目标样本（称为偏好代理数据）和模型生成的一般输出来训练奖励模型，仅需几百个目标样本即可。
 ### Conclusion
 我们的研究在多个关键应用中展示了GAN-RM的有效性，包括测试时的规模扩展（通过N-best样本筛选实现），以及后训练方法如监督微调（SFT）和直接偏好优化（DPO）。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 169. `cs.AI` - 在思考时搜索并精炼：自适应检索增强的大语言模型推理 [PDF](https://arxiv.org/pdf/2505.11277), [HTML](https://arxiv.org/abs/2505.11277)
 ### Authors
 Yaorui Shi,Sihang Li,Chang Wu,Zhiyuan Liu,Junfeng Fang,Hengxing Cai,An Zhang,Xiang Wang
@@ -2026,9 +1522,6 @@ Yaorui Shi,Sihang Li,Chang Wu,Zhiyuan Liu,Junfeng Fang,Hengxing Cai,An Zhang,Xia
 本文提出了AutoRefine，一种基于强化学习的后训练框架，采用了新的“搜索并精炼”推理范式。AutoRefine在相继的搜索调用之间引入了明确的精炼步骤，使模型能够迭代地筛选、提炼和组织证据，再生成答案。此外，研究中还引入了针对检索的定制奖励和答案正确性奖励，使用群体相对策略优化。实验表明，AutoRefine 在单步骤和多步骤问答基准测试中显著优于现有方法，特别是在复杂的、多步骤推理场景中。更深入的分析表明，AutoRefine 经常进行频繁、高质量的搜索，并有效地综合了证据
 ### Conclusion
 实验结果表明，AutoRefine 在处理复杂多步骤推理场景中的表现显著优于现有方法，尤其是在单跳和多跳问答基准测试中。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 170. `cs.AI` - TracLLM：一种适用于长上下文大语言模型的通用归因框架 [PDF](https://arxiv.org/pdf/2506.04202), [HTML](https://arxiv.org/abs/2506.04202)
 ### Authors
 Yanting Wang,Wei Zou,Runpeng Geng,Jinyuan Jia
@@ -2038,9 +1531,6 @@ Yanting Wang,Wei Zou,Runpeng Geng,Jinyuan Jia
 本文开发了TracLLM，这是一种专门针对长上下文LLM的首个通用上下文回溯框架。我们的框架能够提高现有特征归因方法的有效性和效率。为了提高效率，我们在TracLLM中开发了基于启发式搜索的算法。我们还开发了贡献评分的集成/降噪技术，以提高TracLLM的准确性。评估结果表明，TracLLM能够有效识别长上下文中的文本，这些文本导致了LLM的输出。
 ### Conclusion
 我们的研究结果表明，TracLLM可以有效地识别长上下文中的关键文本，这些关键文本引起了LLM的生成输出。我们的代码和数据可以在指定的URL中找到。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 171. `cs.AI` - 基于LLM的恶意软件分析的语义预处理 [PDF](https://arxiv.org/pdf/2506.12113), [HTML](https://arxiv.org/abs/2506.12113)
 ### Authors
 Benjamin Marais,Tony Quertier,Grégoire Barrue
@@ -2050,9 +1540,6 @@ Benjamin Marais,Tony Quertier,Grégoire Barrue
 我们提出了一种新的预处理方法，该方法生成 Portable Executable 文件的 JSON 报告，包含了静态和行为分析的特征，以及打包程序签名检测、MITRE ATT&CK 和 MBC 的知识。这种预处理方法旨在为恶意软件分析师提供一个语义化的二进制文件表示，并增强机器学习模型对恶意文件分析的解释性。我们利用这种预处理方法训练了一个大型语言模型来进行恶意软件分类，实现了复杂数据集上加权平均 F1 分数为 0.94 的结果，这一数据集代表了市场现实。
 ### Conclusion
 这种预处理方法通过为恶意软件分析师提供更语义化的数据表示，显著提高了恶意软件分析的解释性，同时利用这种预处理方法训练的大型语言模型在恶意软件分类任务上也表现出了优异的性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 172. `cs.AI` - 使用SMILE进行大型语言模型解释性研究：基于局部解释的统计模型无关可解释性 [PDF](https://arxiv.org/pdf/2505.21657), [HTML](https://arxiv.org/abs/2505.21657)
 ### Authors
 Zeinab Dehghani,Mohammed Naveed Akram,Koorosh Aslansefat,Adil Khan
@@ -2062,9 +1549,6 @@ GPT、LLAMA和Claude等大型语言模型在生成文本方面变得极其强大
 SMILE是一种新的、模型通用的方法，能够解释大型语言模型对不同提示部分的响应。该方法通过对输入进行小幅修改来测量输出的变化，并突出显示具有最大影响的单词，通过生成热图来直观地展示哪些部分的提示最重要。这种方法在几个领先的LLM上进行测试，显示出准确和可靠的解释能力。
 ### Conclusion
 通过使这些模型更加容易理解，SMILE使我们向使AI更透明和可信迈进了一步。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 173. `cs.AI` - IndieFake 数据集：音频换声检测的基准数据集 [PDF](https://arxiv.org/pdf/2506.19014), [HTML](https://arxiv.org/abs/2506.19014)
 ### Authors
 Abhay Kumar,Kunal Verma,Omkar More
@@ -2074,9 +1558,6 @@ Abhay Kumar,Kunal Verma,Omkar More
 该研究提出了IndieFake数据集，这是第一款专门为音频换声检测设计的基准数据集。IndieFake数据集收录了50位印度英语母语者的27.17小时真声和换声音频数据，旨在提高模型检测音频换声在南亚背景下语言和文化方面的准确性，同时提供了平衡的数据分布和包含说话人口述特征的描述，这些都是现有数据集所缺乏的。该数据集在真实野生环境中进行了基准测试，结果表明，IndieFake数据集比现有的ASVspoof21 (DF)数据集表现更好，且更具挑战性。
 ### Conclusion
 IndieFake数据集在检测和缓解音频换声威胁方面具有重要作用，为研究者提供了更适合南亚语言和文化背景的全面数据分布。该数据集已开源，为研究和开发提供了支持。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 174. `cs.AI` - 超声图像解释和扫描指导的语义场景图 [PDF](https://arxiv.org/pdf/2506.19683), [HTML](https://arxiv.org/abs/2506.19683)
 ### Authors
 Xuesong Li,Dianye Huang,Yameng Zhang,Nassir Navab,Zhongliang Jiang
@@ -2086,9 +1567,6 @@ Xuesong Li,Dianye Huang,Yameng Zhang,Nassir Navab,Zhongliang Jiang
 首先引入了基于变换器的一阶段方法计算超声场景图，省去了显式对象检测的步骤；其次，通过大型语言模型（LLMs）进一步细化抽象SG表示，生成普通用户易于理解的图像解释；最后，探索预测的SG以指导扫描，填补当前成像视图中的解剖缺漏，帮助普通用户实现更标准化和完整的解剖探索。
 ### Conclusion
 通过超声场景图，该研究证实了其在最大程度上促进超声成像民主化方面的潜力，即通过提高成像解释性和使用性，增强其对普通用户的可解释性和易用性。研究结果在左颈部和右颈部成像区域（包括颈动脉和甲状腺）的五名志愿者身上得到验证。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 175. `cs.CL` - 向大规模表格数据中的概率式问答迈进 [PDF](https://arxiv.org/pdf/2506.20747), [HTML](https://arxiv.org/abs/2506.20747)
 ### Authors
 Chen Shen,Sajjadur Rahman,Estevam Hruschka
@@ -2098,9 +1576,6 @@ Chen Shen,Sajjadur Rahman,Estevam Hruschka
 本文提出了一个新的基准LUCARIO和一种框架，用于在大规模表格数据上进行概率式问答。该方法从表格中诱导贝叶斯网络，将自然语言查询翻译成概率查询，并利用大型语言模型生成最终答案。
 ### Conclusion
 实验证明该方法在基线之上取得了显著的进步，突显了混合符号-神经推理的优点。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 176. `cs.AI` - 迈向可验证的安全或不安全模型权重释放方案 [PDF](https://arxiv.org/pdf/2506.19874), [HTML](https://arxiv.org/abs/2506.19874)
 ### Authors
 Xin Yang,Bintao Tang,Yuhao Wang,Zimo Ji,Terry Jingchen Zhang,Wenyuan Jiang
@@ -2110,9 +1585,6 @@ Xin Yang,Bintao Tang,Yuhao Wang,Zimo Ji,Terry Jingchen Zhang,Wenyuan Jiang
 受密码学中现有研究成果的启发，本文通过提出几种具体的安全性定义来形式化模型权重释放方案的安全性，并针对TaylorMLP这一著名的权重释放方案进行了案例研究，发现其中的安全漏洞从而揭示了TaylorMLP未能实现其非正式的安全目标。本文希望促进机器学习与安全研究社区的深入研究，并提供未来权重释放方案设计与评估的蓝图。
 ### Conclusion
 本文希望倡导方向更加严谨的研究，促使未来发布的模型权重更加安全可靠，并提供了如何制定和评估未来的权重释放方案的具体方法。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 177. `cs.AI` - SACL：通过语义增强重新排名和定位理解及对抗代码检索中的文本偏见 [PDF](https://arxiv.org/pdf/2506.20081), [HTML](https://arxiv.org/abs/2506.20081)
 ### Authors
 Dhruv Gupta,Gayathri Ganesh Lakshmy,Yiqing Xie
@@ -2122,9 +1594,6 @@ Dhruv Gupta,Gayathri Ganesh Lakshmy,Yiqing Xie
 本文提出了一种名为SACL的新框架，它通过添加语义信息并增强代码或结构知识来丰富文本信息，并减少对已文档化代码的偏好，从而减少文本偏见。SACL通过语义增强重新排名和定位代码信息，显著提高了代码的检索性能，即在HumanEval / MBPP / SWE-Bench-Lite上的召回率（分别为12.8% / 9.4% / 7.0%的Recall@1），并进一步提高了代码生成的表现，例如HumanEval的Pass@1上升了4.88%。
 ### Conclusion
 研究表明，通过使用SACL框架，可以显著提高代码检索的效果，同时也能改善代码生成的效果。这些发现表明，语义信息对于减少代码检索中的文本偏见和提升检索质量具有重要作用。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 178. `cs.CL` - 大型语言模型多语言功能评估 [PDF](https://arxiv.org/pdf/2506.20793), [HTML](https://arxiv.org/abs/2506.20793)
 ### Authors
 Victor Ojewale,Inioluwa Deborah Raji,Suresh Venkatasubramanian
@@ -2134,9 +1603,6 @@ Victor Ojewale,Inioluwa Deborah Raji,Suresh Venkatasubramanian
 研究构建了新的多语言功能基准测试，通过跨语言翻译通用的功能基准模板来评估大型语言模型在不同语言环境下的性能和鲁棒性，揭示出不同基准测试对模型功能性能的捕捉程度存在显著差异，部分基准测试能够显著提高对模型的评估准确性。此外，研究还发现不同语言下模型的鲁棒性表现存在显著差异，某些语言在各次评估中表现更为一致。
 ### Conclusion
 实验结果表明，一些静态的多语言基准测试更能贴近地反映模型的功能性表现差异。同时，不同语言环境下模型的鲁棒性表现也存在显著差异，某些特定语言（如阿拉伯语、英语）在多轮评估中表现更为稳定。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 179. `cs.AI` - 这些不是您所有在寻找的特征：监督预训练中的基本瓶颈 [PDF](https://arxiv.org/pdf/2506.18221), [HTML](https://arxiv.org/abs/2506.18221)
 ### Authors
 Xingyu Alice Yang,Jianyu Zhang,Léon Bottou
@@ -2146,9 +1612,6 @@ Xingyu Alice Yang,Jianyu Zhang,Léon Bottou
 研究发现了深度学习模型中的“信息饱和瓶颈”，即网络在预训练过程中一旦学会了相似的冲突特征，就无法再学习新的特征。提出了一个更丰富特征表示的方法作为一种潜在解决方案，以更好地在新数据集上泛化，并介绍了一种新的方法来解决这一挑战的初步步骤。
 ### Conclusion
 研究表明，深度学习模型在预训练过程中学习相似特征后无法继续学习新特征，并且提出了更丰富特征表示作为改进策略。研究还提出了一种新颖的方法来解决这一挑战，为后续的研究提供了方向。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 180. `cs.CL` - 在行为情境下通过多元人口统计学分析揭示大型语言模型中隐藏的暴力倾向 [PDF](https://arxiv.org/pdf/2506.20822), [HTML](https://arxiv.org/abs/2506.20822)
 ### Authors
 Quintin Myers,Yanjun Gao
@@ -2158,9 +1621,6 @@ Quintin Myers,Yanjun Gao
 本研究引入了基于人设的提示，用于评估LLMs在处理道德模糊性的现实世界场景中的推理能力，并特别关注其在不同人口统计学群体中的表现差异。这是首次使用经过科学验证的工具对大型语言模型的暴力敏感性进行全面评估的研究。
 ### Conclusion
 研究揭示了两个关键发现：第一，LLMs的文本生成往往与其内部偏好暴力反应相偏离；第二，它们的暴力倾向会因人口统计学群体的不同而异，经常与犯罪学、社会学和心理学领域的研究结果背道而驰。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 181. `cs.CL` - MultiFinRAG: 一种优化的多模态检索增强生成（RAG）框架，用于金融问答 [PDF](https://arxiv.org/pdf/2506.20821), [HTML](https://arxiv.org/abs/2506.20821)
 ### Authors
 Chinmay Gondhalekar,Urjitkumar Patel,Fang-Chun Yeh
@@ -2170,9 +1630,6 @@ Chinmay Gondhalekar,Urjitkumar Patel,Fang-Chun Yeh
 我们提出了MultiFinRAG，这是一种专门为金融问答（FinQA）设计的检索增强生成框架。MultiFinRAG首先通过将表格和图像组批并发送给一个轻量级、量化的开源多模态LLM来进行多模态提取，产生结构化的JSON输出和简洁的文字摘要。这些输出连同叙述文本一起嵌入并在具有模态感知相似阈值的情况下进行索引，以实现精确检索。当必要时，多层次的后备策略可以动态从文本仅模式升级到文本+表格+图像模式，从而在减少不相关上下文的情况下实现跨模态推理。尽管运行在普通的硬件上，MultiFinRAG在涉及文本、表格、图像和复合多模态推理的复杂金融问答任务上的准确度比ChatGPT-4o（免费版本）高19个百分点。
 ### Conclusion
 MultiFinRAG是为金融问答专门设计的多模态检索增强生成框架，该框架通过精确的嵌入与索引、多层次的后备策略和跨模态推理，提高了复杂金融问答任务的准确性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 182. `cs.CL` - FineWeb2：一种适应所有语言的预训练数据处理管道 [PDF](https://arxiv.org/pdf/2506.20920), [HTML](https://arxiv.org/abs/2506.20920)
 ### Authors
 Guilherme Penedo,Hynek Kydlíček,Vinko Sabolčec,Bettina Messmer,Negar Foroutan,Amir Hossein Kargaran,Colin Raffel,Martin Jaggi,Leandro Von Werra,Thomas Wolf
@@ -2182,9 +1639,6 @@ Guilherme Penedo,Hynek Kydlíček,Vinko Sabolčec,Bettina Messmer,Negar Foroutan
 本文介绍了一种基于FineWeb的新预训练数据采集流水线，该流水线能够自动适应任何语言。本文还引入了一种简单且系统的方法来重新平衡数据集，综合考虑重复项数量和质量，进一步提升了模型性能。此外，该研究将流水线扩展到超过1000种语言，使用近100个Common Crawl快照生成了一种新的名为FineWeb2的多语言数据集，该数据集包含20太字（50亿份文档），并且与研究成果一同公开了流水线、训练和评估代码库。
 ### Conclusion
 本文展示了这种新的数据采集和处理流水线可以创建更高效的非英语语料库，并且引入的方法在数据重新平衡方面的提升效果明显。通过这种方法和新生成的数据集FineWeb2，大大增加了多语言预训练语言模型训练的可能性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 183. `cs.CL` - LLM生成与人类研究创意之间的理想化执行差距：执行结果分析 [PDF](https://arxiv.org/pdf/2506.20803), [HTML](https://arxiv.org/abs/2506.20803)
 ### Authors
 Chenglei Si,Tatsunori Hashimoto,Diyi Yang
@@ -2194,9 +1648,6 @@ Chenglei Si,Tatsunori Hashimoto,Diyi Yang
 该研究通过执行研究方法进行了创新性实验，验证了LLM生成的想法在执行后的有效性。这为评估研究创意提供了新的视角和方法。研究结果揭示了LLMs在生成真正有效的研究想法方面的局限性，以及评估研究想法时的重要挑战。
 ### Conclusion
 尽管LLM生成的想法在观念阶段显示出更大的新颖性，但经过执行后的结果表明，这些想法的有效性远低于专家撰写的想法。这一发现揭示了理想化执行差距（Ideation-Execution Gap），指出了目前LLMs在生成真正有效的研究想法方面的局限性，并强调了评估研究想法时需要充分考虑其执行结果的重要性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 184. `cs.AI` - 基于理性视角，上下文学习策略自然浮现 [PDF](https://arxiv.org/pdf/2506.17859), [HTML](https://arxiv.org/abs/2506.17859)
 ### Authors
 Daniel Wurgaft,Ekdeep Singh Lubana,Core Francisco Park,Hidenori Tanaka,Gautam Reddy,Noah D. Goodman
@@ -2206,9 +1657,6 @@ Daniel Wurgaft,Ekdeep Singh Lubana,Core Francisco Park,Hidenori Tanaka,Gautam Re
 本研究创新地采用理性分析的视角，通过分层贝叶斯框架的提出，几乎完美地预测了Transformer在训练过程中的下一个标记预测。该框架明确展示了不同策略之间的复杂性和损失之间的权衡。这不仅解释了ICL的已知现象，还提出了新的预测，如任务多样性增加时从泛化到记忆的过渡时间表现出超线性趋势的变化。
 ### Conclusion
 本研究通过在任务混合训练下模型的上下文学习策略，提出了一个基于策略复杂性与损失之间权衡的分层贝叶斯框架，成功地描述了ICL行为，并提供了对其现象的新理解，同时给出了新的预测。总之，本研究是一种解释性和预测性的ICL理论，依托于策略复杂性和损失之间的权衡。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 185. `cs.CL` - KaLM-Embedding-V2：优越的训练技术和数据激发了多功能嵌入模型 [PDF](https://arxiv.org/pdf/2506.20923), [HTML](https://arxiv.org/abs/2506.20923)
 ### Authors
 Xinping Zhao,Xinshuo Hu,Zifei Shan,Shouzheng Huang,Yao Zhou,Zetian Sun,Zhenyu Liu,Dongfang Li,Xinyuan Wei,Qian Chen,Youcheng Pan,Yang Xiang,Meishan Zhang,Haofen Wang,Jun Yu,Baotian Hu,Min Zhang
@@ -2218,9 +1666,6 @@ Xinping Zhao,Xinshuo Hu,Zifei Shan,Shouzheng Huang,Yao Zhou,Zetian Sun,Zhenyu Li
 本文的主要创新包括：1. 改进模型架构以更好地适应表示学习，移除了因果注意力掩码，采用完全双方向的转换器，利用简单有效的均值池化生成固定长度的嵌入；2. 实施了一种多阶段训练流程，包括大规模弱监督开源语料库的预训练、高质量检索和非检索数据集的微调以及模型混合参数平均的鲁棒推广；3. 引入了一种焦散式重权机制，集中学习困难样本，并采用在线困难负样本混合策略，不断丰富困难负样本，而无需昂贵的离线挖掘；4. 预训练数据收集超过20类，精调数据超过100类，提升模型性能和泛化能力。
 ### Conclusion
 对大规模文本嵌入基准（MTEB）中日语和英语的广泛评估表明，该模型在与之相比的小规模模型中表现出色，并且能够与比其大3倍、14倍、18倍和26倍的嵌入模型竞争，确定了多功能且紧凑的嵌入模型的新标准，其参数量不到1亿。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 186. `cs.CL` - E-commerce查询分类的半监督可扩展统一框架 [PDF](https://arxiv.org/pdf/2506.21049), [HTML](https://arxiv.org/abs/2506.21049)
 ### Authors
 Chunyuan Yuan,Chong Zhang,Zheng Fang,Ming Pang,Xue Jiang,Changping Peng,Zhangang Lin,Ching Law
@@ -2230,9 +1675,6 @@ Chunyuan Yuan,Chong Zhang,Zheng Fang,Ming Pang,Xue Jiang,Changping Peng,Zhangang
 提出了一个半监督可扩展统一框架(SSUF)，包含多个增强模块来统一查询分类任务。知识增强模块使用世界知识增强查询表示，解决查询信息不足的问题；标签增强模块利用标签语义和半监督信号降低对后续标签的依赖；结构增强模块基于复杂的标签关系增强标签表示。每个模块高度插件化，输入特征可根据每个子任务需要添加或移除。实验结果显示，SSUF显著优于最新模型。
 ### Conclusion
 SSUF在离线和在线A/B实验中表现优异，显著超越了最先进的查询分类模型。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 187. `cs.CL` - 大型语言模型在特许会计师考试中表现出色 [PDF](https://arxiv.org/pdf/2506.21031), [HTML](https://arxiv.org/abs/2506.21031)
 ### Authors
 Jatin Gupta,Akhil Sharma,Saransh Singhania,Mohammad Adnan,Sakshi Deo,Ali Imam Abidi,Keshav Gupta
@@ -2242,9 +1684,6 @@ Jatin Gupta,Akhil Sharma,Saransh Singhania,Mohammad Adnan,Sakshi Deo,Ali Imam Ab
 本文主要的创新在于引入了CA-Ben基准测试，这是一个专门用于评估LLMs处理财务、法律和定量推理能力的重要工具。此外，作者使用标准化协议对六种知名LLM进行了综合性测试，结果显示在概念和法律推理方面，Claude 3.5 Sonnet和GPT-4o表现尤为出色，但它们在数值计算和法律解释方面仍面临挑战。这表明当前LLMs的优点和局限性，并暗示未来通过混合推理和检索增强生成方法可能会在定量分析和准确的法律解释方面有所改进。
 ### Conclusion
 研究结果强调了当前LLMs的强项和弱点，表明未来可以通过结合推理和检索增强生成的方法来改善其在定量分析和法律解释中的表现。具体来说，尽管这些模型在一些概念性和法律推理任务中表现出色，但在涉及具体的法律解释和复杂计算的某些领域仍存在显著挑战。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 188. `cs.CL` - ComRAG：基于动态向量存储的检索增强生成在工业领域实时社区问答系统 [PDF](https://arxiv.org/pdf/2506.21098), [HTML](https://arxiv.org/abs/2506.21098)
 ### Authors
 Qinwen Chen,Wenbiao Tao,Zhiwei Zhu,Mingfan Xi,Liangzhong Guo,Yuan Wang,Wei Wang,Yunshi Lan
@@ -2254,9 +1693,6 @@ Qinwen Chen,Wenbiao Tao,Zhiwei Zhu,Mingfan Xi,Liangzhong Guo,Yuan Wang,Wei Wang,
 提出了一种名为ComRAG的检索增强生成框架，它通过一种基于中心的存储机制将静态知识与动态历史问答对结合起来，实现对实时工业CQA的支持。ComRAG在三个工业CQA数据集上进行了评估，结果表明其在向量相似度、延迟降低和剪枝效率等方面优于所有基线方法。
 ### Conclusion
 ComRAG在三个工业CQA数据集上的测试结果表明，它在向量相似度、延迟减少和每个迭代周期的剪枝百分比方面都显著优于所有基线方法，是用于实时工业社区问答的有力解决方案。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 189. `cs.CL` - MT2-CSD：多目标、多轮次对话姿态检测的新型数据集及多语义知识融合方法 [PDF](https://arxiv.org/pdf/2506.21053), [HTML](https://arxiv.org/abs/2506.21053)
 ### Authors
 Fuqiang Niu,Genan Dai,Yisha Lu,Jiayu Liao,Xiang Li,Hu Huang,Bowen Zhang
@@ -2266,9 +1702,6 @@ Fuqiang Niu,Genan Dai,Yisha Lu,Jiayu Liao,Xiang Li,Hu Huang,Bowen Zhang
 我们提出了基于大规模语言模型增强的对话关系注意网络（LLM-CRAN），它利用了大规模语言模型的推理能力来增强对话理解。进行了广泛的实验验证，结果显示LLM-CRAN在对话态度检测任务中显著优于具有竞争力的基线模型。MT2-CSD数据集和LLM-CRAN方法一起为对话姿态检测领域带来了新的数据资源和技术突破，可以支持更深入和准确的态度分析和对话理解。
 ### Conclusion
 实验结果表明，LLM-CRAN在会话态度检测任务中显著优于强基线模型，MT2-CSD不仅是迄今为止最大规模的多目标、多轮次对话态度检测数据集，还通过呈现新的挑战和解决方案，提供了新的研究视角。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 190. `cs.CL` - 在医学中的端到端事实核查需要传达更多而非决断更多：关于端到端医学事实核查的有效性构建 [PDF](https://arxiv.org/pdf/2506.20876), [HTML](https://arxiv.org/abs/2506.20876)
 ### Authors
 Sebastian Joseph,Lily Chen,Barry Wei,Michael Mackert,Iain J. Marshall,Paul Pu Liang,Ramez Kouzy,Byron C. Wallace,Junyi Jessy Li
@@ -2278,9 +1711,6 @@ Sebastian Joseph,Lily Chen,Barry Wei,Michael Mackert,Iain J. Marshall,Paul Pu Li
 提出了一种新的研究视角，即通过综合医学证据来验证来自社交媒体的真实医学声明，这种方法可以揭示在实际医疗环境中应用端到端事实核查过程中存在的挑战，包括难以将声明与科学证据相连、模糊不清的声明及意图不匹配、以及需要评估需要进行主观评判的真实性标签。这有助于理解现有的端到端医学事实核查系统为什么很少被使用，并为未来改进这些系统提供了新的方向和建议。
 ### Conclusion
 尽管端到端事实核查系统对于优化医学决策过程有巨大潜力，但当前医学领域中的实施仍然存在许多障碍。研究建议重新思考对事实核查的解决方式，将其视为一个交互式的交流过程，而不是简单的自动验证过程。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 191. `cs.CL` - 可以利用梯度下降模拟提示效应吗？ [PDF](https://arxiv.org/pdf/2506.20989), [HTML](https://arxiv.org/abs/2506.20989)
 ### Authors
 Eric Zhang,Leshem Choshen,Jacob Andreas
@@ -2290,9 +1720,6 @@ Eric Zhang,Leshem Choshen,Jacob Andreas
 本文描述了一种方法，用于元训练LMs，使其梯度更新模仿新的信息条件效果。该方法利用基于梯度的元学习工具，但使用LM本身的提示预测作为目标，从而避免了需要真实标签。随后的梯度下降训练可以恢复部分（并偶尔恢复全部）提示模型的表现，表明梯度下降在适当初始化的情况下可以非常具有表现力。结果表明可以为长期上下文建模开辟新的途径，并有助于理解基于梯度的模型的学习泛化能力。
 ### Conclusion
 适当的初始化可以使梯度下降法非常具有表现力，这为基于梯度的学习的泛化能力提供了新的见解，同时也为长期上下文建模的新途径提供了新的研究方向。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 192. `cs.CL` - Prompt-Guided Turn-Taking Prediction [PDF](https://arxiv.org/pdf/2506.21191), [HTML](https://arxiv.org/abs/2506.21191)
 ### Authors
 Koji Inoue,Mikey Elmers,Yahui Fu,Zi Haur Pang,Divesh Lala,Keiko Ochi,Tatsuya Kawahara
@@ -2302,9 +1729,6 @@ Koji Inoue,Mikey Elmers,Yahui Fu,Zi Haur Pang,Divesh Lala,Keiko Ochi,Tatsuya Kaw
 本研究提出了一种新颖的模型，允许通过文本提示（例如“更快”或“更冷静”）动态控制轮流预测，从而为对话伙伴和背景提供直观且明确的控制。该模型基于语音活动投影（VAP）变换器架构，通过通道变换器和跨通道变换器插入文本提示嵌入。研究者通过超过950小时的人类对话数据验证了方法的可行性，并使用大型语言模型生成了文本提示数据。实验结果表明，该模型能够提高预测准确性，并根据文本提示动态调整轮流时间行为。
 ### Conclusion
 本研究提出了一种基于文本提示的轮流预测模型，通过使用大型语言模型生成的数据进行了验证，结果显示该模型显著提升了预测准确性和对轮流时间行为的动态调整能力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 193. `cs.CL` - Maintaining MTEB: Towards Long Term Usability and Reproducibility of Embedding Benchmarks [PDF](https://arxiv.org/pdf/2506.21182), [HTML](https://arxiv.org/abs/2506.21182)
 ### Authors
 Isaac Chung,Imene Kerboua,Marton Kardos,Roman Solomatin,Kenneth Enevoldsen
@@ -2314,9 +1738,6 @@ Isaac Chung,Imene Kerboua,Marton Kardos,Roman Solomatin,Kenneth Enevoldsen
 文章提出了一种维护健壮的持续集成管道的方法，以确保MTEB的数据集完整性、自动化测试执行及基准结果普适性的过程。此外，文章还讨论了如何处理社区贡献并扩展基准，通过这些策略，MTEB得以更加全面并维持高质量，对领域的发展具有重要意义。
 ### Conclusion
 本文的经验对基准维护者来说是宝贵的指导，特别是对于确保机器学习评估框架中的再现性和可用性。MTEB的代码库已经开源。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 194. `cs.CL` - Compressed and Smooth Latent Space for Text Diffusion Modeling [PDF](https://arxiv.org/pdf/2506.21170), [HTML](https://arxiv.org/abs/2506.21170)
 ### Authors
 Viacheslav Meshchaninov,Egor Chimbulatov,Alexander Shabalin,Aleksandr Abramov,Dmitry Vetrov
@@ -2326,9 +1747,6 @@ Viacheslav Meshchaninov,Egor Chimbulatov,Alexander Shabalin,Aleksandr Abramov,Dm
 本文提出了Cosmos，一种全新的文本生成方法。该方法完全在压缩和平滑的潜在空间中运行，该潜在空间是通过同时训练词级重建和与预训练语言编码器冻结激活兼容性的自编码器来学习的。实验结果显示，文本表示可以被压缩8倍，同时保持与词级扩散模型相当的生成质量，并且通过增加潜在序列长度，Cosmos能够超越基于扩散和自回归的基线模型。此外，Cosmos在包括故事情节生成、问题生成、总结和去污等四个不同的生成任务上表现良好，相比其他生成范式，提供了2倍以上的快速推理速度
 ### Conclusion
 本文提出了一种新的文本生成方法Cosmos，通过在压缩和平滑的潜在空间中运行，成功解决了传统自回归模型的缺点，同时在多个生成任务上取得了不错的生成质量，并大幅提高了推理速度。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 195. `cs.CL` - DALR: 双层次对齐学习在多模态句子表示学习中的应用 [PDF](https://arxiv.org/pdf/2506.21096), [HTML](https://arxiv.org/abs/2506.21096)
 ### Authors
 Kang He,Yuzhe Ding. Haining Wang,Fei Li,Chong Teng,Donghong Ji
@@ -2338,9 +1756,6 @@ Kang He,Yuzhe Ding. Haining Wang,Fei Li,Chong Teng,Donghong Ji
 提出了一种双层次对齐学习模块(DALR)，通过一致性学习模块细化跨模态对齐，并通过排名蒸馏增强全局模内对齐学习，以更好地捕捉句子关系并提升表示质量。
 ### Conclusion
 全面的实验在语义文本相似性（STS）和迁移（TR）任务上验证了该方法的有效性，并且在所有实验中都展示了其优于当前最先进的基线模型的优越性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 196. `cs.CL` - Agent-RewardBench: 针对感知、规划和安全领域全方位多模态智能体奖励建模的统一体系结构基准 [PDF](https://arxiv.org/pdf/2506.21252), [HTML](https://arxiv.org/abs/2506.21252)
 ### Authors
 Tianyi Men,Zhuoran Jin,Pengfei Cao,Yubo Chen,Kang Liu,Jun Zhao
@@ -2350,9 +1765,6 @@ Tianyi Men,Zhuoran Jin,Pengfei Cao,Yubo Chen,Kang Liu,Jun Zhao
 该论文提出了名为Agent-RewardBench的基准，用于评估MLLMs中的奖励建模能力。该基准具有三个关键特点：（1）涵盖感知、规划和安全等多个维度和真实世界的代理场景，共包括7个场景的评估；（2）逐步骤奖励评估，允许在完成任务的个别步骤中评估代理能力，提供规划过程中的更细致的性能视图；（3）适当难度和高质量。从10种不同模型中精心选取并进行了人为验证，确保数据完整性，并通过手动控制任务难度来保持挑战性。实验结果显示，即使最先进的多模态模型也显示出有限的性能，突显了专门培训代理奖励建模的重要性。
 ### Conclusion
 实验结果表明，即使最先进的多模态模型也显示出有限的性能，在代理奖励建模领域仍存在很大的提升空间。证明了Agent-RewardBench在评估代理奖励模型方面的重要性，并强调了针对这种激烈培训的需求。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 197. `cs.CL` - Progtuning: 渐进式 Transformers 语言模型微调框架 [PDF](https://arxiv.org/pdf/2506.21119), [HTML](https://arxiv.org/abs/2506.21119)
 ### Authors
 Xiaoshuang Ji,Zhendong Zhao,Xiaojun Chen,Xin Zhao,Zeyao Liu
@@ -2362,9 +1774,6 @@ Xiaoshuang Ji,Zhendong Zhao,Xiaojun Chen,Xin Zhao,Zeyao Liu
 本文提出了一种名为Progtuning的新颖微调框架，该框架结合了渐进式学习技术。Progtuning根据贡献度渐进式地减少被更新的Transformer块的数量。这种方法优化了资源分配并且在减少约25%更新参数的数量的同时保持了竞争力。此外，Progtuning与参数高效的微调方法具有良好的适应性，并且在其各种适应场景中表现出了出色的效果。
 ### Conclusion
 Progtuning通过根据贡献度渐进式地减少被更新的Transformer块的数量来优化资源分配并减少更新参数的数量，同时保持了竞争力。该方法在各种适应场景中表现出优秀的性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 198. `cs.CL` - 使用自回归语言模型检测视觉锚定对话中的指示语 [PDF](https://arxiv.org/pdf/2506.21294), [HTML](https://arxiv.org/abs/2506.21294)
 ### Authors
 Bram Willemsen,Gabriel Skantze
@@ -2374,9 +1783,6 @@ Bram Willemsen,Gabriel Skantze
 提出了一种利用预训练的大型语言模型进行粗略标注的方法，通过下一个词预测技术来标注提及断面，展示了仅靠语言背景信息检测视觉锚定对话中的指示语的有效性。这一研究强调了语言背景在该任务中的重要性，并认为该任务是跨模态的，使用单一模态的方法存在局限性。
 ### Conclusion
 虽然使用预训练的中型语言模型和小规模数据集以及参数高效的微调，仅文本的方法仍能有效检测视觉锚定对话中的指示语，但该研究强调任务的跨模态特性，并提出了单一模态方法的局限，未来可能会考虑结合多模态方法来改进该任务的表现。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 199. `cs.CL` - Double-Checker：通过自我批判微调增强慢思考LLM的推理能力 [PDF](https://arxiv.org/pdf/2506.21285), [HTML](https://arxiv.org/abs/2506.21285)
 ### Authors
 Xin Xu,Tianhao Chen,Fan Zhang,Wanlong Liu,Pengxiang Li,Ajay Kumar Jaiswal,Yuchen Yan,Jishan Hu,Yang Wang,Hao Chen,Shiwei Liu,Shizhe Diao,Can Yang,Lu Yin
@@ -2386,9 +1792,6 @@ Xin Xu,Tianhao Chen,Fan Zhang,Wanlong Liu,Pengxiang Li,Ajay Kumar Jaiswal,Yuchen
 本文提出了Double-Checker，这是一种基于原理的方法，旨在通过促进明确的自我批判和逐步改进之前的解决方案来提升慢思考LLMs的推理能力。通过在我们精心筛选的1,730个自我批判实例上进行微调，Double-Checker使长CoT LLMs能够在推理时迭代地对自己产生的批评进行自我批判和改进，直到它们评价自己的答案为正确。这种方法验证了迭代自我批判在各种推理基准测试中显著提升了长期CoT LLMs的推理能力。
 ### Conclusion
 通过Double-Checker增强的迭代自我批判，挑战性AIME基准测试的pass@1性能从初始的4.4%提升到了18.2%，这表明了开发具备结构化自我批判能力的更可信和有效的LLMs的潜力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 200. `cs.CL` - 基于格赖马斯语义方格的人工智能文学批评结构主义方法：大规模语言模型利用 [PDF](https://arxiv.org/pdf/2506.21360), [HTML](https://arxiv.org/abs/2506.21360)
 ### Authors
 Fangzhou Dong,Yifan Zeng,Yingpeng Sang,Hong Shen
@@ -2398,9 +1801,6 @@ Fangzhou Dong,Yifan Zeng,Yingpeng Sang,Hong Shen
 提出了GLASS（Greimas Literary Analysis via Semiotic Square）结构分析框架，引入了一种专门针对大规模语言模型的量化标准来评估基于格赖马斯语义方格的文学批评，并且应用到39篇经典作品上，生成了高质量分析。此外，通过与专家批评的对比验证了GLASS的有效性和优越性。
 ### Conclusion
 GLASS框架能够显著提升大规模语言模型在文学分析中的能力。通过提供一套基于格赖马斯语义方格的量化评价体系，GLASS不仅填补了该领域的研究空白，更为文学研究和教育提供了一种有力的AI工具。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 201. `cs.CL` - 小型编码器能在检测Groundedness方面与大型解码器匹敌 [PDF](https://arxiv.org/pdf/2506.21288), [HTML](https://arxiv.org/abs/2506.21288)
 ### Authors
 Istabrak Abbes,Gabriele Prato,Quentin Fournier,Fernando Rodriguez,Alaa Boukhary,Adam Elwood,Sarath Chandar
@@ -2410,9 +1810,6 @@ Istabrak Abbes,Gabriele Prato,Quentin Fournier,Fernando Rodriguez,Alaa Boukhary,
 研究发现，轻量级、特定任务的编码器模型如RoBERTa和NomicBERT，在微调后能够与最先进大型模型（如Llama3 8B和GPT4o）媲美地进行Groundedness检测，同时极大地降低了推理延迟。这表明较小的编码器模型在检测Groundedness方面的性能可以与大型解码器相匹配。这项研究提供了一种有效的方法来提前检测查询的Groundedness，从而减少不必要的资源消耗和时间开销。
 ### Conclusion
 经过特定任务微调的轻量级编码器模型能够在检测Groundedness方面达到与大型语言模型类似的效果，同时极大地缩短了推理延迟。这种检测机制可以显著减少成本，并提高NLP任务处理的效率和准确性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 202. `cs.CL` - 利用LLM辅助查询理解进行实时检索增强生成 [PDF](https://arxiv.org/pdf/2506.21384), [HTML](https://arxiv.org/abs/2506.21384)
 ### Authors
 Guanting Dong,Xiaoxi Li,Yuyao Zhang,Mengjie Deng
@@ -2422,9 +1819,6 @@ Guanting Dong,Xiaoxi Li,Yuyao Zhang,Mengjie Deng
 本文提出了一种名为Omni-RAG的新框架，旨在增强RAG系统在现实生活中的鲁棒性和有效性。Omni-RAG通过三个关键模块利用LLM辅助查询理解来预处理用户输入：（1）深度查询理解和分解，它使用带有定制提示的LLM来清洗查询（例如更正拼写错误）并将其变为结构化的子查询；（2）意图感知的知识检索，它从语料库（例如使用OpenSearch的FineWeb）中为每个子查询进行检索并汇总结果；（3）重排序和生成，在一个链式思考的提示下，一个重排器（例如BGE）细化文档选择后，最终的响应由一个LLM生成（例如Falcon-10B）。Omni-RAG通过增强RAG模型处理复杂和混乱查询的能力，专注于应对SIGIR 2025 LiveRAG挑战所展示的真实世界应用需求。
 ### Conclusion
 Omni-RAG框架旨在弥合当前RAG能力和现实世界应用需求之间的差距，通过增强RAG系统处理复杂和混乱查询的能力，提供了更有效的实时检索增强生成解决方案。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 203. `cs.CL` - SAC: 基于动态强度控制测量和诱导LLMs个性特征的框架 [PDF](https://arxiv.org/pdf/2506.20993), [HTML](https://arxiv.org/abs/2506.20993)
 ### Authors
 Adithya Chittem,Aishna Shrivastava,Sai Tarun Pendela,Jagat Sesh Challa,Dhruv Kumar
@@ -2434,9 +1828,6 @@ Adithya Chittem,Aishna Shrivastava,Sai Tarun Pendela,Jagat Sesh Challa,Dhruv Kum
 本文通过扩展原始的机器人格测试量表（MPI）方法，将五大人格特质（OCEAN）模型扩展到16种人格因素（16PF）模型，从而实现对16种不同特征的控制性表达。提出了特定属性控制（SAC）框架，用于评估和动态调整LLM的特征强度，并使用五个强度因素（频率、深度、阈值、努力和意愿）来指导这种表达。这种方法相比传统的二元特征切换，能更好地建模人格特征的连续光谱，从而实现更一致和可控的人格表达。此外，研究还表明，强度的变化是系统地影响相关特征的心理连贯方向，因此也反映了LLM内部化了多维度人格结构的想法。
 ### Conclusion
 本文提出的方法和框架为开发真正类似人类的社会机器提供了新的途径。通过动态强度控制来测量和诱导LLM的个性特征为医疗保健、教育和面试等领域的应用开辟了新路径，带来了一种更接近人类社会交互的形式。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 204. `cs.CL` - 改进知识辅助的大语言模型用于欺诈和概念漂移检测 [PDF](https://arxiv.org/pdf/2506.21443), [HTML](https://arxiv.org/abs/2506.21443)
 ### Authors
 Ali Şenol,Garima Agrawal,Huan Liu
@@ -2446,9 +1837,6 @@ Ali Şenol,Garima Agrawal,Huan Liu
 本文提出了一种增强领域知识（DK）的大语言模型（LLMs）框架，该框架结合了预训练的LLMs与结构化、任务特定的洞察力，以执行欺诈和概念漂移检测。该架构包括三个主要组件：（1）一个DK-LLM模块以检测虚假或欺骗性对话；（2）一个漂移检测单元（OCDD），用于确定是否发生了语义转变；（3）一个第二DK-LLM模块用于将漂移分类为良性或欺诈性。该研究首先通过一个虚假评论数据集验证了领域知识的价值，然后将完整框架应用于SEConvo数据集，该数据集包含各种类型的欺诈和垃圾邮件攻击。实验结果表明，该系统能够以高精度检测虚假对话并有效地分类漂移的性质。基于LLaMA的实现达到了98%的分类精度，与零样本基线的对比研究显示，整合领域知识和漂移意识显著提高了在高风险NLP应用中的性能、可解释性和稳健性。
 ### Conclusion
 通过整合领域知识和漂移意识，该系统在高风险的NLP应用中显示出显著的性能改进、解释性和稳健性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 205. `cs.CL` - 通过句法检索增强大型语言模型自动术语提取 [PDF](https://arxiv.org/pdf/2506.21222), [HTML](https://arxiv.org/abs/2506.21222)
 ### Authors
 Yongchan Chun,Minhyuk Kim,Dongjun Kim,Chanjun Park,Heuiseok Lim
@@ -2458,9 +1846,6 @@ Yongchan Chun,Minhyuk Kim,Dongjun Kim,Chanjun Park,Heuiseok Lim
 提出了基于句法检索的提示策略，在少数示例设置中，根据句法而非语义相似度选取示例，这种方法提供更可靠的指导来捕捉术语边界；在多个专门的ATE基准上进行实验，验证在领域内和跨领域环境下句法检索的效果，实验结果显示句法检索提升了F1分数，解决了现有方法在捕捉术语边界时准确性不足的问题。
 ### Conclusion
 句法检索方法在自动术语提取中的应用能够显著提高F1分数，尤其是在适配大规模语言模型到术语提取任务时，突显了句法线索的重要性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 206. `cs.CL` - 跨语言的Text2Cypher：评估基础模型超越英语的表现 [PDF](https://arxiv.org/pdf/2506.21445), [HTML](https://arxiv.org/abs/2506.21445)
 ### Authors
 Makbule Gulcin Ozsoy,William Tai
@@ -2470,9 +1855,6 @@ Makbule Gulcin Ozsoy,William Tai
 该论文创新性地创建了一个多语言测试集，并且首次系统地评估了基础语言模型在Text2Cypher任务上的跨语言表现，特别是在西班牙语和土耳其语这两种非英语语言上的表现。研究聚焦于揭示不同语言表现差异的原因，并探讨了提示翻译的影响。这些研究为多语言查询生成提供了新的视角，并指明了未来研究的方向。
 ### Conclusion
 研究结果显示出英语表现最佳、其次是西班牙语、最后是土耳其语的规律。这被归因于训练数据可用性和语言特性之间的差异。提示翻译的任务提示对评估指标几乎没有影响。这些发现强调了多语言查询生成需要更加包容性的评价与开发，并提出了未来研究的方向，如模式本地化和跨多种语言的微调。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 207. `cs.CL` - TopK Language Models [PDF](https://arxiv.org/pdf/2506.21468), [HTML](https://arxiv.org/abs/2506.21468)
 ### Authors
 Ryosuke Takahashi,Tatsuro Inaba,Kentaro Inui,Benjamin Heinzerling
@@ -2482,9 +1864,6 @@ Ryosuke Takahashi,Tatsuro Inaba,Kentaro Inui,Benjamin Heinzerling
 为了应对这些限制，本文提出了一种对转换器架构的修改，该修改在选定的层中引入了一个TopK激活函数，使模型的隐藏状态等同于TopK SAE的潜在特征。这种方法消除了事后训练的需要，同时提供与SAEs相当的可解释性。TopK LMs在模型大小、计算效率和可解释性之间提供了有利的平衡。即使进行了简单的架构更改，TopK LMs也保持了其原始能力，同时为模型提供了稳健的可解释性益处。实验结果表明，TopK LMs学习的稀疏表示可以通过目标神经元干预实现成功的引导，并促进了跨越不同检查点和层的神经元形成过程的详细分析。这些特性使TopK LMs成为理解语言模型如何学习和表示概念的稳定和可靠的工具，我们相信这将显著促进未来关于模型可解释性和控制的研究进展。
 ### Conclusion
 TopK LMs提供了一种平衡模型大小、计算效率和可解释性的方法，不仅保持了原始功能，还在模型解释性方面提供了稳健的优势。实验结果证实了TopK LMs的稀疏表示能够通过目标神经元干预成功引导，并促进了神经元形成过程的详细分析。这些特性使TopK LMs成为理解模型如何学习和表示概念的稳定和可靠的工具，将显著推进未来关于模型可解释性和控制的研究。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 208. `cs.CL` - skLEP：斯洛伐克通用语言理解基准 [PDF](https://arxiv.org/pdf/2506.21508), [HTML](https://arxiv.org/abs/2506.21508)
 ### Authors
 Marek Šuppa,Andrej Ridzik,Daniel Hládek,Tomáš Javůrek,Viktória Ondrejová,Kristína Sásiková,Martin Tamajka,Marián Šimko
@@ -2494,9 +1873,6 @@ Marek Šuppa,Andrej Ridzik,Daniel Hládek,Tomáš Javůrek,Viktória Ondrejová,
 该研究引入了skLEP，这是专门为评估斯洛伐克语NLU模型的第一个综合基准。它包括了涵盖不同层次的九个多样化的任务，能够全面评估模型性能。此外，该研究对多种特定于斯洛伐克语、多语言以及英语的预训练语言模型进行了系统的评估，并公开发布了包含数据、工具和排行榜的资源，以便于科研的可再现性和未来研究的推进。
 ### Conclusion
 该研究通过提供一个全面的斯洛伐克语自然语言理解基准（skLEP），填补了斯洛伐克语言在这个领域的空白。研究展示了世界各地的NLU模型在斯洛伐克语语境中的表现，并发布了开源工具和公共排行榜，以此推动今后对该语言自然语言处理研究的发展。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 209. `cs.CL` - 从用户交互中调整口语对话模型 [PDF](https://arxiv.org/pdf/2506.21463), [HTML](https://arxiv.org/abs/2506.21463)
 ### Authors
 Anne Wu,Laurent Mazaré,Neil Zeghidour,Alexandre Défossez
@@ -2506,9 +1882,6 @@ Anne Wu,Laurent Mazaré,Neil Zeghidour,Alexandre Défossez
 提出了一个新的偏好对齐框架，专门针对实时对话场景，特别适用于包含丰富动态特性的对话系统。该研究还创建了一个大规模的数据集，包含来自多轮次原始语音对话的偏好对，由AI反馈标注。通过调整全双工自回归模型，实证实验结果表明反馈可以在多种对话场景中提高口语对话模型的表现，使其产生更为准确、安全和上下文相关的内容。此外，研究通过全面的用户体验评估，确认了多轮对话的效果。
 ### Conclusion
 研究发现，多个动态因素之间的平衡对于自然实时语音对话系统至关重要。改善口语对话模型需要综合考虑语义内容和时间上下文的上下文对齐，方法的有效性在单轮对话之外的综合测评中得到了验证。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 210. `cs.CL` - 从离线到在线强化学习的LLMs连接 [PDF](https://arxiv.org/pdf/2506.21495), [HTML](https://arxiv.org/abs/2506.21495)
 ### Authors
 Jack Lanchantin,Angelica Chen,Janice Lan,Xian Li,Swarnadeep Saha,Tianlu Wang,Jing Xu,Ping Yu,Weizhe Yuan,Jason E Weston,Sainbayar Sukhbaatar,Ilia Kulikov
@@ -2518,9 +1891,6 @@ Jack Lanchantin,Angelica Chen,Janice Lan,Xian Li,Swarnadeep Saha,Tianlu Wang,Jin
 研究了语言模型在不同在线程度下的强化学习方法，对比了直接偏好优化和群体奖励策略优化目标，并发现这些目标在在线和半在线情况下具有类似的表现，且都优于离线方法。同时，对训练动态和超参数选择策略进行了详细分析，以实现最优结果。进一步通过联合使用可验证和非验证性奖励实现了跨任务类型的性能提升。
 ### Conclusion
 通过研究发现，在线和半在线直接偏好优化及群体奖励策略优化目标在语言模型微调中的表现相似且优于离线方法，联合使用两种类型的奖励能够提升整体表现。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 211. `cs.CL` - 猫和老鼠——生成假文本能否超越检测系统？ [PDF](https://arxiv.org/pdf/2506.21274), [HTML](https://arxiv.org/abs/2506.21274)
 ### Authors
 Andrea McGlinchey,Peter J Barclay
@@ -2530,9 +1900,6 @@ Andrea McGlinchey,Peter J Barclay
 该研究通过考察大型语言模型在古典侦探文学风格文本中的生成能力，提出了一个新的研究视角。特别地，研究发现Gemini在版本增加时表现出更强的生成欺骗性文本的能力，而GPT则没有这种表现。这为理解大型语言模型的生成能力及其对检测系统的影响提供了新的见解。
 ### Conclusion
 研究表明，即使随着模型规模的增长，模型生成欺骗性文本的能力也有可能达到一个极限，但可靠地检测这种方法生成的‘假文本’仍然是可行的，尽管新的模型架构可能会提高它们的欺骗性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 212. `cs.CL` - MAGPIE：多智能体情境隐私评估数据集 [PDF](https://arxiv.org/pdf/2506.20737), [HTML](https://arxiv.org/abs/2506.20737)
 ### Authors
 Gurusha Juneja,Alon Albalak,Wenyue Hua,William Yang Wang
@@ -2542,9 +1909,6 @@ Gurusha Juneja,Alon Albalak,Wenyue Hua,William Yang Wang
 本文提出了一个名为MAGPIE的新基准数据集，包含158个实际情境，覆盖15个领域，这些情境设计得既不能完全排除私人数据又不能完全自由共享信息，以挑战当前模型。此外，该研究评估了最先进的LLM在理解和保护情境隐私以及多智能体协作中的表现，结果显示当前模型在理解情境隐私方面不够 robust，经常错误地将私人数据标记为可共享；在多回合对话中，即使在明确的隐私指令下，这些模型也经常披露私人信息。这些模型在71%的情况下无法完成协作任务。这些结果表明，当前的模型并未充分对齐于同时保护情境隐私和协作任务解决的目标。
 ### Conclusion
 当前模型在理解情境隐私和保护用户隐私方面存在显著不足，特别是在多智能体协作场景中。需要进一步开发能够更好地理解和保护情境隐私的LLM模型。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 213. `cs.CL` - 大型语言模型中的假象理解 [PDF](https://arxiv.org/pdf/2506.21521), [HTML](https://arxiv.org/abs/2506.21521)
 ### Authors
 Marina Mancoridis,Bec Weeks,Keyon Vafa,Sendhil Mullainathan
@@ -2554,9 +1918,6 @@ Marina Mancoridis,Bec Weeks,Keyon Vafa,Sendhil Mullainathan
 本文提出了两种量化'假象理解'存在的方法：一种是通过一个特制的基准在三个领域中实施，另一种是一个通用程序，提供了其频率的下限。研究表明，'假象理解'普遍存在，不仅反映了错误的理解，还反映了概念表示内部的深层不一致性。
 ### Conclusion
 本文发现'假象理解'在模型、任务和领域中普遍存在，而且这种错误理解不仅仅是错误理解，还反映了一种更深层次的概念内部不一致性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 214. `cs.CL` - 减量训练，降低泄漏：使用LoRA重新审视LLM微调中的记忆化 [PDF](https://arxiv.org/pdf/2506.20856), [HTML](https://arxiv.org/abs/2506.20856)
 ### Authors
 Fei Wang,Baochun Li
@@ -2566,9 +1927,6 @@ Fei Wang,Baochun Li
 使用更宽松的基于相似性的记忆化度量标准，本文表明LoRA与全程微调相比，显著降低了记忆化风险，但仍保持了强大的任务性能。
 ### Conclusion
 本文重新探讨了使用LoRA进行微调的记忆化现象，发现了与之前发现的显著不同之处。研究表明，LoRA在减少记忆化风险方面表现优异，同时仍能保持良好的任务性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 215. `cs.CL` - 超越反应性安全：通过长期模拟实现风险意识大模型对齐 [PDF](https://arxiv.org/pdf/2506.20949), [HTML](https://arxiv.org/abs/2506.20949)
 ### Authors
 Chenkai Sun,Denghui Zhang,ChengXiang Zhai,Heng Ji
@@ -2578,9 +1936,6 @@ Chenkai Sun,Denghui Zhang,ChengXiang Zhai,Heng Ji
 该研究提出了一种概念验证框架，其创新在于：1) 计算模型生成建议对整个社会系统的长期影响；2) 通过引入一个包含100个间接危害场景的数据集，测试模型在预测看似无害用户提示的负面影响方面的表现；3) 在新的数据集和现有基准测试中取得了显著的性能提升，表明了实现更安全代理的一个有前途的方向。
 ### Conclusion
 该框架不仅显著提高了对语言模型长期安全意识的评估能力，而且在现有基准测试中展示了优越的表现，这表明长期模拟有助于更好地对齐语言模型并确保其服务于社会的长期利益，为实现更安全的代理提供了新的前景。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 216. `cs.CL` - 《你在找医生吗？：大规模对话AI数据集中用户寻求健康信息的分析》 [PDF](https://arxiv.org/pdf/2506.21532), [HTML](https://arxiv.org/abs/2506.21532)
 ### Authors
 Akshay Paruchuri,Maryam Aziz,Rohit Vartak,Ayman Ali,Best Uchehara,Xin Liu,Ishan Chatterjee,Monica Agrawal
@@ -2590,9 +1945,6 @@ Akshay Paruchuri,Maryam Aziz,Rohit Vartak,Ayman Ali,Best Uchehara,Xin Liu,Ishan 
 研究创新点在于，通过建立HealthChat-11K数据集及采用由临床医生驱动的分类体系，系统性地研究了用户在不同健康专科中寻求健康信息时的行为，揭示了用户寻求健康信息的方式和动机，包括常见互动、不完整背景信息的情况、情感行为以及可能引起拍马屁的互动（如引导性问题），强调了需要改进对话AI中部署的大型语言模型的健康支持功能。
 ### Conclusion
 分析揭示了用户寻求健康信息时的问题，显示了对话AI和大型语言模型在提供健康支持时面临的挑战，并强调了改进这些系统以更好地满足用户需求的重要性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 217. `cs.CL` - 学习跳过Transformer的中间层 [PDF](https://arxiv.org/pdf/2506.21103), [HTML](https://arxiv.org/abs/2506.21103)
 ### Authors
 Tim Lawson,Laurence Aitchison
@@ -2602,9 +1954,6 @@ Tim Lawson,Laurence Aitchison
 本文提出了一种新的架构，通过学习门控机制决定是否跳过中间层，并通过门控注意力机制防止跳过的token影响后续计算，同时采用'分层归一化'和自适应正则化损失来优化计算效率。
 ### Conclusion
 尽管本文的努力旨在简化较差token的计算需求并可能促进多层级表征层次的形成，但在研究的规模下，这种方法并未在验证交叉熵和估算FLOPs之间取得相对于更稠密且层数较少的基线的改进。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 218. `cs.CL` - 语言模型训练中的数据有效性 [PDF](https://arxiv.org/pdf/2506.21545), [HTML](https://arxiv.org/abs/2506.21545)
 ### Authors
 Yalun Dai,Yangyu Huang,Xin Zhang,Wenshan Wu,Chong Li,Wenhui Lu,Shijie Cao,Li Dong,Scarlett Li
@@ -2614,9 +1963,6 @@ Yalun Dai,Yangyu Huang,Xin Zhang,Wenshan Wu,Chong Li,Wenhui Lu,Shijie Cao,Li Don
 DELT包括三个组成部分：数据评分、数据选择和数据排序。在这些组成部分中，研究人员设计了基于梯度一致性视角的可学习性-质量评分（LQS），作为一个新的数据评分实例，考虑了每个数据样本的可学习性和质量。此外，还设计了螺旋排序（FO），作为一个新的数据排序实例，旨在解决模型遗忘和数据分布偏差等问题。
 ### Conclusion
 广泛的实验验证了在语言模型训练中提升数据有效性可以提高模型性能，而无需增加数据规模和模型大小。特别是，提出的LQS与FO的结合效果最显著。通过应用数据选择的方法，可以同时实现数据效率和数据有效性。因此，我们认为数据有效性是一个在语言模型训练中具有前景的基础领域。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 219. `cs.CL` - 通过交互式语言模型对齐提升社会驱动对话中的用户参与度 [PDF](https://arxiv.org/pdf/2506.21497), [HTML](https://arxiv.org/abs/2506.21497)
 ### Authors
 Jiashuo Wang,Kaitao Song,Chunpu Xu,Changhe Song,Yang Xiao,Dongsheng Li,Lili Qiu,Wenjie Li
@@ -2626,9 +1972,6 @@ Jiashuo Wang,Kaitao Song,Chunpu Xu,Changhe Song,Yang Xiao,Dongsheng Li,Lili Qiu,
 本文开发了一种用户模拟器并通过i$times$MCTS探索了用户与交互式语言模型系统的交互，基于用户反应的奖励对齐交互式语言模型，以直接偏好优化(DPO)实现高级用户参与度的提升。这种方法在两个社会驱动的对话场景下（情感支持对话和积极劝说）中提高了用户参与度的成效。
 ### Conclusion
 本文方法在两个社会驱动对话场景中有效地提升了用户参与度，展示了通过交互式语言模型对齐方法在增强对话系统用户参与度方面的新颖性和有效性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 220. `cs.CL` - 使用知识图谱生成高质量指令数据以增强大语言模型工具使用 [PDF](https://arxiv.org/pdf/2506.21071), [HTML](https://arxiv.org/abs/2506.21071)
 ### Authors
 Jingwei Wang,Zai Zhang,Hao Qian,Chunjing Gan,Binbin Hu,Ziqi Liu,Zhiqiang Zhang,Jun Zhou,Bin Shi,Bo Dong
@@ -2638,9 +1981,6 @@ Jingwei Wang,Zai Zhang,Hao Qian,Chunjing Gan,Binbin Hu,Ziqi Liu,Zhiqiang Zhang,J
 本文提出了一种新的方法，利用知识图谱生成高质量的指令数据，以提高LLMs的工具使用能力和整体表现，这种方法基于手动整理的富含语义信息的知识图谱，通过提取查询路径、解析实体关系和转换为工具操作步骤，来生成高质量的指令数据，从而有效改善了LLMs的工具使用效果。
 ### Conclusion
 实验结果表明，只需对一小部分合成数据进行微调，就可显著提升LLMs的工具使用能力和综合能力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 221. `cs.CL` - HumanOmniV2：从理解到跨模态推理 [PDF](https://arxiv.org/pdf/2506.21277), [HTML](https://arxiv.org/abs/2506.21277)
 ### Authors
 Qize Yang,Shimin Yao,Weixuan Chen,Shenghao Fu,Detao Bai,Jiaxing Zhao,Boyuan Sun,Bowen Yin,Xihan Wei,Jingren Zhou
@@ -2650,9 +1990,6 @@ Qize Yang,Shimin Yao,Weixuan Chen,Shenghao Fu,Detao Bai,Jiaxing Zhao,Boyuan Sun,
 该论文提出了一种方法，强调模型在多模态输入中需要对全局上下文有清晰的理解。为此，引入了一个基于大型语言模型的上下文奖励，同时结合格式和准确性的奖励。此外，还引入了一个跨模态推理基准IntentBench，用于评估模型处理复杂人类意图和情感的能力。该方法在多个跨模态基准测试中表现出色，优于其他开源的跨模态模型。
 ### Conclusion
 该研究提出的方法在多个跨模态基准测试中表现出优异性能，有效地解决了现有模型在全局上下文理解和捷径问题方面的不足，提升了模型的复杂推理能力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 222. `cs.CL` - SharpZO: 前向传递唯一优化的混合灵敏度感知视觉语言模型提示调优 [PDF](https://arxiv.org/pdf/2506.20990), [HTML](https://arxiv.org/abs/2506.20990)
 ### Authors
 Yifan Yang,Zhen Zhang,Rupak Vignesh Swaminathan,Jing Liu,Nathan Susanj,Zheng Zhang
@@ -2662,9 +1999,6 @@ Yifan Yang,Zhen Zhang,Rupak Vignesh Swaminathan,Jing Liu,Nathan Susanj,Zheng Zha
 作者提出了一种混合灵敏度感知零阶优化（SharpZO）方法，专门设计用于通过灵敏度感知暖启动训练来增强ZO VLM调优的性能。SharpZO采用两阶段优化过程：灵敏度感知ES阶段全局探索和平滑损失景观以构造强大的初始化，以及通过稀疏ZO优化进行精细的局部搜索。整个优化依赖于前向传递。理论分析和CLIP模型上的广泛实验表明，SharpZO显著提高了准确度和收敛速度，相对于最先进的前向唯一方法可以获得高达7%的平均性能提升。
 ### Conclusion
 SharpZO方法通过两阶段的优化过程，显著提高了ZO VLM调优的性能和收敛速度，适用于内存受限的边缘设备。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 223. `cs.CL` - low-resource环境下的混合深度学习和信号处理在阿拉伯方言识别中的应用 [PDF](https://arxiv.org/pdf/2506.21386), [HTML](https://arxiv.org/abs/2506.21386)
 ### Authors
 Ghazal Al-Shwayyat,Omer Nezih Gerek
@@ -2674,9 +2008,6 @@ Ghazal Al-Shwayyat,Omer Nezih Gerek
 研究开发了两种混合模型：一种是利用梅尔频率倒谱系数（MFCC）结合卷积神经网络（CNN），另一种是离散小波变换（DWT）特征结合循环神经网络（RNN）。实验结果显示，MFCC与CNN的组合架构表现最佳，准确率达到91.2%，并且在精确率、召回率和F1分数方面均表现优异，相比之下，DWT与RNN的组合架构仅达到66.5%的准确率。这表明，利用频谱特征结合卷积模型特别适用于阿拉伯方言识别，尤其是在使用有限标注数据时。此外，该研究还指出了数据集规模、标签区域重叠以及模型优化方面的限制，并为未来研究指出了改进的方向，如使用更大规模的标注语料库、结合自我监督学习技术和探索更先进的神经网络架构（如Transformer等）.
 ### Conclusion
 这项研究为资源受限环境下阿拉伯方言识别奠定了坚实的基础，并通过以上实验结果强调了在低资源条件下利用频谱特征结合卷积模型的有效性。未来的研究可以基于这些发现，采用更大规模的标注数据集进一步优化模型。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 224. `cs.CL` - Logios: 开源希腊多音节光学字符识别系统 [PDF](https://arxiv.org/pdf/2506.21474), [HTML](https://arxiv.org/abs/2506.21474)
 ### Authors
 Perifanos Konstantinos,Goutsos Dionisis
@@ -2686,9 +2017,6 @@ Perifanos Konstantinos,Goutsos Dionisis
 该系统采用卷积层和循环层相结合的方法，特别针对希腊多音节文本进行优化，解决了传统OCR方法的局限性，提供了更高的准确性和效率。
 ### Conclusion
 本文发布了底层模型作为开源库，并将OCR平台提供给学术界使用。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 225. `cs.CL` - 复杂性感知微调 [PDF](https://arxiv.org/pdf/2506.21220), [HTML](https://arxiv.org/abs/2506.21220)
 ### Authors
 Andrey Goncharov,Daniil Vyazhev,Petr Sychev,Edvard Khalafyan,Alexey Zaytsev
@@ -2698,9 +2026,6 @@ Andrey Goncharov,Daniil Vyazhev,Petr Sychev,Edvard Khalafyan,Alexey Zaytsev
 提出了一种新的高效微调方案，基于标记答案的熵对复杂数据进行识别，通过监督微调（SFT）和蒸馏大型语言模型，相比标准的SFT方法平均准确性提高了约12%，同时使用62%更少的数据。这种方法提供了与蒸馏性能相当的表现，但显著减少了训练数据的使用量，展示了复杂性感知微调在提高模型性能和降低资源消耗方面的优势。
 ### Conclusion
 所提出的复杂性感知微调方案表现出显著的性能提升和资源效率，特别是在减少数据使用方面，提供了可与蒸馏方法媲美的性能，同时降低了训练成本。研究者已公开了代码和数据，以促进后续研究在该领域的发展。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 226. `cs.CL` - 探索低资源音乐生成中的适配器设计权衡 [PDF](https://arxiv.org/pdf/2506.21298), [HTML](https://arxiv.org/abs/2506.21298)
 ### Authors
 Atharva Mehta,Shivam Chauhan,Monojit Choudhury
@@ -2710,9 +2035,6 @@ Atharva Mehta,Shivam Chauhan,Monojit Choudhury
 1. 探究了基于卷积和变换器的适配器在捕捉音乐细节和长距离依赖性方面的优劣；2. 分析了不同规模适配器的计算资源需求，发现中等规模适配器（40M参数）具有最佳的表达性和质量；3. 比较了扩散模型（如Mustango）和自回归模型（如MusicGen）在生成多样化音乐输出和计算效率方面的差异。
 ### Conclusion
 文章研究发现，卷积适配器在捕捉细腻的音乐细节（如装饰音和短旋律片段）方面表现优异，而变换器适配器在保持对结构即兴创作至关重要的长距离依赖性方面更胜一筹。此外，一系列研究表明，中等规模的适配器（40M参数）在表达能力和质量之间找到了最优平衡。在生成音乐输出的多样性和准确性方面，自回归模型表现出色，但具有略高的生成冗余度；而扩散模型尽管需要更多计算时间和稳定性不足，但在生成更多样且更吻合输入提示描述的音乐方面表现出色。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 227. `cs.CL` - DiLoCoX: 一种适合分布式集群的大规模低通信训练框架 [PDF](https://arxiv.org/pdf/2506.21263), [HTML](https://arxiv.org/abs/2506.21263)
 ### Authors
 Ji Qi,WenPeng Zhu,Li Li,Ming Wu,YingJun Wu,Wu He,Xun Gao,Jason Zeng,Michael Heinrich
@@ -2722,9 +2044,6 @@ Ji Qi,WenPeng Zhu,Li Li,Ming Wu,YingJun Wu,Wu He,Xun Gao,Jason Zeng,Michael Hein
 提出了一种名为DiLoCoX的新框架，该框架结合了管道并行性、双优化器策略、通信与局部训练的一步延迟重叠以及自适应梯度压缩方案，显著提高了大规模分布式训练的计算规模和预训练速度。理论分析和实验证明，DiLoCoX可以在1Gbps的网络上预训练一个107亿参数的模型，与AllReduce相比，速度提高了357倍，同时对模型收敛性的影响可以忽略不计。
 ### Conclusion
 DiLoCoX是首次成功应用于超过100亿参数模型的分布式训练框架，为大规模模型在分布式集群上的高效训练提供了新的解决方案。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 228. `cs.CL` - 从有限视角构建空间心理模型 [PDF](https://arxiv.org/pdf/2506.21458), [HTML](https://arxiv.org/abs/2506.21458)
 ### Authors
 Baiqiao Yin,Qineng Wang,Pingyue Zhang,Jianshu Zhang,Kangrui Wang,Zihan Wang,Jieyu Zhang,Keshigeyan Chandrasegaran,Han Liu,Ranjay Krishna,Saining Xie,Manling Li,Jiajun Wu,Li Fei-Fei
@@ -2734,9 +2053,6 @@ Baiqiao Yin,Qineng Wang,Pingyue Zhang,Jianshu Zhang,Kangrui Wang,Zihan Wang,Jiey
 该研究提出了解决VLMs在空间心理模型构建方面问题的方法，包括创建看不见的中间视图、自然语言推理链和认知地图。特别地，研究人员创新性地结合了“先建图再推理”（map-then-reason）的协同方法，该方法首先训练模型生成认知地图，然后在其基础上进行推理。这种方法将准确率从37.8%提高到60.8%（+23.0%），进一步通过强化学习将性能提升至70.7%（+32.9%）。发现这种构建和利用内部结构化空间表示以实现灵活推理的过程，对于理解不可见空间有显著改善效果。
 ### Conclusion
 通过训练模型进行内部映射的推理，准确率显著提高，进一步通过强化学习增强了性能。主要洞察是，这种构建和利用内部结构化空间表示，以实现灵活推理的过程，对于理解不可见空间至关重要。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 229. `cs.CL` - ScalaBL：利用随机 variational 子空间推断的大规模语言模型可扩展贝叶斯低秩适配 [PDF](https://arxiv.org/pdf/2506.21408), [HTML](https://arxiv.org/abs/2506.21408)
 ### Authors
 Colin Samplawski,Adam D. Cobb,Manoj Acharya,Ramneet Kaur,Susmit Jha
@@ -2746,9 +2062,6 @@ Colin Samplawski,Adam D. Cobb,Manoj Acharya,Ramneet Kaur,Susmit Jha
 本文提出了一种名为ScalaBL的方法，该方法在LoRA秩$r$的$r$维子空间中进行贝叶斯推断。通过将LoRA参数重新用作投影矩阵，将来自该子空间的样本映射到LLM的完整权重空间中，从而使得使用随机变分子空间推断来学习本文方法的所有参数成为可能。尽管我们的子空间维数较低，但ScalaBL能够在不需要显著增加参数数量的情况下与最先进的方法竞争，同时能够扩展到迄今为止最大的贝叶斯LLM，参数基数比之前的工作增加了一倍多。
 ### Conclusion
 ScalaBL通过重新利用LoRA参数作为投影矩阵，并在一个较低维度的子空间中执行贝叶斯推断，不仅克服了之前方法的扩展性问题，还允许模型在其完整维度中进行有效的性能学习，从而在有限的参数添加下实现了卓越的性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 230. `cs.CL` - 揭示大型语言模型中的因果推理：现实还是幻觉？ [PDF](https://arxiv.org/pdf/2506.21215), [HTML](https://arxiv.org/abs/2506.21215)
 ### Authors
 Haoang Chi,He Li,Wenjing Yang,Feng Liu,Long Lan,Xiaoguang Ren,Tongliang Liu,Bo Han
@@ -2758,9 +2071,6 @@ Haoang Chi,He Li,Wenjing Yang,Feng Liu,Long Lan,Xiaoguang Ren,Tongliang Liu,Bo H
 本文通过一个新的因果问答基准CausalProbe-2024和G^2-Reasoner方法，揭示了LLMs在因果推理方面的局限性。G^2-Reasoner方法将通用知识和目标导向的提示融入到LLMs的因果推理过程中，显著提高了LLMs在新颖和反事实情境下的因果推理能力。此研究为LLMs从浅层因果推理向深层因果推理迈进提供了一个新的途径。
 ### Conclusion
 本文的工作揭示了LLMs在因果推理上的新路径，不仅超越了第一级因果推理，还在朝着第二级因果推理迈进。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 231. `cs.CL` - MockLLM: 一种用于在线求职招聘的多智能体行为协作框架 [PDF](https://arxiv.org/pdf/2405.18113), [HTML](https://arxiv.org/abs/2405.18113)
 ### Authors
 Hongda Sun,Hongzhan Lin,Haiyu Yan,Yang Song,Xin Gao,Rui Yan
@@ -2770,9 +2080,6 @@ Hongda Sun,Hongzhan Lin,Haiyu Yan,Yang Song,Xin Gao,Rui Yan
 提出了一种名为MockLLM的新颖框架，用于生成和评估面试模拟对话。MockLLM利用多智能体协作技术，同时模拟面试官和求职者角色，实现互动匹配，并通过反思记忆生成和动态策略修改来提高匹配质量。与现有方法相比，MockLLM在匹配准确性、可扩展性和跨岗位领域适应性方面表现出更优性能。
 ### Conclusion
 MockLLM框架在真实的招聘平台Boss Zhipin上的实验结果表明，该框架在求职面试模拟方面具有显著优势，能够有效提升候选人评估和在线招聘的效率。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 232. `cs.CL` - 从大规模语言模型学习评估模型以生成序列 [PDF](https://arxiv.org/pdf/2308.04386), [HTML](https://arxiv.org/abs/2308.04386)
 ### Authors
 Chenglong Wang,Hang Zhou,Kaiyan Chang,Tongran Liu,Chunliang Zhang,Quan Du,Tong Xiao,Yue Zhang,Jingbo Zhu
@@ -2782,9 +2089,6 @@ Chenglong Wang,Hang Zhou,Kaiyan Chang,Tongran Liu,Chunliang Zhang,Quan Du,Tong X
 本文提出了一种新的评价模型训练方法——自定义序列评估度量（CSEM），该方法分为三个阶段，利用大语言模型生成标注数据，从而避免了需要人工标注数据。此外，CSEM 的范围扩展到了支持多种评价类型，包括单方面、多方面、无参考和有参考评价，使得度量标准可以适应不同的现实场景。实验结果表明，使用 CSEM 训练的评价模型能够有效提高序列质量，特别是在强化学习和重排序实验中，使用 CSEM 开发的度量标准优于传统评价度量标准，提高了生成序列的质量。
 ### Conclusion
 CSEM 方法通过利用大语言模型生成大量有效的标记数据，成功克服了传统方法对大规模人工标注数据的依赖。此外，CSEM 支持多种类型的评价，为文本生成质量评估提供了更灵活和有效的工具。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 233. `cs.CL` - Latent Prototype Routing: 实现混合专家模型中接近完美的负载均衡 [PDF](https://arxiv.org/pdf/2506.21328), [HTML](https://arxiv.org/abs/2506.21328)
 ### Authors
 Jiajie Yang
@@ -2794,9 +2098,6 @@ Jiajie Yang
 提出了Latent Prototype Routing（LPR）新型路由框架，该框架能够推广现有方法，实现更加平衡的专家使用，从而提高模型的负载均衡能力，同时不降低下游任务的性能。广泛的实验证明，LPR能够将专家负载的Gini系数从0.70降低到0.035，并将最小和最大负载专家比率从1e-6提高到0.70，达到了接近完美的负载平衡。
 ### Conclusion
 LPR框架显著改善了MoE模型的资源利用效率，通过减少专家负载的不平衡程度，提高了模型的负载平衡程度，并且在多个开源MoE模型上（包括DeepSeek-V3、Qwen3-MoE和Mixtral）有效验证了其优势。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 234. `cs.CL` - 具有传染性脱逃的捣蛋者让诚实小镇陷入混乱 [PDF](https://arxiv.org/pdf/2410.16155), [HTML](https://arxiv.org/abs/2410.16155)
 ### Authors
 Tianyi Men,Pengfei Cao,Zhuoran Jin,Yubo Chen,Kang Liu,Jun Zhao
@@ -2806,9 +2107,6 @@ Tianyi Men,Pengfei Cao,Zhuoran Jin,Yubo Chen,Kang Liu,Jun Zhao
 本文提出了Adversarial Replication Contagious Jailbreak (ARCJ) 方法，该方法通过优化检索后缀，使中毒样本更容易被检索，通过优化复制后缀赋予中毒样本传染性。实验证明了该方法在TMCHT任务中的优越性，在线性拓扑中提高了23.51%，星形拓扑中提高了18.95%，在100个代理设置中提高了52.93%。这鼓励社区关注多代理系统安全.
 ### Conclusion
 本文通过提出TMCHT任务和ARCJ方法，有效应对了多代理攻击中的挑战，验证了新的方法在解决毒性消失现象上的优越性，并强调了多代理系统安全的重要性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 235. `cs.CL` - Mind2Web 2：利用代理作为裁判评估代理型搜索 [PDF](https://arxiv.org/pdf/2506.21506), [HTML](https://arxiv.org/abs/2506.21506)
 ### Authors
 Boyu Gou,Zanming Huang,Yuting Ning,Yu Gu,Michael Lin,Weijian Qi,Andrei Kopanev,Botao Yu,Bernal Jiménez Gutiérrez,Yiheng Shu,Chan Hee Song,Jiaman Wu,Shijie Chen,Hanane Nour Moussa,Tianshu Zhang,Jian Xie,Yifei Li,Tianci Xue,Zeyi Liao,Kai Zhang,Boyuan Zheng,Zhaowei Cai,Viktor Rozgic,Morteza Ziyadi,Huan Sun,Yu Su
@@ -2818,9 +2116,6 @@ Boyu Gou,Zanming Huang,Yuting Ning,Yu Gu,Michael Lin,Weijian Qi,Andrei Kopanev,B
 引入了Mind2Web 2，这是包含130个现实场景、高质量且长时间范围任务的新基准，需要实时网络浏览和大量信息综合。设计了基于树状结构评判标准的任务特定裁判代理，用于自动评估答案的正确性和出处归因。此外，还提出了代理作为裁判的框架，以应对动态和复杂答案的评估挑战，并对各大前沿代理型搜索系统和人类表现进行了全面评估，提供了详细的错误分析以利于未来的发展。
 ### Conclusion
 最佳系统OpenAI深度研究（Deep Research）已能实现人类表现的50-70%，但仅花费了人类一半的时间，显示出巨大的潜力。总体而言，Mind2Web 2为代理型搜索系统的发展和评估提供了严格的基石，为下一代代理型搜索系统的研发提供了坚实的基础。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 236. `cs.CL` - SceneGenAgent：使用编码代理实现精确工业场景生成 [PDF](https://arxiv.org/pdf/2410.21909), [HTML](https://arxiv.org/abs/2410.21909)
 ### Authors
 Xiao Xia,Dan Zhang,Zibo Liao,Zhenyu Hou,Tianrui Sun,Jing Li,Ling Fu,Yuxiao Dong
@@ -2830,9 +2125,6 @@ Xiao Xia,Dan Zhang,Zibo Liao,Zhenyu Hou,Tianrui Sun,Jing Li,Ling Fu,Yuxiao Dong
 该研究引入了SceneGenAgent，这是一种基于LLM的通过C#代码生成工业场景的代理模型。SceneGenAgent通过结构化和计算格式的布局规划、布局验证和迭代优化，确保了工业场景生成中的高精度需求。实验结果显示，使用SceneGenAgent驱动的LLMs在真实的工业场景生成任务中的成功率高达81.0%，满足大部分场景生成需求。为了进一步增强其可访问性，研究者开发了SceneInstruct数据集，用于微调开源LLM以集成到SceneGenAgent中，实验表明基于SceneInstruct微调的LLM取得了显著性能提升，Llama3.1-70B逼近了GPT-4o的能力。
 ### Conclusion
 实验结果表明，利用SceneGenAgent增强的LLMs在真实工业场景生成任务中的成功率高达81.0%，并有效满足了大多数场景生成需求。SceneInstruct数据集的构建进一步提升了开源LLMs的性能，使得Llama3.1-70B接近GPT-4o的能力。项目代码和相关数据已公开发布。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 237. `cs.CL` - HalluSegBench：通过反事实视觉推理评估分割幻觉 [PDF](https://arxiv.org/pdf/2506.21546), [HTML](https://arxiv.org/abs/2506.21546)
 ### Authors
 Xinzhuo Li,Adheesh Juvekar,Xingyou Liu,Muntasir Wahed,Kiet A. Nguyen,Ismini Lourentzou
@@ -2842,9 +2134,6 @@ Xinzhuo Li,Adheesh Juvekar,Xingyou Liu,Muntasir Wahed,Kiet A. Nguyen,Ismini Lour
 我们引入了HalluSegBench，这是首个专门用于通过反事实视觉推理来评估视觉接地中幻视的基准。我们的基准包括一个新颖的数据集，包含1340个反事实实例对和281个独特的对象类别，以及一组新引入的度量标准，可量化在视觉上一致的场景编辑下幻视的敏感性。实验结果表明，由视觉驱动的幻视比由标签驱动的幻视更为普遍，模型通常会持续错误地进行分割，强调了进行反事实推理以诊断定位准确性的需求。
 ### Conclusion
 HalluSegBench实验结果显示，由视觉驱动的幻视比由标签驱动的幻视更为普遍，模型往往持续错误分割，这表明需要通过反事实推理来诊断视觉定位的准确性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 238. `cs.CL` - 通过迭代效用最大化进行多检索增强模型的排名学习 [PDF](https://arxiv.org/pdf/2410.09942), [HTML](https://arxiv.org/abs/2410.09942)
 ### Authors
 Alireza Salemi,Hamed Zamani
@@ -2854,9 +2143,6 @@ Alireza Salemi,Hamed Zamani
 本文提出了一种迭代方法，其中搜索引擎为RAG代理生成检索结果，并在其离线阶段收集反馈以优化搜索引擎。通过期望最大化算法进行迭代优化，目标是最大化每个代理的效用函数。同时，该方法在在线设置中得到了适应，使得搜索引擎可以根据实时反馈进行调整，从而更好地服务每个代理。此外，通过全面的消融研究来探索方法的各种方面。
 ### Conclusion
 实验结果证明，本文的方法在18个RAG模型上平均优于基线方法。这种方法能够有效地根据收集的反馈为每个RAG代理个性化检索结果。最后的研究表明，该方法在不同方面都展现了其有效性和实用性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 239. `cs.CL` - 比较检索增强和参数高效微调在大型语言模型隐私保护个性化中的应用 [PDF](https://arxiv.org/pdf/2409.09510), [HTML](https://arxiv.org/abs/2409.09510)
 ### Authors
 Alireza Salemi,Hamed Zamani
@@ -2866,9 +2152,6 @@ Alireza Salemi,Hamed Zamani
 本文首次系统地研究了参数高效微调（PEFT）在大型语言模型个性化中的应用，比较了PEFT与检索增强生成（RAG）在多重数据集上的性能，并展示了结合使用这两种方法的有效性。同时，研究还发现了用户数据量与PEFT有效性之间的正相关关系，揭示了RAG和PEFT在不同用户情境下的应用特性。
 ### Conclusion
 综合而言，本文通过一系列系统实验方法比较了RAG和PEFT在大型语言模型个性化中的应用效果。研究发现，PEFT可以改善个性化，并与RAG结合可进一步提升效果。同时强调了用户特定数据可增强个性化表现的重要性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 240. `cs.CL` - 捕获作者和文档中的风格 [PDF](https://arxiv.org/pdf/2407.13358), [HTML](https://arxiv.org/abs/2407.13358)
 ### Authors
 Enzo Terreau,Antoine Gourru,Julien Velcin
@@ -2878,9 +2161,6 @@ Enzo Terreau,Antoine Gourru,Julien Velcin
 本文提出了一种新的基于变分信息瓶颈（VIB）的架构，该架构能够学习作者和文档的嵌入表示，同时具有风格约束。该模型是一种预训练文档编码器的微调。通过增加预定义的风格特征来刺激写作风格的检测，使表示轴便于解释，与写作风格指标相关。
 ### Conclusion
 本文的方法在三个数据集上进行了评估：来自古腾堡项目的文学语料库、Blog Authorship语料库以及IMDb62。在作者识别方面，本文的方法与强大/最新的基线方法相比，能够更好地捕捉作者的风格特征。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 241. `cs.CL` - 使用音节提示：提升多语言大模型对非拉丁字母语言的表现 [PDF](https://arxiv.org/pdf/2411.02398), [HTML](https://arxiv.org/abs/2411.02398)
 ### Authors
 Hoang H Nguyen,Khyati Mahajan,Vikas Yadav,Julian Salazar,Philip S. Yu,Masoud Hashemi,Rishabh Maheshwary
@@ -2890,9 +2170,6 @@ Hoang H Nguyen,Khyati Mahajan,Vikas Yadav,Julian Salazar,Philip S. Yu,Masoud Has
 本文创新性地提出利用音节转录信号作为补充信号来提升大语言模型对非拉丁字母语言的表现，这是基于音节转录与书写系统不会互相遮蔽语音学特征，通过混合上下文学习策略为拉丁字母语言和非拉丁字母语言提供显著性能提升。利用音节和书写系统分别为上下文学习检索出不同示例的方法提出了一种新的混合策略。
 ### Conclusion
 研究展示了结合音节信号可以显著改善大语言模型在非拉丁字母语言和拉丁字母语言上的表现，特别是用于缩小两者之间的性能差距，通过详细实验验证了混合上下文学习策略的有效性，从而显著提升了两种书写系统的性能，相比于随机上下文学习检索策略，提升显著。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 242. `cs.CL` - CodeLutra：通过偏好引导的细化提升LLM代码生成 [PDF](https://arxiv.org/pdf/2411.05199), [HTML](https://arxiv.org/abs/2411.05199)
 ### Authors
 Leitian Tao,Xiang Chen,Tong Yu,Tung Mai,Ryan Rossi,Yixuan Li,Saayan Mitra
@@ -2902,9 +2179,6 @@ Leitian Tao,Xiang Chen,Tong Yu,Tung Mai,Ryan Rossi,Yixuan Li,Saayan Mitra
 CodeLutra框架引入了一种新的方法，通过利用正确和错误的代码尝试，不仅使用成功的结果，还比较成功与失败的输出，运用迭代的偏好引导细化来更好地逼近期望结果。这种方法无需大规模数据集或辅助模型即可缩小与最先进的大型模型之间的性能差距。例如，在一项具有挑战性的数据分析编码任务中，使用仅500个样本，Llama-3-8B的准确率从28.2%提升到48.6%，接近GPT-4的水平。通过从成功和失败中学习，CodeLutra提供了一种可扩展且高效的高质量代码生成途径，使较小的开源模型更具竞争力，能够与领先的闭源替代方案抗衡。
 ### Conclusion
 CodeLutra通过从成功和失败中学习提供了一种新的路径，为高质量代码生成提供了可扩展且高效的方法，使较小的开源模型更能与领先的闭源模型竞争。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 243. `cs.CL` - 奖励引导型推测性解码以提高大型语言模型推理效率 [PDF](https://arxiv.org/pdf/2501.19324), [HTML](https://arxiv.org/abs/2501.19324)
 ### Authors
 Baohao Liao,Yuhui Xu,Hanze Dong,Junnan Li,Christof Monz,Silvio Savarese,Doyen Sahoo,Caiming Xiong
@@ -2914,9 +2188,6 @@ Baohao Liao,Yuhui Xu,Hanze Dong,Junnan Li,Christof Monz,Silvio Savarese,Doyen Sa
 RSD 引入了一种结合轻量级草案模型和更强大目标模型的新颖框架。它通过引入一种控制偏见的方法来优先考虑高奖励输出，以优化计算成本和输出质量之间的平衡。此外，它提出了一种基于阈值的混合策略，实现了资源利用和性能的最佳平衡，并通过实验证明了该方法的有效性。
 ### Conclusion
 RSD 提供了一种在资源密集型场景中部署 LLMs 的稳健且经济高效的途径，已在难度较大的推理基准测试中展示了显著的效率增益和准确性提升。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 244. `cs.CL` - OpenNER 1.0: 标准化的50多种语言开放访问命名实体识别数据集 [PDF](https://arxiv.org/pdf/2412.09587), [HTML](https://arxiv.org/abs/2412.09587)
 ### Authors
 Chester Palen-Michel,Maxwell Pickering,Maya Kruse,Jonne Sälevä,Constantine Lignos
@@ -2926,9 +2197,6 @@ Chester Palen-Michel,Maxwell Pickering,Maya Kruse,Jonne Sälevä,Constantine Lig
 本研究提出了OpenNER 1.0，这是一个标准的、开放获取的命名实体识别数据集集合，包含36个跨52种语言的语料库，涵盖了不同的人类标注本体。研究将原始数据集统一为一个标准表示形式，并提供了支持多语言和多本体环境下的NER研究结构。此外，还使用预训练的多语言和大型语言模型提供了基线结果，以便比较最近模型的性能，并促进未来研究的发展。
 ### Conclusion
 研究发现，没有一种模型能在所有语言中都表现出色，表明在NLP领域中，特别是在语言模型处理NER任务方面，仍有许多工作需要完成以获得高水平的表现。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 245. `cs.CL` - 搜索和思考期间自动检索-提炼: LLMs的自主检索增强推理 [PDF](https://arxiv.org/pdf/2505.11277), [HTML](https://arxiv.org/abs/2505.11277)
 ### Authors
 Yaorui Shi,Sihang Li,Chang Wu,Zhiyuan Liu,Junfeng Fang,Hengxing Cai,An Zhang,Xiang Wang
@@ -2938,9 +2206,6 @@ Yaorui Shi,Sihang Li,Chang Wu,Zhiyuan Liu,Junfeng Fang,Hengxing Cai,An Zhang,Xia
 本文提出了一种基于强化学习的后训练框架AutoRefine，它采用了新的‘搜索和提炼’模式。AutoRefine在连续查询调用之间引入了明确的知识提炼步骤，使模型能够迭代地筛选、精炼和组织证据，然后再生成答案。此外，该框架结合使用了针对检索的特定奖励以及答案正确性的奖励，使用分组相对策略优化方法。实验表明，AutoRefine在单跳和多跳问答基准上显著优于现有方法，特别是在复杂的多跳推理场景中表现尤为突出。深入分析显示，AutoRefine会频繁进行高质量的查询，并能有效地综合证据。
 ### Conclusion
 AutoRefine显著提升了语言模型在复杂推理任务中的表现，通过引入分组相对策略优化的检索特定奖励和高效的证据提炼过程，进一步增强了模型的准确性和泛化能力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 246. `cs.CL` - A3：一种用于注意力机制的分析性低秩逼近框架 [PDF](https://arxiv.org/pdf/2505.12942), [HTML](https://arxiv.org/abs/2505.12942)
 ### Authors
 Jeffrey T. H. Wong,Cheng Zhang,Xinye Cao,Pedro Gimenes,George A. Constantinides,Wayne Luk,Yiren Zhao
@@ -2950,9 +2215,6 @@ Jeffrey T. H. Wong,Cheng Zhang,Xinye Cao,Pedro Gimenes,George A. Constantinides,
 提出了一种后训练低秩逼近框架A3。该框架将Transformer层分解为三个功能组件：QK、OV和MLP，并针对每个组件提供分析性解决方案，以减少隐藏维度同时最小化组件的功能损失（即注意力分数、注意力输出和MLP输出的误差）。此外，这种方法还能直接减少模型的大小、KV缓存大小和FLOPs，且不会引入任何运行时开销。
 ### Conclusion
 实验结果表明，A3在计算和内存相同预算条件下，低秩逼近后的LLaMA 3.1-70B在WikiText-2数据集上的困惑度为4.69，优于之前的最佳结果7.87。此外，A3还展示了其在KV缓存压缩、量化等方面的高度灵活性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 247. `cs.CL` - 语言模型训练中添加或移除个人信息引发的隐私涟漪效应 [PDF](https://arxiv.org/pdf/2502.15680), [HTML](https://arxiv.org/abs/2502.15680)
 ### Authors
 Jaydeep Borkar,Matthew Jagielski,Katherine Lee,Niloofar Mireshghallah,David A. Smith,Christopher A. Choquette-Choo
@@ -2962,9 +2224,6 @@ Jaydeep Borkar,Matthew Jagielski,Katherine Lee,Niloofar Mireshghallah,David A. S
 研究揭示了 PIIs 在语言模型训练过程中的动态记忆特性，提出了辅助记忆、添加 PIIs 增加其他 PIIs 记忆性，以及移除 PIIs 导致其他 PIIs 记忆性的三个新型现象。这些现象揭示了 PIIs 的复杂记忆机制及其在不同阶段的影响，为理解和控制模型中的隐私风险提供了新的视角。这项研究通过深入分析模型在不同训练阶段的数据处理，展示了 PIIs 记忆量和可记忆性的动态变化，强调了设计和调整模型以减少 PIIs 回忆的可能性。
 ### Conclusion
 模型创建者在训练模型时应该考虑这些隐私风险，以避免新的 PIIs 被重新记忆，从而减少数据泄露的风险。研究成果有助于数据隐私保护，促进更负责任的 AI 技术应用。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 248. `cs.CL` - 大型语言模型支持论证主义吗？ [PDF](https://arxiv.org/pdf/2412.14501), [HTML](https://arxiv.org/abs/2412.14501)
 ### Authors
 Yuzuki Arai,Sho Tsugawa
@@ -2974,9 +2233,6 @@ Yuzuki Arai,Sho Tsugawa
 本文将布莱朗的推论语义学应用于大型语言模型，探讨了其反表征主义性质，并进一步发展了一种基于交互性和规范性的适合于LLMs的共识真理理论。尽管存在理论上的分歧，本文认为推论语义学为理解LLMs是如何产生意义而不依赖于外部世界表征提供了有价值的见解。
 ### Conclusion
 本文从理论上说明了大型语言模型可能挑战传统语言哲学中的严格组成性和语义外部主义的假设，但仍需进一步的实证研究来验证这些理论上的观点。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 249. `cs.CL` - LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey [PDF](https://arxiv.org/pdf/2505.00753), [HTML](https://arxiv.org/abs/2505.00753)
 ### Authors
 Henry Peng Zou,Wei-Chieh Huang,Yaozu Wu,Yankai Chen,Chunyu Miao,Hoang Nguyen,Yue Zhou,Weizhi Zhang,Liancheng Fang,Langzhou He,Yangning Li,Dongyuan Li,Renhe Jiang,Xue Liu,Philip S. Yu
@@ -2986,9 +2242,6 @@ Henry Peng Zou,Wei-Chieh Huang,Yaozu Wu,Yankai Chen,Chunyu Miao,Hoang Nguyen,Yue
 本文提供了首个全面且结构化的LLM-HAS综述。它明确了基本概念，系统地呈现了这些系统核心组件，包括环境与特征描述、人类反馈、交互类型、协调和通信。此外，探讨了人机协作中的新兴应用、独特挑战及机遇。旨在促进这一快速演进的跨学科领域的进一步研究创新。
 ### Conclusion
 通过整合现有知识并提供结构化的概览，本文旨在促进这一领域进一步的研究和创新。附加的文献和资源列表可在以下网址找到：this https URL.
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 250. `cs.CL` - 通过信息几何和量子度量重新思考大语言模型训练 [PDF](https://arxiv.org/pdf/2506.15830), [HTML](https://arxiv.org/abs/2506.15830)
 ### Authors
 Riccardo Di Sipio
@@ -2998,9 +2251,6 @@ Riccardo Di Sipio
 文章提出，基于曲率感知的方法可以加深我们对LLM训练的理解。此外，文章推测了基于Fubini-Study度量和量子弗洛克信息的量子类比，暗示在量子增强系统中实现高效的优化的可能性。
 ### Conclusion
 文章总结认为，通过信息几何和量子度量来重新思考LLM的训练，可以为更深入理解LLM的优化过程提供新的视角，并且在未来可能存在利用量子计算提升优化效率的可能性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 251. `cs.CL` - TAPS: 结构化标签引导的工具增强个性化 [PDF](https://arxiv.org/pdf/2506.20409), [HTML](https://arxiv.org/abs/2506.20409)
 ### Authors
 Ekaterina Taktasheva,Jeff Dalton
@@ -3010,9 +2260,6 @@ Ekaterina Taktasheva,Jeff Dalton
 本文引入了一种名为TAPS的新颖解决方案，它通过利用结构化标签工具和基于不确定性工具探测器来增强个性化工具使用。TAPS显着提高了大规模语言模型将用户偏好融入其中的能力，达到了开源模型在NLSI任务上的新最先进水平
 ### Conclusion
 通过TAPS，使大语言模型在个人化工具使用方面有了显著提升，能够在开放源代码模型上实现NLSI任务的新最先进水平。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 252. `cs.CL` - 在症状检查器中评估罕见疾病诊断性能：一种合成案例模拟方法 [PDF](https://arxiv.org/pdf/2506.19750), [HTML](https://arxiv.org/abs/2506.19750)
 ### Authors
 Takashi Nishibayashi,Seiji Kanazawa,Kumpei Yamada
@@ -3022,9 +2269,6 @@ Takashi Nishibayashi,Seiji Kanazawa,Kumpei Yamada
 本研究提出了合成案例模拟方法，该方法通过使用人类表型组数据库（HPO）中的疾病-表型注释生成合成病例，以模拟症状检查器中与用户的对话，预测诊断性能的变化。这种方法通过回顾性比较预测变化与实际性能指标来验证其有效性，并且用于八个罕见疾病的过往算法更新的实验显示了显著的相关性，证明了其在罕见疾病诊断性能预评估领域的有效性。
 ### Conclusion
 该研究提出的方法能够在不影响透明度和解释性的前提下，高效且低成本地评估罕见疾病的症状检查器算法变化。这种方法基于专家编制的公共医疗知识数据库，为症状检查器开发者提供了改进诊断性能的有效途径。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 253. `cs.CL` - 评估大语言模型在肺栓塞登记中自动临床提取的性能：不同模型规模、版本和参数的表现 [PDF](https://arxiv.org/pdf/2503.21004), [HTML](https://arxiv.org/abs/2503.21004)
 ### Authors
 Mahmoud Alwakeel,Emory Buck,Jonathan G. Martin,Imran Aslam,Sudarshan Rajagopal,Jian Pei,Mihai V. Podgoreanu,Christopher J. Lindsell,An-Kwok Ian Wong
@@ -3034,9 +2278,6 @@ Mahmoud Alwakeel,Emory Buck,Jonathan G. Martin,Imran Aslam,Sudarshan Rajagopal,J
 本文测试了几种不同时代和参数数目的Llama 3变体模型和一个评审模型Phi 4 14B，共250份由MIMIC IV和杜克大学双重注释的CTPE报告，评估模型大小、温度和样本量对准确性的影响，结果显示大规模模型的准确率较高，且不同数据集之间性能差异不大，表明模型具有外部稳健性。双模型一致性审查（L3 70B加Phi 4 14B）可以可靠地提取关于肺栓塞的存在性、位置、血栓负担、右心室压力和图像质量等细节的概念，且有较低的不一致性率和高的一致率。
 ### Conclusion
 大语言模型能够提供一种可扩展、准确的解决方案来处理PE登记中的数据提取，而双模型审查流程能够在最小的人类监督下保证数据质量。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 254. `cs.CL` - 利用SMILE进行大型语言模型可解释性分析：基于局部解释的统计模型无感知解读 [PDF](https://arxiv.org/pdf/2505.21657), [HTML](https://arxiv.org/abs/2505.21657)
 ### Authors
 Zeinab Dehghani,Mohammed Naveed Akram,Koorosh Aslansefat,Adil Khan
@@ -3046,9 +2287,6 @@ Zeinab Dehghani,Mohammed Naveed Akram,Koorosh Aslansefat,Adil Khan
 SMILE是一种模型无感知的方法，通过轻微改变输入并测量输出变化来解释大型语言模型的响应，生成简单可视化的热力图来突出关键部分，提供了清晰和可靠的解释方法。这种方法超越了现有技术，提升了对大型语言模型内部工作原理的理解可能性。
 ### Conclusion
 通过使用SMILE，大型语言模型变得更容易理解，使其在信任和问责方面更具透明性，使得AI系统更加值得信赖。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 255. `cs.CL` - Thinkless: LLM Learns When to Think [PDF](https://arxiv.org/pdf/2505.13379), [HTML](https://arxiv.org/abs/2505.13379)
 ### Authors
 Gongfan Fang,Xinyin Ma,Xinchao Wang
@@ -3058,9 +2296,6 @@ Gongfan Fang,Xinyin Ma,Xinchao Wang
 提出了一种名为Thinkless的可学习框架，使语言模型能够基于任务复杂性和模型的能力自适应地选择简短形式或详细推理。Thinkless采用强化学习范式进行训练，并使用两个控制标记：<short>用于简短回应，<think>用于详细推理。方法的核心是一种名为Decoupled Group Relative Policy Optimization (DeGRPO)的算法，该算法将混合推理的学习目标分解为两部分：（1）控制标记损失，控制推理模式的选择；（2）响应损失，提高生成答案的准确性。这种方法解耦使得可以对每个目标贡献进行细粒度控制，稳定训练，并有效防止vanilla GRPO中观察到的崩溃现象。在Minerva Algebra、MATH-500和GSM8K等基准测试中，Thinkless能够将使用详细推理的比例减少50% - 90%，显著提高了推理语言模型的效率。
 ### Conclusion
 实验证明，Thinkless能够在不损失准确性的前提下显著减少复杂推理的使用，提高了语言模型的效率。相关代码已公开。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 256. `cs.CL` - HERMES: 时空连贯的长视频理解-场景与语义 [PDF](https://arxiv.org/pdf/2408.17443), [HTML](https://arxiv.org/abs/2408.17443)
 ### Authors
 Gueter Josmy Faure,Jia-Fong Yeh,Min-Hung Chen,Hung-Ting Su,Shang-Hong Lai,Winston H. Hsu
@@ -3070,9 +2305,6 @@ Gueter Josmy Faure,Jia-Fong Yeh,Min-Hung Chen,Hung-Ting Su,Shang-Hong Lai,Winsto
 提出了一种新颖的方法，更好地反映了人类认知，其中包括两个模块：具时态一致性、场景和语义的Episode浓缩器（ECO）与语义检索器（SeTR）。ECO在从微观到半宏观的级别上高效聚集表示，同时保留时间依赖关系，减少计算开销。SeTR通过关注更广泛的情境来丰富这些表示，大幅度减少特征维度，同时保留相关的宏观信息。这些模块可以无缝集成到现有的最先进的模型中，提高其性能并减少推理延迟和内存使用分别为43%和46%。作为一个独立系统，HERMES在零样本和完全监督的多个长视频理解基准测试中达到了最先进的性能。
 ### Conclusion
 HERMES能够将模块无缝集成到现有的最先进模型中，其性能改进显著，同时减少了43%的推理延迟和46%的内存使用。作为一个独立系统，HERMES在多种长视频理解基准测试中达到了最先进的性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 257. `cs.CL` - 使用软注意模拟硬注意 [PDF](https://arxiv.org/pdf/2412.09925), [HTML](https://arxiv.org/abs/2412.09925)
 ### Authors
 Andy Yang,Lena Strobl,David Chiang,Dana Angluin
@@ -3082,9 +2314,6 @@ Andy Yang,Lena Strobl,David Chiang,Dana Angluin
 这项工作创新地利用温度调整的方法，使得软注意变换器能够模拟硬注意变换器的功能，这扩展了软注意在自然语言处理任务中的适用范围。论文通过精确地控制Transformer的注意力机制，使得软注意能更灵活地应用于不同的语言处理任务。
 ### Conclusion
 该研究展示了软注意变换器能够通过无界位置嵌入或温度调整来实现对特定位置的关注，同时证明了温度调整能够使软注意变换器模拟硬注意变换器的功能。主要结论是，通过合理的选择参数，软注意变换器可以有效地模拟硬注意变换器，为灵活性和效率之间的权衡提供了一种新的视角。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 258. `cs.CL` - DiffuCoder：理解并改进掩蔽扩散模型进行代码生成 [PDF](https://arxiv.org/pdf/2506.20639), [HTML](https://arxiv.org/abs/2506.20639)
 ### Authors
 Shansan Gong,Ruixiang Zhang,Huangjie Zheng,Jiatao Gu,Navdeep Jaitly,Lingpeng Kong,Yizhe Zhang
@@ -3094,9 +2323,6 @@ Shansan Gong,Ruixiang Zhang,Huangjie Zheng,Jiatao Gu,Navdeep Jaitly,Lingpeng Kon
 研究提出了耦合-GRPO（coupled-GRPO）采样方案，这是一种新颖的采样方法，用于构建与训练中使用的完成部分互补的掩码噪声，从而减少 token 对数似然估计的方差并保持训练效率。该方案提升了 DiffuCoder 在代码生成基准测试上的性能，并减少了在解码过程中对 AR 偏好的依赖。这为理解 dLLM 生成机制提供了更深入的见解，并提供了一种有效的、扩散模型特有的 RL 训练框架。
 ### Conclusion
 研究取得的主要成果是提升了 DiffuCoder 的代码生成性能和降低了其生成过程对 AR 偏好的依赖。通过揭示 dLLM 的解码行为与 AR 模型的区别，为 dLLM 作为一种代码生成工具提供了新的理解，并为其训练和应用提供了一种新的框架。该研究为后续相关领域的研究提供了重要参考。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 259. `cs.CL` - PP-DocBee：通过各种技巧提高多模态文档理解 [PDF](https://arxiv.org/pdf/2503.04065), [HTML](https://arxiv.org/abs/2503.04065)
 ### Authors
 Feng Ni,Kui Huang,Yao Lu,Wenyu Lv,Guanzhong Wang,Zeyu Chen,Yi Liu
@@ -3106,9 +2332,6 @@ Feng Ni,Kui Huang,Yao Lu,Wenyu Lv,Guanzhong Wang,Zeyu Chen,Yi Liu
 PP-DocBee通过数据合成策略构建多样化数据集，增强了模型的泛化能力；采用动态比例采样、数据预处理和OCR后处理等训练技术提高了模型性能；并且PP-DocBee在英语文档理解基准测试中达到了最先进的性能，在中文文档理解上也超过了现有的开源和商用模型。
 ### Conclusion
 PP-DocBee在处理文档图像理解和解析方面取得了显著成效，通过向公众开放源代码和预训练模型呈现出优越的性能，为文档图像的理解和解析提供了更有效的解决方案。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 260. `cs.CL` - SACL: 使用语义增强重排序和定位来理解并对抗代码检索中的文本偏见 [PDF](https://arxiv.org/pdf/2506.20081), [HTML](https://arxiv.org/abs/2506.20081)
 ### Authors
 Dhruv Gupta,Gayathri Ganesh Lakshmy,Yiqing Xie
@@ -3118,9 +2341,6 @@ Dhruv Gupta,Gayathri Ganesh Lakshmy,Yiqing Xie
 本文提出了SACL框架，该框架通过增强文本信息并利用语义信息来丰富代码或结构知识，从而减少偏见。SACL通过引入语义增强的重排序和定位机制，改善了代码检索的准确性，并进而提高了代码生成的效果。
 ### Conclusion
 实验结果表明，SACL在代码检索上有了显著的提升，例如在HumanEval、MBPP和SWE-Bench-Lite上的Recall@1分别提高了12.8%、9.4%和7.0%，同时在代码生成上的Pass@1也提高了4.88%。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 261. `cs.CL` - 从Web搜索到有自主推理能力的深度研究：用推理代理激励搜索 [PDF](https://arxiv.org/pdf/2506.18959), [HTML](https://arxiv.org/abs/2506.18959)
 ### Authors
 Weizhi Zhang,Yangning Li,Yuanchen Bei,Junyu Luo,Guancheng Wan,Liangwei Yang,Chenxuan Xie,Yuyao Yang,Wei-Chieh Huang,Chunyu Miao,Henry Peng Zou,Xiao Luo,Yusheng Zhao,Yankai Chen,Chunkit Chan,Peilin Zhou,Xinyang Zhang,Chenwei Zhang,Jingbo Shang,Ming Zhang,Yangqiu Song,Irwin King,Philip S. Yu
@@ -3130,9 +2350,6 @@ Weizhi Zhang,Yangning Li,Yuanchen Bei,Junyu Luo,Guancheng Wan,Liangwei Yang,Chen
 本文提出了一种新的范式，即有自主性的深度研究（Agentic Deep Research），它利用具有自主推理和执行能力的大模型，形成一种动态反馈循环，集成了自主推理、迭代检索和信息综合。同时，文章引入了一个测试时间的扩展法则，以正式形式阐述计算深度对推理和搜索的影响。此外，通过基准测试结果和开源实现程序的推动，表明有自主性的深度研究不仅在性能上超越了现有的方法，而且预计将主导未来的信息寻求模式。
 ### Conclusion
 支持基准结果和开源实施程序的推动，证明有自主性的深度研究不仅在性能上超越了现有的方法，而且预计将成为未来信息寻求的主导模式。为此，所有相关的资源，包括行业产品、研究论文、基准数据集和开源实现，已收集在这里 https://github.com/ACL-.ALIGN-CLF/Checkpoints。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 262. `cs.CL` - 探索五大人格特质和AI能力对LLM模拟谈判对话影响 [PDF](https://arxiv.org/pdf/2506.15928), [HTML](https://arxiv.org/abs/2506.15928)
 ### Authors
 Myke C. Cohen,Zhe Su,Hsien-Te Kao,Daniel Nguyen,Spencer Lynch,Maarten Sap,Svitlana Volkova
@@ -3142,9 +2359,6 @@ Myke C. Cohen,Zhe Su,Hsien-Te Kao,Daniel Nguyen,Spencer Lynch,Maarten Sap,Svitla
 该研究创新性地提出了一种评估框架，用于任务关键型谈判情境中的代理式AI系统的可靠性评估。通过因果发现方法和Sotopia模拟测试环境，系统地评估了人格特质和AI代理特征对LLM模拟社会谈判结果的影响。该框架不仅涵盖了AI系统的性能指标，还关注了其在实际操作中的社会动态因素，为代理式AI系统的开发提供了参考依据。
 ### Conclusion
 本文通过两个实验，建立了用于评估代理式AI工作流在多样化的操作员人格和团队动态中的可靠性的可重复方法。这种方法不仅超越了传统的性能指标，还重视社会动态对任务成功的关键作用。研究发现对提升代理式AI系统的评估标准提供了重要的支持，为其在复杂操作中的广泛应用奠定了基础。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 263. `cs.CV` - StereoDiff：视频深度估计的立体匹配与视频深度扩散协同 [PDF](https://arxiv.org/pdf/2506.20756), [HTML](https://arxiv.org/abs/2506.20756)
 ### Authors
 Haodong Li,Chen Wang,Jiahui Lei,Kostas Daniilidis,Lingjie Liu
@@ -3154,9 +2368,6 @@ Haodong Li,Chen Wang,Jiahui Lei,Kostas Daniilidis,Lingjie Liu
 本文提出了一种名为StereoDiff的两阶段视频深度估计器，结合了立体匹配技术主要用于静态区域以及视频深度扩散技术以保持动态区域的一致深度转换。通过频域分析数学上证明了立体匹配和视频深度扩散的互补优势如何通过协同作用来捕捉两者的优点，从而提高视频深度估计的整体性能和准确性。实验结果表明，StereoDiff在零样本、真实世界、动态视频深度基准测试中的表现最佳，展示了其在视频深度估计中的优势一致性与准确性。
 ### Conclusion
 实验结果在零样本、真实世界、动态视频深度基准测试中验证了StereoDiff的最优性能，突出了其在视频深度估计中优越的一致性和准确性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 264. `cs.CV` - 基于AI的MRI脑肿瘤分割基准测试 [PDF](https://arxiv.org/pdf/2506.20786), [HTML](https://arxiv.org/abs/2506.20786)
 ### Authors
 Connor Ludwig,Khashayar Namdar,Farzad Khalvati
@@ -3166,9 +2377,6 @@ Connor Ludwig,Khashayar Namdar,Farzad Khalvati
 本研究首次在Brats 2023数据集上对SAM，SAM 2，MedSAM，SAM-Med-3D和nnU-Net进行了全面的评估和比较，研究了这些模型在不同提示质量下的表现。研究进一步通过在儿科数据集上微调SAM，SAM 2，MedSAM和SAM-Med-3D，对点提示性能进行了显著改进，为未来的研究带来了希望，但仍无法超越边界框或nnU-Net的分割效果和准确性。
 ### Conclusion
 尽管SAM和SAM 2在某些提示质量下表现出色，但nnU-Net仍然在医学图像分割方面占有主导地位。通过微调，点提示性能有所提升，为未来的继续研究提供了基础，但需进一步改进以达到与边界框提示或nnU-Net相媲美的性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 265. `cs.CL` - CVC: 一个大规模中文价值规则语料库，用于大型语言模型的价值对齐 [PDF](https://arxiv.org/pdf/2506.01495), [HTML](https://arxiv.org/abs/2506.01495)
 ### Authors
 Ping Wu,Guobin Shen,Dongcheng Zhao,Yuwei Wang,Yiting Dong,Yu Shi,Enmeng Lu,Feifei Zhao,Yi Zeng
@@ -3178,9 +2386,6 @@ Ping Wu,Guobin Shen,Dongcheng Zhao,Yuwei Wang,Yiting Dong,Yu Shi,Enmeng Lu,Feife
 在方法上：1. 基于核心中国价值观构建层次化价值框架；2. 构建大规模中文价值观语料库（CVC），涵盖丰富的人工标注价值规则。在应用上：1. 提供了一种全面的价值评估和对齐框架；2. 是首个具有中国文化特定性的解决方案，适用于LLMs的适应性基准测试。
 ### Conclusion
 本工作建立了一个文化适应性基准框架，利用CVC可以全面评估和对齐价值观，彰显了中国特色。所有数据均开放获取，相关代码也将在指定官网提供。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 266. `cs.CV` - FixCLR：负类对比学习在半监督领域泛化中的应用 [PDF](https://arxiv.org/pdf/2506.20841), [HTML](https://arxiv.org/abs/2506.20841)
 ### Authors
 Ha Min Son,Shahbaz Rezaei,Xin Liu
@@ -3190,9 +2395,6 @@ Ha Min Son,Shahbaz Rezaei,Xin Liu
 提出了FixCLR，通过借鉴自监督学习的成功经验，改变对比学习中的两个关键组件，使其更加适用于明确的领域不变性正则化：利用伪标签中的类别信息和仅使用排斥项。FixCLR可以作为大多数现有SSDG和半监督方法的附加方法，以实现互补的性能提升。实验证明了FixCLR在SSDG中的有效性，尤其是在与其他半监督方法结合使用时效果更佳。
 ### Conclusion
 我们的研究包括对不同半监督方法改进的基准测试、评估预训练模型与非预训练模型的性能以及在多领域数据集上的测试。总体而言，FixCLR是一个有效的SSDG方法。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 267. `cs.CV` - ConViTac: 使用对比表示对齐视觉-触觉融合 [PDF](https://arxiv.org/pdf/2506.20757), [HTML](https://arxiv.org/abs/2506.20757)
 ### Authors
 Zhiyuan Wu,Yongqiang Zhao,Shan Luo
@@ -3202,9 +2404,6 @@ Zhiyuan Wu,Yongqiang Zhao,Shan Luo
 本文提出了一种Visual-Tactile表征学习网络ConViTac，旨在通过对比表示增强融合过程中特征的对齐性。核心贡献在于引入了一种对比嵌入条件机制(CEC)，利用自监督对比学习预训练的对比编码器将视觉和触觉输入投影到统一的潜在嵌入中，通过跨模态注意将这些嵌入用于视觉-触觉特征融合，以对齐统一的表现形式，并在下游任务上提升性能。
 ### Conclusion
 通过大量实验验证了ConViTac的优越性，相较于当前最先进的方法在真实世界中表现更优，证明了我们提出的CEC机制的有效性，该机制在材料分类和抓取预测任务中提高了12.0%的准确性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 268. `cs.CV` - 基础模型与基于骨架的方法在人类-机器人交互中手势识别的比较 [PDF](https://arxiv.org/pdf/2506.20795), [HTML](https://arxiv.org/abs/2506.20795)
 ### Authors
 Stephanie Käs,Anton Burenko,Louis Markert,Onur Alp Culha,Dennis Mack,Timm Linder,Bastian Leibe
@@ -3214,9 +2413,6 @@ Stephanie Käs,Anton Burenko,Louis Markert,Onur Alp Culha,Dennis Mack,Timm Linde
 本文引入了NUGGET数据集，专门用于评估人-机手势识别的方法。同时，本文对比了视觉基础模型和多模态视觉语言模型与基于骨架的方法在动态手势识别中的表现，提出了可能通过共享多任务模型来简化系统复杂性的思路。
 ### Conclusion
 基于骨架的方法HD-GCN在当前实验中表现最佳，而视觉基础模型V-JEPA有潜力成为共享多任务模型。Gemini在零样本设置中表现不佳，强调了对手势识别输入表示方法进一步研究的必要性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 269. `cs.CL` - GroundCap：一个视觉接地图像字幕数据集 [PDF](https://arxiv.org/pdf/2502.13898), [HTML](https://arxiv.org/abs/2502.13898)
 ### Authors
 Daniel A. P. Oliveira,Lourenço Teodoro,David Martins de Matos
@@ -3226,9 +2422,6 @@ Daniel A. P. Oliveira,Lourenço Teodoro,David Martins de Matos
 本文提出了一种基于ID的接地系统，该系统能够实现一致的对象引用跟踪和动作-对象链接。此外，还提出了一个名为GroundCap的数据集，包含来自77部电影的52,016张图片，每张图片附带344个人类标注和52,016个自动生成的字幕，利用标签系统链接动作与对应对象，同时保持对象身份。该方法包括持久的对象ID用于引用跟踪，明确的动作-对象链接，以及通过K-means聚类背景元素的分割。同时，还提出了一种新的评估指标gMETEOR，结合了字幕质量和接地准确性，并通过在GroundCap上微调Pixtral-12B和Qwen2.5-VL 7B来建立基线性能。
 ### Conclusion
 人类评估证明，该方法在生成可验证、具有连贯对象引用的描述方面非常有效。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 270. `cs.CV` - 基于软标签数据增强提升模糊动态面部表情识别 [PDF](https://arxiv.org/pdf/2506.20867), [HTML](https://arxiv.org/abs/2506.20867)
 ### Authors
 Ryosuke Kawamura,Hideaki Hayashi,Shunsuke Otake,Noriko Takemura,Hajime Nagahara
@@ -3238,9 +2431,6 @@ Ryosuke Kawamura,Hideaki Hayashi,Shunsuke Otake,Noriko Takemura,Hajime Nagahara
 MIDAS通过将视频帧对及其相应的情感类别标签通过凸组合进行增强，扩展了mixup方法以适应软标记视频数据，并提出了一种简单高效的方法来处理DFER中的模糊性问题。
 ### Conclusion
 通过使用MIDAS增强的数据训练的模型，在DFEW数据集和FEV39k-Plus数据集上的实验结果表明，其性能优于使用原始数据训练的最先进的方法。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 271. `cs.CV` - 像素向量对比学习在医学视觉中的像素级预训练 [PDF](https://arxiv.org/pdf/2506.20850), [HTML](https://arxiv.org/abs/2506.20850)
 ### Authors
 Yuting He,Shuo Li
@@ -3250,9 +2440,6 @@ Yuting He,Shuo Li
 本文提出了一种新的像素向量对比学习（vector CL）方法，通过矢量回归问题重新定义CL，以更好地量化像素级预训练中的特征分散情况。为了实施这一新的范式，提出了一种新的框架——COntrast in VEctor Regression (COVER)。COVER框架通过矢量回归将特征距离建模，构造了一个可扩展的矢量自学习方法，使优化流程从矢量回归到距离建模保持一致，利用矢量金字塔架构实现粒度的适应性，从而在自我监督预训练中保持了像素级特征的相关性。
 ### Conclusion
 广泛实验结果显示，COVER在多种任务中显著提高了像素级自我监督预训练的效果，促进了可泛化的医学视觉基础模型的发展。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 272. `cs.CV` - THIRDEYE: 受大脑启发的多阶段融合的线索感知单目深度估计 [PDF](https://arxiv.org/pdf/2506.20877), [HTML](https://arxiv.org/abs/2506.20877)
 ### Authors
 Calin Teodor Ioan
@@ -3262,9 +2449,6 @@ Calin Teodor Ioan
 本文提出了ThirdEye，一种线索感知的管道，该管道通过专门的、预先训练且冻结的网络提供各种单目线索，并将这些线索融合在仿效初级视觉皮层结构的三级（V1->V2->V3）融合结构中，融合过程中利用一种关键值工作记忆模块根据可靠性加权，最终生成高分辨率的视差图。由于专家模块是冻结的，ThirdEye继承了大量的外部监督，只进行适度的微调。
 ### Conclusion
 因为专家模块是冻结的，ThirdEye不仅能够以少量的微调获得大量外部监督，还能够在不显著增加计算成本的情况下提高单目深度估计的精度。未来会进一步提供架构细节、神经科学动机和扩展的实验方案，并在未来的修订版中发布定量结果。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 273. `cs.CV` - 利用视觉语言模型选择由扩散模型生成的可信超分辨率样本 [PDF](https://arxiv.org/pdf/2506.20832), [HTML](https://arxiv.org/abs/2506.20832)
 ### Authors
 Cansu Korkmaz,Ahmet Murat Tekalp,Zafer Dogan
@@ -3274,9 +2458,6 @@ Cansu Korkmaz,Ahmet Murat Tekalp,Zafer Dogan
 提出了一种基于视觉语言模型的自动化框架，该框架通过语义推理来识别扩散模型生成的SR样本集中最可信的结果。引入了新的信任度评分（TWS）作为评估指标，该评分综合了语义相似性、结构完整性和伪影敏感性。相较于传统的PSNR和LPIPS度量，该方法能够更好地反映信息的忠实度，并提供了一种导航扩散模型生成的不确定性问题的有原则、可扩展和通用的解决方案。
 ### Conclusion
 本文提出了一个新的框架，利用视觉语言模型自动选择由扩散模型生成的最可信的超分辨率样本，并提出了一种混合的信任度评分（TWS）来评估这些样本。相较于传统的度量方法，该方法能够在不确定性较大的扩散SR空间中提供一种更为有效的解决方案，同时该工作也确立了新的可信度基准。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 274. `cs.CV` - 立体视觉中单眼的作用 [PDF](https://arxiv.org/pdf/2506.20900), [HTML](https://arxiv.org/abs/2506.20900)
 ### Authors
 Sherlon Almeida da Silva,Davi Geiger,Luiz Velho,Moacir Antonelli Ponti
@@ -3286,9 +2467,6 @@ Sherlon Almeida da Silva,Davi Geiger,Luiz Velho,Moacir Antonelli Ponti
 提出了新的几何约束条件以考虑遮挡和深度不连续性；评估了深度学习模型衍生的立体特征匹配质量；研究了注意力机制在恢复3D表面中的作用。
 ### Conclusion
 结合强大的几何先验知识与学习到的特征可以在理解立体视觉系统方面提供内部抽象，有助于准确的深度重建。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 275. `cs.CV` - MultiHuman-Testbench: 评估多个人物图像生成基准 [PDF](https://arxiv.org/pdf/2506.20879), [HTML](https://arxiv.org/abs/2506.20879)
 ### Authors
 Shubhankar Borse,Seokeon Choi,Sunghyun Park,Jeongho Kim,Shreya Kadambi,Risheek Garrepalli,Sungrack Yun,Munawar Hayat,Fatih Porikli
@@ -3298,9 +2476,6 @@ Shubhankar Borse,Seokeon Choi,Sunghyun Park,Jeongho Kim,Shreya Kadambi,Risheek G
 该研究提出了MultiHuman-Testbench作为专门针对多个人物生成的评估基准，包含1800个样本和5,550张人脸图像，以满足多样化的年龄、民族背景和性别需求。此外，还提出了一套多维度评估工具，包括四个关键指标来量面部计数、身份相似性、提示对齐和动作检测。另外，研究还提出了通过人类分割和匈牙利匹配将图像和区域隔离的新技术，显著提高了身份相似度。
 ### Conclusion
 提出的基准测试以及关键发现为多个人物图像生成的研究提供了宝贵的见解和标准化工具，推动了该领域的进展。研究通过广泛评估多种模型，包括无监督方法和训练方法，证实了新技术和方法的有效性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 276. `cs.CV` - M2SFormer: 多谱性和多尺度注意力结合边缘感知难度指导的图像伪造定位 [PDF](https://arxiv.org/pdf/2506.20922), [HTML](https://arxiv.org/abs/2506.20922)
 ### Authors
 Ju-Hyeon Nam,Dong-Hyun Moon,Sang-Chul Lee
@@ -3310,9 +2485,6 @@ Ju-Hyeon Nam,Dong-Hyun Moon,Sang-Chul Lee
 M2SFormer框架通过以下创新点来解决现有方法的挑战：1) 在跳跃连接中统一处理多频谱和多尺度注意力，利用全局上下文更好地捕捉各种伪造特征；2) 引入一个全局先验图，通过引导难度导向的注意力模块，有效保留细微的篡改细节；3) 通过边缘感知的难度指导，增强对未见域伪造检测的泛化能力。
 ### Conclusion
 通过在多个基准数据集上的大量实验，M2SFormer展示了它在检测和定位伪造方面的优越性能，能够更好地适应未见过的领域。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 277. `cs.CV` - Hierarchical Sub-action Tree for Continuous Sign Language Recognition [PDF](https://arxiv.org/pdf/2506.20947), [HTML](https://arxiv.org/abs/2506.20947)
 ### Authors
 Dejie Yang,Zhu Xu,Xinjie Gao,Yang Liu
@@ -3322,9 +2494,6 @@ Dejie Yang,Zhu Xu,Xinjie Gao,Yang Liu
 提出了一种层次子动作树（HST），通过结合手语知识和视觉表示学习，有效利用大型语言模型提供的特定手语知识，从中提取并构造文本信息表示，逐步对齐视觉和文本模态，利用树结构减少计算复杂度。此外，还实施了一种对比对齐增强，进一步缩小了两种模态之间的差距。
 ### Conclusion
 在四个数据集（PHOENIX-2014、PHOENIX-2014T、CSL-Daily 和 Sign Language Gesture）上的实验验证了HST-CSLR的有效性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 278. `cs.CV` - PhysRig：基于物理的可微皮肤和骨架框架以实现逼真的仿生建模 [PDF](https://arxiv.org/pdf/2506.20936), [HTML](https://arxiv.org/abs/2506.20936)
 ### Authors
 Hao Zhang,Haolan Xu,Chun Feng,Varun Jampani,Narendra Ahuja
@@ -3334,9 +2503,6 @@ Hao Zhang,Haolan Xu,Chun Feng,Varun Jampani,Narendra Ahuja
 本文提出了一种名为PhysRig的基于物理的可微皮肤和骨架绑定框架。该框架通过将刚性骨架嵌入到体积表示中（例如四面体网格），并将其模拟为由动画骨架驱动的变形软体结构来克服LBS的局限性。该方法利用连续力学原理，将以粒子形式嵌入欧拉背景网格中的对象进行离散化，从而确保在材料属性和骨架运动方面的可微性。此外，还引入了材料原型，显著减少了学习空间但保持了高表达性。
 ### Conclusion
 为了评估该框架，本文使用Objaverse、The Amazing Animals Zoo和MixaMo中的网格创建了一个综合的合成数据集，覆盖了多种对象类别和运动模式。与传统的基于LBS的方法相比，该方法一致地产生了更真实和物理合理的结果。此外，本文还展示了该框架在姿态转移任务中的应用，突显了其在仿生建模中的多功能性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 279. `cs.CV` - OmniEval：一种包含视觉、听觉和文本输入的全方位模型评估基准 [PDF](https://arxiv.org/pdf/2506.20960), [HTML](https://arxiv.org/abs/2506.20960)
 ### Authors
 Yiman Zhang,Ziheng Luo,Qiangyu Yan,Wei He,Borui Jiang,Xinghao Chen,Kai Han
@@ -3346,9 +2512,6 @@ Yiman Zhang,Ziheng Luo,Qiangyu Yan,Wei He,Borui Jiang,Xinghao Chen,Kai Han
 OmniEval具有以下创新点：(i) 全模态协作：设计评估任务以突出音频和视频之间的强烈耦合，要求模型能够有效利用所有模态的感觉；(ii) 视频多样性：包括810段音视频同步视频、285段中文视频和525段英文视频；(iii) 任务的多样性和精细度：包含2617个问题-答案对，包括1412个开放问题和1205个选择题。这些问题分为3类主要的任务类型和12个子任务类型，实现了全面评估。此外，引入了一个更精细的视频定位任务名为Grounding。
 ### Conclusion
 本研究通过OmniEval为评估全方位模型从多模态上下文中构建和理解连贯性的能力提供了一个平台。该基准已经对几种全方位模型进行了实验，可从提供的链接下载代码和数据。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 280. `cs.CV` - 基于多agent协作的证据推理用于人类病理学诊断 [PDF](https://arxiv.org/pdf/2506.20964), [HTML](https://arxiv.org/abs/2506.20964)
 ### Authors
 Chengkuan Chen,Luca L. Weishaupt,Drew F. K. Williamson,Richard J. Chen,Tong Ding,Bowen Chen,Anurag Vaidya,Long Phi Le,Guillaume Jaume,Ming Y. Lu,Faisal Mahmood
@@ -3358,9 +2521,6 @@ Chengkuan Chen,Luca L. Weishaupt,Drew F. K. Williamson,Richard J. Chen,Tong Ding
 为解决上述局限性，该研究引入了PathChat+，这是一种专为人类病理学设计的新多模态大规模语言模型，已通过超过100万种多样化的病理特定指令样本和近550万问答对进行训练。跨多种病理学基准的广泛评估表明，PathChat+显著优于先前的PathChat伴侣模型以及其他最先进的通用和专门针对病理学的模型。此外，展示了SlideSeek，这是一种集成了PathChat+的支持推理的多代理AI系统，通过迭代的层次诊断推理自主评估千兆像素全视野图像，并在具有挑战性的开放性疑难诊断基准DDxBench上实现了高准确度，同时能够生成视觉地锚点、人类可解释的总结报告
 ### Conclusion
 PathChat+和SlideSeek解决了多模态语言模型在病理学中的局限性，展示了其在复杂病理学诊断任务中的优势，并为实现自主、高效、可解释的病理学辅助诊断提供了新的方法。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 281. `cs.CV` - OTSurv: 基于异质最优传输的新颖多次实例学习框架用于生存预测 [PDF](https://arxiv.org/pdf/2506.20741), [HTML](https://arxiv.org/abs/2506.20741)
 ### Authors
 Qin Ren,Yifan Wang,Ruogu Fang,Haibin Ling,Chenyu You
@@ -3370,9 +2530,6 @@ Qin Ren,Yifan Wang,Ruogu Fang,Haibin Ling,Chenyu You
 OTSurv提出了一个新的基于最优传输视角的MIL框架，引入了两个约束条件：全局长尾约束和局部不确定性约束。通过使用不平衡的OT形式和高效的硬件友好型矩阵缩放算法求解初始问题，OTSurv解决了现有的MIL方法难以捕捉病理异质性的问题，并在多个基准上达到了新的最佳结果。该方法提高了生存预测的准确性，增加了结果的解释性，提供了对病理图像的更好理解以及改善诊断决策的潜力。此外，该方法还通过统计显著性验证了其在生存预测中的有效性。OTSurv的优点在于提高了准确性、可解释性以及效率。OTSurv利用了最优传输的理论基础，促进了多样病理模式的合理捕捉和表示，有助于提升生存预测的精度和可靠性。
 ### Conclusion
 OTSurv在多个流行基准上实现了新的最好结果，在平均C指数上取得了3.6%的绝对改进，并通过统计显著性验证了其在生存预测中的有效性。OTSurv不仅提高了生存预测的准确性，还提高了结果的可解释性，通过统计显著性提高了诊断工具的有效性和可靠性。该方法为数字病理中的生存预测提供了一种有效且强大的工具，具有广泛的应用潜力。项目代码已开源，未来可进一步探索其在不同类型病理图像上的应用价值与可能存在的扩展性问题，提高其应用于实际临床中的适用性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 282. `cs.CV` - DFVEdit: Conditional Delta Flow Vector for Zero-shot Video Editing [PDF](https://arxiv.org/pdf/2506.20967), [HTML](https://arxiv.org/abs/2506.20967)
 ### Authors
 Lingling Cai,Kang Zhao,Hangjie Yuan,Xiang Wang,Yingya Zhang,Kejie Huang
@@ -3382,9 +2539,6 @@ Lingling Cai,Kang Zhao,Hangjie Yuan,Xiang Wang,Yingya Zhang,Kejie Huang
 我们提出了Conditional Delta Flow Vector (CDFV) -- 理论上无偏的DFV估计，并结合了Implicit Cross Attention (ICA)指导和Embedding Reinforcement (ER)，进一步提高了编辑质量。DFVEdit在实际效率方面表现出色，相比基于注意力工程的编辑方法，它在Video DiTs上的推理速度提高了至少20倍，内存减少了85%。广泛的定量和定性实验表明，DFVEdit可以无缝应用于流行的Video DiTs（例如CogVideoX和Wan2.1），在结构保真度、时空一致性和编辑质量方面达到了最先进的性能。
 ### Conclusion
 DFVEdit能够在保持高效和高编辑质量的同时，被无缝应用于流行的Video DiTs，提供了状态最先进（state-of-the-art）的表现。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 283. `cs.CV` - FaSTA∗：具有子例程挖掘的快速-缓慢工具路径代理以实现高效的多一步图像编辑 [PDF](https://arxiv.org/pdf/2506.20911), [HTML](https://arxiv.org/abs/2506.20911)
 ### Authors
 Advait Gupta,Rishie Raj,Dang Nguyen,Tianyi Zhou
@@ -3394,9 +2548,6 @@ Advait Gupta,Rishie Raj,Dang Nguyen,Tianyi Zhou
 该研究的主要创新在于开发了一种名为FaSTA∗的代理，它结合了大规模语言模型（LLMs）进行快速的高层次子任务规划与局部A$^*$搜索相结合来寻找经济高效的工具路径。通过LLMs进行归纳推理来节省A$^*$在相似子任务上的成本，持续提取和优化常用的子例程，并在适应性快速-缓慢规划中重复使用，这种灵活的策略显著减少了对同类子任务的探索成本，提高了整体效率。
 ### Conclusion
 该研究通过与最新图像编辑方法的比较证明，FaSTA∗在计算效率上有显著改进，且在任务成功率方面仍能保持与最先进的基线相当的竞争力。通过这种方式，该论文提出了一种有效的策略来促进多步骤图像编辑任务的高效执行。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 284. `cs.CV` - 从摇篮到拐杖：一种高保真生命周期面部老化两步框架 [PDF](https://arxiv.org/pdf/2506.20977), [HTML](https://arxiv.org/abs/2506.20977)
 ### Authors
 Tao Liu,Dafeng Zhang,Gengchen Li,Shizhuo Liu,Yongqi Song,Senmao Li,Shiqi Yang,Boqian Li,Kai Wang,Yaxing Wang
@@ -3406,9 +2557,6 @@ Tao Liu,Dafeng Zhang,Gengchen Li,Shizhuo Liu,Yongqi Song,Senmao Li,Shiqi Yang,Bo
 本文提出了一种基于少步骤文本到图像（T2I）扩散模型的两步面部老化框架，称为Cradle2Cane。该框架的创新点包括：首阶段通过引入自适应噪声注入（AdaNI）机制解决年龄准确性问题，该机制基于年龄和性别等文本描述；次阶段通过使用两种身份感知嵌入（IDEmb）：SVR-ArcFace和Rotate-CLIP增强身份保真度，同时保持年龄特异性特征，并对第一阶段的变换图像进行去噪处理，确保更高的身份一致性同时不牺牲年龄准确性。两个阶段以端到端的方式联合训练。
 ### Conclusion
 广泛的实验在CelebA-HQ测试数据集上进行，并通过Face++和Qwen-VL协议评估。结果显示，Cradle2Cane在年龄准确性和身份一致性方面都优于现有的面部老化方法。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 285. `cs.CV` - 使用自然语言在病理图像中分割一切 [PDF](https://arxiv.org/pdf/2506.20988), [HTML](https://arxiv.org/abs/2506.20988)
 ### Authors
 Zhixuan Chen,Junlin Hou,Liqi Lin,Yihui Wang,Yequan Bie,Xi Wang,Yanning Zhou,Ronald Cheong Kin Chan,Hao Chen
@@ -3418,9 +2566,6 @@ Zhixuan Chen,Junlin Hou,Liqi Lin,Yihui Wang,Yequan Bie,Xi Wang,Yanning Zhou,Rona
 本文提出了PathSegmentor，这是一种专门为病理图像设计的第一种基于文本提示的分割基础模型。同时，引入了PathSeg，它是目前最大和最全面的病理分割数据集，涵盖了17个公共来源，包含275k张图像-掩码-标签三元组，涵盖160个不同的类别。PathSegmentor通过自然语言提示实现了语义分割，消除了需要手动输入空间信息的需求，提升了分割的便利性与精度，并显著优于现有模型，展示了在分割复杂结构和泛化到外部数据方面的强大鲁棒性。此外，PathSegmentor的输出提高了诊断模型的可解释性，促进了影像生物标志物的发现，为临床决策提供了证据支持。
 ### Conclusion
 这项工作推进了可解释人工智能在精准肿瘤学中的发展。PathSegmentor模型在精确度和广泛的适用性方面表现出色，并且其架构紧凑，超越了现有的模型。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 286. `cs.CV` - 风格对齐图像合成在细胞病理学中稳健检测异常细胞的应用 [PDF](https://arxiv.org/pdf/2506.21001), [HTML](https://arxiv.org/abs/2506.21001)
 ### Authors
 Qiuyi Qi,Xin Li,Ming Kong,Zikang Xu,Bingdi Chen,Qiang Zhu,S Kevin Zhou
@@ -3430,9 +2575,6 @@ Qiuyi Qi,Xin Li,Ming Kong,Zikang Xu,Bingdi Chen,Qiang Zhu,S Kevin Zhou
 该论文提出了一种风格对齐图像合成（SAIC）方法，通过合成高保真和保留风格的病理图像来增强检测模型的有效性和稳健性。这一方法首先基于属性指导选择合适的异常细胞候选，接着使用高频特征重构实现异常细胞和病理背景的风格对齐和高保真合成，并引入大规模视觉语言模型来筛选高质量的合成图像，从而提升了尾部类别和风格下的检测性能，并展示了SAIC在临床应用中的普适性和实用性。
 ### Conclusion
 实验结果显示，这些合成图像的加入有效提升了异常细胞检测模型在尾部类别和风格下的性能和稳健性，从而整体提升了检测性能。综合质量评估进一步证实了SAIC在临床应用场景中的普适性和实用性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 287. `cs.CV` - AIR-VIEW：用于航空天气可见度估计的图像库，一个数据集和基准 [PDF](https://arxiv.org/pdf/2506.20939), [HTML](https://arxiv.org/abs/2506.20939)
 ### Authors
 Chad Mourning,Zhewei Wang,Justin Murray
@@ -3442,9 +2584,6 @@ Chad Mourning,Zhewei Wang,Justin Murray
 介绍了用于航空天气能见度估计的新数据集，该数据集包含了来自FAA天气监控摄像头网络的一年多的数据采集，对几种常用方法进行了基准测试，并结合了新的高价值数据集与其他公开数据集进行性能比较。
 ### Conclusion
 本文展示了航空气象图像库AIR-VIEW，包括一个收集自FAA天气监控摄像头的数据集，以及对三种常用方法和一个通用基准的比较实验结果，提供了能见度估计的基准参考，有助于提高航空气象预测的精度与可用性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 288. `cs.CV` - EVA: Mixture-of-Experts Semantic Variant Alignment for Compositional Zero-Shot Learning [PDF](https://arxiv.org/pdf/2506.20986), [HTML](https://arxiv.org/abs/2506.20986)
 ### Authors
 Xiao Zhang,Yongqiang Ma,Haodong Jing,Nanning Zheng
@@ -3454,9 +2593,6 @@ Compositional Zero-Shot Learning (CZSL)旨在通过学习基础概念来识别�
 本文提出了EVA，一种Mixture-of-Experts Semantic Variant Alignment框架。EVA引入了领域专家适应，利用多个专家实现分词感知学习并构建高质量的基础特征表示。此外，为了实现精确的组成泛化，EVA进一步提出了语义变异对齐，以选择语义相关的表示来进行图像-基础特征匹配。
 ### Conclusion
 我们的方法在两个封闭和开放世界设置中的三个流行基准测试中显著优于其他最先进的CZSL方法，这证明了提出的见解的有效性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 289. `cs.CV` - 3D场景-相机表示及其联合相机光度优化 [PDF](https://arxiv.org/pdf/2506.20979), [HTML](https://arxiv.org/abs/2506.20979)
 ### Authors
 Weichen Dai,Kangcheng Ma,Jiaxin Wang,Kecen Pan,Yuhang Ming,Hua Zhang,Wanzeng Kong
@@ -3466,9 +2602,6 @@ Weichen Dai,Kangcheng Ma,Jiaxin Wang,Kecen Pan,Yuhang Ming,Hua Zhang,Wanzeng Kon
 论文提出了一个新型的3D场景-相机表示，结合了相机的联合光度优化。通过引入内部和外部光模型，提出了完整的光度模型及其对应的相机表示。在优化相机表示的参数的同时，该方法有效分离了与场景无关的信息，并引入深度正则化以防止3D场景重建拟合无关信息。相机模型作为映射过程的一部分，该方法构建了包含场景辐射场和相机光度模型的完整映射。实验结果表明，在成像退化条件下（如畸变和污点），该方法能实现高质量的3D场景表示。
 ### Conclusion
 实验结果证明，该方法即使在图像退化的情况下（如畸变和污点）也能实现高质的3D场景表示。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 290. `cs.CV` - VisionGuard: 协同框架用于检测头盔违规 [PDF](https://arxiv.org/pdf/2506.21005), [HTML](https://arxiv.org/abs/2506.21005)
 ### Authors
 Lam-Huy Nguyen,Thinh-Phuc Nguyen,Thanh-Hai Nguyen,Gia-Huy Dinh,Minh-Triet Tran,Trung-Nghia Le
@@ -3478,9 +2611,6 @@ Lam-Huy Nguyen,Thinh-Phuc Nguyen,Thanh-Hai Nguyen,Gia-Huy Dinh,Minh-Triet Tran,T
 为了应对这些挑战，本文提出了一种名为VisionGuard的协同多阶段框架，该框架旨在克服帧级检测器的局限性，特别是在类别不平衡和标注不一致的情况下。VisionGuard集成了两个关键模块：自适应标签模块和上下文扩展器模块。自适应标签模块是一种基于跟踪的精炼技术，通过利用跟踪算法为每个帧分配持久标签并纠正分类错误，增强分类一致性。上下文扩展器模块通过生成具有适当置信度评分的虚拟边界框来提高稀有类别的召回率，有效解决了数据不平衡的影响。
 ### Conclusion
 试验结果表明，VisionGuard相比基础检测器的总体mAP提高3.1%，展示了其有效性，并具备在交通监控系统中实际部署的潜力，从而促进安全和法规遵从。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 291. `cs.CV` - 重新考虑用稀疏信号进行姿态导向的文本到图像生成 [PDF](https://arxiv.org/pdf/2506.20983), [HTML](https://arxiv.org/abs/2506.20983)
 ### Authors
 Wenjie Xuan,Jing Zhang,Juhua Liu,Bo Du,Dacheng Tao
@@ -3490,9 +2620,6 @@ Wenjie Xuan,Jing Zhang,Juhua Liu,Bo Du,Dacheng Tao
 本文提出了一个新颖的Spatial-Pose ControlNet (SP-Ctrl)，将可学习的空间表示引入稀疏信号，增强关键点嵌入的区分能力和表达力，并引入关键点概念学习以提高姿态对齐。实验结果表明，SP-Ctrl在稀疏姿态导向的文本到图像生成方法中表现优异，并且在多种物种的生成任务中显示出了多样性和跨物种生成的潜力。
 ### Conclusion
 我们的方法在动物和人体中心的图像生成任务中，在基于稀疏姿态的生成方法下优于最近的基于空间控制的文本到图像生成方法，并且甚至获得了与使用密集信号方法相当的性能。此外，SP-Ctrl在通过稀疏信号进行多样和跨物种生成中显示出了显著的能力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 292. `cs.CV` - TSDASeg: 一种用于交互式点云分割的两阶段直接对齐模型 [PDF](https://arxiv.org/pdf/2506.20991), [HTML](https://arxiv.org/abs/2506.20991)
 ### Authors
 Chade Li,Pengju Zhang,Yihong Wu
@@ -3502,9 +2629,6 @@ Chade Li,Pengju Zhang,Yihong Wu
 为了解决这个问题，我们提出了TSDASeg，这是一种两阶段模型，结合了直接跨模态对齐模块和记忆模块，专门用于交互式点云分割。引入了直接跨模态对齐模块，以明确地在3D点云和文本/2D图像数据之间建立对齐。在记忆模块中，通过多个专门的记忆库分别存储文本特征、视觉特征及其跨模态对应映射。这些记忆库通过自注意力和跨注意力机制动态利用，根据先前存储的数据更新场景特定特征，有效解决了交互分割结果在不同场景中的不一致性问题。
 ### Conclusion
 在多个3D指令、参考和语义分割数据集上的实验表明，所提出的方法达到了最先进的性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 293. `cs.CV` - 通过负音频指导逐步视频到音频合成 [PDF](https://arxiv.org/pdf/2506.20995), [HTML](https://arxiv.org/abs/2506.20995)
 ### Authors
 Akio Hayakawa,Masato Ishii,Takashi Shibuya,Yuki Mitsufuji
@@ -3514,9 +2638,6 @@ Akio Hayakawa,Masato Ishii,Takashi Shibuya,Yuki Mitsufuji
 该研究的创新点在于提出了一种逐步的视频到音频生成方法，每次生成一个与视频中特定声音事件相对应的单独音频轨道，并通过引入基于预训练视频到音频模型的训练框架，无需专用配对数据集即可实现训练，从而提高了数据利用的灵活性。这种方法的设计灵感来源于负音频指导的原则，并且通过这种设计使得生成的音频具有更高的质量与独特性。
 ### Conclusion
 实验结果表明，本方法能够为单个输入视频生成多个语义上不同的音频轨道，相比于现有基线方法，这种合成音频的质量更高。本研究为视频到音频生成技术提供了一种新的思路和方法，具有显著的技术进步和应用前景。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 294. `cs.CV` - DBMovi-GS: 动态的模糊单目视频视图合成功流（通过稀疏控制的高斯点布） [PDF](https://arxiv.org/pdf/2506.20998), [HTML](https://arxiv.org/abs/2506.20998)
 ### Authors
 Yeon-Ji Song,Jaein Kim,Byung-Ju Kim,Byoung-Tak Zhang
@@ -3526,9 +2647,6 @@ Yeon-Ji Song,Jaein Kim,Byung-Ju Kim,Byoung-Tak Zhang
 我们提出了一种名为基于稀疏控制的高斯点布的动态模糊单目视频视角合成方法（DBMovi-GS），专门设计用于从模糊的单目视频中合成动态视角。该模型生成密集的3D高斯模型，能够从模糊视频中恢复锐度并重建受动态运动变化影响的场景详细3D几何结构。DBMovi-GS 方法在动态模糊场景的新型视角合成中表现出了稳健性，并为模糊单目视频输入的现实新型视角合成设定了新的基准线。
 ### Conclusion
 我们的模型在动态模糊场景的视角合成中实现了稳健的表现，并且在模糊单目视频输入的真实新型视角合成方面设立了新的基准线。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 295. `cs.CV` - 使用SAM结合前向-前向对比学习的乳腺癌肿瘤切除边缘检测 [PDF](https://arxiv.org/pdf/2506.21006), [HTML](https://arxiv.org/abs/2506.21006)
 ### Authors
 Tyler Ward,Xiaoqin Wang,Braxton McFarland,Md Atik Ahamed,Sahar Nozad,Talal Arshad,Hafsa Nebbache,Jin Chen,Abdullah Imran
@@ -3538,9 +2656,6 @@ Tyler Ward,Xiaoqin Wang,Braxton McFarland,Md Atik Ahamed,Sahar Nozad,Talal Arsha
 该研究提出了一种新的深度学习框架，结合了Segment Anything Model (SAM) 和前向-前向对比学习（FFCL）。首先通过标注放射学检查（SR）图像来建立局部和全局对比学习的预训练模型，进一步重建粗略的二进制掩模以指导SAM进行精确的肿瘤边缘分割。实验结果显示，这种方法在边缘分类中实现了AUC为0.8455，并且在Dice相似性上比基线模型提高了27.4%，同时将推理时间缩短至每张图像47毫秒。这项工作显著提高了术中边缘评估的速度和准确性，为减少再手术率和改善乳腺癌治疗结果提供了强大的潜在应用前景。
 ### Conclusion
 该框架成功地提高了乳腺癌肿瘤切除边缘和边缘分类的准确性和速度，减少了额外手术的需求，有望提高乳腺癌治疗的整体效果。该工作的代码已公开，供进一步研究和应用。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 296. `cs.CV` - 无需训练的扩散生成条件感知面部老化树的衰老多元化宇宙 [PDF](https://arxiv.org/pdf/2506.21008), [HTML](https://arxiv.org/abs/2506.21008)
 ### Authors
 Bang Gong,Luchao Qi,Jiaye Wu,Zhicheng Fu,Chunbo Song,David W. Jacobs,John Nicholson,Roni Sengupta
@@ -3550,9 +2665,6 @@ Bang Gong,Luchao Qi,Jiaye Wu,Zhicheng Fu,Chunbo Song,David W. Jacobs,John Nichol
 本文提出了基于无需训练的扩散方法的‘衰老多元化宇宙’框架，该方法能够从单张图像生成多种可能的老化轨迹，并让每条轨迹都可以通过环境、健康和生活方式等因素进行条件化。关键创新点在于引入注意力混合来调节编辑强度，以及模拟老化正则化策略以稳定编辑效果。与现有编辑和年龄进展模型相比，该方法在身份保留、老化真实性和条件对齐方面表现出更优的状态。
 ### Conclusion
 通过将老化过程转变为多维、可控制和可解释的过程，我们的方法为数字叙事、健康教育和个人化可视化等提供了新的创意和技术途径，展现出卓越的性能。未来我们可以进一步探索其在这些领域的实际应用。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 297. `cs.CV` - FedSC: 基于语义感知协作的联邦学习 [PDF](https://arxiv.org/pdf/2506.21012), [HTML](https://arxiv.org/abs/2506.21012)
 ### Authors
 Huan Wang,Haoran Li,Huaming Chen,Jun Yan,Jiahua Shi,Jun Shen
@@ -3562,9 +2674,6 @@ Huan Wang,Haoran Li,Huaming Chen,Jun Yan,Jiahua Shi,Jun Shen
 该论文提出了一种名为FedSC（Federated Learning with Semantic-Aware Collaboration）的方法，用于跨越异质客户端捕捉客户端特定和类相关的知识。FedSC的核心思想是在语义层次上构建关系原型和一致原型，以提供基于原型的协作方式，为各类基础知识及稳定收敛信号提供支持。通过引入一个跨对比学习策略和一致性原型构建方式，FedSC不仅能够使实例级嵌入更接近语义相同的关系原型，远离不同类别，还能对局部模型的优化范围进行约束。此外，还提供了FedSC的理论分析，以确保收敛性保证。实验结果表明FedSC的有效性和关键组件的效率。
 ### Conclusion
 实验结果在多种具有挑战性的场景中展示了FedSC的有效性和关键组件的效率，验证了FedSC在处理数据异质性方面的应用潜力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 298. `cs.CV` - 逆场景文字删除 [PDF](https://arxiv.org/pdf/2506.21002), [HTML](https://arxiv.org/abs/2506.21002)
 ### Authors
 Takumi Yoshimatsu,Shumpei Takezaki,Seiichi Uchida
@@ -3574,9 +2683,6 @@ Takumi Yoshimatsu,Shumpei Takezaki,Seiichi Uchida
 逆场景文字删除（ISTR）技术可以分析经过STR处理的图像，专注于二元分类和局部化被去除的文字区域。并且尝试通过训练文字识别器来恢复被删除的文字内容，理解其难度。这项研究提高了STR的检测准确性，并发现潜在的滥用情况。
 ### Conclusion
 实验结果显示，ISTR技术能够实现高精度的二元分类和文字区域定位，可以检测到图像是否经过STR处理，预防滥用风险。通过训练文字识别器恢复被删除的文字内容，这一方法能够提高STR的效果和识别难度。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 299. `cs.CV` - 通过大型跨模态模型弥合视频质量评分与解释差距 [PDF](https://arxiv.org/pdf/2506.21011), [HTML](https://arxiv.org/abs/2506.21011)
 ### Authors
 Qizhi Xie,Kun Yuan,Yunpeng Qu,Jiachao Gong,Mingda Wu,Ming Sun,Chao Zhou,Jihong Zhu
@@ -3586,9 +2692,6 @@ Qizhi Xie,Kun Yuan,Yunpeng Qu,Jiachao Gong,Mingda Wu,Ming Sun,Chao Zhou,Jihong Z
 1. 提出了SIG流水线，包括评分和指令生成两个步骤，以更好地描述视频的质量维度；2. 使用SIG生成S2I数据集，包含超过32万条多样化的指令-响应对，为指令调优提供了数据基础；3. 设计了渐进式调优策略，充分利用S2I数据集提升视频跨模态模型的质量评估与解释能力；4. 建立了S2I-Bench基准，包含400个开放性问题，更好地评估视频跨模态模型的质量解释能力；5. 实验结果显示，该方法能够提升多种视频跨模态模型的质量评分和解释能力，具有实际应用价值。
 ### Conclusion
 本文提出了一种新的SIG方法及基于SIG的S2I数据集和S2I-Bench基准，解决了传统VQA方法无法全面描述视频质量维度的问题，提升了视频跨模态模型的质量评分与解释能力，为未来的跨模态视频分析提供了新的方法和数据支持。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 300. `cs.CV` - HybridQ: 混合经典-量子生成对抗网络在皮肤疾病图像生成中的应用 [PDF](https://arxiv.org/pdf/2506.21015), [HTML](https://arxiv.org/abs/2506.21015)
 ### Authors
 Qingyue Jiao,Kangyu Zheng,Yiyu Shi,Zhiding Liang
@@ -3598,9 +2701,6 @@ Qingyue Jiao,Kangyu Zheng,Yiyu Shi,Zhiding Liang
 研究通过经典-量子潜在空间融合技术，提出了首个能生成彩色医学图像的经典-量子GAN。该模型不仅在图像生成质量和分类性能上表现优越，还具有更少的参数和更短的训练周期。
 ### Conclusion
 研究初步证实了基于量子的图像生成在皮肤疾病数据增强中的潜力，并展示了在真实量子计算机上的稳健性能，为未来量子计算在医学图像生成领域的应用奠定了基础。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 301. `cs.CV` - DidSee: 无材质依赖的扩散式深度完成方法及其在机器人感知与操作中的应用 [PDF](https://arxiv.org/pdf/2506.21034), [HTML](https://arxiv.org/abs/2506.21034)
 ### Authors
 Wenzhou Lyu,Jialing Lin,Wenqi Ren,Ruihao Xia,Feng Qian,Yang Tang
@@ -3610,9 +2710,6 @@ Wenzhou Lyu,Jialing Lin,Wenqi Ren,Ruihao Xia,Feng Qian,Yang Tang
 1. 引入缩放噪声调度器，强制零终端信噪比，消除信号泄漏偏差。2. 设计去噪声单步训练方案，减少由曝光偏差引起的累计误差，并通过特定任务损失优化模型。3. 结合语义增强器，实现深度完成和语义分割的联合，能够区分物体和背景，生成精确的深度图。
 ### Conclusion
 DidSee在多项基准测试中达到了最先进的性能，展示了在现实世界中的稳健泛化能力，并有效提高了诸如类别级别的姿态估计和机器人操作在内的下游任务性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 302. `cs.CV` - 多模态提示对齐 facial 表情识别 [PDF](https://arxiv.org/pdf/2506.21017), [HTML](https://arxiv.org/abs/2506.21017)
 ### Authors
 Fuyan Ma,Yiran He,Bin Sun,Shutao Li
@@ -3622,9 +2719,6 @@ Fuyan Ma,Yiran He,Bin Sun,Shutao Li
 本文创新性地提出了一种多粒度硬提示生成策略，利用大规模语言模型（如ChatGPT）生成详细的面部表情描述。此外，文中还提出了一种跨模态全局-局部对齐模块，专注于特征相关的面部特征，进一步增强了文本和视觉特征的对齐。通过对预训练的CLIP模型进行原型引导的视觉特征对齐，确保了冻结的图像编码器生成的提示视觉特征能够紧密地与类别特异性原型对齐，从而保持了预训练模型的优点并减少了计算成本。
 ### Conclusion
 通过大量实验表明，本文提出的框架在三个表情识别基准数据集上表现优于现有方法，同时保持了预训练模型的优点并减少了计算成本。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 303. `cs.CV` - LASFNet: 一种轻量级注意力引导自调制特征融合网络，用于多模态目标检测 [PDF](https://arxiv.org/pdf/2506.21018), [HTML](https://arxiv.org/abs/2506.21018)
 ### Authors
 Lei Hao,Lina Xu,Chang Liu,Yanni Dong
@@ -3634,9 +2728,6 @@ Lei Hao,Lina Xu,Chang Liu,Yanni Dong
 提出了一个使用单个特征级融合单元的新融合检测基线，简化了训练过程。提出了一个轻量级注意力引导自调制特征融合网络（LASFNet），该网络引入了一个新颖的注意力引导自调制特征融合（ASFF）模块，该模块基于不同模态的注意力信息，在全局和局部层面自适应调整融合特征的响应，从而促进全面和丰富的特征生成。此外，在LASFNet的颈部设计了一个轻量级特征注意力转换模块（FATM），以增强对融合特征的聚焦并最小化信息损失。
 ### Conclusion
 在三个代表性数据集上的大量实验表明，与最先进的方法相比，我们的方法在保持性能的同时显著降低了参数数量和计算成本，分别减少了90%和85%，同时提高了检测精度（mAP）1%-3%。代码将在该链接公开。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 304. `cs.CV` - 文档图像中的无类别兴趣区域匹配 [PDF](https://arxiv.org/pdf/2506.21055), [HTML](https://arxiv.org/abs/2506.21055)
 ### Authors
 Demin Zhang,Jiahao Lyu,Zhijie Shen,Yu Zhou
@@ -3646,9 +2737,6 @@ Demin Zhang,Jiahao Lyu,Zhijie Shen,Yu Zhou
 本文构建了一个基准RoI-Matching-Bench，设置了三种难度等级，提议使用宏观和微观指标进行评估。并且提出了一种新的框架RoI-Matcher，使用暹罗网络提取参考和目标域的多层特征，并使用交叉注意力层整合和对齐不同领域的相似语义。实验表明，本方法流程简单，在RoI-Matching-Bench上有效，并作为进一步研究的基础。
 ### Conclusion
 我们的方法在RoI-Matching-Bench上具有有效性，并作为进一步研究的基础。代码可在提供的链接中获取。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 305. `cs.CV` - 用户在环视图采样与错误峰化可视化 [PDF](https://arxiv.org/pdf/2506.21009), [HTML](https://arxiv.org/abs/2506.21009)
 ### Authors
 Ayaka Yasunaga,Hideo Saito,Shohei Mori
@@ -3658,9 +2746,6 @@ Ayaka Yasunaga,Hideo Saito,Shohei Mori
 本文创新地提出了在进行视图合成时使用局部重建的光场来可视化需要通过插入新视角移除的错误，替代了以往依赖用户进行3D标注采集的方法。这种方法减轻了用户的心理负担，扩大了场景的探索范围，并提升了最终结果的质量与用户满意度，尤其适用于移动设备的视图合成系统中。此外，这种方法还可以为大型场景的辐射场重建做出贡献，如3D高斯运算符的应用.
 ### Conclusion
 实验结果表明，相比于传统方法，错误峰化可视化方法在提供较少视角样本的情况下，对用户更加友好，降低了失望感，同时适用于复杂场景的视图合成和辐射场重建。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 306. `cs.CV` - 通过指导与调度提高基于扩散的图像编辑保真度 [PDF](https://arxiv.org/pdf/2506.21045), [HTML](https://arxiv.org/abs/2506.21045)
 ### Authors
 Hansam Cho,Seoung Bum Kim
@@ -3670,9 +2755,6 @@ Hansam Cho,Seoung Bum Kim
 提出了一种名为Faithfulness Guidance and Scheduling (FGS)的方法，通过增强保真度来最小化对可编辑性的影响。FGS结合了保真度指导策略以加强输入图像信息的保存，并引入了一种调度策略以解决可编辑性和保真度之间的对齐问题。实验结果表明，FGS在保持可编辑性的同时实现了更高的保真度，并且兼容多种编辑方法，能够在各种任务中实现精准、高质量的图像编辑。
 ### Conclusion
 FGS方法通过指导与调度策略提高了扩散模型在图像编辑中的保真度，并保持了较高的可编辑性，实现了精确、高质量的图像编辑效果，适用于多种编辑任务。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 307. `cs.CV` - SAMURAI: 形状感知的多模态检索用于3D物体识别 [PDF](https://arxiv.org/pdf/2506.21056), [HTML](https://arxiv.org/abs/2506.21056)
 ### Authors
 Dinh-Khoi Vo,Van-Loc Nguyen,Minh-Triet Tran,Trung-Nghia Le
@@ -3682,9 +2764,6 @@ Dinh-Khoi Vo,Van-Loc Nguyen,Minh-Triet Tran,Trung-Nghia Le
 我们提出了SAMURAI：形状感知的多模态检索方法以识别3D物体。SAMURAI将基于CLIP的语义匹配与基于二值轮廓的遮蔽区域引导再排序结合，同时采用稳健的多数投票策略。专门的预处理管道通过提取最大的连通分量和去除背景噪声来增强掩膜质量。该混合检索框架结合了语言和形状线索，实现了在ROOMELSA私有测试集上的竞争力表现在多模态检索方面。这项结果强调了在开放世界3D物体检索中结合形状先验与语言理解的重要性。
 ### Conclusion
 实验结果表明，SAMURAI通过结合形状先验和语言理解，在开放式3D物体检索方面表现出色。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 308. `cs.CV` - PoseMaster: 从单张图片生成任意姿态的3D角色 [PDF](https://arxiv.org/pdf/2506.21076), [HTML](https://arxiv.org/abs/2506.21076)
 ### Authors
 Hongyu Yan,Kunming Luo,Weiyu Li,Yixun Liang,Shengming Li,Jingwei Huang,Chunchao Guo,Ping Tan
@@ -3694,9 +2773,6 @@ Hongyu Yan,Kunming Luo,Weiyu Li,Yixun Liang,Shengming Li,Jingwei Huang,Chunchao 
 我们提出了一种端到端可控的3D角色生成框架PoseMaster。该框架统一了姿态变换和3D角色生成，并通过利用动画角色骨骼作为姿势条件来实现精确的任意姿态控制。此外，我们在训练过程中随机消除姿态条件和图像条件，以提高姿态控制的有效性和泛化能力。同时，我们构建了一个由真实人物动画数据衍生的高质量姿态控制数据集，使模型能够学习骨骼和蒙皮权重之间的隐含关系。实验结果显示，PoseMaster在定性和定量评估方面均超过了当前最先进的技术，同时展示了其对任意姿态的精确控制能力。
 ### Conclusion
 实验结果表明，PoseMaster在A姿势角色生成方面优于当前最先进的技术，同时展示了其强大的能力以实现对任意姿态的精确控制。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 309. `cs.CV` - Instella-T2I: 推动一维离散潜在空间图像生成的极限 [PDF](https://arxiv.org/pdf/2506.21022), [HTML](https://arxiv.org/abs/2506.21022)
 ### Authors
 Ze Wang,Hao Chen,Benran Hu,Jiang Liu,Ximeng Sun,Jialian Wu,Yusheng Su,Xiaodong Yu,Emad Barsoum,Zicheng Liu
@@ -3706,9 +2782,6 @@ Ze Wang,Hao Chen,Benran Hu,Jiang Liu,Ximeng Sun,Jialian Wu,Yusheng Su,Xiaodong Y
 这篇文章创新地引入了一维二进制图像潜在变量，通过将每个图像表示为二进制向量序列，而不是传统的独热码本标记，从而在保持一维潜在变量紧凑性的同时保留了高分辨率的细节。该方法使得文本生成图像模型能够在较少的离散标记下实现高分辨率图像的生成，相比传统的VQ-VAEs减少了标记数量多达32倍。结合简单的模型架构，这种方法显著提升了训练和推断的速度。同时，该方法不依赖任何私有训练数据或事后调整，从而提供了一种高效且可扩展的替代传统标记化方法的选择。
 ### Conclusion
 本文提出了一种基于一维二进制潜在变量的文本生成图像模型，能够在保持高分辨率细节的同时使用更少的离散标记，且训练和推断速度更快。该模型在无需使用任何私人训练数据或事后调整的情况下，相对于现代图像生成模型提供了高效且可扩展的解决方案。这种方法有望在图像生成领域进一步提升效率和性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 310. `cs.CV` - 利用扩散模型提升领域泛化和自适应检测：适应性，泛化和迁移性 [PDF](https://arxiv.org/pdf/2506.21042), [HTML](https://arxiv.org/abs/2506.21042)
 ### Authors
 Boyong He,Yuxiang Ji,Zhuoyue Tan,Liaoni Wu
@@ -3718,9 +2791,6 @@ Boyong He,Yuxiang Ji,Zhuoyue Tan,Liaoni Wu
 本文提出了一种方法，通过从单步骤扩散过程中提取中间特征来改进特征收集和融合，从而将推断时间减少75%，同时提高源领域性能。通过构建以对象为中心的辅助分支，从带有类别提示的框遮罩图像中提取出强健且领域不变的特征，重点关注对象。通过应用一致性损失对辅助分支和普通的分支进行对齐，平衡适应性和泛化能力，防止过拟合，并提高目标领域性能。在统一框架中，标准检测器通过源领域（针对DG）和未标注目标领域（针对DA）的特征级别和对象级别的对齐被扩散检测器引导，从而提高跨域检测性能。实验结果在三个DA基准和五个DG基准上达到了具有竞争力的结果。在COCO泛化基准上，实验结果展示了在大领域转移和低数据场景下的显著优势和高效性。本文展示了将扩散模型应用于领域泛化和自适应检测任务的优越性，并为跨多样化领域的视觉感知任务提供了有价值的见解。
 ### Conclusion
 本文提出的方法在三个DA基准和五个DG基准上达到了具有竞争力的结果，在大领域转移和低数据场景下显示了显著的优势。本文的工作证明了将扩散模型应用于领域泛化和自适应检测任务的优越性，并为进一步研究各类视觉感知任务提供了有价值的见解。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 311. `cs.CV` - IPFormer-VideoLLM: 提升多模态视频理解以应对多场景 [PDF](https://arxiv.org/pdf/2506.21116), [HTML](https://arxiv.org/abs/2506.21116)
 ### Authors
 Yujia Liang,Jile Jiao,Zhicheng Wang,Xuetao Feng,Zixuan Ye,Yuan Wang,Hao Lu
@@ -3730,9 +2800,6 @@ Yujia Liang,Jile Jiao,Zhicheng Wang,Xuetao Feng,Zixuan Ye,Yuan Wang,Hao Lu
 作者提出了一种新的数据集 MultiClip-Bench，包含针对多场景设计的密集描述和指令式的问答对。此外，还提出了一种新的模型 IPFormer-VideoLLM，通过高效的注意力连接器注入实例级特征作为实例提示，以支持跨场景的消息聚合，从而在多场景视频理解上表现出显著提升。
 ### Conclusion
 提出的新的数据集和模型显著提升了多场景视频的理解能力，并且在各种视频基准测试中表现出了不同的优势。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 312. `cs.CV` - ESMStereo: 提升 ShuffleMixer 位移上采样以实现实时且精确的立体匹配 [PDF](https://arxiv.org/pdf/2506.21091), [HTML](https://arxiv.org/abs/2506.21091)
 ### Authors
 Mahmoud Tahmasebi,Saif Huq,Kevin Meehan,Marion McAfee
@@ -3742,9 +2809,6 @@ Mahmoud Tahmasebi,Saif Huq,Kevin Meehan,Marion McAfee
 为了解决这一挑战，本文提出了一种增强的 Shuffle Mixer (ESM) 来减轻与小尺度成本体相关的信息损失。ESM 通过将主特征整合到位移上采样单元中来恢复关键细节。它快速从最初的位移估计中提取特征并与图像特征融合。通过混洗和分层拆分特征，然后通过紧凑的特征引导 H 形网络精炼以恢复更详细的空间几何结构。ESM 重点在于具有大感受野和低计算成本的局部上下文连接性，从而实现了实时高精度位移图的重建。ESM 立体匹配方案实现了在高端 GPU 上为 116 FPS，在 AGX Orin 上为 91 FPS 的推断速度，
 ### Conclusion
 ESM 强调利用紧凑的特征引导 H 形网络恢复更多细节的场景几何结构，同时保持低计算成本和大感受野，从而实现了实时高精度的立体匹配。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 313. `cs.CV` - 利用自我监督视觉变换器特征增强生成对抗性迁移性 [PDF](https://arxiv.org/pdf/2506.21046), [HTML](https://arxiv.org/abs/2506.21046)
 ### Authors
 Shangbo Wu,Yu-an Tan,Ruinan Ma,Wencong Ma,Dehua Zhu,Yuanzhang Li
@@ -3754,9 +2818,6 @@ Shangbo Wu,Yu-an Tan,Ruinan Ma,Wencong Ma,Dehua Zhu,Yuanzhang Li
 该论文提出了dSVA——一种生成的双自我监督ViT特征攻击，利用对比学习(CL)的全局结构特征和掩码图像建模(MIM)的局部纹理特征，这两个自我监督的ViT范式。设计了一个新的生成训练框架，包括生成器以创建黑盒对抗性示例，并通过利用自我监督ViTs的联合特征和注意机制训练生成器。发现CL和MIM使ViTs能够同时关注不同的特征趋势，在二者结合使用时极大地增强了对抗性泛化能力。通过扰乱自我监督的ViTs中提取的双重深层特征，生成了更出色的黑盒转移能力，甚至超过了现有最佳效果的模型。
 ### Conclusion
 研究表明，通过扰乱自我监督的ViTs所提取的双重深层特征，可以实现出色的黑盒迁移能力，适用于多种架构的模型，并超越现有最佳实践。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 314. `cs.CV` - 推界权衡边界：紧凑而有效的遥感变化检测 [PDF](https://arxiv.org/pdf/2506.21109), [HTML](https://arxiv.org/abs/2506.21109)
 ### Authors
 Luosheng Xu,Dalin Zhang,Zhaohui Song
@@ -3766,9 +2827,6 @@ Luosheng Xu,Dalin Zhang,Zhaohui Song
 本文提出了FlickCD，这是一种通过快速翻转来获得出色结果的轻量级模型。FlickCD引入了增强差异模块（EDM）来放大时间各相之间的重要特征差异，而抑制光照和天气变化等无关变化，从而降低后续变化解码器的计算成本。此外，FlickCD解码器集成了局部-全局融合块，并采用移位窗口自注意力（SWSA）和增强全球自注意力（EGSA）来高效捕捉多尺度语义信息，从而保留粗粒度和细粒度的变化。
 ### Conclusion
 在四个基准数据集上进行的广泛实验证明，FlickCD减少了超过一个数量级的计算和存储开销，同时达到了最先进的性能或仅产生了小于1%的F1值准确性损失。代码已在公开地址可用。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 315. `cs.CV` - 学习在极其黑暗环境中看到 [PDF](https://arxiv.org/pdf/2506.21132), [HTML](https://arxiv.org/abs/2506.21132)
 ### Authors
 Hai Jiang,Binhao Guan,Zhen Liu,Xiaohong Liu,Jian Yu,Zheng Liu,Songchen Han,Shuaicheng Liu
@@ -3778,9 +2836,6 @@ Hai Jiang,Binhao Guan,Zhen Liu,Xiaohong Liu,Jian Yu,Zheng Liu,Songchen Han,Shuai
 提出了一种配对到配对的数据合成流水线，能够生成在 0.01-0.1 勒克斯、0.001-0.01 勒克斯和 0.0001-0.001 勒克斯三个精确 illuminance 范围下的高质量极低光 RAW 图像，并与高质量 sRGB 参考数据一起组成一个大规模配对数据集 See-in-the-Extremely-Dark，以测试低光 RAW 图像增强方法。此外，提出了一种基于扩散的框架，利用生成能力和固有的去噪特性来恢复来自极低信噪比 RAW 输入的视觉愉悦结果，其中引入了自适应照明校正模块和颜色一致性损失以确保准确的曝光校正和颜色恢复。
 ### Conclusion
 在提出的 SIED 和公开基准上的广泛实验表明了该方法的有效性。代码和数据集可在指定的网址获取。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 316. `cs.CV` - YOLO-FDA: 结合层次注意力和细节增强的表面缺陷检测 [PDF](https://arxiv.org/pdf/2506.21135), [HTML](https://arxiv.org/abs/2506.21135)
 ### Authors
 Jiawei Hu
@@ -3790,9 +2845,6 @@ Jiawei Hu
 本文提出了一种新颖的YOLO-FDA检测框架，结合了细粒度细节增强和注意力引导特征融合。特别地，采用了BiFPN风格的架构，增强了YOLOv5主干网络中的多尺度特征聚合。引入了一个方向性融合模块（DDFM），在最低层添加了方向不对称卷积来丰富空间细节，并融合最低层与低层特征以增强语义一致性。此外，提出了两种新型注意力融合策略，注意力加权拼接（AC）和跨层注意力融合（CAF），以提高上下文表示并减少特征噪声。
 ### Conclusion
 在基准数据集上的大量实验表明，YOLO-FDA在不同类型的缺陷和尺度上，无论是准确率还是鲁棒性都优于现有最先进的方法。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 317. `cs.CV` - CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization [PDF](https://arxiv.org/pdf/2506.21117), [HTML](https://arxiv.org/abs/2506.21117)
 ### Authors
 Jan Ackermann,Jonas Kulhanek,Shengqu Cai,Haofei Xu,Marc Pollefeys,Gordon Wetzstein,Leonidas Guibas,Songyou Peng
@@ -3802,9 +2854,6 @@ Jan Ackermann,Jonas Kulhanek,Shengqu Cai,Haofei Xu,Marc Pollefeys,Gordon Wetzste
 CL-Splats是一种通过稀疏场景捕获增量更新基于Gaussian splatting的3D表示的方法。CL-Splats集成了一个鲁棒的变化检测模块，能够分段更新和静态元素，从而实现聚焦的局部优化，避免不必要的重新计算。此外，CL-Splats支持历史场景状态的存储和恢复，促进了时间分割和新的场景分析应用的产生。我们的实验结果表明，与最先进的技术相比，CL-Splats可以更高效地更新并提高重建质量，为此类实时3D场景重建任务的未来自适应奠定了坚实基础
 ### Conclusion
 CL-Splats达到了高效更新并提高了重建质量，为未来的实时3D场景重建任务自适应提供了坚实基础.
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 318. `cs.CV` - OracleFusion: 结构约束语义排版辅助甲骨文解译 [PDF](https://arxiv.org/pdf/2506.21101), [HTML](https://arxiv.org/abs/2506.21101)
 ### Authors
 Caoshuo Li,Zengmao Ding,Xiaobin Hu,Bang Li,Donghao Luo,AndyPian Wu,Chaoyang Wang,Chengjie Wang,Taisong Jin,SevenShu,Yunsheng Wu,Yongge Liu,Rongrong Ji
@@ -3814,9 +2863,6 @@ Caoshuo Li,Zengmao Ding,Xiaobin Hu,Bang Li,Donghao Luo,AndyPian Wu,Chaoyang Wang
 本文提出了一个新的两阶段语义排版框架，OracleFusion。第一阶段通过增强的空间意识推理(Multimodal Large Language Model, MLLM)分析甲骨文字符的笔画结构，进行关键组件的视觉定位；第二阶段引入了结构化矢量融合(Oracle Structural Vector Fusion, OSVF)，结合笔画结构约束和笔画保持约束，确保生成语义丰富的矢量字体的准确性，保持笔画结构的客观完整性。此方法不仅提高了字形的可读性和审美质量，还为未曾见过的甲骨文字符提供了专家级的见解，进而促进了甲骨文的解读进程。实验结果表明，OracleFusion在语义、视觉吸引力和笔画保持方面显著优于其他最先进的基线模型。
 ### Conclusion
 OracleFusion在语义解读、视觉表现力和笔画保持方面表现卓越，为甲骨文的解读提供了一种有效的工具，有助于提高甲骨文解读的准确性和效率。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 319. `cs.CV` - EgoAdapt：适应性多感官蒸馏和策略学习以实现高效第一人称感知 [PDF](https://arxiv.org/pdf/2506.21080), [HTML](https://arxiv.org/abs/2506.21080)
 ### Authors
 Sanjoy Chowdhury,Subrata Biswas,Sayan Nag,Tushar Nagarajan,Calvin Murdock,Ishwarya Ananthabhotla,Yijun Qian,Vamsi Krishna Ithapu,Dinesh Manocha,Ruohan Gao
@@ -3826,9 +2872,6 @@ Sanjoy Chowdhury,Subrata Biswas,Sayan Nag,Tushar Nagarajan,Calvin Murdock,Ishwar
 本文引入了EgoAdapt框架，该框架能够适应性地进行跨模态蒸馏和策略学习，从而在不同第一人称感知任务（包括第一人称动作识别、主动发言人定位和行为预测）中实现高效推理。提出的策略模块具有任务特定的动作空间适应性，使其具有广泛的适用性。实验结果表明，该方法显著提升了效率，相较于对应的最佳模型，GMACs降低了89.09%，参数减少了82.02%，能耗减少了9.6倍，同时保持了与这些性能的可比性，并在许多情况下超越了这些模型的性能。
 ### Conclusion
 本研究通过EgoAdapt框架，在提高效率的同时，仍然保持了最优模型的性能，为资源受限环境下的实际部署提供了有效解决方案。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 320. `cs.CV` - 带有噪声标签的心脏MRI心脏疤痕深度学习稳健分割 [PDF](https://arxiv.org/pdf/2506.21151), [HTML](https://arxiv.org/abs/2506.21151)
 ### Authors
 Aida Moafi,Danial Moafi,Evgeny M. Mirkes,Gerry P. McCann,Abbas S. Alatrany,Jayanth R. Arnold,Mostafa Mehdipour Ghazi
@@ -3838,9 +2881,6 @@ Aida Moafi,Danial Moafi,Evgeny M. Mirkes,Gerry P. McCann,Abbas S. Alatrany,Jayan
 该研究采用了Kullback-Leibler损失和广泛的增强数据来解决标签噪声、数据异质性和类别不平衡问题。特别是在存在噪声标签的情况下，该方法显示出对急性与慢性病例的高度准确性和平滑度。同时，该方法在不同成像条件和临床任务中表现出强大的泛化能力，超越了诸如nnU-Net在内的先进模型，突显其在各种成像条件下的稳健性。
 ### Conclusion
 该研究为自动心肌疤痕量化建立了可靠的基础，支持深度学习在心脏成像中的更广泛应用。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 321. `cs.CV` - GoIRL: 基于图的逆强化学习方法用于多模态轨迹预测 [PDF](https://arxiv.org/pdf/2506.21121), [HTML](https://arxiv.org/abs/2506.21121)
 ### Authors
 Muleilan Pei,Shaoshuai Shi,Lu Zhang,Peiliang Li,Shaojie Shen
@@ -3850,9 +2890,6 @@ Muleilan Pei,Shaoshuai Shi,Lu Zhang,Peiliang Li,Shaojie Shen
 本文开发了一个特征适配器，该适配器能够有效地将车道图特征聚合到网格空间中，这使得可以无缝地与最大熵IRL范式集成，以推断奖励分布并得到能被采样以诱导多种可能计划的策略。在此基础上，我们实现了一个基于层次化参数化的轨迹生成器，并加入了一个细化模块来提高预测准确性，以及一种概率融合策略来增强预测的信心。
 ### Conclusion
 大规模的实验证明了我们的方法不仅在Argoverse & nuScenes运动预测基准上达到了最先进的性能，而且在泛化能力方面也优于现有的监督模型。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 322. `cs.CV` - 基于树结构的语义损失函数：应用于稀疏监督的大规模多类别高光谱分割 [PDF](https://arxiv.org/pdf/2506.21150), [HTML](https://arxiv.org/abs/2506.21150)
 ### Authors
 Junwen Wang,Oscar Maccormac,William Rochford,Aaron Kujawa,Jonathan Shapey,Tom Vercauteren
@@ -3862,9 +2899,6 @@ Junwen Wang,Oscar Maccormac,William Rochford,Aaron Kujawa,Jonathan Shapey,Tom Ve
 本文提出了两种基于树的语义损失函数，利用标签的分层组织，改进了目前均匀惩罚所有错误的方法。此外，将这些损失函数集成到一种使用稀疏、无背景标注的最新方法中，以实现高效的高光谱图像大规模多类别分割，并能有效检测分布外像素。
 ### Conclusion
 本文的方法在包含107个临床定义语义分层结构的稀疏标注HSI数据集上达到了最先进的性能，并且能够有效检测分布外像素而不影响现有分布像素的分割性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 323. `cs.CV` - 几何与感知引导的高斯分布用于基于单张图像的多视图一致3D生成 [PDF](https://arxiv.org/pdf/2506.21152), [HTML](https://arxiv.org/abs/2506.21152)
 ### Authors
 Pufan Li,Bi'an Du,Wei Hu
@@ -3874,9 +2908,6 @@ Pufan Li,Bi'an Du,Wei Hu
 本文提出了一种新颖的方法，无需额外的模型训练即可无缝结合几何先验和感知先验，从单张图像重建详细的三维物体。具体而言，训练了三个由几何先验、感知先验和高斯噪声初始化的不同高斯分支。几何先验捕捉粗糙的3D形状，感知先验利用预训练的2D扩散模型增强多视角信息。之后，通过几何和感知先验之间的相互作用以及基于再投影策略的深度一致性增强，进一步精炼3D高斯分支。
 ### Conclusion
 实验表明，我们方法的重建结果具有更高的保真度，优于现有的方法，在新视角合成和3D重建中表现出稳健且一致的三维对象生成。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 324. `cs.CV` - Topology-Aware Modeling for Unsupervised Simulation-to-Reality Point Cloud Recognition [PDF](https://arxiv.org/pdf/2506.21165), [HTML](https://arxiv.org/abs/2506.21165)
 ### Authors
 Longkun Zou,Kangjun Liu,Ke Chen,Kailing Guo,Kui Jia,Yaowei Wang
@@ -3886,9 +2917,6 @@ Longkun Zou,Kangjun Liu,Ke Chen,Kailing Guo,Kui Jia,Yaowei Wang
 本文介绍了一种新颖的全局拓扑感知建模（TAM）框架，用于解决物体点云上的无监督模拟到现实（Sim2Real）领域适应问题。该框架通过利用低层次的高频三维结构的全局空间拓扑，并通过一个新颖的自我监督学习任务建模局部几何特征的拓扑关系来缓解领域差距。此外，本文还提出了一种先进的自我训练策略，结合跨域对比学习和自我训练，有效减少了嘈杂伪标签的影响，增强了适应过程的稳健性。
 ### Conclusion
 实验结果在三个公开的Sim2Real基准数据集上验证了TAM框架的有效性，显示在所有评估任务中相对于当前最先进的方法的一致改进。本文的工作代码将在以下链接处公开：this https URL.
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 325. `cs.CV` - GroundFlow: 一种用于3D点云序列定位的时间推理插件模块 [PDF](https://arxiv.org/pdf/2506.21188), [HTML](https://arxiv.org/abs/2506.21188)
 ### Authors
 Zijun Lin,Shuting He,Cheston Tan,Bihan Wen
@@ -3898,9 +2926,6 @@ Zijun Lin,Shuting He,Cheston Tan,Bihan Wen
 本文提出了一种时间推理插件模块GroundFlow，用于3D点云序列定位。它通过综合前文信息来改善3D视觉定位基线方法的任务准确性，甚至超过了在各种数据集上进行预训练的3D大型语言模型。GroundFlow根据当前指令的相关性有选择地提取短期和长期步骤信息，从而能够全面观察历史信息并在步骤数量增加时保持其时间理解优势。
 ### Conclusion
 本文的工作向现有的3D视觉定位模型引入了时间推理的能力，并在SG3D基准测试的五个数据集上实现了最先进的性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 326. `cs.CV` - ReME: 一种以数据为中心的无训练开放词汇分割框架 [PDF](https://arxiv.org/pdf/2506.21233), [HTML](https://arxiv.org/abs/2506.21233)
 ### Authors
 Xiwei Xuan,Ziquan Deng,Kwan-Liu Ma
@@ -3910,9 +2935,6 @@ Xiwei Xuan,Ziquan Deng,Kwan-Liu Ma
 该论文引入了一种以数据质量为导向的框架，包括一个数据管道用于构建高质量的参考集，并采用简单的基于相似性的检索方法来揭示高质量数据的重要性。这种方法在十个基准数据集上的广泛评估表明，其在无训练的开放词汇分割方面的表现优于所有现有方法，突出了以数据为中心的设计对推进开放式词汇分割的重要性。
 ### Conclusion
 该研究证明了高质量数据集对于无训练OVS的重要性，并展示了其方法在现有技术中的优势，强调了在该领域进一步发展时以数据为中心的方法的重要性。感兴趣的读者可参考论文提供的代码链接。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 327. `cs.CV` - 解锁约束：无源场感知遮挡aware平滑分割 [PDF](https://arxiv.org/pdf/2506.21198), [HTML](https://arxiv.org/abs/2506.21198)
 ### Authors
 Yihong Cao,Jiaming Zhang,Xu Zheng,Hao Shi,Kunyu Peng,Hang Liu,Kailun Yang,Hui Zhang
@@ -3922,9 +2944,6 @@ Yihong Cao,Jiaming Zhang,Xu Zheng,Hao Shi,Kunyu Peng,Hang Liu,Kailun Yang,Hui Zh
 本文引入了一个更为实际的任务，即无需数据的感知遮挡aware平滑分割（Source-Free Occlusion-Aware Seamless Segmentation，SFOASS），并提出了首个解决该问题的方法UNconstrained Learning Omni-Context Knowledge (UNLOCK)。UNLOCK框架包括两个关键模块：全景伪标签学习和不可见驱动上下文学习，能够在不依赖源数据或目标标签的情况下，增强模型实现360°视角覆盖和感知遮挡。
 ### Conclusion
 通过实际到实际和合成到实际的适应设置对提出的SFOASS任务进行了基准测试。实验结果表明，我们的无源方法在mAAP和mAP上的性能与依赖源方法相当，分别为10.9和11.6，并且在mAPQ上比仅依赖源数据的方法提高了4.3的绝对值，所有数据和代码将在https://github.com/XYZ处公开。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 328. `cs.CV` - 面向任务的KV压缩以实现低成本的长视频理解 [PDF](https://arxiv.org/pdf/2506.21184), [HTML](https://arxiv.org/abs/2506.21184)
 ### Authors
 Minghao Qin,Yan Shu,Peitian Zhang,Kun Lun,Huaying Yuan,Juenjie Zhou,Shitao Xiao,Bo Zhao,Zheng Liu
@@ -3934,9 +2953,6 @@ Minghao Qin,Yan Shu,Peitian Zhang,Kun Lun,Huaying Yuan,Juenjie Zhou,Shitao Xiao,
 该论文提出了Video-X^2L，一种灵活保存每个LVU任务关键视频信息的方法。Video-X^2L包含两种关键操作：层级KV压缩和选择性KV重新加载。通过这两种操作，使MLLM在充分利用任务特定信息的同时保持整体紧凑性。Video-X^2L简单有效，无需额外训练且可以直接兼容现有的KV压缩可实现的MLLMs.
 ### Conclusion
 实验结果表明，Video-X^2L在各种流行LVU基准测试中表现优异，远超现有的KV压缩方法，同时显著节省计算成本。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 329. `cs.CV` - 实时ESFP：估计、平滑、滤波和姿态映射 [PDF](https://arxiv.org/pdf/2506.21234), [HTML](https://arxiv.org/abs/2506.21234)
 ### Authors
 Qifei Cui,Yuang Zhou,Ruichen Deng
@@ -3946,9 +2962,6 @@ Qifei Cui,Yuang Zhou,Ruichen Deng
 ESFP管道的独特创新在于它采用了一种新颖的方法来处理估计、平滑、滤波和映射的问题。首先，ROMP用于三维骨架估计；其次，HPSTM结合序列到序列的Transformer和自注意力机制，同时平滑关节轨迹并保持骨骼长度不变和解剖学合理性；接着，基于HPSTM的不确定性估计对根部归一化的轨迹进行加权滤波以抑制噪声；最后，几何重新定向层将肩-肘-腕单元组转换为uArm的极坐标工作空间，同时保持手腕方向。这种方法显著提高了轨迹的实时性和精度，降低了计算要求，并且能够在低成本环境中实现复杂的机械臂运动控制。
 ### Conclusion
 总的来说，ESFP管道为从单目RGB视频中生成低计算量的关节轨迹提供了一种可行的解决方案。它不仅可以应用于低成本桌面机器人，还可以扩展到其他小型或移动机器人，如无人机或智能家居设备。这一方法在实时性和性能方面都实现了显著的改进，为未来的机器人应用打开了新的可能性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 330. `cs.CV` - DiMPLe -- Disentangled Multi-Modal Prompt Learning: Enhancing Out-Of-Distribution Alignment with Invariant and Spurious Feature Separation [PDF](https://arxiv.org/pdf/2506.21237), [HTML](https://arxiv.org/abs/2506.21237)
 ### Authors
 Umaima Rahman,Mohammad Yaqub,Dwarikanath Mahapatra
@@ -3958,9 +2971,6 @@ Umaima Rahman,Mohammad Yaqub,Dwarikanath Mahapatra
 DiMPLe提出了一种新颖的方法，即解耦多模态提示学习(DiMPLe)，旨在通过最大限度地减少不变特征和伪特征之间的互信息、正则化伪特征以及对比学习不变特征来分离多模态学习中的不变特征和伪特征。与CoOp-OOD方法相比，迪MPLe在11个不同数据集上平均表现出更优的性能，基类准确率提升了15.27%，新类准确率提升了44.31%。
 ### Conclusion
 通过分离不变特征和伪特征，DiMPLe提高了多模态学习中对新类别的泛化能力以及对分布变化的鲁棒性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 331. `cs.CV` - Temporal Rate Reduction Clustering for Human Motion Segmentation [PDF](https://arxiv.org/pdf/2506.21249), [HTML](https://arxiv.org/abs/2506.21249)
 ### Authors
 Xianghan Meng,Zhengyu Tong,Zhiyuan Huang,Chun-Guang Li
@@ -3970,9 +2980,6 @@ Xianghan Meng,Zhengyu Tong,Zhiyuan Huang,Chun-Guang Li
 该论文提出了一种创新的方法，即Temporal Rate Reduction Clustering (TR²C)，以联合学习结构化表示和亲和性以分割视频中的帧序列。此方法学习到的结构化表示具有良好的时间一致性且与子空间结构对齐，有利于人类动作分割任务。
 ### Conclusion
 在五个基准HMS数据集上的广泛实验中，该方法能够利用不同的特征提取器达到最先进的性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 332. `cs.CV` - Out-of-Distribution Semantic Occupancy Prediction [PDF](https://arxiv.org/pdf/2506.21185), [HTML](https://arxiv.org/abs/2506.21185)
 ### Authors
 Yuheng Zhang,Mengfei Duan,Kunyu Peng,Yuhang Wang,Ruiping Liu,Fei Teng,Kai Luo,Zhiyong Li,Kailun Yang
@@ -3982,9 +2989,6 @@ Yuheng Zhang,Mengfei Duan,Kunyu Peng,Yuhang Wang,Ruiping Liu,Fei Teng,Kai Luo,Zh
 提出了一种针对分布外语义占用预测的方法，通过合成异常整合管道生成具有现实空间和遮挡模式的数据集VAA-KITTI和VAA-KITTI-360，并引入OccOoD框架，利用几何-语义融合的体素BEV逐层融合（VBPF）分支增强分布外检测，取得了最佳的分布外检测性能（AuROC 67.34%，AuPRCr 29.21%）
 ### Conclusion
 通过OccOoD框架，在1.2米范围内实现了最先进的分布外检测性能，同时保持了竞争力的占用预测性能，并公开了数据集和源代码。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 333. `cs.CV` - MedPrompt: 融合权重路由的大语言模型-CNN融合在医学图像分割和分类中的应用 [PDF](https://arxiv.org/pdf/2506.21199), [HTML](https://arxiv.org/abs/2506.21199)
 ### Authors
 Shadman Sobhan,Kazi Abrar Mahmud,Abduz Zami
@@ -3994,9 +2998,6 @@ Shadman Sobhan,Kazi Abrar Mahmud,Abduz Zami
 MedPrompt 是一种统一框架，结合了一种前端少量示例提示大型语言模型（Llama-4-17B），用于高层任务规划，和一个可模块化的卷积神经网络（DeepFusionLab），用于低层图像处理。LLM 解释用户指令并生成结构化输出以动态路由任务特定的预训练权重。这种方法避免了在添加新任务时重新训练整个框架，仅需任务特定的权重，增强了扩展性和部署。该框架在 19 个公共数据集上进行了评估，涵盖了 12 项任务，包括 5 种成像模态。系统在执行提示驱动的指令方面实现了 97% 的端到端正确性，平均推理延迟为 2.5 秒，适用于接近实时应用。DeepFusionLab 达到了竞争力的分割准确性（如肺部 Dice 0.9856）和强大的分类性能（肺结核 F1 0.9744）。
 ### Conclusion
 MedPrompt 通过结合大语言模型的可解释性和模块化 CNN 的高效性，实现了可扩展的、基于提示的医学图像分析。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 334. `cs.CV` - 通过条件扩散转换器填充器的视频虚拟试穿 [PDF](https://arxiv.org/pdf/2506.21270), [HTML](https://arxiv.org/abs/2506.21270)
 ### Authors
 Cheng Zou,Senlin Cheng,Bolei Xu,Dandan Zheng,Xiaobo Li,Jingdong Chen,Ming Yang
@@ -4006,9 +3007,6 @@ Cheng Zou,Senlin Cheng,Bolei Xu,Dandan Zheng,Xiaobo Li,Jingdong Chen,Ming Yang
 本文提出了ViTI（Video Try-on Inpainter），这是一种新的视频虚拟试穿方法。通过使用基于扩散转换器的视频修复框架，并结合全面的3D时空注意力机制，该方法逐步适应视频服装修复任务。这种方法不同于以往的方法，从解决视频生成的问题出发，具有更好的时空一致性。此外，它通过使用一系列掩码策略和多层次的训练，确保修复后的服装区域能够根据给定的提示保持较好的时空一致性。最后，通过条件属性添加穿着的服装状态，确保修复的服装外观和细节符合预期。
 ### Conclusion
 通过定量和定性的实验结果表明，ViTI在视频虚拟试穿任务上优于之前的其他工作，证明了其有效性和优越性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 335. `cs.CV` - WordCon: 生成图像中逐字排版控制 [PDF](https://arxiv.org/pdf/2506.21276), [HTML](https://arxiv.org/abs/2506.21276)
 ### Authors
 Wenda Shi,Yiren Song,Zihan Rao,Dengming Zhang,Jiaming Liu,Xingxing Zou
@@ -4018,9 +3016,6 @@ Wenda Shi,Yiren Song,Zihan Rao,Dengming Zhang,Jiaming Liu,Xingxing Zou
 1. 构建了一个基于场景的逐字控制文本数据集。2. 提出了 TIA 框架，利用 Grounding 模型进行跨模态对应。3. 提出了 WordCon 方法，通过重新参数化选择的关键参数，提高了模型的效率和可移植性。4. 应用掩码损失引导模型学习文字区域，使用联合注意损失进行特征级监督，促进不同词语的解耦。
 ### Conclusion
 通过使用WordCon方法，作者展示了其在文本到图像生成方面的优越性，相关数据集和源代码将供学术界使用。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 336. `cs.CV` - HumanOmniV2：从理解到全模态推理的上下文 [PDF](https://arxiv.org/pdf/2506.21277), [HTML](https://arxiv.org/abs/2506.21277)
 ### Authors
 Qize Yang,Shimin Yao,Weixuan Chen,Shenghao Fu,Detao Bai,Jiaxing Zhao,Boyuan Sun,Bowen Yin,Xihan Wei,Jingren Zhou
@@ -4030,9 +3025,6 @@ Qize Yang,Shimin Yao,Weixuan Chen,Shenghao Fu,Detao Bai,Jiaxing Zhao,Boyuan Sun,
 提出了一种新的系统性方法，用于在多模态输入中确保模型具备清晰的全局上下文理解，并通过大型语言模型评估上下文奖励、格式奖励和准确性奖励，同时引入一种逻辑奖励来评估推理过程是否成功地将多种模态的信息与逻辑方法结合在一起。此外，还提出了一个名为IntentBench的新推理基准，旨在评估模型在理解复杂人类意图和情感方面的表现。与现有的开源全模态模型相比，提出的方法在多个全模态基准测试中表现出更先进的性能。
 ### Conclusion
 通过综合考虑上下文奖励、格式奖励和准确性奖励，以及采用逻辑奖励来提高复杂推理能力的策略，新方法在全模态推理表现优于现有方法。验证了所提出方法的有效性，并通过发布的基准测试IntentBench评估了模型的能力，展示了研究成果的显著价值。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 337. `cs.CV` - BitMark for Infinity: 位级自回归图像生成模型的水印 [PDF](https://arxiv.org/pdf/2506.21209), [HTML](https://arxiv.org/abs/2506.21209)
 ### Authors
 Louis Kerner,Michel Meintz,Bihe Zhao,Franziska Boenisch,Adam Dziedzic
@@ -4042,9 +3034,6 @@ Louis Kerner,Michel Meintz,Bihe Zhao,Franziska Boenisch,Adam Dziedzic
 我们引入了BitMark，这是一种针对Infinity的鲁棒的位级水印框架。我们的方法在Infinity的图像生成过程中，在多个尺度（也称为分辨率）的令牌流的位级别直接嵌入水印。位级水印微妙地影响位以保持视觉保真度和生成速度，同时具有抵抗多种去除技术的鲁棒性。此外，它还具有高放射性，即使用经过BitMark水印处理的生成图像来训练另一个图像生成模型时，第二个模型的输出也会携带水印。当只有微调扩散或图像自回归模型时，这种放射性痕迹仍然可以被检测到。总体而言，我们的方法提供了一种防止图像生成模型模型崩溃的原理性步骤，能够可靠地检测生成的输出。
 ### Conclusion
 BitMark框架为防止图像生成模型中的模型崩溃提供了一个可靠的检测方法，确保生成图像和内容的可追溯性和可行性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 338. `cs.CV` - 在遥感中的掩码自编码器持续自监督学习 [PDF](https://arxiv.org/pdf/2506.21312), [HTML](https://arxiv.org/abs/2506.21312)
 ### Authors
 Lars Möllenbrok,Behnood Rasti,Begüm Demir
@@ -4054,9 +3043,6 @@ Lars Möllenbrok,Behnood Rasti,Begüm Demir
 提出了一种名为CoSMAE的新颖持续自监督学习方法，该方法包含两个组件：数据混合法和模型混合法知识蒸馏。数据混合法通过插值当前任务和之前任务的图像来保留前数据分布的信息，而模型混合法知识蒸馏则通过插值过去的模型和当前模型的模型权重来进行知识蒸馏，同时作为知识蒸馏的老师。这种方法通过在数据和模型层面上规范掩码自编码器来互补地增强模型的泛化能力，降低灾难性遗忘风险。实验结果表明，CoSMAE在应用于掩码自编码器（MAE）的持续学习方法中实现了高达4.94%的显著改进，且代码已公开。
 ### Conclusion
 实验结果表明，CoSMAE在应用于掩码自编码器的持续学习方法中实现了高达4.94%的显著改进。该方法通过在数据和模型层面上规范掩码自编码器，有效降低了灾难性遗忘的风险，提升了模型在跨任务学习中的泛化能力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 339. `cs.CV` - DrishtiKon: 多粒度视觉接地用于富文本文档图像 [PDF](https://arxiv.org/pdf/2506.21316), [HTML](https://arxiv.org/abs/2506.21316)
 ### Authors
 Badri Vishal Kasuba,Parag Chaudhuri,Ganesh Ramakrishnan
@@ -4066,9 +3052,6 @@ Badri Vishal Kasuba,Parag Chaudhuri,Ganesh Ramakrishnan
 DrishtiKon 是一个多粒度视觉接地框架，通过集成强大的多语言OCR、大型语言模型以及新型区域匹配算法来准确地在块、行、词和点级别定位答案段。通过创建一个新的基准数据集 CircularsVQA 测试集的细分注释，提供多种粒度的精心校验注释。实验表明，该方法在接地准确性上达到最新水平，且在行级别提供最佳的精确度与召回之间的权衡。删减研究进一步突显了多块和多行推理的好处。与当前领先的视觉语言模型的比较性评估揭示了其在精确定位方面的局限性，强调了我们结构化的对齐方法的有效性
 ### Conclusion
 我们的研究为在现实世界、以文本为中心的场景中实现更稳健和可解释的文档理解系统铺平了道路。同时，我们已将代码和数据集提供给公众使用，以促进进一步的研究和发展
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 340. `cs.CV` - CoPa-SG：带参数和原型关系的密集场景图 [PDF](https://arxiv.org/pdf/2506.21357), [HTML](https://arxiv.org/abs/2506.21357)
 ### Authors
 Julian Lorenz,Mrunmai Phatak,Robin Schön,Katja Ludwig,Nico Hörmann,Annemarie Friedrich,Rainer Lienhart
@@ -4078,9 +3061,6 @@ Julian Lorenz,Mrunmai Phatak,Robin Schön,Katja Ludwig,Nico Hörmann,Annemarie F
 提出了CoPa-SG数据集，包含高精度真实标签和详尽的关系标注；引入了参数化和原型关系两种新型的基本概念，其中参数化关系提供了更精细的表现方式，而原型关系则编码了场景中的假设性关系，展示了新关系类型如何在下游应用中增强规划和推理能力。
 ### Conclusion
 使用CoPa-SG数据集，对比了多种场景图生成模型的表现，并展示了如何将新类型的关系整合到下游应用中以提升规划和推理能力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 341. `cs.CV` - HieraSurg: 层次意识扩散模型在手术视频生成中的应用 [PDF](https://arxiv.org/pdf/2506.21287), [HTML](https://arxiv.org/abs/2506.21287)
 ### Authors
 Diego Biagini,Nassir Navab,Azade Farshad
@@ -4090,9 +3070,6 @@ Diego Biagini,Nassir Navab,Azade Farshad
 HieraSurg 提出了一个层次意识的手术视频生成框架，包含两个专门的扩散模型。第一个阶段通过分割预测模型预测未来粗略的语义变化，第二个阶段通过增加细粒度的视觉特征来生成最终的视频，从而实现有效的纹理渲染和视频空间中语义信息的整合。该方法在多个抽象层次上利用了手术信息，包括手术阶段、动作三元组和全景分割图。实验结果表明，该模型在术胆切除手术视频生成中的表现显著优于先前的工作，显示出强大的泛化能力和生成更高帧率视频的能力。
 ### Conclusion
 HieraSurg 模型在提供现有分割图的情况下表现出特别精细的符合性，表明它在实际手术应用中的潜力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 342. `cs.CV` - 可泛化的神经电磁反散射 [PDF](https://arxiv.org/pdf/2506.21349), [HTML](https://arxiv.org/abs/2506.21349)
 ### Authors
 Yizhe Cheng,Chunxun Tian,Haoru Wang,Wentao Zhu,Xiaoxuan Ma,Yizhou Wang
@@ -4102,9 +3079,6 @@ Yizhe Cheng,Chunxun Tian,Haoru Wang,Wentao Zhu,Xiaoxuan Ma,Yizhou Wang
 基于这一不足，本文从物理感知的角度重新审视问题，将其重新表述为两次逆散射-传输过程，并发现引起电流作为一种可泛化的中间表示，可以有效地将非线性散射过程与病态的逆问题脱耦。本文提出了一种用于EISP的首个基于物理的可泛化框架，包括一个电流估计器和一个相对介电常数解算器，该设计使数据驱动的训练和未见过数据的可泛化的前向预测成为可能，同时保持对发射器稀疏性的强鲁棒性。广泛的实验表明，本文方法在重建准确性、泛化能力和鲁棒性方面均优于现有方法。
 ### Conclusion
 本文为电磁反散射提供了全新的视角，并朝着经济高效的实际电磁成像解决方案迈出了重要一步。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 343. `cs.CV` - DuET: 通过无实例任务算术实现双增量目标检测 [PDF](https://arxiv.org/pdf/2506.21260), [HTML](https://arxiv.org/abs/2506.21260)
 ### Authors
 Munish Monga,Vishal Chudasama,Pankaj Wasnik,Biplab Banerjee
@@ -4114,9 +3088,6 @@ Munish Monga,Vishal Chudasama,Pankaj Wasnik,Biplab Banerjee
 研究提出了DuET，一种基于任务算术的增量学习模型合并框架。它通过一个新颖的方向一致性损失来解决符号冲突问题，使得模型能够在不依赖于具体检测器的情况下稳定增量学习。DuET在保持实时检测的同时，使YOLO11和RT-DETR等模型能够作为实时增量目标检测器使用。为了全面评估系统的保留能力和适应性，研究引入了一种保留适应性指数(RAI)，结合了平均保留指数(Avg RI)和领域适应性指数，以此为共同指标。实验结果表明，DuET在帕斯卡系列和多样性天气系列上的有效性显著提升，改善了RAI指标，并在保留指数方面保持了高值。
 ### Conclusion
 实验结果显示，DuET在帕斯卡系列（4个任务）上获得了13.12%的RAI改进，保留了89.3%的平均保留指数。在多样性天气系列（3个任务）上，DuET获得了11.39%的RAI改进，保留了88.57%的平均保留指数。与现有方法相比，DuET表现出色。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 344. `cs.CV` - ShotBench：Vision-Language模型中的专家级电影理解 [PDF](https://arxiv.org/pdf/2506.21356), [HTML](https://arxiv.org/abs/2506.21356)
 ### Authors
 Hongbo Liu,Jingwen He,Yi Jin,Dian Zheng,Yuhao Dong,Fan Zhang,Ziqi Huang,Yinan He,Yangguang Li,Weichao Chen,Yu Qiao,Wanli Ouyang,Shengjie Zhao,Ziwei Liu
@@ -4126,9 +3097,6 @@ Hongbo Liu,Jingwen He,Yi Jin,Dian Zheng,Yuhao Dong,Fan Zhang,Ziqi Huang,Yinan He
 构建了ShotBench基准数据库，其中包括来自200多部获奖影片（主要是奥斯卡提名）的3500多个专家标注的问题-答案（QA）对，涵盖了八种关键影技维度。通过ShotBench评估24个领先VLMs后，显示了显著的局限性。在此基础上，创建了ShotQA大型跨模态数据集，并通过监督微调和组相对策略优化开发了ShotVL。ShotVL在ShotBench上大幅超越了现有所有开源和专有模型，并确立了新的最佳性能。
 ### Conclusion
 开放源代码模型、数据和代码，以促进在这个关键领域快速进步的AI驱动的影技理解和生成。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 345. `cs.CV` - 使用层次输入依赖状态空间模型的整体手术阶段识别 [PDF](https://arxiv.org/pdf/2506.21330), [HTML](https://arxiv.org/abs/2506.21330)
 ### Authors
 Haoyang Wu,Tsun-Hsuan Wang,Mathias Lechner,Ramin Hasani,Jennifer A. Eckhoff,Paul Pak,Ozanan R. Meireles,Guy Rosman,Yutong Ban,Daniela Rus
@@ -4138,9 +3106,6 @@ Haoyang Wu,Tsun-Hsuan Wang,Mathias Lechner,Ramin Hasani,Jennifer A. Eckhoff,Paul
 本文提出了一种新颖的分层输入依赖状态空间模型，利用状态空间模型的线性扩展特性，允许在视频的整个长度上进行决策，同时捕捉局部和全局动态。该框架包含一个空间上一致的视觉特征提取器，该提取器将状态空间模型的头添加到视觉特征提取器以传播时间信息。该模型由两个关键模块组成：用于有效捕捉复杂局部动态的局部聚集状态空间模型块，以及用于建模整个视频时间依赖性的全局关系状态空间模型块。通过混合离散-连续监督策略对该模型进行训练，其中通过网络传播离散相位标签信号和连续相位进度信号。实验表明，与当前最先进的方法相比，该方法在多个数据集上表现出了显著的性能优越性（Cholec80 +2.8%，MICCAI2016 +4.3%，Heichole +12.9%）。
 ### Conclusion
 该方法在多个手术数据集上的表现证明了其在手术视频分析中的优越性和有效性。未来的工作计划在论文接受后公开代码。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 346. `cs.CV` - ToosiCubix：基于车辆部件注释的单目3D立方体标签 [PDF](https://arxiv.org/pdf/2506.21358), [HTML](https://arxiv.org/abs/2506.21358)
 ### Authors
 Behrooz Nasihatkon,Hossein Resani,Amirreza Mehrzadian
@@ -4150,9 +3115,6 @@ Behrooz Nasihatkon,Hossein Resani,Amirreza Mehrzadian
 ToosiCubix：一种仅使用单目图像和固有相机参数进行3D立方体标注的新方法，无需昂贵的相机-LiDAR或立体视觉系统。通过用户点击不少于10次进行标注，该方法提高了标注的实用性。利用注释车辆部件的特定特征实现在8自由度下的高精度标注。通过协调PnP和最小二乘子问题解决几何约束优化问题。引入概率尺寸先验处理多种常见歧义，实现在9自由度下的立方体放置。与现有方法相比，ToosiCubix方法提供了经济高效且可扩展的高质量3D立方体标注解决方案。
 ### Conclusion
 通过验证实验，ToosiCubix方法在KITTI和Cityscapes3D数据集上的应用证明了该方法的有效性和实际价值，为大规模3D立方体标注提供了经济可行且可扩展的方案。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 347. `cs.CV` - GenFlow：交互式模块化图像生成系统 [PDF](https://arxiv.org/pdf/2506.21369), [HTML](https://arxiv.org/abs/2506.21369)
 ### Authors
 Duc-Hung Nguyen,Huu-Phuc Huynh,Minh-Triet Tran,Trung-Nghia Le
@@ -4162,9 +3124,6 @@ Duc-Hung Nguyen,Huu-Phuc Huynh,Minh-Triet Tran,Trung-Nghia Le
 GenFlow是一个模块化的框架，具有以下创新特性：1. 基于节点的编辑器，实现无缝自定义；2. 基于自然语言处理的智能助手，简化了用户交互；3. 自动化部署流程，降低技术门槛；4. 提供直观和自适应的功能，优化工作流程，减少任务完成时间，提升用户理解能力。
 ### Conclusion
 实验结果表明，GenFlow能够优化工作流程，减少任务完成时间，并通过其直观界面和自适应功能增强用户体验。这些结果使GenFlow成为一项颠覆性的解决方案，重新定义了生成艺术中的访问性和效率。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 348. `cs.CV` - PanSt3R: 多视角一致全景分割 [PDF](https://arxiv.org/pdf/2506.21348), [HTML](https://arxiv.org/abs/2506.21348)
 ### Authors
 Lojze Zust,Yohann Cabon,Juliette Marrie,Leonid Antsfeld,Boris Chidlovskii,Jerome Revaud,Gabriela Csurka
@@ -4174,9 +3133,6 @@ Lojze Zust,Yohann Cabon,Juliette Marrie,Leonid Antsfeld,Boris Chidlovskii,Jerome
 提出了一种统一和集成的方法PanSt3R，该方法通过单次前向传播联合预测3D几何和多视角全景分割，从而避免了测试阶段需要的优化。该方法基于最新3D重建进展，具体是基于MUSt3R（一个多视角版本的DUSt3R）改进而来，增强了语义意识和多视角全景分割功能。此外，提出了一种更原则性的多视角分割后处理方法，并引入了一种简单的生成新视角预测的方法。
 ### Conclusion
 所提出的PanSt3R概念简单，速度快且可扩展，实现了多项基准测试的前沿性能，比现有方法快了几个数量级。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 349. `cs.CV` - LLaVA-Pose: 通过关键点集成指令微调提高人体姿态和动作理解 [PDF](https://arxiv.org/pdf/2506.21317), [HTML](https://arxiv.org/abs/2506.21317)
 ### Authors
 Dewen Zhang,Tahir Hussain,Wangpeng An,Hayaru Shouno
@@ -4186,9 +3142,6 @@ Dewen Zhang,Tahir Hussain,Wangpeng An,Hayaru Shouno
 本文提出了一种生成专门针对人体姿态和动作理解的关键点集成指令数据的方法，并建立了一个扩展的人体姿态和动作理解基准（E-HPAUB）来评估模型在这方面的性能。通过使用这种数据集对LLaVA-1.5-7B模型进行微调，所得的LLaVA-Pose模型在基准测试中取得了显著的性能提升，较原模型提高了33.2%。这一发现强调了关键点集成数据在增强多模态模型对人体中心视觉理解方面的有效性。
 ### Conclusion
 实验结果表明，使用关键点集成数据微调模型可以显著改善对人体姿态和动作的理解，这对于提高多模态模型在人体中心任务的性能具有重要意义。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 350. `cs.CV` - 曲线感知的高斯散点图用于3D参数曲线重建 [PDF](https://arxiv.org/pdf/2506.21401), [HTML](https://arxiv.org/abs/2506.21401)
 ### Authors
 Zhirui Gao. Renjiao Yi,Yaqiao Dai,Xuening Zhu,Wei Chen,Chenyang Zhu,Kai Xu
@@ -4198,9 +3151,6 @@ Zhirui Gao. Renjiao Yi,Yaqiao Dai,Xuening Zhu,Wei Chen,Chenyang Zhu,Kai Xu
 本文提出了一种单阶段的端到端框架，直接从多视图边缘图中重建3D参数曲线。该方法通过提出一种新颖的双向耦合机制将参数曲线与边缘方向的高斯成分进行耦合，形成了曲线感知的高斯表示（CurveGaussian），从而实现了3D曲线的可微渲染。此外，还引入了一种动态自适应拓扑优化框架，在训练过程中通过线性化、合并、分裂和修剪操作细化曲线结构。这种方法在综合评估中表现优于两阶段方法，且能显著降低训练过程中的参数数量，提高效率和性能。
 ### Conclusion
 本研究提出的方法在多视图数据集和真实世界基准上的评估中表现出优越性，尤其是在产出更清洁和更稳健的重建方面。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 351. `cs.CV` - CA-I2P：具有全局最优选择的通道自适应注册网络 [PDF](https://arxiv.org/pdf/2506.21364), [HTML](https://arxiv.org/abs/2506.21364)
 ### Authors
 Zhixin Cheng,Jiacheng Deng,Xinjun Li,Xiaotian Yin,Bohao Liao,Baoqun Yin,Wenfei Yang,Tianzhu Zhang
@@ -4210,9 +3160,6 @@ Zhixin Cheng,Jiacheng Deng,Xinjun Li,Xiaotian Yin,Bohao Liao,Baoqun Yin,Wenfei Y
 本文提出了一种通道自适应调整模块（CAA）和全局最优选择模块（GOS）。CAA增强同模态特征并抑制跨模态敏感性，而GOS将局部选择替换为全局优化。该方法在RGB-D Scenes V2和7-Scenes数据集上的实验表明，相较于其他方法，该方法在图像到点云的注册中表现出更好的性能，达到了目前的最佳水平。
 ### Conclusion
 本文提出了一种具有全局最优选择的通道自适应注册网络，通过引入CAA和GOS模块，它提高了跨模态匹配的准确性和效率，特别是在图像到点云的注册任务上取得了最优的注册效果。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 352. `cs.CV` - XVerse: 通过DiT调制实现一致的多主体身份和语义属性控制 [PDF](https://arxiv.org/pdf/2506.21416), [HTML](https://arxiv.org/abs/2506.21416)
 ### Authors
 Bowen Chen,Mengyi Zhao,Haomiao Sun,Li Chen,Xu Wang,Kang Du,Xinglong Wu
@@ -4222,9 +3169,6 @@ Bowen Chen,Mengyi Zhao,Haomiao Sun,Li Chen,Xu Wang,Kang Du,Xinglong Wu
 提出了一种新的多主体可控生成模型XVerse。通过将参考图像转化为特定于标记的文字流调制偏移，使得能够在不改变图像潜在特性的情况下对特定主题进行精确且独立的控制，从而实现高保真、可编辑的多主体图像合成，同时对个体主题的特征和语义属性具有稳健控制能力。该方法显著改善了多主体身份和语义属性的控制能力。
 ### Conclusion
 XVerse模型在细粒度控制多主体身份和语义属性方面取得了显著进展，为个性化和复杂场景的图像生成提供了强大的新工具，克服了现有方法存在的问题，如可编辑性和连贯性的损害，以及归一化的困难。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 353. `cs.CV` - FastRef: 快速原型精炼以实现少量样本工业异常检测 [PDF](https://arxiv.org/pdf/2506.21398), [HTML](https://arxiv.org/abs/2506.21398)
 ### Authors
 Long Tian,Yufei Li,Yuyang Dai,Wenchao Chen,Xiyang Liu,Bo Chen
@@ -4234,9 +3178,6 @@ Long Tian,Yufei Li,Yuyang Dai,Wenchao Chen,Xiyang Liu,Bo Chen
 FastRef通过迭代的两阶段过程实现：(1) 使用可优化的转换矩阵将查询特征的特性转移到原型；(2) 通过原型对齐进行异常抑制。在异常抑制阶段，我们利用最优传输方法来衡量和最小化非高斯采样特征与原型和其精炼版本之间的差距，从而实现有效的异常检测。我们还将FastRef与三种最新的基于原型的少量样本工业异常检测方法（PatchCore, FastRecon, WinCLIP, 和 AnomalyDINO）结合进行综合评估。实验表明，在1/2/4样本的情况下，我们的方法不仅有效，而且具有计算效率。
 ### Conclusion
 我们在四个基准数据集（MVTec, ViSA, MPDD 和 RealIAD）上进行了广泛的实验，结果显示FastRef能够以计算效率高的方式有效实现少量样本工业异常检测。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 354. `cs.CV` - EndoFlow-SLAM：基于流约束高斯束的实时内窥镜SLAM [PDF](https://arxiv.org/pdf/2506.21420), [HTML](https://arxiv.org/abs/2506.21420)
 ### Authors
 Taoyu Wu,Yiyi Miao,Zhuoxiao Li,Haocheng Zhao,Kang Dang,Jionglong Su,Limin Yu,Haoang Li
@@ -4246,9 +3187,6 @@ Taoyu Wu,Yiyi Miao,Zhuoxiao Li,Haocheng Zhao,Kang Dang,Jionglong Su,Limin Yu,Hao
 我们引入了基于光流损失的几何约束，并提出了一种深度正则化策略，以解决光照不一致性问题。此外，我们改进了3DGS细化策略，专注于关键帧对应的渲染质量不佳的视点，提高了渲染结果。这些创新使我们的方法能够更好地适应内窥镜场景的挑战，并在新颖视图合成和姿态估计方面实现了高性能。
 ### Conclusion
 通过深入分析内窥镜场景中的挑战，我们提出的方法在新颖视图合成和姿态估计方面显著优于现有方法。该方法能够实现高质量的三维重建和实时渲染，特别是在静止和动态手术场景中。我们的源代码将在论文被接受后公开。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 355. `cs.CV` - 跨数据集评估深度学习和视觉基础模型的异常与正常有丝分裂分类基准 [PDF](https://arxiv.org/pdf/2506.21444), [HTML](https://arxiv.org/abs/2506.21444)
 ### Authors
 Sweta Banerjee,Viktoria Weiss,Taryn A. Donovan,Rutger A. Fick,Thomas Conrad,Jonas Ammeling,Nils Porsche,Robert Klopfleisch,Christopher Kaltenecker,Katharina Breininger,Marc Aubreville,Christof A. Bertram
@@ -4258,9 +3196,6 @@ Sweta Banerjee,Viktoria Weiss,Taryn A. Donovan,Rutger A. Fick,Thomas Conrad,Jona
 本研究引入了两个新的数据集（AtNorM-Br 和 AtNorM-MD）用于评估，同时展示了通过使用最近在迁移学习和模型调优技术方面的进展来解决不典型有丝分裂分类问题的有效性，特别是通过LoRA调优Virchow线系统的基本模型取得了优异的结果。此外，研究提供了一个完整的代码和数据存储库（参见提供的GitHub链接），以支持进一步的分析和应用。
 ### Conclusion
 尽管不典型有丝分裂分类是一个具有挑战性的问题，但通过最近在迁移学习和模型调整方面的进展，可以有效地解决这一问题。通过基准研究的结果表明，LoRA调优的技术在基础模型中取得了较好的分类性能，证明了该方法的有效性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 356. `cs.CV` - 一种在多样场景中地下矿工检测的综合数据集 [PDF](https://arxiv.org/pdf/2506.21451), [HTML](https://arxiv.org/abs/2506.21451)
 ### Authors
 Cyrus Addy,Ajay Kumar Gurumadaiah,Yixiang Gao,Kwame Awuah-Offei
@@ -4270,9 +3205,6 @@ Cyrus Addy,Ajay Kumar Gurumadaiah,Yixiang Gao,Kwame Awuah-Offei
 该论文提出了一个全新的热成像数据集，旨在促进和发展可靠的安全应用中的热成像矿工检测系统。研究人员系统地捕捉了各种采矿活动和场景下的热图像，这为检测算法的开发和验证提供了坚实的基础。此外，该研究评估了几种最先进的对象检测算法在自建数据集上的表现，这有助于为未来的研究打下基础，并展示了使用热成像进行矿工检测的可行性。
 ### Conclusion
 该工作展示了使用热成像进行矿工检测的可行性，并为未来在此类关键安全应用中的研究提供了基础。尽管数据集不涵盖所有可能的紧急情况，但它代表了朝着在真实紧急场景中部署可靠的热成像矿工检测系统迈出的重要一步。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 357. `cs.CV` - 通过低频重新思考无分类器引导中的过度饱和 [PDF](https://arxiv.org/pdf/2506.21452), [HTML](https://arxiv.org/abs/2506.21452)
 ### Authors
 Kaiyu Song,Hanjiang Lai
@@ -4282,9 +3214,6 @@ Kaiyu Song,Hanjiang Lai
 基于这一见解，本文提出了一种低频增强的无分类器指导 (LF-CFG)，新颖之处在于引入了一种适应性阈值测量方法来定位冗余信息的位置，并通过分析先验和当前步骤中低频信息的变化率来确定合理的阈值。此后，该方法应用了一种降权策略来减少低频信号中冗余信息的影响。实验结果显示，LF-CFG 在包括 Stable Diffusion-XL、Stable Diffusion 2.1、3.0、3.5 以及 SiT-XL 等多种扩散模型中能够有效缓解过度饱和和不现实的伪影问题。
 ### Conclusion
 LF-CFG 通过分析低频信号中的冗余信息，有效地缓解了无分类器引导中的过度饱和和不现实的伪影问题，从而使模型能够生成更高质量的图像或文本。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 358. `cs.CV` - 基于场景感知扩散模型的可控3D物体放置 [PDF](https://arxiv.org/pdf/2506.21446), [HTML](https://arxiv.org/abs/2506.21446)
 ### Authors
 Mohamed Omran,Dimitris Kalatzis,Jens Petersen,Amirhossein Habibian,Auke Wiggers
@@ -4294,9 +3223,6 @@ Mohamed Omran,Dimitris Kalatzis,Jens Petersen,Amirhossein Habibian,Auke Wiggers
 本文提出的方法是将精心设计的视觉地图与粗略的物体掩模相结合，以实现高质量的物体放置。而且，该方法通过使用基于修复模型的方法来保持背景不变，从而不同于联合建模物体和背景的方法。这种方法在不同的条件信号下进行了测试，以评估在不同任务中的编辑质量，包括需要非平凡形状变化的任务。最后，本文展示了如何结合对位置和外观的控制以精确放置场景中的已知物体。
 ### Conclusion
 本文提出的方法已经表明了其在汽车应用中的有效性，并展示了如何在不同的编辑任务中使用不同的条件信号以确保既定的精确位置与良好的外观质量。这种方法为实现复杂的3D物体放置任务提供了一种理论上和实践上的解决方案。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 359. `cs.CV` - TITAN: 基于查询令牌的域自适应对抗性学习 [PDF](https://arxiv.org/pdf/2506.21484), [HTML](https://arxiv.org/abs/2506.21484)
 ### Authors
 Tajamul Ashraf,Janibul Bashir
@@ -4306,9 +3232,6 @@ Tajamul Ashraf,Janibul Bashir
 提出了一种基于查询令牌的迭代查询-令牌对抗网络（TITAN），将目标图像分为两类：与源图像相似（简单）和不相似（困难）。通过估计检测误差方差将目标领域划分为两类，并且将查询令牌对抗模块融入学生-教师基础框架以减小两个特征表示之间的域差距。
 ### Conclusion
 在四个自然图像数据集和两个挑战性医学数据集上的实验验证了TITAN相比现有最先进的方法表现优越，分别在C2F、C2B、S2C和K2C基准上提高了22.7%、22.2%、21.1%和3.7%的mAP。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 360. `cs.CV` - Logios：开源的希腊多音节光学字符识别系统 [PDF](https://arxiv.org/pdf/2506.21474), [HTML](https://arxiv.org/abs/2506.21474)
 ### Authors
 Perifanos Konstantinos,Goutsos Dionisis
@@ -4318,9 +3241,6 @@ Perifanos Konstantinos,Goutsos Dionisis
 系统采用了卷积层和循环层相结合的方法，专门针对希腊多音节文本的特点设计，这使得它能够更准确地识别和数字化这些复杂的文本。与传统的OCR方法相比，该系统提供显著的准确性和效率改进。此外，作者还开源了底层模型，并提供了一个供学术使用的OCR平台。
 ### Conclusion
 本文提出了一种专门处理希腊多音节文本的OCR系统，并通过开源和提供学术使用的平台，希望能够促进对该领域更多研究。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 361. `cs.CV` - G$^{2}$D: Gradient-Guided Distillation for Enhancing Multimodal Learning [PDF](https://arxiv.org/pdf/2506.21514), [HTML](https://arxiv.org/abs/2506.21514)
 ### Authors
 Mohammed Rakib,Arunkumar Bagavathi
@@ -4330,9 +3250,6 @@ Mohammed Rakib,Arunkumar Bagavathi
 我们提出了基于梯度指导的蒸馏（G$^{2}$D）框架，它通过自定义融合单模态和多模态目标的损失函数来优化多模态模型。G$^{2}$D还引入了动态顺序模态优先策略（SMP），确保每个模态轮流主导学习过程，避免较强模态压过较弱模态的情况.
 ### Conclusion
 我们在多个实际数据集上验证了G$^{2}$D，并展示了其在分类和回归任务中优于最先进的方法，同时使较弱模态的重要性得到增强。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 362. `cs.CV` - 每日交通模式下交通信号评价 [PDF](https://arxiv.org/pdf/2506.21469), [HTML](https://arxiv.org/abs/2506.21469)
 ### Authors
 Mohammad Shokrolah Shirazi,Hung-Fu Chang
@@ -4342,9 +3259,6 @@ Mohammad Shokrolah Shirazi,Hung-Fu Chang
 文章创新地开发了一种基于视觉跟踪系统的转向流量计估计方法，并使用仿真工具评估了适应不同交通流量策略的信号配置。特别地，提出了一种混合信号方法，能够根据高峰和非高峰交通条件切换动态和静态方法，以适应每日双峰交通模式，从而优化信号配置。
 ### Conclusion
 基于6个交叉口四小时仿真测试的扩展实验结果表明，基于区域的交通流量分布模式影响信号配置的选择。虽然静态方法适用于均匀分布的区域交通数量，但混合方法更适合西东区和南北区的重交通交叉口对。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 363. `cs.CV` - HyperSORT: 自组织稳健训练与超网络 [PDF](https://arxiv.org/pdf/2506.21430), [HTML](https://arxiv.org/abs/2506.21430)
 ### Authors
 Samuel Joutard,Marijn Stollenga,Marc Balle Sanchez,Mohammad Farid Azampour,Raphael Prevost
@@ -4354,9 +3268,6 @@ Samuel Joutard,Marijn Stollenga,Marc Balle Sanchez,Mohammad Farid Azampour,Rapha
 本文介绍了一种名为HyperSORT的框架，利用超网络从表示图像和注释变异性量矢量中预测UNets的参数。超网络参数和每个训练样本对应的量矢量集合在联合学习的框架下进行学习。因此，HyperSORT不仅学习一个适应数据集的单一神经网络，还学习一个复杂分布的UNet参数集，其中低密度区域可以捕获噪声特定模式，而大模态则以区分但有意义的方式鲁棒地分割器官。实验验证了HyperSORT在两个公开的3D腹部CT数据集上的有效性，结果显示它创建了有助于识别系统偏差和错误样本的数据集结构化映射。
 ### Conclusion
 我们的实验表明，HyperSORT能够创建数据集的结构化映射，有助于识别相关系统偏差和错误样本。在潜在空间集群中，UNet参数能够根据已学习的系统偏差执行分割任务。相关代码和对TotalSegmentator数据集的分析已公开。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 364. `cs.CV` - 自然世界图像中的全局与局部蕴含学习 [PDF](https://arxiv.org/pdf/2506.21476), [HTML](https://arxiv.org/abs/2506.21476)
 ### Authors
 Srikumar Sastry,Aayush Dhakal,Eric Xing,Subash Khanal,Nathan Jacobs
@@ -4366,9 +3277,6 @@ Srikumar Sastry,Aayush Dhakal,Eric Xing,Subash Khanal,Nathan Jacobs
 本文介绍了一种称为Radial Cross-Modal Embeddings（RCME）的框架，这种框架能够明确地建模传递性约束的蕴含。我们提出的框架优化了概念在视觉-语言模型中的部分顺序。基于我们的框架，我们开发了一个层次视觉-语言基础模型，能够表示生命之树中的层次结构。我们的实验表明，与现有的最佳模型相比，我们的模型在层次物种分类和层次检索任务上的性能更高。
 ### Conclusion
 我们的代码和模型已在GitHub上开源。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 365. `cs.CV` - 基于条件标记点过程的可靠空区域检测：对象检测 [PDF](https://arxiv.org/pdf/2506.21486), [HTML](https://arxiv.org/abs/2506.21486)
 ### Authors
 Tobias J. Riedlinger,Kira Maag,Hanno Gottschalk
@@ -4378,9 +3286,6 @@ Tobias J. Riedlinger,Kira Maag,Hanno Gottschalk
 本文提出了一种基于空间统计的对象检测模型，该模型将边界框数据与标记点过程相匹配，标记点过程常用于描述被识别为边界框中心的空间点事件的概率发生情况，其中标记用于描述边界框的空间扩展和类别。这种方法提供了一种基于似然性的训练框架，并可以明确地评估某个区域是否是可通行区域，即是否存在物体。
 ### Conclusion
 文章通过校准评估和性能评估展示了所提出方法的有效性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 366. `cs.CV` - 通过动态Logits校准减轻大型视觉-语言模型的幻觉 [PDF](https://arxiv.org/pdf/2506.21509), [HTML](https://arxiv.org/abs/2506.21509)
 ### Authors
 Jiahe Chen,Jiaying He,Qian Shao,Qiyuan Chen,Jiahe Ying,Hongxia Xu,Jintai Chen,Jianwei Zheng,Jian Wu
@@ -4390,9 +3295,6 @@ Jiahe Chen,Jiaying He,Qian Shao,Qiyuan Chen,Jiahe Ying,Hongxia Xu,Jintai Chen,Ji
 本文提出了一种名为动态Logits校准（DLC）的新颖的无需训练的解码框架，旨在推理阶段动态地将文本生成与视觉证据对齐。DLC在解码阶段逐步使用CLIP评估输入图像和生成文本序列之间的语义一致性。此外，通过实时上下文对齐分数指导的自适应加权机制，DLC能够在保持文本质量的同时谨慎平衡视觉指导。实验结果表明，DLC在多种基准和LVLM架构下显著减少了幻觉现象，提高了推理效率，并且将在GitHub上开源相关代码。
 ### Conclusion
 总体而言，本文提供了一个有效的解码时解决方案，利用动态Logits校准来减轻LVLM的幻觉，从而增加其可靠性，可用于更多实际应用。相关代码已经开源。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 367. `cs.CV` - WAFT: 单独位移场变换用于光学流 [PDF](https://arxiv.org/pdf/2506.21526), [HTML](https://arxiv.org/abs/2506.21526)
 ### Authors
 Yihan Wang,Jia Deng
@@ -4402,9 +3304,6 @@ Yihan Wang,Jia Deng
 WAFT 是一种简单灵活的元架构，兼具低内存消耗和高准确性。相较于现有的方法，WAFT 在 Spring 和 KITTI 基准测试中表现最佳，同时在 KITTI 上实现了零样本泛化，其速度比具有相似性能的方法快 4.1 倍。这种新的设计方法摒弃了构建成本体积的传统做法，为光学流领域的算法优化带来了新的思路。
 ### Conclusion
 WAFT 作为一种简单而有效的光学流方法，通过对传统方法的挑战，证明了可以使用高分辨率的位移变换来得到良好的性能。同时，WAFT 的设计展示了算法的灵活性以及跨任务的高效性，对于未来的光学流研究具有重要意义。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 368. `cs.CV` - HalluSegBench：通过反事实视觉推理进行分割幻觉评估 [PDF](https://arxiv.org/pdf/2506.21546), [HTML](https://arxiv.org/abs/2506.21546)
 ### Authors
 Xinzhuo Li,Adheesh Juvekar,Xingyou Liu,Muntasir Wahed,Kiet A. Nguyen,Ismini Lourentzou
@@ -4414,9 +3313,6 @@ Xinzhuo Li,Adheesh Juvekar,Xingyou Liu,Muntasir Wahed,Kiet A. Nguyen,Ismini Lour
 提出了首个专门用于通过反事实视觉推理评估分割幻觉的基准HalluSegBench，包括1340个反事实实例配对和新的评估度量标准。这个基准可以通过视觉一致性的场景编辑来更准确地诊断和评估模型的分割幻觉问题。
 ### Conclusion
 视觉驱动的幻觉在现有模型中更为普遍，并且在虚假分割上存在持续性问题，需要进一步改进以进行更准确的反事实推理，以此来提高模型地对标的准确度。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 369. `cs.CV` - SiM3D：基于单实例多视图、多模态和多配置的3D异常检测基准 [PDF](https://arxiv.org/pdf/2506.21549), [HTML](https://arxiv.org/abs/2506.21549)
 ### Authors
 Alex Costanzino,Pierluigi Zama Ramirez,Luigi Lella,Matteo Ragaglia,Alessandro Oliva,Giuseppe Lisanti,Luigi Di Stefano
@@ -4426,9 +3322,6 @@ Alex Costanzino,Pierluigi Zama Ramirez,Luigi Lella,Matteo Ragaglia,Alessandro Ol
 提出了SiM3D基准，这是第一个综合考虑多视图和多模态信息集成的3D异常检测和分割（ADS）的基准。它特别关注制造行业的单实例异常检测场景，使用工业级传感器和机器人收集了新颖的多模态多视角数据集，并提供了一种新的评价方法，通过使用基于异常体的数据指标评估单一视图方法的性能。
 ### Conclusion
 SiM3D是首个能够从合成训练数据泛化到真实测试数据的ADS基准，提供了一个高分辨率的多视角和点云数据集，以及3D分割的注释数据，用以手动标注异常测试样本。它为多视图ADS任务提供参考基线，并通过新的评价指标评估现有方法的性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 370. `cs.CV` - MAdrive：增强记忆的驾驶场景建模 [PDF](https://arxiv.org/pdf/2506.21520), [HTML](https://arxiv.org/abs/2506.21520)
 ### Authors
 Polina Karpikova,Daniil Selikhanovych,Kirill Struminsky,Ruslan Musaev,Maria Golitsyna,Dmitry Baranchuk
@@ -4438,9 +3331,6 @@ Polina Karpikova,Daniil Selikhanovych,Kirill Struminsky,Ruslan Musaev,Maria Goli
 本文介绍了一种称作MADrive的记忆增强重建框架，旨在扩展现有场景重建方法的能力。具体来说，该框架使用从大规模外部记忆库中检索到的、与观测车辆视觉相似的3D模型来替换观测车辆。通过检索模块找到最相似的车辆实例，从视频中重建对应的3D资产，并通过姿态对齐和重新照明将之整合到目标场景中，以生成复现实景车辆的多视角表示，从而能够合成大幅改变配置的场景。
 ### Conclusion
 实验结果表明，通过MADrive框架进行的替换提供了场景中车辆的完整多视角表示，使得大幅改变车辆配置的场景能够达到写实合成的效果。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 371. `cs.CV` - DeOcc-1-to-3: 从单张图像进行自监督多视图扩散去遮挡的3D重建 [PDF](https://arxiv.org/pdf/2506.21544), [HTML](https://arxiv.org/abs/2506.21544)
 ### Authors
 Yansong Qu,Shaohui Dai,Xinyang Li,Yuze Wang,You Shen,Liujuan Cao,Rongrong Ji
@@ -4450,9 +3340,6 @@ Yansong Qu,Shaohui Dai,Xinyang Li,Yuze Wang,You Shen,Liujuan Cao,Rongrong Ji
 本文提出了一种端到端的框架，用于去遮挡感知的多视角生成。该方法从单张部分遮挡的图像直接合成六个结构一致的新视图，无需操作原始架构，完全微调视图合成模型以联合学习补全和多视图生成。此外，该研究引入了首个针对去遮挡感知3D重建的标准基准，涵盖不同的遮挡级别、物体种类和遮罩模式，为未来方法提供统一的评估协议。
 ### Conclusion
 本研究通过自监督多视图扩散实现了从单张图像进行3D去遮挡重建，该方法在去遮挡感知的3D重建基准上提供了评估协议，改进了现有模型的视图一致性和3D重建质量。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 372. `cs.CV` - GGTalker：基于可迁移高斯先验和身份特定适应的言语驱动3D对话头合成 [PDF](https://arxiv.org/pdf/2506.21513), [HTML](https://arxiv.org/abs/2506.21513)
 ### Authors
 Wentao Hu,Shunkai Li,Ziqiao Peng,Haoxian Zhang,Fan Shi,Xiaoqiang Liu,Pengfei Wan,Di Zhang,Hui Tian
@@ -4462,9 +3349,6 @@ Wentao Hu,Shunkai Li,Ziqiao Peng,Haoxian Zhang,Fan Shi,Xiaoqiang Liu,Pengfei Wan
 针对上述问题，我们提出了GGTalker模型，通过结合可迁移先验和身份特定适应来合成对话头。我们引入了两阶段先验适应训练策略，用于学习高斯头先验并适应个体特征。我们训练了音频表达和表情视觉先验，以捕捉唇部运动的普遍模式以及头部纹理的总体分布。在自定义适应阶段，我们精确建模了个体说话风格和纹理细节，并引入了颜色MLP生成细粒度、运动对齐的纹理，以及体部修复生成器将渲染结果与背景融合，产生难以区分的、照片级真实的视频帧。
 ### Conclusion
 全面的实验显示，GGTalker在渲染质量、3D一致性、唇部同步精度和训练效率等指标上达到了最先进的性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 373. `cs.CV` - SAM4D: 在相机和LiDAR流中分割一切 [PDF](https://arxiv.org/pdf/2506.21547), [HTML](https://arxiv.org/abs/2506.21547)
 ### Authors
 Jianyun Xu,Song Wang,Ziqian Ni,Chunyong Hu,Sheng Yang,Jianke Zhu,Qiang Li
@@ -4474,9 +3358,6 @@ Jianyun Xu,Song Wang,Ziqian Ni,Chunyong Hu,Sheng Yang,Jianke Zhu,Qiang Li
 本文的创新包括：1. 提出了一种统一的多模态位置编码(UMPE)，用于在共享3D空间中对齐相机和LiDAR特征。2. 提出了运动感知跨模态记忆注意力(MCMA)，该方法利用ego-运动补偿以增强时间一致性和长视距特征检索。3. 开发了一个多模态自动化数据引擎，结合了几种技术来生成高效的伪标签，同时保持语义保真度。
 ### Conclusion
 本文通过在Waymo-4DSeg数据集上进行实验，证明了SAM4D的多模态分割能力和其在数据注释方面的巨大潜力。这种框架能够以比人工注释快若干数量级的速度生成相机和LiDAR对齐的伪标签，同时保持语义保真度，显示了其在自动驾驶场景中的强大应用潜力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 374. `cs.CV` - Maximal Matching Matters: 防止表示坍缩以实现稳健的跨模态检索 [PDF](https://arxiv.org/pdf/2506.21538), [HTML](https://arxiv.org/abs/2506.21538)
 ### Authors
 Hani Alomari,Anushka Sivakumar,Andrew Zhang,Chris Thomas
@@ -4486,9 +3367,6 @@ Hani Alomari,Anushka Sivakumar,Andrew Zhang,Chris Thomas
 为了应对这些挑战，本文提出了最大配对作业相似性来优化嵌入集合之间的一对一匹配，以在集合内保持语义多样性。还引入了两种损失函数：全局判别性损失以增强嵌入之间区别的强度，和内集发散损失以防止每个集合内的坍缩。该方法在不依赖外部数据的情况下，在MS-COCO和Flickr30k上实现了最先进的性能。
 ### Conclusion
 本文提出的方法在MS-COCO和Flickr30k数据集上取得了最先进的性能，无需依赖外部数据，并通过优化嵌入集合之间的一对一匹配以及引入新的损失函数，解决了集合基表示中的稀疏监督和集合坍缩问题。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 375. `cs.CV` - 3DGH: 3D Head Generation with Composable Hair and Face [PDF](https://arxiv.org/pdf/2506.20875), [HTML](https://arxiv.org/abs/2506.20875)
 ### Authors
 Chengan He,Junxuan Li,Tobias Kirschstein,Artem Sevastopolsky,Shunsuke Saito,Qingyang Tan,Javier Romero,Chen Cao,Holly Rushmeier,Giljoo Nam
@@ -4498,9 +3376,6 @@ Chengan He,Junxuan Li,Tobias Kirschstein,Artem Sevastopolsky,Shunsuke Saito,Qing
 本文提出了一个创新的数据表示方法，结合基于模板的3D高斯点绘制，并引入可变形的头发几何形状来捕捉不同发型的几何变化；设计了基于3D GAN的具有双生成器的架构，并采用跨注意力机制来建模头发与面部之间的固有关联；通过精心设计的目标函数在合成渲染数据上训练模型，以稳定训练并促进头发与面部的分离。
 ### Conclusion
 通过广泛实验验证了3DGH的设计选择，并与最新的一些3D GAN方法进行比较，展示了其在无条件全头部图像合成和可组合3D发型编辑方面的有效性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 376. `cs.CV` - 通过网络层非均匀影响进行通用和高效对抗数据检测 [PDF](https://arxiv.org/pdf/2506.20816), [HTML](https://arxiv.org/abs/2506.20816)
 ### Authors
 Furkan Mumcu,Yasin Yilmaz
@@ -4510,9 +3385,6 @@ Furkan Mumcu,Yasin Yilmaz
 我们提出了一种新的、通用于所有DNN架构的高效对抗样本检测方法，该方法通过分析不同DNN层受攻击的影响程度来检测对抗样本。具体方法是训练一个轻量级回归模型，它能够从早期层特征预测深层层特征，并利用预测误差来检测对抗样本。我们通过理论证明和广泛的实验，证明了该检测方法的有效性、实时处理的高效性及其在不同领域的适用性，例如图像、视频和音频。
 ### Conclusion
 我们的检测方法在实际应用中表现优异，提供了一种比提高鲁棒性更实用的防御策略。它不仅计算效率高，适用于任何DNN架构，还适用于图像、视频和音频等多种领域。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 377. `cs.CV` - 心脏MRI和ECG的全局和局部对比学习方法联合表示 [PDF](https://arxiv.org/pdf/2506.20683), [HTML](https://arxiv.org/abs/2506.20683)
 ### Authors
 Alexander Selivanov,Philip Müller,Özgün Turgut,Nil Stolt-Ansó,Daniel Rückert
@@ -4522,9 +3394,6 @@ Alexander Selivanov,Philip Müller,Özgün Turgut,Nil Stolt-Ansó,Daniel Rücker
 PTACL框架通过整合CMR中的时空信息，将ECG表示嵌入得到增强。通过使用全局患者级对比损失和局部时间级对比损失，该方法能够实现ECG和CMR嵌入的实际对齐，同时跨模态转移更多洞察力，而不需要引入新的可学习权重。评估结果表明，PTACL在心脏表型相似性检索和心脏功能参数预测方面表现出更好的性能，这突显了PTACL在非侵入性心脏诊断中的潜力。
 ### Conclusion
 研究结果表明PTACL能够通过将ECG与CMR相结合来提升非侵入性心脏诊断技术。通过此方法，ECG不仅能够识别电活动异常，还能够提供更多诊断信息。研究团队已经开源了该模型的代码，以便其他人进行进一步的研究和应用。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 378. `cs.CV` - StruMamba3D: 探索用于自我监督点云表示学习的结构Mamba [PDF](https://arxiv.org/pdf/2506.21541), [HTML](https://arxiv.org/abs/2506.21541)
 ### Authors
 Chuxin Wang,Yixin Zha,Wenfei Yang,Tianzhu Zhang
@@ -4534,9 +3403,6 @@ Chuxin Wang,Yixin Zha,Wenfei Yang,Tianzhu Zhang
 为了解决这些问题，我们提出了StruMamba3D，一种新颖的自我监督点云表示学习范式。StruMamba3D具有以下几个优点：首先，设计了空间状态并使用它们作为代理来保留点之间的空间依赖关系；其次，通过状态更新策略增强了SSM，并引入了轻量级卷积以促进空间状态之间的交互，从而促进了结构建模的效率；第三，通过引入序列长度自适应策略，降低了预训练的Mamba模型对输入长度变化的敏感性。实验结果表明，该方法在四个下游任务中的性能优越，并且在没有投票策略的情况下，StruMamba3D在ModelNet40上的准确率为95.1%，在ScanObjectNN最难分割上的准确率为92.75%。
 ### Conclusion
 我们的方法在多个下游任务中展示了优越的性能，并且在没有投票策略的情况下，达到了ModelNet40上的95.1%和ScanObjectNN最难分割上的92.75%的准确率。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 379. `cs.CV` - 全身条件下的第一人称视频预测 [PDF](https://arxiv.org/pdf/2506.21552), [HTML](https://arxiv.org/abs/2506.21552)
 ### Authors
 Yutong Bai,Danny Tran,Amir Bar,Yann LeCun,Trevor Darrell,Jitendra Malik
@@ -4546,9 +3412,6 @@ Yutong Bai,Danny Tran,Amir Bar,Yann LeCun,Trevor Darrell,Jitendra Malik
 文章创新点在于通过自回归条件扩散变换器训练模型，以3D人体姿态作为条件，预测以自我为中心的视频。引入了基于人类关节层次结构的运动轨迹条件化，以模拟人类动作如何影响环境。遵循递增难度的任务评估方案，全面评估了模型的预测能力和控制能力。同时，该工作代表了从人类视角出发处理复杂现实环境和实体行为的初步尝试。
 ### Conclusion
 本文通过大数据集和自回归条件扩散变换器模型成功预测了以自我为中心的视频，展示了模型在模拟人类动作对环境影响方面的潜力。通过引入层级评估协议，文章为研究实体代理行为提供了新的视角，为未来工作探索提供了基础。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 380. `cs.CV` - 使用几何感知扩散和时间视频模型实现一致的零样本3D纹理合成 [PDF](https://arxiv.org/pdf/2506.20946), [HTML](https://arxiv.org/abs/2506.20946)
 ### Authors
 Donggoo Kang,Jangyeong Kim,Dasol Jeong,Junyoung Choi,Jeonga Wi,Hyunmin Lee,Joonho Gwon,Joonki Paik
@@ -4558,9 +3421,6 @@ Donggoo Kang,Jangyeong Kim,Dasol Jeong,Junyoung Choi,Jeonga Wi,Hyunmin Lee,Joonh
 我们提出了VideoTex，一种新颖的无缝纹理合成框架，利用视频生成模型来解决3D纹理中的时空不一致性。VideoTex通过引入几何感知条件实现对3D网格结构的精确利用，采用结构化的UV扩散策略以保留语义信息，从而增强了隐藏区域的生成，并生成更平滑和更一致的纹理。此外，VideoTex在纹理保真度、缝合过渡以及稳定性方面优于现有方法，为需要视觉质量和时间一致性的动态实时应用铺平了道路。
 ### Conclusion
 通过广泛的实验，VideoTex在纹理保真度、缝合过渡和稳定性方面表现出色，超越了现有方法，为实时动态应用提供了高质量和时间一致性保证。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 381. `cs.CV` - U-R-VEDA: 结合UNet、残差链接、边缘检测和双注意力模块以及视觉变换器以实现准确的CMR语义分割 [PDF](https://arxiv.org/pdf/2506.20689), [HTML](https://arxiv.org/abs/2506.20689)
 ### Authors
 Racheal Mukisa,Arvind K. Bansal
@@ -4570,9 +3430,6 @@ Racheal Mukisa,Arvind K. Bansal
 U-R-Veda模型集成了一系列先进技术，包括卷积变换、视觉变换器、残差链接、通道注意和空间注意，以及基于边缘检测的跳级链接连接。这些技术共同作用，优化了心脏磁共振成像的准确自动语义分割。该模型能够提取局部特征及其相互关系，并通过嵌入通道和空间注意力机制在卷积块中，以及结合视觉变换器，识别出重要的特征及其空间定位。边缘信息与通道注意、空间注意的双重信息通过跳级链接连接起来，减少了卷积操作中的信息丢失。
 ### Conclusion
 U-R-Veda模型在CMR图像的语义分割中表现优异，根据DSC指标，平均准确性达到了95.2%，尤其是在右心室和左心室心肌的分割方面尤为出色，超过了其他模型的成绩。整体来看，该模型显著提升了CMR图像的语义分割质量，对提高医学图像分析具有重要意义。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 382. `cs.CV` - 开发适用于静磁场不均匀性的MR光谱分析方法 [PDF](https://arxiv.org/pdf/2506.20897), [HTML](https://arxiv.org/abs/2506.20897)
 ### Authors
 Shuki Maruyama,Hidenori Takeshima
@@ -4582,9 +3439,6 @@ Shuki Maruyama,Hidenori Takeshima
 该研究提出了利用深度学习模型进行光谱分析的新方法，该模型通过使用模拟的光谱数据进行训练，这些数据精确反映了由静磁场B0不均匀性引起的变化。该方法特别注重通过多步骤的光谱处理和训练来提高分析的准确性，从而在不同程度的B0不均匀性中表现出色。
 ### Conclusion
 研究结果表明，基于模拟光谱数据训练的深度学习模型能够显著提高光谱分析的准确性，并且在处理不同类型的B0不均匀性时表现出良好的性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 383. `cs.CV` - SharpZO: 仅前向传递的混合灵敏度意识视觉语言模型提示微调 [PDF](https://arxiv.org/pdf/2506.20990), [HTML](https://arxiv.org/abs/2506.20990)
 ### Authors
 Yifan Yang,Zhen Zhang,Rupak Vignesh Swaminathan,Jing Liu,Nathan Susanj,Zheng Zhang
@@ -4594,9 +3448,6 @@ Yifan Yang,Zhen Zhang,Rupak Vignesh Swaminathan,Jing Liu,Nathan Susanj,Zheng Zha
 本文提出了一种混合灵敏度意识零阶优化(SharpZO)方法，旨在通过灵敏度意识预热训练来增强ZO VLM微调的性能。SharpZO采用了两阶段优化过程：第一阶段是灵敏度意识ES阶段，全局探索和平滑损失景观以构建强初始化，第二阶段是通过稀疏ZO优化进行详细的局部搜索。整个优化过程仅依赖于前向传递。
 ### Conclusion
 详细的理论分析和CLIP模型上的大量实验表明，SharpZO显着提高了准确性和收敛速度，在最新的仅前向传递方法上实现了高达7%的平均性能提升。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 384. `cs.CV` - V2X-REALM：基于视觉语言模型的稳健端到端协同自动驾驶及自适应长尾建模 [PDF](https://arxiv.org/pdf/2506.21041), [HTML](https://arxiv.org/abs/2506.21041)
 ### Authors
 Junwei You,Pei Li,Zhuoyu Jiang,Zilin Huang,Rui Gan,Haotian Shi,Bin Ran
@@ -4606,9 +3457,6 @@ Junwei You,Pei Li,Zhuoyu Jiang,Zilin Huang,Rui Gan,Haotian Shi,Bin Ran
 为解决上述挑战，该论文提出了基于视觉语言模型（VLM）的V2X-REALM框架，该框架通过自适应多模态学习来增强在长尾场景下的鲁棒协同自动驾驶能力。V2X-REALM引入了三个核心创新点：首先，通过一个基于提示的长尾场景生成和评估流水线，利用基础模型合成现实中的长尾条件，如雪和雾，这些条件在车辆和基础设施视角都存在，以高效丰富训练多样性；其次，设计了一个门控多场景自适应注意力模块，使用场景先验来调节视觉流，重新校准含糊不清或损坏的特征；最后，提出了多任务场景意识对比学习目标，以提高多模态对齐，并促进场景间特征的可分离性，从而提升系统的性能。
 ### Conclusion
 大量实验结果表明，V2X-REALM在长期尾场景下的鲁棒性、语义推理能力、安全性和规划精度方面超过了现有基准，显著提升了端到端的协同自动驾驶的扩展性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 385. `cs.CV` - 生成性积木世界：在图片中移动事物 [PDF](https://arxiv.org/pdf/2506.20703), [HTML](https://arxiv.org/abs/2506.20703)
 ### Authors
 Vaibhav Vavilala,Seemandhar Jain,Rahul Vasanth,D.A. Forsyth,Anand Bhattad
@@ -4618,9 +3466,6 @@ Vaibhav Vavilala,Seemandhar Jain,Rahul Vasanth,D.A. Forsyth,Anand Bhattad
 本文创新性地提出了通过简单几何抽象来处理生成图像场景的方法，使用凸3D基本几何体装配体表示场景，适应性地使用不同数量的基本几何体表示同一个场景，既能移动整体结构又能调整细节。编辑后通过条件流式方法生成图像，提示纹理考虑了修改后的3D基本几何体，可进行精确的物体和相机移动，且很大程度上保持了对象的身份与特征。与现有技术相比，本文方法在视觉保真度、可编辑性和组份泛化方面表现更优。
 ### Conclusion
 本文通过生成性积木世界，提出了在生成图像的场景中通过简单几何抽象进行交互的方法，并用定量和定性实验验证其方法在视觉保真度、易编辑性和组份泛化方面的优越性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 386. `cs.CV` - 在DCT中发掘宝藏：通过利用潜在相关性推进JPEG质量提升 [PDF](https://arxiv.org/pdf/2506.21171), [HTML](https://arxiv.org/abs/2506.21171)
 ### Authors
 Jing Yang,Qunliang Xing,Mai Xu,Minglang Qiao
@@ -4630,9 +3475,6 @@ JPEG通过量化DCT系数实现了数据压缩，但不可避免地引入了压�
 提出了一种高级DCT域JPEG质量增强（AJQE）方法，该方法利用JPEG图像DCT系数中的两种类别相关性，将多个已建立的像素域模型迁移到DCT域，实现了性能提升同时减少了计算复杂度。与像素域模型相比，该方法获得的DCT域模型在PSNR上平均提高了0.35 dB，并且增强了60.5%的处理吞吐量。
 ### Conclusion
 该研究通过识别和利用JPEG图像DCT系数中隐蔽的相关性，提出了AJQE方法，在保持性能的同时降低了计算复杂度。实验结果表明，DCT域模型在PSNR和提升吞吐量上都优于传统方法。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 387. `cs.CV` - 通过双提示优化和跨融合的个性化联邦学习 [PDF](https://arxiv.org/pdf/2506.21144), [HTML](https://arxiv.org/abs/2506.21144)
 ### Authors
 Yuguang Zhang,Kuangpu Guo,Zhihe Lu,Yunbo Wang,Jian Liang
@@ -4642,9 +3484,6 @@ Yuguang Zhang,Kuangpu Guo,Zhihe Lu,Yunbo Wang,Jian Liang
 该框架中每个客户端维护视觉和语言模态的全局和本地提示：全局提示捕捉跨联邦的共享知识，而局部提示编码客户端特有的语义和领域特征。同时设计了跨融合模块，可适应地整合不同层次的提示，使模型生成与每个客户端独特数据分布相一致的个性化表示
 ### Conclusion
 广泛使用九种具有不同类型的异质性数据集进行实验表明，pFedDC在多个方面始终优于当前最先进的方法
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 388. `cs.CV` - 多模态LLMs在视觉重构与理解中的应用 [PDF](https://arxiv.org/pdf/2506.21319), [HTML](https://arxiv.org/abs/2506.21319)
 ### Authors
 Can Liu,Chunlin Da,Xiaoxiao Long,Yuxiao Yang,Yu Zhang,Yong Wang
@@ -4654,9 +3493,6 @@ Can Liu,Chunlin Da,Xiaoxiao Long,Yuxiao Yang,Yu Zhang,Yong Wang
 本文提出了一种新型数据集，并训练了专门用于理解和重构可视化的多模态LLMs。这一方法将图表图像与其相应的向量化表示、编码方案和数据特征相结合。提出的向量格式使得可视化内容的紧凑且准确的重构成为可能。实验结果表明，这种新方法在数据提取准确性和图表重建质量上都有显著改进。
 ### Conclusion
 本文通过构建数据集和训练专门的多模态LLMs，显著提高了数据提取准确性和图表重建质量，解决了当前多模态大模型在可视化理解中的挑战。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 389. `cs.CV` - 基于相关参考文献和出版物权重的科研论文自动评审人员分配 [PDF](https://arxiv.org/pdf/2506.21331), [HTML](https://arxiv.org/abs/2506.21331)
 ### Authors
 Tamim Al Mahmud,B M Mainul Hossain,Dilshad Ara
@@ -4666,9 +3502,6 @@ Tamim Al Mahmud,B M Mainul Hossain,Dilshad Ara
 本文提出了一种新的自动选择最佳评审者的方法。通过收集引用文献、研究主题关键词提取、寻找顶级研究人员及其影响力指标（如h-index、i10-index和引用次数），并根据评分进行排名来自动选择最适合的评审者。这种方法旨在提高评审过程的效率和准确性。
 ### Conclusion
 本文实现了一种基于相关参考文献和出版物权重的新策略来自动选择最佳评审者。通过收集引用文献、研究主题关键词提取、寻找顶级研究人员及其学术影响力指标，并根据评分进行排名，最终自动获取候选人的联系信息。这种方法有助于提高科研论文评审的质量和效率。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 390. `cs.CV` - GANet-Seg: 使用混合生成模型的对抗学习脑肿瘤分割 [PDF](https://arxiv.org/pdf/2506.21245), [HTML](https://arxiv.org/abs/2506.21245)
 ### Authors
 Qifei Cui,Xinyu Lu
@@ -4678,9 +3511,6 @@ Qifei Cui,Xinyu Lu
 1. 提出了结合预训练GANs和U-net的新型框架，用于脑肿瘤分割。2. 引入了全局异常检测模块和精炼的掩码生成网络，以增强对肿瘤敏感区域的识别精度。3. 使用对抗损失约束优化分割模型，并通过多模态MRI数据和合成图像数据增强技术提高模型的鲁棒性。4. 该方法在有限的标注数据下仍能提供高敏感性和准确性，同时具备可扩展性。
 ### Conclusion
 该研究提出的方法在脑肿瘤分割任务中的表现优于现有的基线方法，具有高敏感性和准确性，同时通过减少对完全标注数据的依赖而表现出可扩展性优势。该方法为临床实际应用提供了可能的解决方案，并为未来的研究提供了新的思路。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 391. `cs.CV` - RL-Selector：通过冗余评估指导的强化学习引导数据选择 [PDF](https://arxiv.org/pdf/2506.21037), [HTML](https://arxiv.org/abs/2506.21037)
 ### Authors
 Suorong Yang,Peijia Li,Furao Shen,Jian Zhao
@@ -4690,9 +3520,6 @@ Suorong Yang,Peijia Li,Furao Shen,Jian Zhao
 文章提出了ε-样本覆盖的概念，该概念利用样本间关系量化样本冗余，并揭示数据集的固有结构。基于此，将数据选择问题重新表述为强化学习（RL）过程，并提出了RL-Selector方法。该方法通过轻量级的RL代理利用演化数据分布的ε-样本覆盖作为奖励信号来优化选择策略。该方法与现存的最先进的基线方法相比，在多个基准数据集和不同架构上验证了其在保持模型性能的同时具有更好的泛化能力和训练效率。
 ### Conclusion
 实验结果表明，使用RL-Selector方法进行数据选择后，模型的训练效率得以提高，并且泛化性能表现更优。该研究为数据选择提供了一种新的强化学习方法，该方法通过考虑样本间冗余关系为数据选择提供了一种有效的途径。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 392. `cs.CV` - ThinkSound：多模态大型语言模型中的思维链推理在音频生成和编辑中的应用 [PDF](https://arxiv.org/pdf/2506.21448), [HTML](https://arxiv.org/abs/2506.21448)
 ### Authors
 Huadai Liu,Jialei Wang,Kaicheng Luo,Wen Wang,Qian Chen,Zhou Zhao,Wei Xue
@@ -4702,9 +3529,6 @@ Huadai Liu,Jialei Wang,Kaicheng Luo,Wen Wang,Qian Chen,Zhou Zhao,Wei Xue
 提出了一个名为ThinkSound的新框架，利用思维链（CoT）推理实现视频音频的逐步、互动生成和编辑。该框架分为三个互补阶段：基础 Foley 生成、通过精确的用户交互进行的互动对象中心化细化以及基于自然语言指令的目标编辑。此外，还引入了AudioCoT数据集，其中包括结构化的推理注释，用于连接视觉内容、文本描述和声音合成
 ### Conclusion
 实验表明ThinkSound在视频到音频生成的音频指标和思维链指标上达到了最先进的性能，并在电影生成音频基准测试中表现出色。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 393. `cs.CV` - ThermalDiffusion: 视觉到红外图像的图像到图像转换以实现自主导航 [PDF](https://arxiv.org/pdf/2506.20969), [HTML](https://arxiv.org/abs/2506.20969)
 ### Authors
 Shruti Bansal,Wenshan Wang,Yifei Liu,Parv Maheshwari
@@ -4714,9 +3538,6 @@ Shruti Bansal,Wenshan Wang,Yifei Liu,Parv Maheshwari
 本文创新性地利用条件扩散模型将现有的 RGB 图像转换为热图像，通过自注意力机制学习真实世界的物体的热特性，为热摄像头在机器人和自动化领域的广泛应用提供数据支持。这种视觉到红外图像的图像到图像的翻译方法填补了现有数据集在热图像方面的空白，有助于加速热摄像头技术的发展和应用。
 ### Conclusion
 本文提出的方法为多模态数据集增加了热图像数据，使热摄像头能够在复杂环境中提供有效的对象识别，加速了机器人和自动化领域的进步。通过条件扩散模型的使用，解决了热图像数据缺乏的问题，推动了热摄像技术及其他自主导航相关技术的快速发展。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 394. `cs.CV` - 从有限视角进行空间心理建模 [PDF](https://arxiv.org/pdf/2506.21458), [HTML](https://arxiv.org/abs/2506.21458)
 ### Authors
 Baiqiao Yin,Qineng Wang,Pingyue Zhang,Jianshu Zhang,Kangrui Wang,Zihan Wang,Jieyu Zhang,Keshigeyan Chandrasegaran,Han Liu,Ranjay Krishna,Saining Xie,Manling Li,Jiajun Wu,Li Fei-Fei
@@ -4726,9 +3547,6 @@ Baiqiao Yin,Qineng Wang,Pingyue Zhang,Jianshu Zhang,Kangrui Wang,Zihan Wang,Jiey
 研究引入了一种名为MindCube的新基准测试，系统评估了VLMs在基于有限视角构建稳健空间心理模型方面的能力，并探索了三种帮助VLMs近似构建空间心理模型的方法，包括利用未见的中间视角、自然语言推理链和认知地图。研究提出了一种协同方法“构建地图然后推理”，联合训练模型先生成认知地图，再在此基础上进行推理，通过训练模型在内部地图上的推理过程提升了准确率至60.8% (+23.0%)，引入强化学习后进一步提升至70.7% (+32.9%)。论文的关键洞察是在空间心理模型的构建中，积极构建和利用结构化的内部空间表示并进行灵活的推理过程，显著提高了对不可见空间的理解能力。
 ### Conclusion
 通过以上研究方法，显著提升了VLMs对不可见空间的理解能力。基于内部地图的推理和引入强化学习的策略极大地提高了模型的性能。研究表明，构建和利用动态的空间心理模型对增强VLMs处理有限视角下的空间理解任务具有重要价值。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 395. `cs.CV` - ResQ: 一种在模拟射频原子量子计算机中实现残差神经网络的新框架 [PDF](https://arxiv.org/pdf/2506.21537), [HTML](https://arxiv.org/abs/2506.21537)
 ### Authors
 Nicholas S. DiBrita,Jason Han,Tirthak Patel
@@ -4738,9 +3556,6 @@ Nicholas S. DiBrita,Jason Han,Tirthak Patel
 提出了 ResQ 框架，这是一种新型框架，用于优化射频原子量子计算机的动力学，以使用模拟量子神经ODE解决机器学习中的分类问题。这是首次将这种理论应用于基于神经ODE的 ResNets 在量子计算中的实现。
 ### Conclusion
 通过 ResQ 框架优化的射频原子量子计算机能够有效地实现 ResNets，为使用模拟量子神经ODE解决机器学习分类问题提供了一种新的方式。这项研究不仅展示了射频原子量子计算机在机器学习领域的潜力，也为未来的研究指明了方向。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 396. `cs.CV` - QuEST：通过高效选择性微调实现低位宽扩散模型量化 [PDF](https://arxiv.org/pdf/2402.03666), [HTML](https://arxiv.org/abs/2402.03666)
 ### Authors
 Haoxuan Wang,Yuzhang Shang,Zhihang Yuan,Junyi Wu,Junchi Yan,Yan Yan
@@ -4750,9 +3565,6 @@ Haoxuan Wang,Yuzhang Shang,Zhihang Yuan,Junyi Wu,Junchi Yan,Yan Yan
 提出了一种通过权重选择性微调来调整不均衡的激活分布，使激活分布更加适合量化。进一步区分了两种重要的量化层类型，并通过局部和全局监督对这两种类型的层进行选择性微调，这有助于提高量化效率并减少性能下降。
 ### Conclusion
 该方法在三种高分辨率图像生成任务中展示了其有效性，跨多个位宽设置达到了最先进的性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 397. `cs.CV` - 自调节神经发生用于在线增量数据学习 [PDF](https://arxiv.org/pdf/2403.14684), [HTML](https://arxiv.org/abs/2403.14684)
 ### Authors
 Murat Onur Yildirim,Elif Ceren Gok Yildirim,Decebal Constantin Mocanu,Joaquin Vanschoren
@@ -4762,9 +3574,6 @@ Murat Onur Yildirim,Elif Ceren Gok Yildirim,Decebal Constantin Mocanu,Joaquin Va
 提出了一个名为SERENA的新方法，借鉴‘自我调节神经发生’机制，在一个过参数化网络中将每个概念编码到一种称为‘概念单元’的特殊网络路径中。一旦一个概念被学习，它的相应概念单元就会被冻结，防止遗忘先前获得的信息。此外，还引入了两种新的连续学习场景，这些场景逐渐改变样本大小，更贴近现实世界条件。实验结果显示，该方法不仅在十个基准测试中建立了新的SOTA结果，还显著超过了离线监督批次学习的性能。
 ### Conclusion
 实验结果表明，本研究的方法不仅在十个基准测试中建立了新的SOTA结果，还显著超过了离线监督批次学习的性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 398. `cs.CV` - 轻量级物理指导的零样本超声平面波去噪 [PDF](https://arxiv.org/pdf/2506.21499), [HTML](https://arxiv.org/abs/2506.21499)
 ### Authors
 Hojat Asgariandehkordi,Mostafa Sharifzadeh,Hassan Rivaz
@@ -4774,9 +3583,6 @@ Hojat Asgariandehkordi,Mostafa Sharifzadeh,Hassan Rivaz
 本文提出了一个零样本降噪框架，适用于低角度CPWC采集，并采用轻量级的双卷积层架构。该框架利用物理信息，通过将扫描角度分为两个不相交的子集来分别生成具有较高噪声水平的合成图像，然后通过自我监督残差学习方案训练深度模型，以抑制无序噪声同时保留解剖结构。该模型无需领域特定的微调或配对数据，适用于多种解剖区域和采集设置，且具有低计算成本的优点。与监督方法相比，该方法在仿真实验、模拟测试及体内数据上均表现出优于经典和基于深度学习的去噪方法的效果。
 ### Conclusion
 本文提出的零样本降噪框架通过轻量级的双卷积层架构和物理信息指导的去噪策略，为低角度CPWC采集提供了高效的去噪解决方案，展示了在多种情况下优于经典和基于深度学习的去噪方法的效果。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 399. `cs.CV` - 我的数据在你的AI模型中吗？基于面部图像的应用成員推理测试 [PDF](https://arxiv.org/pdf/2402.09225), [HTML](https://arxiv.org/abs/2402.09225)
 ### Authors
 Daniel DeAlcala,Aythami Morales,Julian Fierrez,Gonzalo Mancera,Ruben Tolosana,Javier Ortega-Garcia
@@ -4786,9 +3592,6 @@ Daniel DeAlcala,Aythami Morales,Julian Fierrez,Gonzalo Mancera,Ruben Tolosana,Ja
 本文提出了两种MINT架构，基于多层感知器（MLPs）和卷积神经网络（CNNs），旨在学习审计模型在暴露于其训练数据时产生的独特激活模式。通过这种方式，能够有效地评估事物是否使用特定数据进行训练，这在强制执行隐私和公平性方面具有重要意义，尤其是在大规模语言模型（LLMs）的训练或调整中揭示敏感或私人数据的使用情况。
 ### Conclusion
 提出的MINT方法在实验中取得了令人鼓舞的结果，准确率最高可达90%，表明了识别AI模型是否使用特定数据的潜力。该方法可以用于多种AI应用中，以强化隐私和公平性，如揭示敏感或私人数据是否被用于训练或调整大规模语言模型。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 400. `cs.CV` - 探索用于CT报告生成的3D MLLMs设计空间 [PDF](https://arxiv.org/pdf/2506.21535), [HTML](https://arxiv.org/abs/2506.21535)
 ### Authors
 Mohammed Baharoon,Jun Ma,Congyu Fang,Augustin Toma,Bo Wang
@@ -4798,9 +3601,6 @@ Mohammed Baharoon,Jun Ma,Congyu Fang,Augustin Toma,Bo Wang
 本文的研究重点在于系统探索3D MLLMs的设计空间，包括视觉输入表示、投影器、大型语言模型以及3D CT报告生成的微调技术。还提出了基于知识的报告增强方法，显著提高了GREEN评分，并在MICCAI 2024 AMOS-MM挑战赛中取得了优异成绩。此外，研究表明，在同一训练协议下，LLM的大小并未显著影响RRG的效果，并且更大的体积大小并不总是提升性能，特别是当最初的ViT预训练在较小的体积大小上时。最后，使用分割掩码与CT体积一起可以提高性能。
 ### Conclusion
 本文结果表明，3D MLLMs在AMOS-MM数据集中的1,687例病例上，报告的生成很大程度上独立于LLM的大小。此外，研究表明更大的体积大小不总是提升性能，特别是在原来的ViT预训练是在较小的体积大小上时。最后，使用分割掩码与CT体积一起可以提高性能。相关代码已公开。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 401. `cs.CV` - 基于多源数据融合的遗迹滑坡检测语义分割模型 [PDF](https://arxiv.org/pdf/2308.01251), [HTML](https://arxiv.org/abs/2308.01251)
 ### Authors
 Yiming Zhou,Yuexing Peng,Daqing Ge,Junchuan Yu,Wei Xiang
@@ -4810,9 +3610,6 @@ Yiming Zhou,Yuexing Peng,Daqing Ge,Junchuan Yu,Wei Xiang
 提出了一种基于超像素对比学习增强分割网络（HPCL-Net），通过HPCL改进了边界区域的局部显著特征提取，并通过语义空间中异质信息的融合提高了提取能力。此外，还开发了一种全局超像素样本对队列基于对比学习的方法，包括构建存储超像素样本的全局队列和更新方案，进一步增强了语义特征的提取能力。这些创新方法使得模型在遗迹滑坡检测任务上表现优异，验证了在实验结果上的提升，包括mIoU、Landslide IoU和F1评分的显著增加。
 ### Conclusion
 提出的HPCL-Net在遗迹滑坡检测数据集上的评价表明，该模型相对于现有模型显著提升了检测性能，其中mIoU从0.620提升到0.651，Landslide IoU从0.334提升到0.394，F1分数从0.501提升到0.565。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 402. `cs.CV` - 高效变长注意力头部的图像生成 [PDF](https://arxiv.org/pdf/2211.05770), [HTML](https://arxiv.org/abs/2211.05770)
 ### Authors
 Steven Walton,Ali Hassani,Xingqian Xu,Zhangyang Wang,Humphrey Shi
@@ -4822,9 +3619,6 @@ Steven Walton,Ali Hassani,Xingqian Xu,Zhangyang Wang,Humphrey Shi
 提出了一种简单而强大的方法，即允许单个变压器的注意力头关注多个感受野，通过这种方式减少计算成本与图像生成一致性之间的权衡。该方法被应用于基于StyleGAN的架构中，形成了StyleNAT模型。
 ### Conclusion
 在FFHQ数据集上，StyleNAT实现了2.05的FID得分，优于StyleGAN-XL，参数减少28%，并具有4倍的吞吐量能力。StyleNAT在FFHQ-256和其它数据集上展示了强大的图像生成能力。代码和模型权重已公开发布。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 403. `cs.CV` - FairyGen: 仅凭一个儿童绘制的人物创作的故事化卡通视频 [PDF](https://arxiv.org/pdf/2506.21272), [HTML](https://arxiv.org/abs/2506.21272)
 ### Authors
 Jiayi Zheng,Xiaodong Cun
@@ -4834,9 +3628,6 @@ Jiayi Zheng,Xiaodong Cun
 1. 提出了一种名为FairyGen的自动系统，用于生成故事驱动的卡通视频，从单个儿童绘画作品生成故事驱动的画卷，同时精确保留其独特的艺术风格。2. FairyGen通过明确分离角色建模和风格化背景生成，并结合电影镜头设计来支持表达和连贯的故事叙述。3. 系统首先使用MLLM生成故事板，并包含拍摄级别描述，随后引入一种风格传播适配器来捕获角色的视觉风格并将其应用于背景中，确保视觉一致性，同时合成风格一致的场景。4. 通过细化基于故事板进行帧裁剪和多视图合成，进一步增强视觉多样性及电影质量。使用3D代理角色重建和基于MMDiT的图像到视频扩散模型进行动画处理，最后通过两阶段运动自定义适配器进行填色和运动帧级调整。5. FairyGen使用故事板直接渲染多样且连贯的视频场景，生成风格准确、叙述性的自然运动动画，增强了个性化和交互的故事情节表现。
 ### Conclusion
 大量实验证明，我们的系统能够生成叙述结构自然、符合风格的故事动画，展示了其在个性化和吸引人的故事动画中的潜在应用价值。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 404. `cs.CV` - 根据生物需求进行细胞追踪 -- 一种强细胞分裂感知的多假设追踪器及其 aleatoric 不确定性评估 [PDF](https://arxiv.org/pdf/2403.15011), [HTML](https://arxiv.org/abs/2403.15011)
 ### Authors
 Timo Kaiser,Maximilian Schier,Bodo Rosenhahn
@@ -4846,9 +3637,6 @@ Timo Kaiser,Maximilian Schier,Bodo Rosenhahn
 本文提出了一种用于运动估计框架的不确定估计技术，并扩展了多假设追踪框架。该技术通过问题特定的测试时间增强将运动表示提升为概率空间密度。此外，还引入了一种新的细胞分裂感知分配问题表述，使多假设追踪器能够建模细胞分裂并基于长期冲突解决错误关联和错误的细胞分裂检测。在框架中，具体生物学知识被建模为分配成本。
 ### Conclusion
 我们在九个具有竞争力的数据集上评估了我们的方法，并证明了我们的方法在生物启发的指标上显著优于当前最先进的方法，性能有了大约6倍的提升，并揭示了运动估计不确定性的新见解。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 405. `cs.CV` - HERMES: 临时连贯的长格式理解与情节和语义 [PDF](https://arxiv.org/pdf/2408.17443), [HTML](https://arxiv.org/abs/2408.17443)
 ### Authors
 Gueter Josmy Faure,Jia-Fong Yeh,Min-Hung Chen,Hung-Ting Su,Shang-Hong Lai,Winston H. Hsu
@@ -4858,9 +3646,6 @@ Gueter Josmy Faure,Jia-Fong Yeh,Min-Hung Chen,Hung-Ting Su,Shang-Hong Lai,Winsto
 本文提出了HERMES这一创新方法，它通过引入两个可扩展模块Episodic Compressor (ECO) 和 Semantics Retriever (SeTR)，在保留时间依赖关系的同时，高效地从微至半宏级别聚合表示，在减少计算开销的同时增强了语义信息，从而改善了现有的视频-语言模型的性能，降低了43%的推理延迟和46%的内存使用率。作为独立系统，HERMES在多项长视频理解基准测试中达到了最优性能，无论是零样本还是完全监督设置下均如此。
 ### Conclusion
 HERMES通过模块化设计，无缝集成到现有的最优模型，提升了其性能，证明了在处理长视频理解问题上的优越性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 406. `cs.CV` - 利用多模态大型语言模型提升零样本图像分类能力 [PDF](https://arxiv.org/pdf/2405.15668), [HTML](https://arxiv.org/abs/2405.15668)
 ### Authors
 Abdelrahman Abdelhamed,Mahmoud Afifi,Alec Go
@@ -4870,9 +3655,6 @@ Abdelrahman Abdelhamed,Mahmoud Afifi,Alec Go
 该方法利用多模态LLMs生成图像的全面文本表示，生成跨模态嵌入空间中的固定维度特征，并通过简单的线性分类器进行零样本分类，无需为每个数据集进行提示工程。相比以往方法在多个数据集上实现了显著的准确性提升。
 ### Conclusion
 该研究通过多模态LLMs在零样本图像分类中的应用，展示了其对传统方法的显著改进，并探索了多模态LLMs在计算机视觉任务中的潜在应用。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 407. `cs.CV` - 利用高效掩码图像建模技术大规模利用卫星图像 [PDF](https://arxiv.org/pdf/2406.11933), [HTML](https://arxiv.org/abs/2406.11933)
 ### Authors
 Fengxiang Wang,Hongzhen Wang,Di Wang,Zonghao Guo,Zhenyu Zhong,Long Lan,Wenjing Yang,Jing Zhang
@@ -4882,9 +3664,6 @@ Fengxiang Wang,Hongzhen Wang,Di Wang,Zonghao Guo,Zhenyu Zhong,Long Lan,Wenjing Y
 我们创建了一个高质量的大规模RS数据集OpticalRS-13M，以及提出了一种名为SelectiveMAE的预训练方法，该方法可动态编码和重建富含语义的块标记，减少传统MIM模型中由于RS图像中的冗余背景像素导致的无效性，进而显著提高模型的训练效率。
 ### Conclusion
 OpticalRS-13M显著改善了分类、检测和分割性能，而SelectiveMAE提高了训练效率超过2倍。这突显了我们管道在开发RS基础模型中的有效性和可扩展性。数据集、源代码和训练模型将在此网站上发布。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 408. `cs.CV` - ROA-BEV: 2D 区域导向注意机制用于基于BEV的3D物体检测 [PDF](https://arxiv.org/pdf/2410.10298), [HTML](https://arxiv.org/abs/2410.10298)
 ### Authors
 Jiwei Chen,Yubao Sun,Laiyan Ding,Rui Huang
@@ -4894,9 +3673,6 @@ Jiwei Chen,Yubao Sun,Laiyan Ding,Rui Huang
 提出了一种基于BEV的3D物体检测网络（ROA-BEV），使得骨干网络能够更多地关注物体存在的区域的特征学习。此外，该方法通过多尺度结构进一步增强了ROA的信息特征学习能力。每个ROA块使用大核确保感受野足够大以捕获关于大物体的信息。实验表明，ROA-BEV在nuScenes数据集上的性能优于BEVDepth。
 ### Conclusion
 该工作中的源代码将在以下链接提供: 这里 https URL。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 409. `cs.CV` - ToMiE: 向外骨骼化以实现复杂3D人体模型的重建 [PDF](https://arxiv.org/pdf/2410.08082), [HTML](https://arxiv.org/abs/2410.08082)
 ### Authors
 Yifan Zhan,Qingtian Zhu,Muyao Niu,Mingze Ma,Jiancheng Zhao,Zhihang Zhong,Xiao Sun,Yu Qiao,Yinqiang Zheng
@@ -4906,9 +3682,6 @@ Yifan Zhan,Qingtian Zhu,Muyao Niu,Mingze Ma,Jiancheng Zhao,Zhihang Zhong,Xiao Su
 本文提出了一个名为ToMiE的方法，该方法包括父关节定位和外部关节优化。通过结合LBS混合权重和运动内核的梯度导向方法实现父关节定位。外部关节一旦确定，通过SE(3)优化不同帧间的变换，实现了增强渲染能力和自由动画生成的新方法。实验表明ToMiE在各种手持物和宽松衣物的情况下具有更好的重建质量，并能提供生长关节的自由动画，从而提升了SMPL骨架的表达能力，适用于更广泛的应用场景。
 ### Conclusion
 ToMiE方法在手持物和宽松衣物的重建中表现出色，不仅在渲染质量上有所提升，还能够在不同场景中提供生长关节的自由动画，从而增强了SMPL骨架的表达能力，使其在更广泛的3D人类建模应用中更具灵活性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 410. `cs.CV` - 学习成为Transformer以精确定点异常 [PDF](https://arxiv.org/pdf/2407.04092), [HTML](https://arxiv.org/abs/2407.04092)
 ### Authors
 Alex Costanzino,Pierluigi Zama Ramirez,Giuseppe Lisanti,Luigi Di Stefano
@@ -4918,9 +3691,6 @@ Alex Costanzino,Pierluigi Zama Ramirez,Giuseppe Lisanti,Luigi Di Stefano
 提出了一种新的教师-学生架构，称为'学习成为Transformer以精确定点异常'。该方法通过训练两个浅层MLP（学生）模仿冻结的视觉变压器（教师）的自注意力层产生的图像补丁嵌入映射，从而学习需要处理高分辨率输入图像的难题，这些问题对于小容量模型来说很难解决，尤其是应用于异常图像的数据。这种方法能够在保持较高分辨率下识别异常，且运行速度远超竞争对手，表现出在MVTec AD和VisA上的优越性能，并提出了新的评价指标来评估缺陷大小的鲁棒性表现。
 ### Conclusion
 本文提出的方法在保持高效的处理高分辨率图像的同时，能更好地识别异常，并通过新的评估指标证明其在检测大缺陷到小缺陷上的鲁棒性表现。该研究为工业环境中的异常检测方法提供了一种新的思考方向，尤其在处理小缺陷时展现出明显的优势。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 411. `cs.CV` - CanFields: 标准化汇聚场用于非刚性4D插值的差动流合并不定长度序列 [PDF](https://arxiv.org/pdf/2406.18582), [HTML](https://arxiv.org/abs/2406.18582)
 ### Authors
 Miaowei Wang,Changjian Li,Amir Vaxman
@@ -4930,9 +3700,6 @@ Miaowei Wang,Changjian Li,Amir Vaxman
 引入了新的方法Canonical Consolidation Fields (CanFields)，它可以无缝地将不定长度的独立采样3D点云序列组合成一个统一连续且连贯的变形形状。CanFields 通过两个新的自定义模块，即动态汇聚模块和差动流表示运动，联合优化了基础几何形状和其运动，从而提高了细部几何及变形的准确性，并能处理缺失区域、噪声原始扫描和稀疏数据等复杂情况。
 ### Conclusion
 实验结果表明，CanFields 在超过50种不同的序列上表现出了更高的鲁棒性和准确性，即使在存在缺失部分、噪声原始扫描和稀疏数据的情况下也能表现出优越性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 412. `cs.CV` - ClimateIQA: 一个新的数据集和基准，促进气象异常分析的视觉语言模型进步 [PDF](https://arxiv.org/pdf/2406.09838), [HTML](https://arxiv.org/abs/2406.09838)
 ### Authors
 Jian Chen,Peilin Zhou,Yining Hua,Dading Chong,Meng Cao,Yaowei Li,Wei Chen,Bing Zhu,Junwei Liang,Zixuan Yuan
@@ -4942,9 +3709,6 @@ Jian Chen,Peilin Zhou,Yining Hua,Dading Chong,Meng Cao,Yaowei Li,Wei Chen,Bing Z
 我们引入了Sparse Position and Outline Tracking（SPOT），一种专门用于处理视觉数据中不规则彩色区域的新算法。SPOT通过提取空间坐标来识别和定位这些区域，使其能够为不规则形状提供结构化表示。在此基础上，我们构建了ClimateIQA，这是一个新颖的气象视觉问答（VQA）数据集，包含26,280个高分辨率热图和762,120个指令样本，用于分析风速、总降水量、风寒指数和热指数。ClimateIQA通过整合空间线索、地理元数据和再分析数据，提高了模型在解释和描述极端天气特征时的准确性。此外，我们还开发了基于SPOT增强ClimateIQA的Climate-Zoo系列微调VLMs，这些模型在气象热图任务中显著优于现有模型。
 ### Conclusion
 ClimateIQA通过提供结构化表示、空间和地理信息大数据集，提高了VLMs在气象异常分析中的性能，Climate-Zoo则体现了这一改进，超越了现有模型。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 413. `cs.CV` - 破解多云难题：利用Sentinel-1和Sentinel-2时间序列在全球农业景观中实现稳健的边界划定 [PDF](https://arxiv.org/pdf/2409.13568), [HTML](https://arxiv.org/abs/2409.13568)
 ### Authors
 Foivos I. Diakogiannis,Zheng-Shu Zhou,Jeff Wang,Gonzalo Mata,Dave Henry,Roger Lawes,Amy Parker,Peter Caccetta,Rodrigo Ibata,Ondrej Hlinka,Jonathan Richetti,Kathryn Batchelor,Chris Herrmann,Andrew Toovey,John Taylor
@@ -4954,9 +3718,6 @@ Foivos I. Diakogiannis,Zheng-Shu Zhou,Jeff Wang,Gonzalo Mata,Dave Henry,Roger La
 该研究提出了一种基于高效3D视觉变换器架构的时空联系模型，能够直接从原始且带有云污染的影像数据中准确划界田地边界。通过PTAViT3D-CA模型将Sentinel-1和Sentinel-2数据进行融合处理，进一步增强模型鲁棒性。该模型通过在多种数据集上的广泛测试，显示了优越的全球可转移性和鲁棒性。研究简化了数据准备工作流，极大地提高了适应不同农业环境的能力。
 ### Conclusion
 研究结果一致地展示了PTAViT3D和PTAViT3D-CA模型的先进性能，证明了它们在全球不同农业环境中的卓越适应性和鲁棒性。代码和模型已公开提供。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 414. `cs.CV` - RS-vHeat: Heat Conduction Guided Efficient Remote Sensing Foundation Model [PDF](https://arxiv.org/pdf/2411.17984), [HTML](https://arxiv.org/abs/2411.17984)
 ### Authors
 Huiyang Hu,Peijin Wang,Hanbo Bi,Boyuan Tong,Zhaozhi Wang,Wenhui Diao,Hao Chang,Yingchao Feng,Ziqi Zhang,Yaowei Wang,Qixiang Ye,Kun Fu,Xian Sun
@@ -4966,9 +3727,6 @@ Huiyang Hu,Peijin Wang,Hanbo Bi,Boyuan Tong,Zhaozhi Wang,Wenhui Diao,Hao Chang,Y
 文章提出了RS-vHeat模型，该模型具有以下创新点：1) 使用热传导算子（HCO）以O(N^{1.5})的复杂度和全局感受野，降低了计算开销并捕获遥感物体结构信息以指导热量扩散；2) 通过基于频域分层遮罩和多域重建的自监督策略学习各种场景的频率分布表示；3) 在4个任务和10个数据集上，RS-vHeat在效率和性能上显著优于最先进的技术。与基于注意力的遥感基础模型相比，该模型减少了84%的内存使用、24%的FLOPs，并将吞吐量提高了2.7倍。代码将公开提供。
 ### Conclusion
 RS-vHeat是一种高效多模态遥感基础模型，结合了热传导的并行计算模型来模拟高分辨率遥感图像中的局部区域相关性，通过有效的自监督学习策略提高了模型的效率和性能，并显著降低了内存和计算资源的使用。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 415. `cs.CV` - Recall and Refine: 一种简单但有效的无源开放集域适应框架 [PDF](https://arxiv.org/pdf/2411.12558), [HTML](https://arxiv.org/abs/2411.12558)
 ### Authors
 Ismail Nejjar,Hao Dong,Olga Fink
@@ -4978,9 +3736,6 @@ Open-set Domain Adaptation（OSDA）旨在将标记的源域模型适应到未�
 提出了一种名为Recall and Refine (RRDA)的新型SF-OSDA框架，该框架通过显式学习目标私有未知类的区分性特征来解决上述问题。RRDA采用两阶段过程，首先通过训练目标分类器识别未知类，引入由目标域特征生成的合成样本来指导决策边界，使分类器能够有效地区分已知和未知类。其次，全面适应模型以处理域转移和与未知类的可分性问题，任何现成的无源域适应方法（例如SHOT、AaD）都可以无缝集成到此框架中。
 ### Conclusion
 在三个基准数据集上进行的大量实验表明，RRDA在性能上显著优于现有SF-OSDA和OSDA方法。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 416. `cs.CV` - MvKeTR：多视图感知与知识增强的胸部CT报告生成 [PDF](https://arxiv.org/pdf/2411.18309), [HTML](https://arxiv.org/abs/2411.18309)
 ### Authors
 Xiwei Deng,Xianchun He,Jianfeng Bao,Yudan Zhou,Shuhui Cai,Congbo Cai,Zhong Chen
@@ -4990,9 +3745,6 @@ CT报告生成（CTRG）旨在自动为3D体积生成诊断报告，减轻临床
 提出了一个多视图感知知识增强Transformer（MvKeTR）模型来模拟临床人员的诊断流程。该模型包含一个多视图感知聚合器（MVPA），能够视图感知注意力机制下从多个解剖视图中综合诊断信息。此外，通过借鉴放射科医生查阅相关临床记录以指导诊断决策的方式，设计了一种跨模态知识增强器（CMKE），能够基于查询体积检索最相似的报告，将领域知识融入诊断过程。模型采用了柯尔莫哥洛夫-阿诺德网络（KANs）作为基本构建块，显示出更优秀的参数效率和减少光谱偏差的能力，更利于捕捉CT解释中至关重要的高频成分，同时减少了过拟合。
 ### Conclusion
 在公开的CTRG-Chest-548K数据集上的大量实验表明，该方法在几乎所有指标上均超越了之前的最先进模型（SOTA）。开源代码在此处 https://github.com/example-link。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 417. `cs.CV` - Mr. DETR++: 带混合专家指令多路训练的检测变换器 [PDF](https://arxiv.org/pdf/2412.10028), [HTML](https://arxiv.org/abs/2412.10028)
 ### Authors
 Chang-Bin Zhang,Yujie Zhong,Kai Han
@@ -5002,9 +3754,6 @@ Chang-Bin Zhang,Yujie Zhong,Kai Han
 提出了指令性多路径训练机制，该机制包括一个主要路径进行一对一预测和两个辅助路径进行一对多预测。他们引入了一种新的指令性自我注意力机制，用于辅助路径之一以动态引导对象查询；另一个辅助路径采用路径感知的MoE来优化效率和效果之间的平衡，尽管在此路径中的辅助路径在推理阶段会被丢弃。
 ### Conclusion
 该方法在各种目标检测基准上进行了广泛的实验，展示了一致的改进，包括实例分割和语义分割任务的探讨，进一步验证了其有效性。该方法具有高度灵活性，可以容易地适应其他任务。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 418. `cs.CV` - InfiniCube: 通过世界导向的视频模型实现无界限可控动态3D驾驶场景生成 [PDF](https://arxiv.org/pdf/2412.03934), [HTML](https://arxiv.org/abs/2412.03934)
 ### Authors
 Yifan Lu,Xuanchi Ren,Jiawei Yang,Tianchang Shen,Zhangjie Wu,Jun Gao,Yue Wang,Siheng Chen,Mike Chen,Sanja Fidler,Jiahui Huang
@@ -5014,9 +3763,6 @@ Yifan Lu,Xuanchi Ren,Jiawei Yang,Tianchang Shen,Zhangjie Wu,Jun Gao,Yue Wang,Sih
 InfiniCube 方法通过构建地图条件下的稀疏体素生成模型来实现无限体素世界的生成。通过一组精心设计的像素对齐的指导缓冲区将视频模型适应到体素世界中，实现了外观的一致性。最后还提出了一种快速前馈方法，结合体素和像素分支将动态视频提升为具有可控对象的动态3D高斯分布。
 ### Conclusion
 InfiniCube 方法能够生成可控且真实的3D驾驶场景，广泛实验验证了模型的有效性和优越性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 419. `cs.CV` - SIDA: 社交媒体图像深度伪造检测、定位与解释 large多模态模型 [PDF](https://arxiv.org/pdf/2412.04292), [HTML](https://arxiv.org/abs/2412.04292)
 ### Authors
 Zhenglin Huang,Jinwei Hu,Xiangtai Li,Yiwei He,Xingyu Zhao,Bei Peng,Baoyuan Wu,Xiaowei Huang,Guangliang Cheng
@@ -5026,9 +3772,6 @@ Zhenglin Huang,Jinwei Hu,Xiangtai Li,Yiwei He,Xingyu Zhao,Bei Peng,Baoyuan Wu,Xi
 作者提出了一个新的图像深度伪造检测、定位和解释框架SIDA（Social media Image Detection, localization, and explanation Assistant）。该框架利用大型多模态模型的优势，不仅鉴别图像的真实性，还能通过掩膜预测标记伪造区域，并提供模型决策依据的文本解释。与SID-Set和其他基准上的最新深度伪造检测模型相比，广泛的实验结果表明，SIDA在多个设置中取得了优越的性能。
 ### Conclusion
 SIDA不仅在检测深度伪造方面表现优秀，还能提供详细的解释和定位。此外，作者还释放了代码、模型和数据集。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 420. `cs.CV` - Pretrained Reversible Generation作为无监督视觉表示学习 [PDF](https://arxiv.org/pdf/2412.01787), [HTML](https://arxiv.org/abs/2412.01787)
 ### Authors
 Rongkun Xue,Jinouwen Zhang,Yazhe Niu,Dazhong Shen,Bingqi Ma,Yu Liu,Jing Yang
@@ -5038,9 +3781,6 @@ Rongkun Xue,Jinouwen Zhang,Yazhe Niu,Dazhong Shen,Bingqi Ma,Yu Liu,Jing Yang
 本文提出了预训练可逆生成（PRG），它通过反转预训练连续生成模型的生成过程来提取无监督表示。PRG有效地重用了这些无监督生成模型，并利用它们的高容量作为稳健且通用的特征提取器，以支持下游任务。该框架允许根据特定下游任务灵活选择特征层次结构。实验结果表明，该方法在多个基准测试中始终优于先前的方法，并在生成模型方法中达到了最先进的性能，其中在64*64分辨率的ImageNet数据集上实现了78%的Top-1准确率。严谨的消融研究，包括遍历分布评估，进一步验证了该方法的有效性。
 ### Conclusion
 与先前基于生成模型的方法相比，该方法在多个基准测试中实现了最先进性能，特别是在64*64分辨率的ImageNet数据集上的Top-1准确率达78%。广泛的消融研究进一步验证了该方法的有效性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 421. `cs.CV` - Materialist: 使用单图像逆渲染的基于物理的编辑 [PDF](https://arxiv.org/pdf/2501.03717), [HTML](https://arxiv.org/abs/2501.03717)
 ### Authors
 Lezhong Wang,Duc Minh Tran,Ruiqi Cui,Thomson TG,Anders Bjorholm Dahl,Siavash Arjomand Bigdeli,Jeppe Revall Frisvad,Manmohan Chandraker
@@ -5050,9 +3790,6 @@ Lezhong Wang,Duc Minh Tran,Ruiqi Cui,Thomson TG,Anders Bjorholm Dahl,Siavash Arj
 本文提出了Materialist方法，结合了基于学习的方法与基于物理的渐进可微渲染。该方法利用神经网络预测初始材料属性，然后使用可微分渲染逐进优化环境图以进一步细化材料属性，其目标是使渲染结果尽可能贴近输入图像。这种方法能够应用于材料编辑、对象插入、重新照明等，同时提供了一种在无需完整场景几何的情况下编辑材料透明度的有效方法。此外，该方法在环境图估计方面也达到了最先进的性能，进一步提高了图像编辑任务的准确性。
 ### Conclusion
 实验表明，该方法在合成和真实世界数据集上表现出强大的性能，甚至在复杂的离域图像中也表现出色。这对于单图像编辑任务是一个重要的贡献。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 422. `cs.CV` - SweepEvGS: 基于事件的3D高斯点云渲染方法及其在单次扫掠中对宏观和微观辐射场渲染的应用 [PDF](https://arxiv.org/pdf/2412.11579), [HTML](https://arxiv.org/abs/2412.11579)
 ### Authors
 Jingqian Wu,Shuo Zhu,Chutian Wang,Boxin Shi,Edmund Y. Lam
@@ -5062,9 +3799,6 @@ Jingqian Wu,Shuo Zhu,Chutian Wang,Boxin Shi,Edmund Y. Lam
 本文提出了SweepEvGS，一种新颖的硬件集成方法，利用事件摄像机从单次扫掠中在各种成像设置下实现可靠和准确的新视角合成。SweepEvGS 利用单次扫掠期间捕捉的密集事件流初期静态帧来有效地重构详细的场景视图。还引入了不同的现实世界硬件成像系统进行现实世界数据的采集和评估，以供未来研究使用。通过在三种不同成像设置下的实验验证了SweepEvGS的鲁棒性和效率：合成对象，现实世界的宏观级别，以及现实世界的微观级别视图合成。结果显示，SweepEvGS在视觉渲染质量、渲染速度和计算效率方面优于现有方法，突显了其在动态实践中的应用潜力。
 ### Conclusion
 我们的结果表明，SweepEvGS在视觉渲染质量、渲染速度和计算效率方面超越了现有的方法，突显了其在动态实践中应用的潜力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 423. `cs.CV` - ClearSight: 事件驱动运动去模糊的人类视觉启发式解决方案 [PDF](https://arxiv.org/pdf/2501.15808), [HTML](https://arxiv.org/abs/2501.15808)
 ### Authors
 Xiaopeng Lin,Yulong Huang,Hongwei Ren,Zunchang Liu,Yue Zhou,Haotian Fu,Bojun Cheng
@@ -5074,9 +3808,6 @@ Xiaopeng Lin,Yulong Huang,Hongwei Ren,Zunchang Liu,Yue Zhou,Haotian Fu,Bojun Che
 该研究引入了一种生物启发的双驱动混合网络（BDHNet），具体包括神经配置模块（NCM）和模糊关注区域模块（RBAM）。NCM能够根据跨模态特征动态调整神经元配置，从而在模糊区域集中脉冲，并动态适应不同程度的模糊场景。RBAM则在无监督的情况下生成模糊掩码，有效从事件特征中提取运动线索并指导更准确的跨模态特征融合。
 ### Conclusion
 广泛的主观和客观评估表明，该方法在合成数据集和实际数据集上均优于当前最先进的方法。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 424. `cs.CV` - LBONet:监督谱描述符进行形状分析 [PDF](https://arxiv.org/pdf/2411.08272), [HTML](https://arxiv.org/abs/2411.08272)
 ### Authors
 Oguzhan Yigit,Richard C. Wilson
@@ -5086,9 +3817,6 @@ Oguzhan Yigit,Richard C. Wilson
 论文提出了一种新的方法，通过监督学习方式来在流形上学习拉普拉斯-贝尔特拉米算子（LBO），并且根据任务的不同，训练LBO特征基底以使其更适合特定任务。这种方法优化了已建立的描述符，如热核签名，在各种任务中的表现，表明LBO特征基底可以适应全局和高度局部的学习环境。特别地，LBONet方法通过优化LBO算子实现显著改进，并证明了其在不同形状分析任务中的有效性。
 ### Conclusion
 通过对拉普拉斯-贝尔特拉米算子的监督学习优化，作者证明了LBO特征基底在多种形状分析任务上的有效适应性。特别是LBONet方法在检索、分类、分割和对应等任务上取得了巨大改进，展示了LBO在监督学习中的价值和潜力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 425. `cs.CV` - DisCoPatch：利用对抗性驱动的批统计信息改进出轨分布检测 [PDF](https://arxiv.org/pdf/2501.08005), [HTML](https://arxiv.org/abs/2501.08005)
 ### Authors
 Francisco Caetano,Christiaan Viviers,Luis A. Zavala-Mondragón,Peter H. N. de With,Fons van der Sommen
@@ -5098,9 +3826,6 @@ Francisco Caetano,Christiaan Viviers,Luis A. Zavala-Mondragón,Peter H. N. de Wi
 本文引入了一种无监督的对抗性变分自动编码器（VAE）框架——DisCoPatch，其利用对抗性驱动的批统计特性。该框架使用VAE的最佳输出和次优输出作为生成样本和重建样本，以此作为负面样本来训练判别器，从而提高其在区分分布内样本和共变量偏移方面的性能。通过紧缩分布边界，DisCoPatch在公共OOD检测基准测试中取得了最先进的性能。该模型不仅在检测共变量偏移方面表现出色，还超越了所有先前方法，在公共的Near-OOD基准测试中也表现出优异性能，同时保持了紧凑的模型大小和较低的计算延迟，使其成为现实世界OOD检测应用的实际高效解决方案。
 ### Conclusion
 DisCoPatch通过改进对抗性驱动的批统计机制，在公共OOD检测基准测试中达到了最先进的结果。它不仅在检测共变量偏移方面表现出色，还超越了所有现有方法，并且具有紧凑的模型大小和较低的延迟，使其成为实际应用中的高效解决方案。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 426. `cs.CV` - 利用基础视觉变压器在材料中提取微结构表征以学习微结构-性能关系 [PDF](https://arxiv.org/pdf/2501.18637), [HTML](https://arxiv.org/abs/2501.18637)
 ### Authors
 Sheila E. Whitman,Marat I. Latypov
@@ -5110,9 +3835,6 @@ Sheila E. Whitman,Marat I. Latypov
 本文提出利用预训练的基础视觉变压器来提取任务无关的微结构特征，并进行轻量级的微结构依赖性性质机器学习。这种方法通过预先训练的先进视觉变压器在模拟数据和实验数据的案例研究中得到验证。证明了在无需昂贵的特定任务训练或调整定制深度学习模型的情况下，可以有效学习微结构-性能关系。
 ### Conclusion
 本文研究了利用预训练的基础视觉变压器来学习微结构-性能关系的方法。通过两个案例研究展示了这种方法的有效性，并证明了其在无需昂贵的特定任务训练或调整定制深度学习模型的情况下，可以有效学习微结构-性能关系的潜力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 427. `cs.CV` - 重新思考在不受约束场景中检测显眼和伪装物体的方法 [PDF](https://arxiv.org/pdf/2412.10943), [HTML](https://arxiv.org/abs/2412.10943)
 ### Authors
 Zhangjun Zhou,Yiping Li,Chunlin Zhong,Jianuo Huang,Jialun Pei,Hua Li,He Tang
@@ -5122,9 +3844,6 @@ Zhangjun Zhou,Yiping Li,Chunlin Zhong,Jianuo Huang,Jialun Pei,Hua Li,He Tang
 本文构建了一个名为USC12K的大规模数据集，该数据集具有全面的标签和涵盖所有显眼和伪装物体可能性存在的四个不同场景，从而促进了在不受约束场景中检测显眼和伪装物体的发展。此外，提出了一个名为USCNet的模型，该模型引入了两种不同的提示查询机制来建模样本间和样本内的属性关系。为此，还设计了一个评价指标CSCS，用于评估模型区分显眼和伪装物体的能力。提出的模型在多个指标上达到了最先进的性能。
 ### Conclusion
 提出的USCNet模型和CSCS评价指标在多个场景上的不同指标上均达到了最先进的性能。此外，USC12K数据集也包含了全面的注释和多样化的场景，这些都为开发不受约束场景中的显眼和伪装物体检测提供了新的途径。未来可能会进一步探讨和完善USCNet模型和CSCS评价指标的性能，并尝试在其他感知任务中应用这些方法。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 428. `cs.CV` - PP-DocBee: 通过多样技巧提高多模态文档理解 [PDF](https://arxiv.org/pdf/2503.04065), [HTML](https://arxiv.org/abs/2503.04065)
 ### Authors
 Feng Ni,Kui Huang,Yao Lu,Wenyu Lv,Guanzhong Wang,Zeyu Chen,Yi Liu
@@ -5134,9 +3853,6 @@ Feng Ni,Kui Huang,Yao Lu,Wenyu Lv,Guanzhong Wang,Zeyu Chen,Yi Liu
 PP-DocBee是一种专为端到端文档图像理解设计的新型多模态大型语言模型。首先，提出了一个针对文档场景的数据合成策略，构建了一个多样化的数据集以提高模型的泛化能力。其次，应用了多种训练技术，包括动态比例采样、数据预处理和OCR后处理策略。广泛的评估表明PP-DocBee在英语文档理解基准测试中达到了最佳性能，并且在中文文档理解上也超越了现有开源和商业模型。
 ### Conclusion
 PP-DocBee在文档图像理解方面取得了显著成果，其优化的数据合成策略和多样化的训练技术使得其在多个文档理解基准测试中表现优异，同时源代码和预训练模型已公开。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 429. `cs.CV` - 零视线：关注时序一致性的零样本照明引导低光照视频增强 [PDF](https://arxiv.org/pdf/2503.11175), [HTML](https://arxiv.org/abs/2503.11175)
 ### Authors
 Yini Li,Nantheera Anantrasirichai
@@ -5146,9 +3862,6 @@ Yini Li,Nantheera Anantrasirichai
 提出了一种新颖的零样本学习方法Zero-TIG，结合Retinex理论和光学流技术。该方法包含增强模块和时序反馈模块。增强模块包括去噪、照明估计和反射去噪三个子网络。时序增强模块通过引入直方图均衡、光学流计算和图像变换来确保时间一致性，保持连续性。同时，该方法针对水下数据中的颜色失真进行了适应性调整，以平衡RGB通道。实验结果表明，该方法在不需要配对训练数据的情况下实现了低光照视频的增强，是一种适用于实际场景的增强方法。
 ### Conclusion
 本方法无需配对真实数据即可实现低光照视频的增强，具有增强现实场景的潜力，展示了其实践应用价值。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 430. `cs.CV` - ARTalk：基于自回归模型的语音驱动3D头部动画 [PDF](https://arxiv.org/pdf/2502.20323), [HTML](https://arxiv.org/abs/2502.20323)
 ### Authors
 Xuangeng Chu,Nabarun Goswami,Ziteng Cui,Hanqin Wang,Tatsuya Harada
@@ -5158,9 +3871,6 @@ Xuangeng Chu,Nabarun Goswami,Ziteng Cui,Hanqin Wang,Tatsuya Harada
 提出了一种新颖的自回归模型，通过学习从语音到多尺度运动码本的映射，实现了实时同步的唇动和真实头部姿态与眨眼生成。该模型能够适应未见过的讲话风格，能够创建具有独特个人风格的3D对话化身，超越了训练期间所见的身份类型。大量评估和用户研究表明，该方法在唇同步准确性和感知质量方面优于现有方法。
 ### Conclusion
 通过引入自回归模型，ARTalk方法能够在实时生成高质量的3D面部动画方面取得突破，特别是在唇同步的准确性和用户感知质量上表现出色，为3D面部动画的实际应用开辟了新的可能性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 431. `cs.CV` - UP-VLA: 一种统一的理解与预测模型 [PDF](https://arxiv.org/pdf/2501.18867), [HTML](https://arxiv.org/abs/2501.18867)
 ### Authors
 Jianke Zhang,Yanjiang Guo,Yucheng Hu,Xiaoyu Chen,Xiang Zhu,Jianyu Chen
@@ -5170,9 +3880,6 @@ Jianke Zhang,Yanjiang Guo,Yucheng Hu,Xiaoyu Chen,Xiang Zhu,Jianyu Chen
 本文研究了VLA的训练范式，并引入了名为UP-VLA的统一VLA模型，该模型结合了多模态理解和未来预测目标，增强了高层语义理解和低层次空间理解。实验结果表明，UP-VLA在Calvin ABC-D基准测试中的性能比前一种最先进的方法提高了33%。此外，UP-VLA在现实世界的操作任务中也表现出更好的成功率，尤其是在需要精确空间信息的任务中.
 ### Conclusion
 实验结果显示，UP-VLA在Calvin ABC-D基准测试中相比前一种最先进的方法提升了33%的性能，并且在现实世界的操作任务中表现出更好的成功率，特别是在需要精确空间信息的任务中。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 432. `cs.CV` - GroundCap: 一个视觉导向的图像标题数据集 [PDF](https://arxiv.org/pdf/2502.13898), [HTML](https://arxiv.org/abs/2502.13898)
 ### Authors
 Daniel A. P. Oliveira,Lourenço Teodoro,David Martins de Matos
@@ -5182,9 +3889,6 @@ Daniel A. P. Oliveira,Lourenço Teodoro,David Martins de Matos
 本文提出了一种基于ID的定位系统，该系统能够实现一致的对象引用跟踪和动作-对象链接。引入了GroundCap数据集，包含52,016张来自77部电影的图像，每个图像都包含344个人工标注和52,016个自动生成的描述。这些描述与检测到的对象（132类）和动作（51类）相关，并使用标签系统保持对象身份链接动作至相应的对象。此外，提出了一种名为gMETEOR的评估指标，结合了描述质量和定位准确性。通过微调Pixtral-12B和Qwen2.5-VL 7B模型，建立了基准性能。人类评估也证明了这种方法在生成能够验证的描述方面的有效性，这些描述具有连贯的对象引用
 ### Conclusion
 该研究提出了一种新的基于ID的定位方法，并通过GroundCap数据集验证了其效果。该方法不仅能够提升图像描述的准确性，还能够使描述变得更加可信和连贯。此外，研究人员还提出了一种新的评估指标，为未来的研究提供了新的参考。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 433. `cs.CV` - AnyCalib：基于流形学习的模型无关单视角相机标定 [PDF](https://arxiv.org/pdf/2503.12701), [HTML](https://arxiv.org/abs/2503.12701)
 ### Authors
 Javier Tirado-Garín,Javier Civera
@@ -5194,9 +3898,6 @@ Javier Tirado-Garín,Javier Civera
 本文提出了AnyCalib方法，其创新点在于能够在单一野外观测图像中无须关心相机模型地自动标定相机的内参数。不同于现有的大多数方法，该方法不需要额外的外部线索，并且能够处理编辑过的（裁剪和拉伸过）图像。此外，实验结果显示，尽管训练数据量少得多，但AnyCalib方法在性能上却优于其他方法，包括3D基础模型。
 ### Conclusion
 研究证明，通过将标定过程近似为每个像素所对应射线的回归，利用图像中的透视和失真线索，可以实现对多种相机模型内参数的封闭形式恢复，包括针孔、Brown-Conrady和Kannala-Brandt模型等。实验结果显示，AnyCalib方法性能优越，目前已在大量实验中得到验证，并开放了源代码。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 434. `cs.CV` - 解耦以重建：通过主动特征解耦和可逆融合实现高品质UHD恢复 [PDF](https://arxiv.org/pdf/2503.12764), [HTML](https://arxiv.org/abs/2503.12764)
 ### Authors
 Yidi Liu,Dong Li,Yuxin Ma,Jie Huang,Wenlong Zhang,Xueyang Fu,Zheng-jun Zha
@@ -5206,9 +3907,6 @@ Yidi Liu,Dong Li,Yuxin Ma,Jie Huang,Wenlong Zhang,Xueyang Fu,Zheng-jun Zha
 本文提出了一种控制差异解耦VAE，利用层次对比解耦学习和正交门控投影模块，引导VAE主动丢弃易于恢复的背景信息，同时将更难以恢复的降级信息编码到潜在空间中。此外，设计了一个复杂的可逆多尺度融合网络来处理背景特征，确保其一致性，并利用潜在空间恢复网络将降级的潜在特征转换，从而实现更准确的恢复结果。
 ### Conclusion
 大量的实验结果表明，相比于VAE模型，本文的方法有效缓解了信息丢失问题，同时保证了计算效率，显著改善了UHD图像恢复的质量，并在六个UHD恢复任务中仅使用1M参数就达到了最佳结果。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 435. `cs.CV` - SimWorld: 通过世界模型实现模拟器条件化场景生成的统一基准 [PDF](https://arxiv.org/pdf/2503.13952), [HTML](https://arxiv.org/abs/2503.13952)
 ### Authors
 Xinqing Li,Ruiqi Song,Qingyu Xie,Ye Wu,Nanxin Zeng,Yunfeng Ai
@@ -5218,9 +3916,6 @@ Xinqing Li,Ruiqi Song,Qingyu Xie,Ye Wu,Nanxin Zeng,Yunfeng Ai
 本文提出了一种基于世界模型的模拟器条件化场景生成引擎SimWorld。通过构建与真实世界场景一致的模拟系统，可以从任何场景中收集可用于世界模型数据生成的仿真数据和标注信息。该方法结合了模拟引擎强大的场景模拟能力和世界模型强大的数据生成能力，形成了一种新颖的数据生成流水线，并提供了一个包含适当比率虚拟与真实数据的基准，以探索世界模型在真实世界场景中的能力。定量结果表明，生成的图像可以显著提升下游感知模型的性能。此外，还探讨了世界模型在城市自主驾驶场景中的生成性能。所有数据和代码将在该链接处发布：this https URL
 ### Conclusion
 通过构建与真实世界场景一致的模拟系统，收集用于世界模型的数据，并提供了一个基准数据集，这个方法显著增强了在真实世界场景中应用世界模型的能力，特别是在城市自主驾驶场景中表现出较好的生成性能。未来将在开放平台上共享数据和代码，供其他研究者使用。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 436. `cs.CV` - STI-Bench: MLLMs是否准备好进行精确的空间-时间世界理解？ [PDF](https://arxiv.org/pdf/2503.23765), [HTML](https://arxiv.org/abs/2503.23765)
 ### Authors
 Yun Li,Yiming Zhang,Tao Lin,XiangRui Liu,Wenxiao Cai,Zheng Liu,Bo Zhao
@@ -5230,9 +3925,6 @@ Yun Li,Yiming Zhang,Tao Lin,XiangRui Liu,Wenxiao Cai,Zheng Liu,Bo Zhao
 该论文提出了一种名为STI-Bench的基准测试，用于评估MLLMs的空间-时间理解能力。这个基准测试包括一系列挑战性的任务，如估计和预测物体的外观、姿态、位移和运动。实验涵盖了从桌面到室内再到室外的各种机器人和车辆操作。这些研究结果揭示了最先进的MLLMs在真实世界的空间-时间理解上仍然存在困难，特别是在需要精确距离估计和运动分析的任务中。
 ### Conclusion
 最新的MLLMs在现实世界的空间-时间理解方面仍面临挑战，尤其在需要精确距离估计和运动分析的任务中。通过STI-Bench的评估揭示了这一点，强调了需要进一步研究以提升MLLMs的空间-时间理解能力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 437. `cs.CV` - 3D Hierarchical Panoptic Segmentation in Real Orchard Environments Across Different Sensors [PDF](https://arxiv.org/pdf/2503.13188), [HTML](https://arxiv.org/abs/2503.13188)
 ### Authors
 Matteo Sodano,Federico Magistri,Elias Marks,Fares Hosn,Aibek Zurbayev,Rodrigo Marcuzzi,Meher V. R. Malladi,Jens Behley,Cyrill Stachniss
@@ -5242,9 +3934,6 @@ Matteo Sodano,Federico Magistri,Elias Marks,Fares Hosn,Aibek Zurbayev,Rodrigo Ma
 提出了一种新颖的方法，针对不同传感器提供的3D数据进行苹果果园的分层全景分割。该方法能同时进行语义分割、树干和果实的实例分割以及树木的实例分割，从而识别相关信息并捕捉它们之间的关系，更准确地估计果园中每棵树所关联的果实数量。通过设计专门的数据集，在实际果园环境中对不同传感器进行测试，该方法在农业领域3D全景分割方面超越了现有技术，提供了完整的分层全景分割结果。
 ### Conclusion
 研究团队提出了一种新颖的方法并在实际果园环境中进行测试，结果显示该方法在农业领域的3D全景分割方面表现优于现有技术，同时能够提供完整的分层全景分割结果。团队还提供了用于评估方法的数据集和开源实现，以促进该领域的研究进一步发展。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 438. `cs.CV` - 通过半监督视频语义分割中的语义相似性传播实现自主飞行中的高时间一致性 [PDF](https://arxiv.org/pdf/2503.15676), [HTML](https://arxiv.org/abs/2503.15676)
 ### Authors
 Cédric Vincent,Taehyoung Kim,Henri Meeß
@@ -5254,9 +3943,6 @@ RGB摄像机的语义分割对于自主飞行车辆的感知至关重要。视�
 本文提出了一种轻量级的视频语义分割方法——语义相似性传播（SSP），能够在飞行数据上实现高度的时间一致性。SSP通过全球注册对齐来跨帧传播预测，并结合当前估计和先验预测，使用从两帧特征相似性计算得到的权重，通过线性插值来进行融合。此外，研究还提出了一种应对稀疏标注数据的知识蒸馏（KD）训练程序，通过使用大型图像分割模型作为教师来训练高效的SSP，从而利用标记帧与未标记帧之间的强相关性，为所有帧提供高质量的监督，因此在UAVid和RuralScapes数据集上分别实现了12.5%和6.7%的时间一致性显著提升，与基线图像分割模型相比，准确率更高，推理速度相当。并且与面向通用应用的其他视频方法相比，本研究在空中数据集上提供的分割质量和推理速度的权衡优于其他方法，且一致性更高。
 ### Conclusion
 本文提出的方法在半监督学习框架下提高了时间一致性，相比基线模型，精度更高，推理速度相当。特别是在处理稀疏标注的飞行数据集时，提高了整体的时间一致性，优于其他视频方法。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 439. `cs.CV` - DWIM: 通过差异感知工作流生成与指令遮蔽微调实现工具感知的视觉推理 [PDF](https://arxiv.org/pdf/2503.19263), [HTML](https://arxiv.org/abs/2503.19263)
 ### Authors
 Fucai Ke,Vijay Kumar B G,Xingjian Leng,Zhixi Cai,Zaid Khan,Weiqing Wang,Pari Delir Haghighi,Hamid Rezatofighi,Manmohan Chandraker
@@ -5266,9 +3952,6 @@ Fucai Ke,Vijay Kumar B G,Xingjian Leng,Zhixi Cai,Zaid Khan,Weiqing Wang,Pari Del
 本文提出了一种名为DWIM的方法：i) 差异感知工作流生成（Discrepancy-aware training Workflow generation），评估工具使用情况并提取更可行的工作流进行训练；ii) 指令遮蔽微调（Instruct-Masking fine-tuning），引导模型只克隆有效的动作，生成更具实践性的解决方案。研究表明，DWIM在多个视觉推理任务中取得了目前最好的性能，展示了在多个常用数据集上的强大泛化能力.
 ### Conclusion
 实验结果表明，DWIM在各种视觉推理任务中实现了最先进的性能，展示了在多个广泛使用的数据集上的强大泛化能力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 440. `cs.CV` - 分析图像恢复变压器的训练动态：重新审视层规范化 [PDF](https://arxiv.org/pdf/2504.06629), [HTML](https://arxiv.org/abs/2504.06629)
 ### Authors
 MinKyu Lee,Sangeek Hyun,Woojin Jun,Hyunjun Kim,Jiwoo Chung,Jae-Pil Heo
@@ -5278,9 +3961,6 @@ MinKyu Lee,Sangeek Hyun,Woojin Jun,Hyunjun Kim,Jiwoo Chung,Jae-Pil Heo
 文章介绍了一种名为Image Restoration Transformer Tailored Layer Normalization（i-LN）的简单但有效的替代方案。它通过在整个空间通道维度上对特征进行整体归一化，保持各个元素之间的空间关系。此外，还提出了一种输入自适应的缩放策略，以保留每个输入所需的特征范围的灵活性。这些修改有效解决了Input层与IR任务之间的不匹配，从而稳定了训练动态并提高了IR性能。
 ### Conclusion
 实验结果证实，这种结合策略可以显著提高各种IR任务中IR变压器的稳定性和性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 441. `cs.CV` - AirCache: 激活跨模态相关性 KV 缓存压缩以实现高效的大型视觉-语言模型推理 [PDF](https://arxiv.org/pdf/2503.23956), [HTML](https://arxiv.org/abs/2503.23956)
 ### Authors
 Kai Huang,Hao Zou,Bochen Wang,Ye Xi,Zhen Xie,Hao Wang
@@ -5290,9 +3970,6 @@ Kai Huang,Hao Zou,Bochen Wang,Ye Xi,Zhen Xie,Hao Wang
 本文提出了一种创新的KV缓存压缩方法AirCache，旨在加速LVLMs推理。AirCache系统地研究了LVLMs注意力机制中视觉和文本标记之间的联系，揭示了缓存中视觉标记的冗余性，通过有选择地消除这些冗余标记，能够在保持模型性能的同时显著加快上下文生成。此外，AirCache引入了一种精英观察窗口，用于评估KV缓存中视觉组件的重要性，重点在于建模稳定性的多视角一致性，并且提出了一个自适应逐层预算分配策略，该策略利用了标记重要性分布的强度和偏斜性，展示了优于均匀分配的效率。
 ### Conclusion
 在多个LVLMs和基准测试上进行全面评估表明，本文的方法在仅保留视觉KV缓存的10%的情况下，能够实现与全缓存相当的性能，且解码延迟减少了29%至66%。随着缓存留存率降低，此方法相比现有方法表现出越来越大的性能优势。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 442. `cs.CV` - BRepFormer: 基于变换器的B-rep几何特征识别 [PDF](https://arxiv.org/pdf/2504.07378), [HTML](https://arxiv.org/abs/2504.07378)
 ### Authors
 Yongkang Dai,Xiaoshui Huang,Yunpeng Bai,Hao Guo,Hongping Gan,Ling Yang,Yilei Shi
@@ -5302,9 +3979,6 @@ Yongkang Dai,Xiaoshui Huang,Yunpeng Bai,Hao Guo,Hongping Gan,Ling Yang,Yilei Shi
 本文提出了一种基于变换器的新颖模型，BRepFormer，用于识别机械特征和复杂CAD模型的特征。BRepFormer编码和融合了模型的几何和拓扑特征，并使用变换器架构进行特征传播和一个识别头来识别几何特征。同时提出了一个名为复杂B-rep特征数据集（CBF）的20,000个B-rep模型的数据库，以更好地适应工业应用。
 ### Conclusion
 实验结果表明，BRepFormer在MFRinstSeg、MFTRCAD及CBF数据集上达到了最先进的准确率。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 443. `cs.CV` - JointDiT: 使用扩散变换器增强RGB-深度联合建模 [PDF](https://arxiv.org/pdf/2505.00482), [HTML](https://arxiv.org/abs/2505.00482)
 ### Authors
 Kwon Byung-Ki,Qi Dai,Lee Hyoseok,Chong Luo,Tae-Hyun Oh
@@ -5314,9 +3988,6 @@ Kwon Byung-Ki,Qi Dai,Lee Hyoseok,Chong Luo,Tae-Hyun Oh
 本文提出了JointDiT，这是一种扩散变换器，能够建模RGB和深度的联合分布。这种模型通过适应噪声级别和不平衡时间步采样策略两种简单但有效的方法来实现联合分布的建模。这些创新使得模型能够在不同噪声级别的模态上进行训练，从而能够自然地处理联合生成、深度估计和深度条件下的图像生成等各种组合生成任务。
 ### Conclusion
 JointDiT展示了在联合生成性能方面的出色表现，并在深度估计和深度条件下的图像生成任务中实现了可比结果，这表明联合分布建模可以作为条件生成的可替代选择。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 444. `cs.CV` - RobustSplat: Decoupling Densification and Dynamics for Transient-Free 3DGS [PDF](https://arxiv.org/pdf/2506.02751), [HTML](https://arxiv.org/abs/2506.02751)
 ### Authors
 Chuanyu Fu,Yuqi Zhang,Kunbin Yao,Guanying Chen,Yuan Xiong,Chuan Huang,Shuguang Cui,Xiaochun Cao
@@ -5326,9 +3997,6 @@ Chuanyu Fu,Yuqi Zhang,Kunbin Yao,Guanying Chen,Yuan Xiong,Chuan Huang,Shuguang C
 本文提出了RobustSplat方法，以解决上述问题。该方法在两个关键设计的基础上实现了一个健全部署方案。首先，采用了延迟Gauss生长策略，优先优化静态场景结构再允许Gauss分裂/克隆，从而减少早期优化中对短暂对象的过拟合。其次，设计了尺度梯进掩码初始化方案，利用低分辨率特征相似性监督确保短暂掩码初始估计的可靠性，且利用其在语义一致性和噪声鲁棒性方面的优势，逐步过渡到高分辨率监督以获得更精确的掩码预测。
 ### Conclusion
 在多项具有挑战性的数据集上的实验证明了该方法的有效性和鲁棒性，表明RobustSplat在去除3DGS中的短暂物体方面具有明显的优势。项目页面链接为：https://github.com/yourlinkhere
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 445. `cs.CV` - TaxaDiffusion：逐步训练的扩散模型用于细粒度物种生成 [PDF](https://arxiv.org/pdf/2506.01923), [HTML](https://arxiv.org/abs/2506.01923)
 ### Authors
 Amin Karimi Monsefi,Mridul Khurana,Rajiv Ramnath,Anuj Karpatne,Wei-Lun Chao,Cheng Zhang
@@ -5338,9 +4006,6 @@ Amin Karimi Monsefi,Mridul Khurana,Rajiv Ramnath,Anuj Karpatne,Wei-Lun Chao,Chen
 TaxaDiffusion 提出了一个基于分类学知识的训练框架，通过逐步从更高的分类层次（如目、科、属）到更低的分类层次（如种）进行训练，利用物种间的细微形态、模式和颜色差异，从而提高了在细粒度动物图像生成中的准确性和效率。
 ### Conclusion
 实验结果表明，TaxaDiffusion 在细粒度动物图像生成方面优于现有方法，特别是对于每物种样本较少的情况下，也能实现高精度、高保真的图像生成。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 446. `cs.CV` - 文本到图像模型及其对参与活动的不同国籍人员的代表 [PDF](https://arxiv.org/pdf/2504.06313), [HTML](https://arxiv.org/abs/2504.06313)
 ### Authors
 Abdulkareem Alsudais
@@ -5350,9 +4015,6 @@ Abdulkareem Alsudais
 该研究创新性地分析了一个流行的T2I模型在生成不同国籍人员从事典型活动的图像时的传统服饰表现，并使用了多种评估方法来衡量生成图像与文本描述之间的对齐度。此外，该研究还发现模型在一些情况下会自动添加“传统”一词，揭示了模型在生成图像时的某些特定偏见或行为模式。
 ### Conclusion
 该研究为不同国家的人通过T2I技术的表示提供了宝贵的见解，揭示了模型如何优先选择传统特征，尽管这些特征在特定场景下可能不适用。研究结果表明，该模型特别重视中东和北非以及撒哈拉以南非洲地区的传统服饰，显示出特定地理区域的不公平偏向，同时发现了一定收入群体之间的关联。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 447. `cs.CV` - SA-Person：基于场景感知重排的文本驱动人物检索 [PDF](https://arxiv.org/pdf/2505.24466), [HTML](https://arxiv.org/abs/2505.24466)
 ### Authors
 Yingjia Xu,Jinlin Wu,Zhen Chen,Daming Gao,Yang Yang,Zhen Lei,Min Cao
@@ -5362,9 +4024,6 @@ Yingjia Xu,Jinlin Wu,Zhen Chen,Daming Gao,Yang Yang,Zhen Lei,Min Cao
 提出了SCENEPERSON-13W大规模数据集，并设计了SA-Person框架。SA-Person框架包含两个阶段：一是基于文本线索与行人特定区域的对比学习进行判别性外观语义关联；二是引入SceneRanker模块，这是一种无需训练的、基于场景感知的重排方法，利用多模态的大语言模型同时综合处理行人外观特征和全局场景语境。实验表明，该框架在场景级别的检索中具有有效性。
 ### Conclusion
 实验结果显示了该框架在挑战性的场景级别检索场景中的有效性。研究团队将代码和数据集公开发布，以促进进一步的研究和应用。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 448. `cs.CV` - 自己动手：从伪标签学习语义对应 [PDF](https://arxiv.org/pdf/2506.05312), [HTML](https://arxiv.org/abs/2506.05312)
 ### Authors
 Olaf Dünkel,Thomas Wimmer,Christian Theobalt,Christian Rupprecht,Adam Kortylewski
@@ -5374,9 +4033,6 @@ Olaf Dünkel,Thomas Wimmer,Christian Theobalt,Christian Rupprecht,Adam Kortylews
 本文提出了一种通过3D感知伪标签改进语义对应估计的方法。具体而言，本文训练了一个适配器，使用通过3D感知链进行的伪标签，通过宽松的循环一致性过滤错误标签，并结合3D球形原型映射约束来精炼现成的特征。相比之前的工作，本文的方法减少了对特定数据集标注的依赖，同时在SPair-71k数据集上达到了超过4%的绝对改进，并且相比于具有类似监督需求的方法，提高了超过7%。我们的方法的通用性简化了训练向其他数据源的扩展，这一点在我们的实验中得以验证。
 ### Conclusion
 本文提出的方法解决了大型预训练模型在处理对称对象或重复对象部分时的模糊性问题，并在SPair-71k数据集上取得了新的最佳性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 449. `cs.CV` - StateSpaceDiffuser: 将长期上下文引入扩散世界模型 [PDF](https://arxiv.org/pdf/2505.22246), [HTML](https://arxiv.org/abs/2505.22246)
 ### Authors
 Nedko Savov,Naser Kazemi,Deheng Zhang,Danda Pani Paudel,Xi Wang,Luc Van Gool
@@ -5386,9 +4042,6 @@ Nedko Savov,Naser Kazemi,Deheng Zhang,Danda Pani Paudel,Xi Wang,Luc Van Gool
 我们引入了StateSpaceDiffuser，该模型通过整合状态空间模型来实现长时间上下文任务，该状态空间模型代表了全部交互历史。这一设计恢复了长期记忆，同时保持了扩散模型的高保真合成能力。为了准确测量时间一致性，我们开发了一种评估协议，该协议检测模型在扩展操作中重新实例化先前看到的内容的能力。全面的实验显示，StateSpaceDiffuser显著优于仅依赖扩散模型的基准模型，能够更长时间地保持视觉连贯性，并在2D迷宫导航和复杂3D环境中提供一致的视图。
 ### Conclusion
 将状态空间表示引入扩散模型对展示视觉细节和长期记忆高度有效。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 450. `cs.CV` - Efficient Spiking Point Mamba for Point Cloud Analysis [PDF](https://arxiv.org/pdf/2504.14371), [HTML](https://arxiv.org/abs/2504.14371)
 ### Authors
 Peixi Wu,Bosong Chai,Menghua Zheng,Wei Li,Zhangchi Hu,Jie Chen,Zheyu Zhang,Hebei Li,Xiaoyan Sun
@@ -5398,9 +4051,6 @@ Peixi Wu,Bosong Chai,Menghua Zheng,Wei Li,Zhangchi Hu,Jie Chen,Zheyu Zhang,Hebei
 引入了分层动态编码（HDE）及Spiking Mamba块(SMB)，结合了Mamba的序列建模能力和SNNs的时序特征提取能力。设计SPM模型，其在传送Mamba到3D SNNs时的性能不足问题上进行了改进，充分利用了Mamba的序列建模能力和SNNs的时序特征提取能力，通过构建SMB和HDE改进了序列间和时序特征的处理，以更好地利用尖峰的传播机制。并在不对称SNN-ANN架构中进行基于尖峰的预训练和微调，以提高性能。SPM模型在三种ScanObjectNN变体上的OA分别提高了6.2%、6.1%、7.4%，在ShapeNetPart上的实例mIOU提高了1.9%。其能耗比其ANN对应物低至少3.5倍。
 ### Conclusion
 与先前的最新SNN模型相比，SPM在三个ScanObjectNN变体上的OA分别提高了6.2%、6.1%和7.4%，在ShapeNetPart上的实例mIOU提高了1.9%，同时能耗至少比其ANN对应物低3.5倍。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 451. `cs.CV` - Context Aware Grounded Teacher for Source Free Object Detection [PDF](https://arxiv.org/pdf/2504.15404), [HTML](https://arxiv.org/abs/2504.15404)
 ### Authors
 Tajamul Ashraf,Rajes Manna,Partha Sarathi Purkayastha,Tavaheed Tariq,Janibul Bashir
@@ -5410,9 +4060,6 @@ Tajamul Ashraf,Rajes Manna,Partha Sarathi Purkayastha,Tavaheed Tariq,Janibul Bas
 本文提出了一个名为Grounded Teacher (GT)的标准框架来解决上下文偏置问题，在SFOD设置中保持了学生模型的性能并缓解了性能下降。本文使用一个专门的关系上下文模块建模上下文关系，并利用它缓解模型中的先天偏差。因此，通过在不同类别之间应用增强，无论是跨领域还是在领域内，都提高了未代表类的性能，同时对主要类的影响最小。此外，通过实现专家基础支出去监督学生模型，进一步提高了预测质量。
 ### Conclusion
 通过在三个医学数据集上的实验和全面的消融研究验证了本文方法在SFOD设置中缓解上下文偏置的有效性。所有相关资源，包括预处理数据、训练模型权重和代码，都公开发布在thisthis https URL上。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 452. `cs.CV` - 结构保持的块解码在高效神经视频表示中的应用 [PDF](https://arxiv.org/pdf/2506.12896), [HTML](https://arxiv.org/abs/2506.12896)
 ### Authors
 Taiga Hayami,Kakeru Koizumi,Hiroshi Watanabe
@@ -5422,9 +4069,6 @@ Taiga Hayami,Kakeru Koizumi,Hiroshi Watanabe
 提出了一种基于空间对齐块（SPPs，Structure-Preserving Patches）的神经视频表示方法。通过类似于PixelUnshuffle的确定性像素级分割将每帧视频分离成块图像，该操作保留了全局空间结构，同时允许块级解码。训练解码器重建这些结构化的块，实现全局到局部的解码策略，先捕获全局布局，再细化局部细节，有效减少了边界伪影并缓解了简单上采样的失真问题。
 ### Conclusion
 在标准视频数据集上的实验表明，本方法在重建质量和压缩性能方面优于现有的基于INR的基线方法。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 453. `cs.CV` - PCA和奇异值分解（SVD）作为降维技术的比较分析 [PDF](https://arxiv.org/pdf/2506.16663), [HTML](https://arxiv.org/abs/2506.16663)
 ### Authors
 Michael Gyimadu,Gregory Bell,Ph.D
@@ -5434,9 +4078,6 @@ Michael Gyimadu,Gregory Bell,Ph.D
 基于经典的和近期的数值文献，本文合成了选择其中一个算法而不进行经验基准测试的经验性指导原则。此外，本文揭示了各自的局限性，并指出了未来实验工作的方向。
 ### Conclusion
 本文通过纯理论比较PCA和SVD，评估了它们的可解释性、数值稳定性和适用矩阵形状的能力，并提供了选择合适的算法的经验性指导原则。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 454. `cs.CV` - 从假做到真：奖励模型的判别性预测 [PDF](https://arxiv.org/pdf/2506.13846), [HTML](https://arxiv.org/abs/2506.13846)
 ### Authors
 Runtao Liu,Jiahao Zhan,Yingqing He,Chen Wei,Alan Yuille,Qifeng Chen
@@ -5446,9 +4087,6 @@ Runtao Liu,Jiahao Zhan,Yingqing He,Chen Wei,Alan Yuille,Qifeng Chen
 本文提出了一种新型的奖励模型框架——GAN-RM，该框架通过判别一小部分代表性、未配对的目标样本数据（称为偏好代理数据）与模型生成的一般输出之间的差异，来训练奖励模型，无需大量的人工注释数据和具体的质量维度工程。这种方法只需少量目标样本即可进行训练，并在多种关键应用场景（如测试时的缩放、后训练方法中的监督微调、直接偏好优化等）中表现出有效性。
 ### Conclusion
 通过全面的实验，本文证明了GAN-RM的有效性，并展示了其在多个关键应用领域的优越性。该方法不仅减少了人力和机械工程的工作量，还展示了其在实际应用中的潜力。随文附带的代码和数据将会开源。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 455. `cs.CV` - OneIG-Bench: 综合多维度评估框架用于图像生成 [PDF](https://arxiv.org/pdf/2506.07977), [HTML](https://arxiv.org/abs/2506.07977)
 ### Authors
 Jingjing Chang,Yixiao Fang,Peng Xing,Shuhan Wu,Wei Cheng,Rui Wang,Xianfang Zeng,Gang Yu,Hai-Bao Chen
@@ -5458,9 +4096,6 @@ Jingjing Chang,Yixiao Fang,Peng Xing,Shuhan Wu,Wei Cheng,Rui Wang,Xianfang Zeng,
 OneIG-Bench是一个专门设计的全面基准框架，为T2I模型在多个维度上的精细化评估提供了一个系统的方法。这个框架能够灵活地对特定评估子集进行有针对性的分析，允许用户专注于一个评估维度，只生成与所选维度相关的提示对应的图像，并完成相应的评估，从而避免在多个提示中生成图像的繁琐过程。这种精细化和模块化的设计突破了现有评估系统的局限，提供了更深入、细致的分析和评估手段。此外，该研究团队还公开了代码和数据集，便于社区内的可重复评估研究和跨模型比较。
 ### Conclusion
 OneIG-Bench 通过多维度的综合基准框架，系统地解决了目前 T2I 模型评估中的主要缺陷，提出了针对细化评估多个维度的新方法。它不仅能够帮助研究人员精准识别模型的优点和不足，而且还促进了T2I领域的研究进展和模型改进。研究团队将公开此框架的相关代码和数据集，以支持社区内的可重复研究和各种模型之间的比较。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 456. `cs.CV` - 通过跨模态注意力蒸馏实现对齐的新型视图图像和几何合成 [PDF](https://arxiv.org/pdf/2506.11924), [HTML](https://arxiv.org/abs/2506.11924)
 ### Authors
 Min-Seop Kwak,Junho Kim,Sangdoo Yun,Dongyoon Han,Taekyoung Kim,Seungryong Kim,Jin-Hwa Kim
@@ -5470,9 +4105,6 @@ Min-Seop Kwak,Junho Kim,Sangdoo Yun,Dongyoon Han,Taekyoung Kim,Seungryong Kim,Ji
 提出了跨模态注意力蒸馏，该方法在训练和推理期间将图像分支的注意力图注入到并行的几何分支中，实现了多任务学习，从而在保持图像和几何对齐的同时，提升了几何鲁棒的图像合成效果以及几何预测的明确性。此外，引入了基于邻近性的网格条件化，结合深度和法线线索，进行点云间插，减少错误预测的几何对生成过程的影响。该方法在多种未见场景下实现了高质量的视图外推合成，并在插值设置下提供了竞争力的重建质量，生成了几何对齐的彩色点云，实现全面的3D完成。
 ### Conclusion
 实验结果显示，该方法在图像和几何的离散视图上都实现了高保真度的外推生成，并在插值设置下提供了竞争力的重建质量，生成的彩色点云也与生成的图像保持几何对齐，从而实现了完整的3D完成。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 457. `cs.CV` - HyperPath:知识引导的双曲语义层次建模用于WSI分析 [PDF](https://arxiv.org/pdf/2506.16398), [HTML](https://arxiv.org/abs/2506.16398)
 ### Authors
 Peixiang Huang,Yanyan Huang,Weiqin Zhao,Junjun He,Lequan Yu
@@ -5482,9 +4114,6 @@ Peixiang Huang,Yanyan Huang,Weiqin Zhao,Junjun He,Lequan Yu
 首先，HyperPath提出了一种新颖的方法，将病理视觉-语言基础模型提取的视觉和文本特征适应到双曲空间。其次，设计了角度模态对齐损失确保跨模态的一致性，并通过语义层次一致性损失进一步精化特征层次结构。最后，分类使用测地线距离，这是一种几何感知的WSI分析方法。
 ### Conclusion
 通过广泛的实验，本研究表明，与现有方法相比，我们的方法在任务上表现出优越的性能，突显了双曲嵌入在WSI分析中的潜力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 458. `cs.CV` - 2D Triangle Splatting for Direct Differentiable Mesh Training [PDF](https://arxiv.org/pdf/2506.18575), [HTML](https://arxiv.org/abs/2506.18575)
 ### Authors
 Kaifeng Sheng,Zheng Zhou,Yingliang Peng,Qianwei Wang
@@ -5494,9 +4123,6 @@ Kaifeng Sheng,Zheng Zhou,Yingliang Peng,Qianwei Wang
 本文提出了一种新的2D三角面点（2DTS）方法，用2D三角形替代3D高斯基元。2D三角点方法不仅保留了连续体体积建模的优点，还自动生成了类似于离散网格的结构，同时通过引入紧凑性参数，可以实现直接训练逼真的网格模型。
 ### Conclusion
 我们的实验结果表明，与最先进的基于高斯的方法相比，基于三角形的2DTS方法（不进行紧凑度调优）在保真度方面表现更优。此外，我们的方法生成的重建网格在视觉质量方面也超过了现有的网格重建方法。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 459. `cs.CV` - EgoM2P: 自主视角多模态多任务预训练 [PDF](https://arxiv.org/pdf/2506.07886), [HTML](https://arxiv.org/abs/2506.07886)
 ### Authors
 Gen Li,Yutong Chen,Yiqian Wu,Kaifeng Zhao,Marc Pollefeys,Siyu Tang
@@ -5506,9 +4132,6 @@ Gen Li,Yutong Chen,Yiqian Wu,Kaifeng Zhao,Marc Pollefeys,Siyu Tang
 为应对这些挑战，本文提出了一些高效的时序分词器，并提出了一种名为EgoM2P的掩码建模框架，该框架通过学习知时的多模态分词来训练大规模的一般用途模型，以实现自主视角4D理解。该统一设计支持跨任务的多样自主视角感知和合成任务，包括凝视预测、自主视角相机跟踪和第一人称视频的单目深度估计，并且还可以作为条件自主视角视频合成的生成模型。在这些任务上，EgoM2P在性能上匹配或超过了专门模型，同时速度提高了数倍。
 ### Conclusion
 我们完全开源EgoM2P，支持社区并推动自主视角视觉研究。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 460. `cs.CV` - Referring Expression Instance Retrieval and A Strong End-to-End Baseline [PDF](https://arxiv.org/pdf/2506.18246), [HTML](https://arxiv.org/abs/2506.18246)
 ### Authors
 Xiangzhao Hao,Kuan Zhu,Hongyu Guo,Haiyun Guo,Ning Jiang,Quan Lu,Ming Tang,Jinqiao Wang
@@ -5518,9 +4141,6 @@ Xiangzhao Hao,Kuan Zhu,Hongyu Guo,Haiyun Guo,Ning Jiang,Quan Lu,Ming Tang,Jinqia
 提出了一个新的任务——参照表达实例检索（REIR），支持基于细粒度参照表达的实例级检索与定位。提出了一个名为REIRCOCO的大规模基准，该基准由先进视觉语言模型生成高质量的实例级别的参照表达。还提出了一种名为Contrastive Language-Instance Alignment with Relation Experts (CLARE)的基线方法，该方法通过端到端的方式解决REIR问题，训练了具有初始定位能力的方法，然后通过对比语言实例对齐（CLIA）优化以提高图像之间检索性能。
 ### Conclusion
 提出了REIR任务、REIRCOCO基准数据集以及CLARE基线方法。CLARE在对象检测和参照表达理解数据集上进行预训练，然后通过CLIA进行优化以增强图像之间的检索性能。作者还将公开发布代码和基准数据集。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 461. `cs.CV` - PuriDefense: 随机局部隐式对抗净化用于防御黑盒查询导向攻击 [PDF](https://arxiv.org/pdf/2401.10586), [HTML](https://arxiv.org/abs/2401.10586)
 ### Authors
 Ping Guo,Xiang Li,Zhiyuan Yang,Xi Lin,Qingchuan Zhao,Qingfu Zhang
@@ -5530,9 +4150,6 @@ Ping Guo,Xiang Li,Zhiyuan Yang,Xi Lin,Qingchuan Zhao,Qingfu Zhang
 我们提出了一种高效的防御机制，名为PuriDefense，它利用轻量级净化模型在较低的推断成本下进行随机块级净化。这些模型通过局部隐式函数重建自然图像流形，这被理论分析证明能够减缓查询导向攻击的收敛速度。广泛实验在CIFAR-10和ImageNet上验证了这种基于净化器的防御机制的有效性，显著提高了对抗查询导向攻击的鲁棒性。
 ### Conclusion
 PuriDefense通过随机局部隐式净化有效提升了MLaaS系统的对抗查询导向攻击的鲁棒性，相比传统防御机制，具有较低的计算成本和较高的准确性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 462. `cs.CV` - Generate the Forest before the Trees -- A Hierarchical Diffusion Model for Climate Downscaling [PDF](https://arxiv.org/pdf/2506.19391), [HTML](https://arxiv.org/abs/2506.19391)
 ### Authors
 Declan J. Curran,Sanaa Hobeichi,Hira Saleem,Hao Xue,Flora D. Salim
@@ -5542,9 +4159,6 @@ Declan J. Curran,Sanaa Hobeichi,Hira Saleem,Hao Xue,Flora D. Salim
 HDD模型通过引入简化层次下采样方案到扩散框架中，提供了一种轻量级的解决方案。它能够以更低的计算负荷实现高分辨率的气候数据生成，并且单个在0.25°分辨率上训练的模型能够在多个CMIP6模型之间无缝转换。这使得HDD模型成为一种可用于气候降尺度的概率气候模型轻量级替代方案，能够支持可负担的大规模高分辨率气候预测。
 ### Conclusion
 HDD模型通过层次采样过程在保持准确性的前提下大幅降低了计算负荷，证明了在不同分辨率模型之间的广泛适用性，提供了一种轻便且高效的高分辨率气候数据生成方法，推动了低成本高分辨率气候预测的应用。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 463. `cs.CV` - 超声图像解释和扫描指导的语义场景图 [PDF](https://arxiv.org/pdf/2506.19683), [HTML](https://arxiv.org/abs/2506.19683)
 ### Authors
 Xuesong Li,Dianye Huang,Yameng Zhang,Nassir Navab,Zhongliang Jiang
@@ -5554,9 +4168,6 @@ Xuesong Li,Dianye Huang,Yameng Zhang,Nassir Navab,Zhongliang Jiang
 提出了使用基于变换器的一步法计算超声图像的场景图（SG），通过大规模语言模型（LLMs）进一步细化SG表示，生成用户可理解的图像解释，并探索SG在指导超声扫描中的应用，以弥补当前成像视图中的解剖缺失，帮助普通用户实现更标准化和完整的解剖探索。这种方法验证了超声图像解释和扫描指导的潜力，从而最大限度地提高超声成像的普及性和易用性，特别是对于普通用户而言。
 ### Conclusion
 此SG方法已被验证可以在包括颈动脉和甲状腺的左右颈部区域的超声图像上有效。结果表明该方法在最大程度上民主化超声成像方面具有巨大潜力，增强了其对普通用户的可解释性和可用性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 464. `cs.CV` - MiCo: 基于上下文感知聚类的多重实例学习在全切片图像分析中的应用 [PDF](https://arxiv.org/pdf/2506.18028), [HTML](https://arxiv.org/abs/2506.18028)
 ### Authors
 Junjian Li,Hulin Kuang,Jin Liu,Hailin Yue,Mengshen He,Jianxin Wang
@@ -5566,9 +4177,6 @@ Junjian Li,Hulin Kuang,Jin Liu,Hailin Yue,Mengshen He,Jianxin Wang
 我们提出了一种基于上下文感知聚类的多重实例学习框架，即MiCo。该框架旨在增强跨区域内的组织内关联并加强跨组织的语义关联。MiCo首先通过聚类提取区分性的形态模式，使用聚类中心作为语义锚点。为了增强跨区域内的组织内关联，MiCo采用了Cluster Route模块，该模块通过特征相似性动态链接同一组织类型的实例，跨越不同区域。这些语义锚点作为上下文节点，传播语义关系以细化实例级别的表示。为了消除语义碎片化并加强跨组织的语义关联，MiCo结合了Cluster Reducer模块，该模块消除了冗余锚点，增强了不同语义组之间的信息交换。
 ### Conclusion
 在两个具有挑战性的任务上对九个大规模公共癌症数据集的广泛实验显示了MiCo的有效性，证明了其优于最先进的方法。代码可通过以下链接获取：this https URL.
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 465. `cs.CV` - 自监督对比学习中按需发现全局虚假负面样本 [PDF](https://arxiv.org/pdf/2502.20612), [HTML](https://arxiv.org/abs/2502.20612)
 ### Authors
 Vicente Balmaseda,Bokun Wang,Ching-Long Lin,Tianbao Yang
@@ -5578,9 +4186,6 @@ Vicente Balmaseda,Bokun Wang,Ching-Long Lin,Tianbao Yang
 本文提出了一种基于优化的方法——GloFND，该方法能够在训练过程中自动学习每个锚数据的阈值，以识别其‘虚假负样本’。与之前的 false negative 发现方法不同，该方法在全球范围内检测整个数据集中所有可能的‘虚假负样本’，而不局限于mini-batch范围内，并且每迭代的计算成本与数据集大小无关。实验结果表明此方法的有效性。
 ### Conclusion
 本文提出的方法在图像和图像-文本数据上的实验结果证明了该方法的有效性。我们的实现可以在此处找到： [提供的网址]
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 466. `cs.CV` - 使用神经场和光流增强动态CT图像重建 [PDF](https://arxiv.org/pdf/2406.01299), [HTML](https://arxiv.org/abs/2406.01299)
 ### Authors
 Pablo Arratia,Matthias Ehrhardt,Lisa Kreusser
@@ -5590,9 +4195,6 @@ Pablo Arratia,Matthias Ehrhardt,Lisa Kreusser
 提出了使用基于偏微分方程的显式运动正则化优化神经场的方法，以改善动态CT图像重建的质量。与未正则化的神经场方法和传统网格基解算器相比，这种方法能够实现更好的表现。特别是，在峰值信噪比（PSNR）方面，神经场方法优于传统方法。
 ### Conclusion
 通过引入基于偏微分方程的显式运动正则化，可以提高动态CT图像的重建质量。这种方法不仅利用了神经场的轻量级、连续性和偏好光滑表示的特性，还能够通过额外的运动正则化提高图像的准确性，从而在动态CT图像重建任务中优于传统的网格基解算器。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 467. `cs.CV` - 通过基础模型组成实现可扩展和通用的地球观测数据挖掘 [PDF](https://arxiv.org/pdf/2506.20174), [HTML](https://arxiv.org/abs/2506.20174)
 ### Authors
 Man Duc Chuc
@@ -5602,9 +4204,6 @@ Man Duc Chuc
 研究主要创新在于提出了一种新的方法，即通过组合现有预训练的基础模型来提升地球观测任务的性能，这种方法不仅能够达到甚至超过大型模型的性能水平，还能显著降低训练时间和计算资源的需求。此外，研究还探索了知识蒸馏技术，以将组合模型的优点转移到更小、更紧凑的模型中，为实际应用中的模型部署提供了新思路。
 ### Conclusion
 通过预训练于遥感和通用视觉数据集的较小基础模型的特征级组合，能够在多种多样化的地球观测任务中达到接近或超越大型模型的性能水平，所需的计算资源和训练时间更少。知识蒸馏的应用能够实现性能的进一步提升，并转移组合模型的优点至更紧凑的模型，这为实际应用场景中的基础模型部署提供了实际可行的路径。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 468. `cs.CV` - DeSPITE：探索用于高级点云人类活动理解的对比深骨架-点云-IMU-文本嵌入 [PDF](https://arxiv.org/pdf/2506.13897), [HTML](https://arxiv.org/abs/2506.13897)
 ### Authors
 Thomas Kreutz,Max Mühlhäuser,Alejandro Sanchez Guinea
@@ -5614,9 +4213,6 @@ Thomas Kreutz,Max Mühlhäuser,Alejandro Sanchez Guinea
 提出了一种名为DeSPITE的深度骨架-点云-IMU-文本嵌入模型，用于探索LiDAR点云、人体骨架姿态、IMU数据和文本之间的对应关系，并构建一个联合嵌入空间。通过同步LIPD和Babel数据集，使得四种模态的数据能够被统一处理。该模型创新地展示了基于点云序列的新的人类活动理解任务，并证明了其预训练策略的有效性，尤其在点云人体活动识别方面的优势。
 ### Conclusion
 DeSPITE有效地学习了跨多模态（点云、骨架姿态、IMU数据和文本）的联合嵌入空间，并展示了在多模态人类活动理解和点云人体活动识别等任务上的重要应用。实验结果证明了DeSPITE在提高点云人体活动识别性能方面的有效性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 469. `cs.CV` - GASP: 效率高的生成对抗后缀以破解大语言模型的黑盒方法 [PDF](https://arxiv.org/pdf/2411.14133), [HTML](https://arxiv.org/abs/2411.14133)
 ### Authors
 Advik Raj Basani,Xiao Zhang
@@ -5626,9 +4222,6 @@ Advik Raj Basani,Xiao Zhang
 GASP 框架通过利用潜在贝叶斯优化技术来快速探索连续潜在嵌入空间，生成最有效的对抗后缀，同时通过目标迭代细化策略来平衡提示的连贯性，从而使得在破解大语言模型时能够有效地生成自然且高效的对抗提示。
 ### Conclusion
 通过广泛的实验，我们证明了 GASP 能够生成自然的对抗后缀提示，相比基线方法显著提高了破解成功率，缩短了训练时间，并加快了推理速度，从而将其作为一个高效且可扩展的红队破解大语言模型的方法。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 470. `cs.CV` - Score-based 生成模型的正則化Outer Moderating the Generalization of Score-based Generative Model [PDF](https://arxiv.org/pdf/2412.07229), [HTML](https://arxiv.org/abs/2412.07229)
 ### Authors
 Wan Jiang,He Wang,Xin Zhang,Dan Guo,Zhaoxin Fan,Yunfeng Diao,Richang Hong
@@ -5638,9 +4231,6 @@ Wan Jiang,He Wang,Xin Zhang,Dan Guo,Zhaoxin Fan,Yunfeng Diao,Richang Hong
 研究提出了一种新的方法——分数调整的生成模型（MSGM），该方法通过在一个连续时间的随机微分方程过程中引入新型的分数调整策略，将分数函数从不需要的数据中引导开。大量的实验表明MSGM可以显著减少生成不需要内容的几率，同时保持高质量的正常图像生成。另外，MSGM框架是通用且灵活的，可以与不同类型的扩散架构（SGM和DDPM）和训练策略（从头训练和微调）兼容，并能实现预训练模型的零样本迁移应用，如图像修复和重建。
 ### Conclusion
 总体来看，MSGM在保证高质量图像生成的同时显著减少了误泛化的可能性，提供了一种灵活且通用的适度泛化方法，并增强了SGMs的实用性和安全性。代码在论文被接受后将公开分享。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 471. `cs.CV` - HUG: 基于块重建的分层城市高斯点绘制技术在大规模空中场景中的应用 [PDF](https://arxiv.org/pdf/2504.16606), [HTML](https://arxiv.org/abs/2504.16606)
 ### Authors
 Mai Su,Zhongtao Wang,Huishan Au,Yilong Li,Xizhe Cao,Chengwei Pan,Yisong Chen,Guoping Wang
@@ -5650,9 +4240,6 @@ Mai Su,Zhongtao Wang,Huishan Au,Yilong Li,Xizhe Cao,Chengwei Pan,Yisong Chen,Guo
 我们提出了HUG（Hierarchical Urban Gaussian）一种新颖的方法，通过利用分层神经高斯表示来增强数据分区和重建质量。首先，我们提出了一种基于可见性的数据分区方法，该方法简单高效，并显著优于现有方法。其次，我们引入了一种基于块的分层加权训练方法，与其他优化策略相结合，以显著提高重建质量。该方法在合成数据集和四个真实世界数据集上达到了最先进的结果。
 ### Conclusion
 我们的方法在大规模城市空中场景中使用分层城市高斯点绘制技术，通过分层神经高斯表示增强数据分区和重建质量，解决了现有的3DGS方法在大规模空中场景中面临的问题，并达到了最先进的重建效果。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 472. `cs.CV` - 始终跳过注意力机制 [PDF](https://arxiv.org/pdf/2505.01996), [HTML](https://arxiv.org/abs/2505.01996)
 ### Authors
 Yiping Ji,Hemanth Saratchandran,Peyman Moghadam,Simon Lucey
@@ -5662,9 +4249,6 @@ Yiping Ji,Hemanth Saratchandran,Peyman Moghadam,Simon Lucey
 本文首次理论说明自我注意力机制需要依赖跳连连接才能正常运作，并提出了Token Graying作为跳连连接的补充，理论上改善了输入令牌的条件，使得自我注意力机制在不依赖跳连的情况下也能表现出更佳的性能。
 ### Conclusion
 通过引入Token Graying，作者证明了即使在移除跳连连接的情况下，自我注意力机制也能保持较好的训练效果。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 473. `cs.CV` - Chain-of-Sketch: 推动全局视觉推理 [PDF](https://arxiv.org/pdf/2410.08165), [HTML](https://arxiv.org/abs/2410.08165)
 ### Authors
 Aryo Lotfi,Enrico Fini,Samy Bengio,Moin Nabi,Emmanuel Abbe
@@ -5674,9 +4258,6 @@ Aryo Lotfi,Enrico Fini,Samy Bengio,Moin Nabi,Emmanuel Abbe
 本文提出了一种名为‘chain-of-sketch (CoS)’的方法。该方法类似于语言模型中的chain-of-thought和scratchpad技术，将原始任务分解为中间视觉步骤，以帮助学习复杂的任务。同时，本文还指出并非所有CoS策略都表现相同，提出了在CoS帧上施加马尔可夫结构的‘诱导性CoS’策略，这种策略在离分布泛化方面表现更好，并且对于小型模型同样有效。
 ### Conclusion
 研究表明，施加马尔可夫结构的诱导性CoS策略在离分布泛化方面表现出色，甚至在较小的模型上也能表现出良好的性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 474. `cs.CV` - CREStE: 使用互联网规模先验和反事实指引的可扩展地图无关导航 [PDF](https://arxiv.org/pdf/2503.03921), [HTML](https://arxiv.org/abs/2503.03921)
 ### Authors
 Arthur Zhang,Harshit Sikchi,Amy Zhang,Joydeep Biswas
@@ -5686,9 +4267,6 @@ Arthur Zhang,Harshit Sikchi,Amy Zhang,Joydeep Biswas
 论文的创新之处在于提出了CREStE，一种学习基于感知的架构，它包括两个关键点：1) 一种视觉基础模型（VFM）的蒸馏目标，用于学习开放集结构的鸟瞰图感知表示；2) 一种新颖的反事实逆强化学习（IRL）方法，通过反事实轨迹示例推理导航成本时找到最重要的线索。这种方法可以利用有限的人工演示来推断导航成本，提高了导航的效率和准确性。
 ### Conclusion
 研究者评估了CREStE在不同城市、非城市和住宅环境中的千米级地图无关导航任务，发现它比最先进的方法少70%的人工干预，甚至在完全未知环境中执行2千米任务只需要1次干预。这表明CREStE能够实现长期规划的地图无关导航，并展示了其鲁棒性和有效性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 475. `cs.CV` - BlenderFusion：基于3D的视觉编辑和生成合成 [PDF](https://arxiv.org/pdf/2506.17450), [HTML](https://arxiv.org/abs/2506.17450)
 ### Authors
 Jiacheng Chen,Ramin Mehran,Xuhui Jia,Saining Xie,Sanghyun Woo
@@ -5698,9 +4276,6 @@ Jiacheng Chen,Ramin Mehran,Xuhui Jia,Saining Xie,Sanghyun Woo
 BlenderFusion的主要创新点在于其使用预训练的扩散模型进行并行处理原始场景和编辑场景，并通过两种训练策略：背景替换的灵活修改和对象与摄像机的独立控制，进一步提升了模型的准确性。这些策略使得BlenderFusion在复杂组成场景编辑任务中显著优于先前的方法。
 ### Conclusion
 BlenderFusion框架展示了在3D接地视觉编辑和生成性合成方面的优越能力，特别是在处理复杂组成场景编辑任务时，极大地提升了性能，为未来研究提供了新的方向。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 476. `cs.CV` - Variational Supervised Contrastive Learning [PDF](https://arxiv.org/pdf/2506.07413), [HTML](https://arxiv.org/abs/2506.07413)
 ### Authors
 Ziwen Wang,Jiajun Fan,Thao Nguyen,Heng Ji,Ge Liu
@@ -5710,9 +4285,6 @@ Ziwen Wang,Jiajun Fan,Thao Nguyen,Heng Ji,Ge Liu
 我们提出了变分监督对比学习（VarCon），它将监督对比学习重新表述为在潜在类别变量上的变分推理，并通过最大化带后验加权的良好证据下界（ELBO）来最大化内类分散度，这取代了耗时的配对比较，实现了类意识的匹配，提供了对嵌入空间内的类分散度的精细控制。VarCon 在仅使用图像数据的情况下，在 CIFAR-10，CIFAR-100，ImageNet-100 和 ImageNet-1K 的实验中表现出色。
 ### Conclusion
 VarCon 达到了对比学习框架的最新性能，在 ImageNet-1K 上达到了 79.36% 的 Top-1 准确率，CIFAR-100 达到 78.29%，使用 ResNet-50 编码器仅需 200 个epochs。VarCon 的决策边界更为清晰，语义组织更为明确，对于少样本学习表现出更优的效果，并且具有优于不同增强策略的鲁棒性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 477. `cs.CV` - Metis-RISE: RL Incentivizes and SFT Enhances Multimodal Reasoning Model Learning [PDF](https://arxiv.org/pdf/2506.13056), [HTML](https://arxiv.org/abs/2506.13056)
 ### Authors
 Haibo Qiu,Xiaohan Lan,Fanfan Liu,Xiaohu Sun,Delian Ruan,Peng Shi,Lin Ma
@@ -5722,9 +4294,6 @@ Haibo Qiu,Xiaohan Lan,Fanfan Liu,Xiaohu Sun,Delian Ruan,Peng Shi,Lin Ma
 本文介绍了一种名为Metis-RISE的方法，它独特的去掉了初始的SFT阶段，而是从RL阶段（例如，使用Group Relative Policy Optimization的变体）开始，来激励和激活模型的潜在推理能力。随后，为了应对RL阶段识别出的两个关键挑战：（1）对于模型具备但不一致应用的正确推理，任务中的低效轨迹采样；（2）对于模型完全失败的领域，缺失的根本能力，采用自本身的RL模型生成自提练的推理轨迹以及注入专家增强的知识来解决。这种将RL用于激励，随后SFT用于增强的策略是Metis-RISE的核心，催生了两个版本的MLLMs（分别有7B和72B参数）。
 ### Conclusion
 在OpenCompass多模态推理排行榜上的评估表明，两种模型均实现了在同规模模型中的最佳性能，72B参数版本排名第四。更多详细信息请参阅我们的开源项目页面。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 478. `cs.CV` - TCDiff++: 一种用于和谐音乐驱动群舞编排的端到端轨迹可控扩散模型 [PDF](https://arxiv.org/pdf/2506.18671), [HTML](https://arxiv.org/abs/2506.18671)
 ### Authors
 Yuqin Dai,Wanlu Zhu,Ronghui Li,Xiu Li,Zhenyu Zhang,Jun Li,Jian Yang
@@ -5734,9 +4303,6 @@ Yuqin Dai,Wanlu Zhu,Ronghui Li,Xiu Li,Zhenyu Zhang,Jun Li,Jian Yang
 本文提出了一种名为TCDiff++的音乐驱动的端到端框架，旨在生成和谐的群舞。为了解决多舞者碰撞的问题，引入了舞者位置嵌入以更好地保持舞者之间的相对位置。通过引入距离一致性损失，确保舞者之间的距离在实际范围内。为解决单个舞者脚滑动的问题，提出了一种交换模式嵌入来指示舞者交换模式，并设计了一个步法适配器以改进原始动作，从而减少脚滑动。针对长群舞生成，提出了一种长群扩散采样策略，通过向噪声输入注入位置信息，减少突然的位置变换。进一步引入序列解码器层，增强模型处理长时间序列的能力。实验证明，TCDiff++在长场次场景中达到了最先进的性能，确保了高质量和一致性的群舞生成。
 ### Conclusion
 TCDiff++在解决舞蹈生成中的挑战方面表现优异，特别是在长期应场景中实现了高质量和连贯性的群舞生成。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 479. `cs.CV` - 基于RGB感知的共识驱动不确定性机器人抓取 [PDF](https://arxiv.org/pdf/2506.20045), [HTML](https://arxiv.org/abs/2506.20045)
 ### Authors
 Eric C. Joyce,Qianwen Zhao,Nathaniel Burgdorfer,Long Wang,Philippos Mordohai
@@ -5746,9 +4312,6 @@ Eric C. Joyce,Qianwen Zhao,Nathaniel Burgdorfer,Long Wang,Philippos Mordohai
 提出了一种轻量级深度网络的训练方法，可以在使用图像估计的姿态指导抓取之前预测抓取成功率。通过在实际图像上的物体姿态估计和模拟抓取生成网络训练数据。研究发现，尽管抓取试验中存在高物体变异性，但网络在所有物体共同训练时能从中受益，表明多样化的物体可以从相同的任务中获益
 ### Conclusion
 这种方法将物体姿态估计和不确定性量化直接应用于抓取任务，提高了抓取成功率，特别是在高不确定性条件下。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 480. `cs.LG` - E-ABIN：生物网络中可解释的异常检测模块 [PDF](https://arxiv.org/pdf/2506.20693), [HTML](https://arxiv.org/abs/2506.20693)
 ### Authors
 Ugo Lomoio,Tommaso Mazza,Pierangelo Veltri,Pietro Hiram Guzzi
@@ -5758,9 +4321,6 @@ Ugo Lomoio,Tommaso Mazza,Pierangelo Veltri,Pietro Hiram Guzzi
 本文介绍了E-ABIN，这是一种通用且可解释的生物网络异常检测框架。它结合了经典机器学习和图基深度学习技术，并提供了一个统一且用户友好的平台，用于从基因表达或甲基化衍生的网络中检测和解释异常。通过集成支持向量机、随机森林、图自动编码器和图对抗属性网络等算法，E-ABIN在保持解释性的同时实现了高预测准确性。
 ### Conclusion
 我们在膀胱癌和乳糜泻研究中的案例研究表明，E-ABIN可以有效地揭示生物学相关异常并提供对疾病机制的见解。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 481. `cs.CV` - DSA-NRP：基于血管造影灌注动力学的中风取栓术后无复流预测 [PDF](https://arxiv.org/pdf/2506.17501), [HTML](https://arxiv.org/abs/2506.17501)
 ### Authors
 Shreeram Athreya,Carlos Olivares,Ameera Ismail,Kambiz Nael,William Speier,Corey Arnold
@@ -5770,9 +4330,6 @@ Shreeram Athreya,Carlos Olivares,Ameera Ismail,Kambiz Nael,William Speier,Corey 
 首次提出了利用术中数字减影血管造影（DSA）序列和临床变量构建的机器学习框架，用于在血管内取栓术（EVT）后实时预测无复流。该方法显著优于基于临床特征的基准模型，在AUC和准确率方面均有显著提升，并证明了DSA实时灌注动力学对于微血管完整性的关键洞察价值。这为即时、准确地预测无复流提供了基础，使临床医生可以更积极地管理高风险患者，而不必依赖延迟的影像学检查。
 ### Conclusion
 通过引入新的机器学习模型，利用术中DSA灌注动力学数据，可以实现对无复流的即时预测，从而帮助临床医生更早地对高风险患者进行干预，改善患者预后。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 482. `cs.LG` - 在理论物理学中的测试时间缩放技术 -- TPBench数据集上的方法比较 [PDF](https://arxiv.org/pdf/2506.20729), [HTML](https://arxiv.org/abs/2506.20729)
 ### Authors
 Zhiqi Gao,Tianyi Li,Yurii Kvasiuk,Sai Chaitanya Tadepalli,Maja Rudolph,Daniel J.H. Chung,Frederic Sala,Moritz Münchmeyer
@@ -5782,9 +4339,6 @@ Zhiqi Gao,Tianyi Li,Yurii Kvasiuk,Sai Chaitanya Tadepalli,Maja Rudolph,Daniel J.
 我们开发了一种新型的符号弱验证框架来提高并行缩放结果。我们的实验证明，该方法在TPBench上的效果显著优于现有测试时缩放方法。此外，我们在AIME上对该方法进行评估，进一步证实了其在解决高级数学问题上的有效性。
 ### Conclusion
 我们的研究结果表明，逐步符号验证可以有效地应对复杂的科学问题。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 483. `cs.LG` - 渐进而又基于大小自适应的联邦学习：一个多模态数据系统的全面框架 [PDF](https://arxiv.org/pdf/2506.20685), [HTML](https://arxiv.org/abs/2506.20685)
 ### Authors
 Sajid Hussain,Muhammad Sohail,Nauman Ali Khan,Naima Iltaf,Ihtesham ul Islam
@@ -5794,9 +4348,6 @@ Sajid Hussain,Muhammad Sohail,Nauman Ali Khan,Naima Iltaf,Ihtesham ul Islam
 本文提出了基于数据大小自适应的渐进联邦学习（SAFL）框架，这是一种系统性地基于跨异质多模态数据的数据集大小特征组织联邦学习的新颖训练框架。SAFL框架在所有数据集上达到了平均87.68%的准确率，特别是对于结构化数据模态，其准确率达到了99%以上。此外，该框架显示了优异的通信效率，通过558次通信实现总数据传输7.38 GB，同时保持了高性能。实时监测框架为系统资源利用率、网络效率和训练动力学提供了前所未有的洞察。SAFL框架填补了理解数据特征应当如何驱动联邦学习策略的知识空白，提供了理论洞察和实际指导，以支持实际部署中的联邦学习应用和学习系统中的神经网络。
 ### Conclusion
 本文通过综合实验评估，揭示了关键数据集大小特征对联邦学习效果的影响，证明了渐进而又基于大小自适应的联邦学习框架的有效性和优越性，同时提供了宝贵的理论洞察和实际指导，为实际部署中的联邦学习策略提供了支持。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 484. `cs.CV` - SoK:合成图像能否替代真实数据？合成图像生成的实用性和隐私性调查 [PDF](https://arxiv.org/pdf/2506.19360), [HTML](https://arxiv.org/abs/2506.19360)
 ### Authors
 Yunsung Chung,Yunbei Zhang,Nassir Marrouche,Jihun Hamm
@@ -5806,9 +4357,6 @@ Yunsung Chung,Yunbei Zhang,Nassir Marrouche,Jihun Hamm
 本文的研究创新在于它系统地梳理了合成图像生成方法的分类、隐私攻击的对抗措施以及实际应用中的表现，并通过实验比较不同合成方法的效果。使用模型无关的成员 inference攻击作为衡量隐私风险的标准，进一步揭示了合成数据生成在实用性和隐私间的权衡问题，为实际应用中的数据释放策略提供指导。
 ### Conclusion
 通过系统评估各种方法，本文为合成数据生成方法在实用性和隐私权衡中的具体应用提供了实际见解，并为实际应用中的数据释放策略提供了指导。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 485. `cs.LG` - 关于卷积、固有维度和扩散模型 [PDF](https://arxiv.org/pdf/2506.20705), [HTML](https://arxiv.org/abs/2506.20705)
 ### Authors
 Kin Kwan Leung,Rasa Hosseinzadeh,Gabriel Loaiza-Ganem
@@ -5818,9 +4366,6 @@ Kin Kwan Leung,Rasa Hosseinzadeh,Gabriel Loaiza-Ganem
 本文通过在更现实的假设下正式证明FLIPD的正确性，弥合金德cordi等人（2024b）在理论上的不足，并展示了替换高斯卷积为均匀卷积时类似的结果。这一研究填补了理论上的空白，为扩散模型的进一步研究提供了支持。
 ### Conclusion
 本文通过证明FLIPD在非线性子流形假设下的正确性，以及在高斯卷积被替换为均匀卷积时的等效性，解决了理论上的缺口，并讨论了其在数据复杂度度量和异常检测等方面的潜在应用。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 486. `cs.LG` - AI for Materials Science: 基础模型、大语言模型代理、数据集和工具综述 [PDF](https://arxiv.org/pdf/2506.20743), [HTML](https://arxiv.org/abs/2506.20743)
 ### Authors
 Minh-Hao Van,Prateek Verma,Chen Zhao,Xintao Wu
@@ -5830,9 +4375,6 @@ Minh-Hao Van,Prateek Verma,Chen Zhao,Xintao Wu
 本文介绍了基础模型和大语言模型（LLM）代理的最新进展，以及标准化数据集、开源工具和自主实验平台的综述，这些共同促进了FMs的研发和整合到研究工作流程中。同时，也探讨了诸如普遍性、可解释性、数据不平衡、安全问题和多模态融合限制等持续存在的障碍。
 ### Conclusion
 为优化FMs，本文建议的重点领域包括可扩展的预训练、连续学习、数据治理和可靠性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 487. `cs.LG` - 多种关系提取流：Transformer中的丰富和回忆 [PDF](https://arxiv.org/pdf/2506.20746), [HTML](https://arxiv.org/abs/2506.20746)
 ### Authors
 Todd Nief,David Reber,Sean Richardson,Ari Holtzman
@@ -5842,9 +4384,6 @@ Todd Nief,David Reber,Sean Richardson,Ari Holtzman
 为了填补现有方法的空白，本文提出了动态权重嫁接技术，该技术展示了微调后的语言模型不仅在处理实体时抽取在微调过程中学到的关系信息，还在预测过程中回忆这些信息。结果显示，在一些情况下，模型需要同时这两条路径来正确产生微调后的信息，而在其他情况下，单独使用其中一种路径就足够了。研究进一步探讨了这些信息路径的必要性和充分性，发现“回忆”路径通过任务特定的注意机制和最终层前馈网络中的关系提取步骤完成。
 ### Conclusion
 研究发现，微调后的语言模型在处理特定任务时，采用两种主要路径来处理学习到的关系信息：一类路径是在处理实体时进行关系信息的直接抽取，另一类路径是在预测生成过程中利用已学习到的关系信息进行恢复与回忆。学科研究表明，这两种方法在某些情况下是独立的，在其他情况下，两者同时作用以促进准确的预测生成。通过这种探讨，我们能更深入地理解微调模型如何利用学习到的信息进行预测以及其底层机制。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 488. `cs.LG` - 随机参数分解 [PDF](https://arxiv.org/pdf/2506.20790), [HTML](https://arxiv.org/abs/2506.20790)
 ### Authors
 Lucius Bushnaq,Dan Braun,Lee Sharkey
@@ -5854,9 +4393,6 @@ Lucius Bushnaq,Dan Braun,Lee Sharkey
 本文提出了随机参数分解（SPD）方法，这是一种比现有的基归因参数分解（APD）更可扩展且更鲁棒的方法，能处理稍大且更复杂的模型，并避免了如学习参数收缩等问题，同时能更准确地识别真实机制。
 ### Conclusion
 通过结合因果中介分析和网络分解方法，SPD为机制可解释性提供了新的研究可能性，解决了现有方法在处理较大模型时遇到的障碍。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 489. `cs.LG` - 关于背景-内容不确定性原理 [PDF](https://arxiv.org/pdf/2506.20699), [HTML](https://arxiv.org/abs/2506.20699)
 ### Authors
 Xin Li
@@ -5866,9 +4402,6 @@ Xin Li
 文章开发了多层次的操作原则框架，包括四个层次：核心推理约束、资源分配原则、时间引导下的制动器动态和空间层级组成。这些原则是从背景-内容不确定性原则推导出来的，并展示了它们之间的可还原性。文章还提出了形式等价定理和操作原则之间的依赖层次结构，并通过计算模拟展示了CCUP对推理效率的提升。
 ### Conclusion
 这篇文章为理解大脑和机器如何通过递归的结构-特异性对齐来最小化不确定性提供了一个统一的理论基础。不仅大脑是推理机器，它还是一个路径依赖的、内容引导的熵梯度解算器，通过结构和特异性的对齐来进行模拟。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 490. `cs.LG` - 分割，专业化和路由：一种高效的集成学习新方法 [PDF](https://arxiv.org/pdf/2506.20814), [HTML](https://arxiv.org/abs/2506.20814)
 ### Authors
 Jakub Piwko,Jędrzej Ruciński,Dawid Płudowski,Antoni Zajko,Patryzja Żak,Mateusz Zacharecki,Anna Kozak,Katarzyna Woźnica
@@ -5878,9 +4411,6 @@ Jakub Piwko,Jędrzej Ruciński,Dawid Płudowski,Antoni Zajko,Patryzja Żak,Mateu
 提出了一种名为Hellsemble的新颖且可解释的二分类集成框架，该框架在训练和推理期间利用数据集复杂性，通过迭代传递错误分类的实例以形成专业化基础学习者的委员会。每个模型在不断难度增大的子集上进行训练，而一个独立的路由模型学习基于推断的难度为新实例指派最合适的基础模型。Hellsemble在保持计算效率和可解释性的同时实现了强大的分类精度。实验结果表明，Hellsemble在OpenML-CC18和Tabzilla基准上通常优于经典集成方法，进一步表明在实例难度层面采取措施是构建高效和稳健集成系统的一个有前景的方向。
 ### Conclusion
 实验结果表明Hellsemble在开放基准OpenML-CC18和Tabzilla中经常优于经典集成方法，这表明根据实例难度构建集成系统具有广阔前景。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 491. `cs.LG` - Diffusion Tree Sampling: 高效的扩散模型推理时对齐方法 [PDF](https://arxiv.org/pdf/2506.20701), [HTML](https://arxiv.org/abs/2506.20701)
 ### Authors
 Vineet Jain,Kusha Sareen,Mohammad Pedramfar,Siamak Ravanbakhsh
@@ -5890,9 +4420,6 @@ Vineet Jain,Kusha Sareen,Mohammad Pedramfar,Siamak Ravanbakhsh
 本文受到蒙特卡罗树搜索成功的启发，将推理时的对齐问题重新定义为一个当前通行的计算结果可以被重用的搜索问题。提出了一种基于树的方法，通过从奖励对齐的目标密度中采样，并在每次迭代中改进价值估计来进行扩散链的反向传播。方法名为Diffusion Tree Sampling (DTS)，其贪婪变体Diffusion Tree Search (DTS$^text{?textstar}$) 可以全局搜索高奖励样本。实验表明，DTS和DTS$^text{?textstar}$分别在MNIST和CIFAR-10类条件生成和文本到图像生成任务中以比竞争基线少10倍和5倍的计算成本达到几乎相同的效果。
 ### Conclusion
 通过从之前的迭代中重新使用信息，作者提出的方法提供了一种可随时改进生成模型性能的算法，进一步证明了扩散模型在推理时对齐的可扩展方法的有效性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 492. `cs.LG` - 微缩格式中训练不稳定性特征与缓解 [PDF](https://arxiv.org/pdf/2506.20752), [HTML](https://arxiv.org/abs/2506.20752)
 ### Authors
 Huangyuan Su,Mujin Kwun,Stephanie Gil,Sham Kakade,Nikhil Anand
@@ -5902,9 +4429,6 @@ Huangyuan Su,Mujin Kwun,Stephanie Gil,Sham Kakade,Nikhil Anand
 论文研究了使用微缩（MX）格式进行大型语言模型训练时遇到的尖锐、随机的损失不稳定现象，并通过代理模型的实验探讨了一种潜在的机制，即梯度偏差导致的发散。同时，论文展示了通过调整精度方案可以在训练中期缓解这些不稳定性，从而提高模型的训练性能。
 ### Conclusion
 通过代理模型的实验揭示了微缩格式训练中不稳定性的潜在机制，并展示了通过调整精度方案可以缓解这些不稳定性。特定的混合配置表现出了与全精度训练相竞争的性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 493. `cs.LG` - 分布式训练图神经网络的揭秘 [PDF](https://arxiv.org/pdf/2506.20818), [HTML](https://arxiv.org/abs/2506.20818)
 ### Authors
 Xin Huang,Chul-Ho Lee
@@ -5914,9 +4438,6 @@ Xin Huang,Chul-Ho Lee
 提出了SpLPG，一种有效利用图稀疏化的方法，以减少性能下降的问题，同时减少通信成本。SpLPG通过减少约80%的通信开销，主要保持链接预测的准确性来解决上述问题，从而降低通信成本并提升了链接预测的准确性。
 ### Conclusion
 实验结果表明，SpLPG在多个公开的真实世界数据集上具有有效性，减少了约80%的通信开销，同时在大部分情况下保持了链接预测的准确性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 494. `cs.LG` - GPU Kernel Scientist: 一种基于LLM的迭代内核优化框架 [PDF](https://arxiv.org/pdf/2506.20807), [HTML](https://arxiv.org/abs/2506.20807)
 ### Authors
 Martin Andrews,Sam Witteveen
@@ -5926,9 +4447,6 @@ Martin Andrews,Sam Witteveen
 本文提出了一种名为“GPU内核科学家”的基于LLM（大型语言模型）的自动化方法，用于迭代细化加速器内核。方法采用多阶段进化过程：(a) 战略性选择前景良好的先前代码版本作为新迭代的基础；(b) 基于现有代码和从通用GPU文献中吸收的知识生成优化假设；(c) 通过代码修改和向外部评估系统提交，自主进行这些实验，仅使用观察到的时间数据作为性能反馈。本文展示了这种做法如何导航AMD MI300目标架构的挑战，并利用LLM弥补有限的特定领域的专业知识缺口。
 ### Conclusion
 由于正在进行的性能比赛的具体结果在提交日期被禁止公开，本文展示了体系结构设计、操作流程和定性的见解，强调了基于LLM的代理如何在资源受限或快速发展的硬件环境中，促进GPU内核优化的民主化和加速。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 495. `cs.LG` - 基于学习的集成感知与通信系统资源管理 [PDF](https://arxiv.org/pdf/2506.20849), [HTML](https://arxiv.org/abs/2506.20849)
 ### Authors
 Ziyang Lu,M. Cenk Gursoy,Chilukuri K. Mohan,Pramod K. Varshney
@@ -5938,9 +4456,6 @@ Ziyang Lu,M. Cenk Gursoy,Chilukuri K. Mohan,Pramod K. Varshney
 本文提出了一种新颖的约束深度强化学习（CDRL）方法，旨在在时间预算约束下优化跟踪和通信资源之间的分配，从而提高目标通信质量。实验证明了所提出的CDRL框架的有效性，能够最大化快速变化环境中通信质量，同时遵守时间限制。
 ### Conclusion
 本文通过对CDRL框架的引入和验证，成功展示了其在动态环境中高效管理雷达-通信系统资源的能力，为集成感知与通信系统的优化设计提供了新的解决方案。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 496. `cs.LG` - 精简训练，减少泄露：利用LoRA重访大语言模型细调中的记忆化现象 [PDF](https://arxiv.org/pdf/2506.20856), [HTML](https://arxiv.org/abs/2506.20856)
 ### Authors
 Fei Wang,Baochun Li
@@ -5950,9 +4465,6 @@ Fei Wang,Baochun Li
 该研究利用一个更宽松的基于相似性的记忆化衡量标准，发现LoRA相比全面细调显著降低了记忆化风险，同时保持了强大的任务性能。这一发现展示了LoRA在减少记忆化风险方面的优势，这对于保护模型免受数据泄露攻击至关重要。
 ### Conclusion
 该研究结果表明，LoRA在细调过程中显著减少了记忆化风险，同时仍保持了优异的任务表现。这为在保持模型性能的同时减少存储风险提供了新的视角。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 497. `cs.LG` - 通过网络层非均匀影响实现对抗数据的通用且高效检测 [PDF](https://arxiv.org/pdf/2506.20816), [HTML](https://arxiv.org/abs/2506.20816)
 ### Authors
 Furkan Mumcu,Yasin Yilmaz
@@ -5962,9 +4474,6 @@ Furkan Mumcu,Yasin Yilmaz
 该研究提出了一个新颖的、通用且高效的对抗样本检测方法。通过训练轻量级回归模型，可以预测深层特征并根据预测误差来检测对抗样本。这种方法在理论论证和实验测试中表明，它不仅对最先进的攻击技术非常有效，而且在实时处理中具有高计算效率，适用于任何DNN架构并在不同领域（如图像、视频和音频）中也具有广泛的应用性。
 ### Conclusion
 该研究提出的检测方法不仅有效，而且在实时处理中高效，可以广泛应用于任何DNN架构并在多个领域中进行对抗样本检测。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 498. `cs.LG` - FINN-GL: FPGA加速的LSTM通用混合精度扩展 [PDF](https://arxiv.org/pdf/2506.20810), [HTML](https://arxiv.org/abs/2506.20810)
 ### Authors
 Shashwat Khandelwal,Jakoba Petri-Koenig,Thomas B. Preußer,Michaela Blott,Shreejith Shanker
@@ -5974,9 +4483,6 @@ Shashwat Khandelwal,Jakoba Petri-Koenig,Thomas B. Preußer,Michaela Blott,Shreej
 本研究利用FINN框架中的Scan算子来建模递归计算特征，支持混合量化并在功能验证中使用LSTM模型。还引入了特定的转换，在FINN编译器中将量化ONNX计算图映射到HLS内核库中的硬件块和Vitis HLS。通过开发的流程训练了一个量化ConvLSTM模型以进行中期股价预测，并生成相应的硬件IP，已在XCZU7EV设备上实现了该模型。实验结果表明，所开发的流程能够在保持性能和资源消耗平衡的同时，提供与现有高精度模型相当或更优的推理准确度。这一通用的开发流程为FPGA上的RNN加速器设计铺平了道路，具有资源效率的特点。
 ### Conclusion
 总之，本文通过开发的工具流和FINN框架支持LSTM在FPGA上的通用部署，验证了其在性能和资源消耗之间的平衡，并展示了一种通用的设计方式，为FPGA上的RNN加速器设计提供了资源效率的实现。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 499. `cs.LG` - Omniwise: 利用大语言模型预测GPU内核性能 [PDF](https://arxiv.org/pdf/2506.20886), [HTML](https://arxiv.org/abs/2506.20886)
 ### Authors
 Zixian Wang,Cole Ramos,Muhammad A. Awad,Keith Lowery
@@ -5986,9 +4492,6 @@ Zixian Wang,Cole Ramos,Muhammad A. Awad,Keith Lowery
 研究引入了Omniwise，这是第一个端到端、自监督的大语言模型微调管道，用于GPU内核性能预测。Omniwise模型通用且轻量，即使使用3B参数的小型模型也能够获得优秀的预测结果，其预测关键性能指标的相对误差低于10%。该项研究还开发了在线推理服务器和Visual Studio Code插件，使得基于大语言模型的性能预测能够无缝集成到开发者的日常工作中，提高了开发效率。
 ### Conclusion
 Omniwise能够通过大语言模型实现对GPU内核性能的强大预测能力，无需代码执行或性能分析工具，有效地提高了性能预测的准确性和实用性，为开发者提供了一种便捷的性能优化工具。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 500. `cs.LG` - 认知雷达资源管理的多目标强化学习 [PDF](https://arxiv.org/pdf/2506.20853), [HTML](https://arxiv.org/abs/2506.20853)
 ### Authors
 Ziyang Lu,Subodh Kalia,M. Cenk Gursoy,Chilukuri K. Mohan,Pramod K. Varshney
@@ -5998,9 +4501,6 @@ Ziyang Lu,Subodh Kalia,M. Cenk Gursoy,Chilukuri K. Mohan,Pramod K. Varshney
 采用深度强化学习方法，特别是使用了SAC算法来解决多目标优化问题；通过NSGA-II算法来估计帕累托前沿的上限，提高了资源管理的效率和适应性；通过对比DDPG和SAC算法，验证了SAC算法在稳定性与样本效率上的优势。
 ### Conclusion
 该研究提出的方法能够开发出更高效和适应性强的认知雷达系统，能够在动态环境中平衡多个竞争目标。SAC算法在稳定性和样本效率上优于DDPG算法。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 501. `cs.LG` - 为雷达资源管理提供可解释的人工智能：在深度强化学习中的改进LIME [PDF](https://arxiv.org/pdf/2506.20916), [HTML](https://arxiv.org/abs/2506.20916)
 ### Authors
 Ziyang Lu,M. Cenk Gursoy,Chilukuri K. Mohan,Pramod K. Varshney
@@ -6010,9 +4510,6 @@ Ziyang Lu,M. Cenk Gursoy,Chilukuri K. Mohan,Pramod K. Varshney
 提出了一个将深度学习(DL)整合到采样过程中的改进LIME方法，命名为DL-LIME，并将其应用于雷达资源管理的深度强化学习中。实验结果表明，相比于传统的LIME，DL-LIME在准确性和任务性能上都表现更优，并提供决策中的重要因素见解
 ### Conclusion
 DL-LIME方法在雷达资源管理中提供了更好的可解释性和性能，揭示了哪些因素在决策中更为重要。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 502. `cs.LG` - 输出分布重新加权对于有效类忘记的必要性 [PDF](https://arxiv.org/pdf/2506.20893), [HTML](https://arxiv.org/abs/2506.20893)
 ### Authors
 Yian Wang,Ali Ebrahimpour-Boroojeny,Hari Sundaram
@@ -6022,9 +4519,6 @@ Yian Wang,Ali Ebrahimpour-Boroojeny,Hari Sundaram
 提出了RWFT输出重加权遗忘方法，这是一种轻量级的技术，可以在无需完全重新训练的情况下从已训练的分类器中清除整个类别。同时引入一种基于预测概率总变异距离的新评估指标，以定量评估残留泄漏。通过对比实验，RWFT的方法在常用评价指标上与全重新训练达到相当效果，并在新引入的TV距离指标上显著优于现有最佳方法。
 ### Conclusion
 通过对比实验表明，RWFT方法在多种评估指标上达到了与传统全重新训练相似的效果，特别是在新提出的TV距离指标上取得了显著的进步。因此，这种输出重加权遗忘方法的有效性和必要性得到了证明，为实现高效且保护隐私的机器学习提供了新的解决方案。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 503. `cs.LG` - 基于图结构反馈的多模型在线自适应预测 [PDF](https://arxiv.org/pdf/2506.20898), [HTML](https://arxiv.org/abs/2506.20898)
 ### Authors
 Erfan Hajihashemi,Yanning Shen
@@ -6034,9 +4528,6 @@ Erfan Hajihashemi,Yanning Shen
 本文提出了一种基于图结构反馈的多模型在线自适应预测算法，通过从二分图收集反馈信息选择有效的子模型集，并根据新接收的数据进行反馈信息的细化，从而减少计算复杂度并缩小预测集。此外，本文还展示了通过使用预测集大小作为反馈指标，可显著提高效率，构建更小的预测集同时满足所需的覆盖率保证。提出的算法被证明能够确保有效覆盖，并实现子线性遗憾。实验表明，本文提出的方法能够构建更小的预测集，并优于现有的多模型在线自适应预测方法。
 ### Conclusion
 提出的多模型在线自适应预测算法通过有效子模型集的选择及反馈机制，显著减少了计算复杂度和预测集的大小，同时保持了所需的覆盖率保证，且理论和实验验证了该方法的有效性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 504. `cs.LG` - 通过潜在评分生成模型进行非线性动力系统中的非局域闭模型 [PDF](https://arxiv.org/pdf/2506.20771), [HTML](https://arxiv.org/abs/2506.20771)
 ### Authors
 Xinghao Dong,Huchen Yang,Jin-Long Wu
@@ -6046,9 +4537,6 @@ Xinghao Dong,Huchen Yang,Jin-Long Wu
 提出了一个基于潜在评分生成AI框架的方法，用于学习非线性动态系统中的随机且非局域封闭模型和本构定律。通过在潜在空间中联合训练卷积自编码器和条件扩散模型，显著降低了采样过程的维数，同时保留了重要的物理特征。这种方法在缺乏清晰的尺度分离的复杂多层次系统中，不需要明确地解析所有尺度的情况下，实现了显著的计算加速，同时保持了标准扩散模型在物理空间中的预测准确性。
 ### Conclusion
 提出的基于潜在条件扩散模型的随机建模框架在缺乏里程碑分隔的复杂多层次动态系统中，提供了显著的计算加速，同时保持了标准扩散模型在物理空间中的预测准确性，解决了现有方法中的计算成本过高的问题。这种方法通过显著降低维度并保持物理特征的完整性，展示了在实际应用中的显著潜力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 505. `cs.LG` - 可解释的加性规则组合的表示学习 [PDF](https://arxiv.org/pdf/2506.20927), [HTML](https://arxiv.org/abs/2506.20927)
 ### Authors
 Shahrzad Behzadimanesh,Pierre Le Bodic,Geoffrey I. Webb,Mario Boley
@@ -6058,9 +4546,6 @@ Shahrzad Behzadimanesh,Pierre Le Bodic,Geoffrey I. Webb,Mario Boley
 本文通过引入具有学习稀疏线性变换的输入变量的逻辑命题，扩展了经典的规则组合，使得决策区域可以是作为一般多面体具有斜面的任意多面体。提出了一种基于逐步贪婪优化的迭代加权形式逻辑回归的学习方法。实验结果显示，所提出的方法能够高效地构建具有与最先进的方法相同测试风险的规则组合，同时显著地降低了模型复杂性，这在十个基准数据集上得到了验证。
 ### Conclusion
 本文提出的可解释的加性规则组合方法能够在保持高解释性的同时，通过构建复杂的斜面多面体决策区域来提高准确性和性能。实际上，通过对十个基准数据集的实验，证明了该方法的有效性和高效性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 506. `cs.LG` - Optimal Single-Policy Sample Complexity and Transient Coverage for Average-Reward Offline RL [PDF](https://arxiv.org/pdf/2506.20904), [HTML](https://arxiv.org/abs/2506.20904)
 ### Authors
 Matthew Zurek,Guy Zamir,Yudong Chen
@@ -6070,9 +4555,6 @@ Matthew Zurek,Guy Zamir,Yudong Chen
 首次提出了依赖于目标策略的精确保证，开发了首个仅基于单策略样本复杂度的平均回报离线RL算法，该算法能够在不依赖于任何先验参数知识的情况下处理一般弱连接MDP。引入了悲观折扣值迭代算法并结合了新颖的量剪辑技术，这种方法能够使用更精确的经验偏差函数。研究通过硬例证明了在这些条件下学习需要超越目标策略静止分布的覆盖假设。这一研究突破了以前工作的限制，引入了新的度量标准，为平均回报离线RL领域提供了新的理解。
 ### Conclusion
 研究通过引入悲观折扣值迭代算法并结合新颖的量剪辑技术，首次提出了依赖于目标策略的精确保证，并提供了首个单策略样本复杂度的平均回报离线RL算法。该研究揭示了在单策略条件下的学习需要超越目标策略静止分布的覆盖假设，并为平均回报离线RL领域的发展做出了贡献。该结果的下限接近于其主要发现，表明了该研究的高精度和深入性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 507. `cs.LG` - 模型状态算术用于机器卸载 [PDF](https://arxiv.org/pdf/2506.20941), [HTML](https://arxiv.org/abs/2506.20941)
 ### Authors
 Keivan Rezaei,Mehrdad Saberi,Abhilasha Ravichander,Soheil Feizi
@@ -6082,9 +4564,6 @@ Keivan Rezaei,Mehrdad Saberi,Abhilasha Ravichander,Soheil Feizi
 本文提出了一种新的算法，即模型状态算术（MSA），通过利用模型检查点，即预训练过程中捕获的不同阶段模型状态的产物，来估计和逆转单个数据点的影响。实验结果表明，MSA在多个基准测试、模型和评估指标上都优于现有的卸载算法，建议MSA可能是实现更加灵活且能够进行数据擦除的大语言模型的有效方法。
 ### Conclusion
 MSA在多个基准测试、模型和评估指标上表现优于现有卸载算法，表明MSA可能为更灵活的大语言模型铺平道路，这些模型能够执行数据擦除。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 508. `cs.LG` - SharpZO: 前向仅通过迭代的混合感知尖锐度视觉语言模型提示调优 [PDF](https://arxiv.org/pdf/2506.20990), [HTML](https://arxiv.org/abs/2506.20990)
 ### Authors
 Yifan Yang,Zhen Zhang,Rupak Vignesh Swaminathan,Jing Liu,Nathan Susanj,Zheng Zhang
@@ -6094,9 +4573,6 @@ Yifan Yang,Zhen Zhang,Rupak Vignesh Swaminathan,Jing Liu,Nathan Susanj,Zheng Zha
 本文提出了一种名为SharpZO的混合感知尖锐度零阶优化方法，旨在通过尖锐度感知的预热训练增强ZO微调的性能。SharpZO具有两阶段优化过程：第一阶段采用尖锐度感知进化策略（ES）进行全局探索和平滑损失景观来构建强大的初始化，第二阶段通过稀疏ZO优化进行精细化的局部搜索。整个优化过程仅依赖前向传播。
 ### Conclusion
 理论上和实验结果表明，SharpZO显著提高了准确性和收敛速度，相比于最先进的仅前向方法，平均性能提升了7%。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 509. `cs.LG` - 蒸馏归一化流 [PDF](https://arxiv.org/pdf/2506.21003), [HTML](https://arxiv.org/abs/2506.21003)
 ### Authors
 Steven Walton,Valeriy Klyukin,Maksim Artemev,Denis Derkach,Nikita Orlov,Humphrey Shi
@@ -6106,9 +4582,6 @@ Steven Walton,Valeriy Klyukin,Maksim Artemev,Denis Derkach,Nikita Orlov,Humphrey
 本文提出了一种新颖的知识蒸馏技术，以增强较小学生归一化流的采样质量和密度估计能力。通过这种蒸馏技术，可以显著减小模型规模同时保持较高的性能表现。较小模型的性能表现与网络中的双射函数和参数数量成正比，这带来了相对的吞吐量提升。这种方法利用归一化流的独特属性，在中间层之间实现非传统形式的知识传递，从而提高了模型的训练效率和功能表现。
 ### Conclusion
 通过知识蒸馏技术，本文成功地改进了组成归一化流中小学生归一化流的性能，同时也探讨了蒸馏在归一化流中的知识转移机制及其带来的益处和局限性。这些发现进一步证明了归一化流在生成模型中的潜力，特别是在通过减小模型规模提高其计算效率方面。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 510. `cs.LG` - 逐个激活和稀疏混合的持续学习方法 [PDF](https://arxiv.org/pdf/2506.21035), [HTML](https://arxiv.org/abs/2506.21035)
 ### Authors
 Haodong Lu,Chongyang Zhao,Jason Xue,Lina Yao,Kristen Moore,Dong Gong
@@ -6118,9 +4591,6 @@ Haodong Lu,Chongyang Zhao,Jason Xue,Lina Yao,Kristen Moore,Dong Gong
 我们提出了MoRA，一种自激活和稀疏秩激活的混合适应学习方法。它不是一个简单的低秩矩阵混合，而是将每个r秩的更新分解为r个1秩的组件，每个组件被视为独立专家，从而实现了1秩专家的细粒度混合，同时减少了干扰和冗余。为了避免路由不确定性，每个1秩专家可以通过中间激活来推断自身的相关性。结合我们提出的秩剪枝和激活预算，MoRA能够适应性地选择每个输入的稀疏秩混合。
 ### Conclusion
 我们在CLIP和大型语言模型中验证了MoRA，结果显示它在增强持续学习(PMs)方面表现出显著的效果，并改善了泛化能力同时减轻了遗忘问题。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 511. `cs.LG` - TRIDENT: 通过分类注释和局部对应关系实现三模态分子表示学习 [PDF](https://arxiv.org/pdf/2506.21028), [HTML](https://arxiv.org/abs/2506.21028)
 ### Authors
 Feng Jiang,Mangal Prakash,Hehuan Ma,Jianyuan Deng,Yuzhi Guo,Amina Mollaysa,Tommaso Mansi,Rui Liao,Junzhou Huang
@@ -6130,9 +4600,6 @@ Feng Jiang,Mangal Prakash,Hehuan Ma,Jianyuan Deng,Yuzhi Guo,Amina Mollaysa,Tomma
 TRIDENT 引入了基于体积的对齐目标来实现三模态特征（分子 SMILES、文本描述和分类功能注释）在全局层面的联合对齐，并引入了一种新型的局部对齐目标来捕捉分子亚结构与子文本描述之间的细节关系。动态动量机制平衡了全局和局部对齐，使模型既能学习广泛的语义功能，又能学习细致的结构-功能关系，从而显著提高了分子属性预测的表现。
 ### Conclusion
 TRIDENT 在11个下游任务上达到了最新的性能水平，这表明将 SMILES、文本和分类功能注释结合起来进行分子属性预测是有价值的。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 512. `cs.LG` - RL-Selector: 通过冗余评估进行强化学习引导的数据选择 [PDF](https://arxiv.org/pdf/2506.21037), [HTML](https://arxiv.org/abs/2506.21037)
 ### Authors
 Suorong Yang,Peijia Li,Furao Shen,Jian Zhao
@@ -6142,9 +4609,6 @@ Suorong Yang,Peijia Li,Furao Shen,Jian Zhao
 本文引入了ε-样本覆盖的概念，这是一种基于样本间关系量化样本冗余的方法，能够捕捉数据集的固有结构。基于此，作者将数据选择问题重新定义为一个强化学习过程，并提出了RL-Selector方法，利用一种轻量级的强化学习代理优化选择策略，其奖励信号来源于随时间演化的数据分布中的ε-样本覆盖。实验结果表明，该方法在多种基准数据集和不同架构下，能够稳定地超越现有最先进的基线方法，使用我们选择的数据集训练得到的模型展示了更好的泛化性能和更高的训练效率。
 ### Conclusion
 我们的方法在代表性数据集的选择中表现出了显著的优势，通过结合ε-样本覆盖和强化学习技术，不仅将计算和存储成本降低，还提高了模型的泛化性能和训练效率。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 513. `cs.LG` - 使用多种尺度等变图扩散模型进行准确复杂抗原结合的抗体设计与优化 [PDF](https://arxiv.org/pdf/2506.20957), [HTML](https://arxiv.org/abs/2506.20957)
 ### Authors
 Jiameng Chen,Xiantao Cai,Jia Wu,Wenbin Hu
@@ -6154,9 +4618,6 @@ Jiameng Chen,Xiantao Cai,Jia Wu,Wenbin Hu
 本文提出了一种名为AbMEGD的端到端框架，该框架结合了多尺度等变图扩散技术，用于抗体序列和结构的设计。AbMEGD通过先进的几何深度学习，综合了原子级别几何特征和残基级别嵌入，捕捉局部原子细节及全局序列-结构相互作用。其E(3)-等变扩散方法确保了几何精度、计算效率和对复杂抗原的泛化能力。实验结果表明，AbMEGD在氨基酸回收率、改进百分比和核心CDR-H3区域的均方根偏差方面分别比其他模型有了显著提升，建立了序列-结构联合设计及亲合力优化的新基准。
 ### Conclusion
 实验结果显示，AbMEGD在平衡结构完整性和功能提升方面表现出色，并且为序列-结构联合设计和亲合力优化设定了新的标准。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 514. `cs.LG` - 通过遗憾感知优化实现高效的技能发现 [PDF](https://arxiv.org/pdf/2506.21044), [HTML](https://arxiv.org/abs/2506.21044)
 ### Authors
 He Zhang,Ming Zhou,Shaopeng Zhai,Ying Sun,Hui Xiong
@@ -6166,9 +4627,6 @@ He Zhang,Ming Zhou,Shaopeng Zhai,Ying Sun,Hui Xiong
 提出了一种基于遗憾感知的方法，以时序表示学习为基础进行技能生成和策略学习，通过遗憾来量化策略收敛度，并利用可学习的技能生成器引导技能发现，技能生成来自能升级的技能生成器群体，以避免技能退化。
 ### Conclusion
 实验表明，所提出的方法在效率和多样性方面均优于基线方法。此外，在高维环境中，该方法在零样本提升方面比现有方法表现出了15%的改善。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 515. `cs.LG` - 严格子目标执行：在层次强化学习中实现可靠的长时间规划 [PDF](https://arxiv.org/pdf/2506.21039), [HTML](https://arxiv.org/abs/2506.21039)
 ### Authors
 Jaebak Hwang,Sanghyeon Lee,Jeongmo Kim,Seungyul Han
@@ -6178,9 +4636,6 @@ Jaebak Hwang,Sanghyeon Lee,Jeongmo Kim,Seungyul Han
 提出了一种名为严格子目标执行(SSE)的基于图的层次RL框架，通过结构化约束高层决策确保单步子目标可达性。SSE使用了一个解耦的探索策略，系统性地遍历未探索的子目标空间区域。此外，引入了一种失败感知路径细化方法，通过动态调整边的成本以根据观察到的子目标的成功率进行优化，从而提高子目标的可靠性。实验结果表明，SSE在效率和成功率方面优于现有的目标条件RL和层次RL方法。
 ### Conclusion
 实验结果表明，SSE在长时基准上表现出了更高的效率和成功概率，一致地优于现有的目标条件RL和层次RL方法。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 516. `cs.LG` - 由多Agent方法指导的大语言模型（LLM）化学工艺优化 [PDF](https://arxiv.org/pdf/2506.20921), [HTML](https://arxiv.org/abs/2506.20921)
 ### Authors
 Tong Zeng,Srivathsan Badrinarayanan,Janghoon Ock,Cheng-Kai Lai,Amir Barati Farimani
@@ -6190,9 +4645,6 @@ Tong Zeng,Srivathsan Badrinarayanan,Janghoon Ock,Cheng-Kai Lai,Amir Barati Farim
 提出了一种基于多Agent框架的大语言模型（LLM）代理机制，该机制能自主从最小过程描述中推断操作约束，进而协同进行优化。这种多Agent框架帮助解决了在操作约束未定义或不可用情况下的优化难题，减少了需要的预设操作界限，并通过自主推断和多Agent迭代优化增强了计算效率。此外，该方法展示了理解复杂工艺、识别公用设施权衡并应用领域启发式的方法，这为优化不可预知的操作约束场景提供了新的解决方案。
 ### Conclusion
 在水解烷基化过程中的成本、产量和产出成本比度量中，所提出的多Agent框架证明了与传统优化方法的竞争力，同时展示了显著的计算效率提升，实现了31倍的加速。该框架通过自主推断和多Agent迭代优化，消除了对预设操作界限的需求，并通过引导搜索展示了复杂的工艺理解，能够正确识别公用设施权衡并应用领域启发式。因此，这种方法特别适合那些操作约束不清晰或不可用的优化场景，特别是在新兴工艺和再设计应用中具有显著潜力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 517. `cs.LG` - Chain-of-Thought Enhanced Shallow Transformers for Wireless Symbol Detection [PDF](https://arxiv.org/pdf/2506.21093), [HTML](https://arxiv.org/abs/2506.21093)
 ### Authors
 Li Fan,Peng Wang,Jing Yang,Cong Shen
@@ -6202,9 +4654,6 @@ Transformer模型在无线通信问题中表现出潜力，特别是在上下文
 本文提出了一种名为CHOOSE（CHain Of thOught Symbol dEtection）的新颖CoT增强浅层Transformer框架，通过在隐藏层引入自回归潜在推理步骤，显著提高了浅层模型（1-2层）的推理能力，而无需增加模型深度。这种设计使轻量级的Transformer模型能够达到与深度模型相当的检测性能，从而适配于资源受限的移动设备。
 ### Conclusion
 实验结果表明，该方法在轻量级模型上实现了优于传统浅层Transformer模型的性能，并且在存储和计算效率方面与深度模型相当。这表示在资源限制的无线接收器中实现基于Transformer算法的一个有前景的方向。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 518. `cs.LG` - 使用知识图谱生成高质量指令数据以增强LLM工具使用 [PDF](https://arxiv.org/pdf/2506.21071), [HTML](https://arxiv.org/abs/2506.21071)
 ### Authors
 Jingwei Wang,Zai Zhang,Hao Qian,Chunjing Gan,Binbin Hu,Ziqi Liu,Zhiqiang Zhang,Jun Zhou,Bin Shi,Bo Dong
@@ -6214,9 +4663,6 @@ Jingwei Wang,Zai Zhang,Hao Qian,Chunjing Gan,Binbin Hu,Ziqi Liu,Zhiqiang Zhang,J
 本文提出了一种创新方法，通过使用知识图谱生成高质量的指令数据，取代传统的数据生成方法。这种新方法能够显著提高LLMs对工具的使用效率及其整体能力。知识图谱的应用使得指令数据具有更丰富的语义信息，从而有效地指导工具使用，提高问题解决水平。
 ### Conclusion
 本文通过实验展示了利用知识图谱生成的高质量指令数据能够在微调后显著提升LLMs的工具使用效率和问题解决能力。这一方法为增强LLMs的实用性和应用范围提供了新的解决方案。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 519. `cs.LG` - 基于注意引导图学习的可解释层次概念推理 [PDF](https://arxiv.org/pdf/2506.21102), [HTML](https://arxiv.org/abs/2506.21102)
 ### Authors
 David Debot,Pietro Barbiero,Gabriele Dominici,Giuseppe Marra
@@ -6226,9 +4672,6 @@ David Debot,Pietro Barbiero,Gabriele Dominici,Giuseppe Marra
 本文提出了层次概念记忆推理器（H-CMR），这是一种新的CBM，为概念和任务预测都提供了可解释性。H-CMR使用学习到的有向无环图来建模概念之间的关系，其中边表示逻辑规则，这些规则定义概念与其他概念之间的关系。推理过程中，H-CMR通过神经注意机制选择这些规则的子集，并将这些规则分层应用以预测所有概念和最终任务。实验结果表明，H-CMR在获得与最先进的性能的同时，通过概念和模型干预可以实现强大的人机交互，提高推断准确性并增强训练中的数据效率，尤其是在可用背景知识的情况下。
 ### Conclusion
 H-CMR通过注意引导的图学习实现了可解释的层次概念推理，提升了模型整体的透明度和可解释性，可以在各种应用场景中更好地与人类交互。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 520. `cs.LG` - 学习跳过Transformer的中间层 [PDF](https://arxiv.org/pdf/2506.21103), [HTML](https://arxiv.org/abs/2506.21103)
 ### Authors
 Tim Lawson,Laurence Aitchison
@@ -6238,9 +4681,6 @@ Tim Lawson,Laurence Aitchison
 在中层向外部动态跳过不同数量的层；通过学习门控机制来忽略中间的对称块；门控注意力机制防止后续token关注跳过的token位置；采用‘三明治’或‘perilayernorm’方案控制残差正则化；自适应正则化损失调整门控稀疏化
 ### Conclusion
 尽管初始目的是减少‘简单’token的计算需求，并潜在地培育多层次表示层次结构，但在所调查的规模下，作者的方法在验证交叉熵和估算FLOPs之间的权衡上并不比具有更少层的密集基线更好。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 521. `cs.LG` - 联邦学习下概念漂移的信息论分析 [PDF](https://arxiv.org/pdf/2506.21036), [HTML](https://arxiv.org/abs/2506.21036)
 ### Authors
 Fu Peng,Meng Zhang,Ming Tang
@@ -6250,9 +4690,6 @@ Fu Peng,Meng Zhang,Ming Tang
 本文创新性地将概念漂移建模为马尔科夫链，并通过引入稳定泛化误差（Stationary Generalization Error）和使用KL散度、互信息，提供了分析概念漂移下FL性能的方法。同时，提出了一种结合KL散度和互信息调节的经验风险最小化算法，有助于增强长期性能。此外，通过建立FL测试床验证了方法的有效性，提出了性能与成本的权衡方案，得出了帕累托前沿。
 ### Conclusion
 本文验证了FL在概念漂移下的表现受不同漂移模式显著影响，提出的方法对三种漂移模式均表现出优越性，证明了其在FL中适应概念漂移的有效性。通过建立测试床并与理论结果对比，进一步证明了该方法的有效性，同时为FL中的漂移处理提供了新的见解与参考。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 522. `cs.LG` - Unlasting：基于双向条件扩散隐桥的无配对单细胞多扰动估计 [PDF](https://arxiv.org/pdf/2506.21107), [HTML](https://arxiv.org/abs/2506.21107)
 ### Authors
 Changxi Chi,Jun Xia,Yufei Huang,Jingbo Zhou,Siyuan Li,Yunfan Liu,Chang Yu,Stan Z. Li
@@ -6262,9 +4699,6 @@ Changxi Chi,Jun Xia,Yufei Huang,Jingbo Zhou,Siyuan Li,Yunfan Liu,Chang Yu,Stan Z
 提出了一种基于双向扩散隐桥（DDIB）的框架来学习不同数据分布之间的映射，有效解决了无配对数据的问题。该框架可视为一种数据增强的形式，整合了基因调控网络（GRN）信息以在生物学意义上传播扰动信号，并引入掩码机制以预测静默基因，从而提高生成特性表型的质量。此外，还提出了一种更适合的评估标准，并设计了专用的掩码模型以更好地预测静默基因来改善生成质量，提出了基于生物学的评估标准以更好地反映单细胞响应中的固有异质性。
 ### Conclusion
 提出了Unlasting，一种使用双向条件扩散隐桥处理无配对单细胞多扰动数据的解决方案，增强了模型对基于GRN指导下的扰动的理解，通过引入掩码模型预测静默基因来改进生成质量，通过更加生物学基础的评估标准评估细胞响应的异质性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 523. `cs.LG` - FedDAA：联邦学习中基于动态客户端聚类的概念漂移适应方法 [PDF](https://arxiv.org/pdf/2506.21054), [HTML](https://arxiv.org/abs/2506.21054)
 ### Authors
 Fu Peng,Ming Tang
@@ -6274,9 +4708,6 @@ Fu Peng,Ming Tang
 我们提出了一种动态聚类的联邦学习框架FedDAA，旨在适应多源的概念漂移同时保留有价值的历史知识。具体而言，FedDAA集成了三个模块：集群数目确定模块、实际漂移检测模块和概念漂移适应模块。此外，我们提供了理论上的收敛性保证，并且实验结果表明，FedDAA在Fashion-MNIST、CIFAR-10和CIFAR-100上的准确率提高了7.84%至8.52%。
 ### Conclusion
 通过FedDAA，能够在不损害历史知识的情况下适应多个漂移源，从而提高联邦学习中的性能。这种方法通过明确区分漂移源并采取针对性的适应策略，避免了通用适应策略可能带来的次优性和损害一般化性能的问题。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 524. `cs.LG` - 在对抗环境中对抗脆弱的强化学习无人机避障稳健策略切换 [PDF](https://arxiv.org/pdf/2506.21127), [HTML](https://arxiv.org/abs/2506.21127)
 ### Authors
 Deepak Kumar Panda,Weisi Guo
@@ -6286,9 +4717,6 @@ Deepak Kumar Panda,Weisi Guo
 该论文提出了一种增强适应性的鲁棒强化学习框架，即抗脆弱RL（antifragile RL）框架。该框架通过在鲁棒策略之间切换来提高适应更广泛的分布变化的能力，采用了基于折现汤普森采样的动态切换机制，根据非平稳的伯努利奖励最优地选择策略。该方法通过优化折现汤普森采样来最小化由于分布变化所带来的遗憾，从而实现对未知对手攻击的有效适应，进而增强抗脆弱性。与传统非适应性鲁棒RL方法相比，该框架能够表现出更优的性能。
 ### Conclusion
 该研究提出的抗脆弱RL框架可以有效增强未经测试的新攻击下的鲁棒性。通过综合多种扰动策略并利用动态策略切换机制，在复杂且多动态障碍物的导航环境中，该方法能够实现更短的导航路径和更高的无冲突自由导航轨迹率，优于现有的鲁棒RL方法。这表明对抗环境下增强鲁棒性的可行性和有效性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 525. `cs.LG` - NaLaFormer：Transformer模型中的规范感知线性注意力 [PDF](https://arxiv.org/pdf/2506.21137), [HTML](https://arxiv.org/abs/2506.21137)
 ### Authors
 Weikang Meng,Yadan Luo,Liangyu Huo,Yaowei Wang,Xin Li,Zheng Zhang
@@ -6298,9 +4726,6 @@ Weikang Meng,Yadan Luo,Liangyu Huo,Yaowei Wang,Xin Li,Zheng Zhang
 为了应对这些双重挑战，作者提出了一个名为Norm-Aware Linear Attention（NaLaAttention）的新型机制，能够恢复由核函数扰动的范数分布并且控制动态尖峰。具体来说，首先将查询和键矩阵分解为两个部分：范数和方向，以实现范数感知的尖峰控制和范数一致性。数学上揭示了softmax归一化下熵减少的程度与查询范数的关系，提出了一个查询范数感知的内核函数以动态控制熵减少。此外，通过范数保持映射，将所有角度矩阵的元素投影到正值，利用余弦相似度抑制方向相反的维度，以确保范数一致性和非负性约束。
 ### Conclusion
 广泛的实验表明，NaLaFormer在视觉和语言任务中均提高了性能，提升了表达性和效率，最高可达4.2%。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 526. `cs.LG` - 基于课程引导的鲁棒强化学习以实现观察空间攻击下的安全无人车辆去冲突 [PDF](https://arxiv.org/pdf/2506.21129), [HTML](https://arxiv.org/abs/2506.21129)
 ### Authors
 Deepak Kumar Panda,Adolfo Perrusquia,Weisi Guo
@@ -6310,9 +4735,6 @@ Deepak Kumar Panda,Adolfo Perrusquia,Weisi Guo
 本文提出了一种鲁棒的RL框架，该框架包含了逐步增强扰动强度的模拟攻击者机制，使得RL代理能够在更广泛的不同分布观察中适应和泛化，并能够预见未知攻击。通过Wasserstein距离最小化跨逐级扰动观察的专家引导批评者对齐，该方法确保了这些边界，提出了稳定遗忘的适应条件。在动态三维障碍物的无人机去冲突场景中，与标准的和鲁棒的RL基线方法相比，该鲁棒策略在承受梯度下降投影攻击（PGD）和GPS欺骗攻击时，均表现出更好的性能，累计奖励高出15%，且冲突事件减少了30%以上。这表明在威胁不断演变的环境中，鲁棒强化学习在决策安全性与鲁棒性上具有实际和理论的可行性
 ### Conclusion
 该研究通过理论分析、方法创新以及仿真验证，展示了基于课程引导的鲁棒强化学习在无人车辆去冲突场景下的应用场景和有效性，证明了其在存在观察空间攻击下的鲁棒性和安全性，从而进一步为未来更复杂环境下的安全决策提供了理论和实践支持。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 527. `cs.LG` - DBConformer: 双分支卷积Transformer用于EEG解码 [PDF](https://arxiv.org/pdf/2506.21140), [HTML](https://arxiv.org/abs/2506.21140)
 ### Authors
 Ziwei Wang,Hongbin Wang,Tianwang Jia,Xingyi He,Siyang Li,Dongrui Wu
@@ -6322,9 +4744,6 @@ Ziwei Wang,Hongbin Wang,Tianwang Jia,Xingyi He,Siyang Li,Dongrui Wu
 基于双分支卷积Transformer的DBConformer网络：（1）结合了时域Conformer和空域Conformer，分别用于建模长程时间依赖和提取通道间交互；（2）加入了轻量级通道注意模块，通过对EEG通道进行数据驱动的赋重要性，以精细空间表示；（3）在五个运动想象数据集和两个癫痫发作检测数据集的三种评估设置下，DBConformer模型比10种竞争基准模型表现更优，且参数量仅为高性能的EEG Conformer模型的八分之一；（4）可视化结果显示，DBConformer提取的特征与运动感知先验一致，并具有生理可解释性。
 ### Conclusion
 DBConformer模型在每次试验中都优于10个竞争基准模型，并且其性能和可解释性使其成为稳定的、可解释的EEG解码的可靠选择。DBConformer的代码已公开。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 528. `cs.LG` - 零-shot 学习在元件老化风险预测中的应用 [PDF](https://arxiv.org/pdf/2506.21240), [HTML](https://arxiv.org/abs/2506.21240)
 ### Authors
 Elie Saad,Aya Mrabah,Mariem Besbes,Marc Zolghadri,Victor Czmil,Claude Baron,Vincent Bourgeois
@@ -6334,9 +4753,6 @@ Elie Saad,Aya Mrabah,Mariem Besbes,Marc Zolghadri,Victor Czmil,Claude Baron,Vinc
 提出了一种使用大规模语言模型（LLMs）的零-shot 学习（ZSL）方法，以弥补数据限制，通过利用表格数据中特定领域的知识来预测老化风险。这种方法在两个现实世界的数据集上显示出有效的风险预测效果。
 ### Conclusion
 对比评估了四种LLMs，强调选择了合适的模型对于特定预测任务的重要性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 529. `cs.LG` - 在强化学习中通过多样化迷你批选取高效进行从头药物设计中的化学探索 [PDF](https://arxiv.org/pdf/2506.21158), [HTML](https://arxiv.org/abs/2506.21158)
 ### Authors
 Hampus Gummesson Svensson,Ola Engkvist,Jon Paul Janet,Christian Tyrchan,Morteza Haghir Chehreghani
@@ -6346,9 +4762,6 @@ Hampus Gummesson Svensson,Ola Engkvist,Jon Paul Janet,Christian Tyrchan,Morteza 
 本文介绍了在强化学习中利用多样化迷你批选取的方法，并提出使用行列式点过程进行该任务。我们在药物发现的实际问题背景下研究了这种方法。通过与三种成熟的分子生成或acles进行详细评估，在众多生成步骤中，实验表明所提议的框架可以显著提高解决方案的多样性，同时仍能保持高质量。
 ### Conclusion
 在药物发现中，这种结果可能导致更快满足未满足的医疗需求。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 530. `cs.LG` - FeDa4Fair: 客户端级别的联邦数据集用于公平性评估 [PDF](https://arxiv.org/pdf/2506.21095), [HTML](https://arxiv.org/abs/2506.21095)
 ### Authors
 Xenia Heilmann,Luca Corbucci,Mattia Cerrato,Anna Monreale
@@ -6358,9 +4771,6 @@ Xenia Heilmann,Luca Corbucci,Mattia Cerrato,Anna Monreale
 我们引入了FeDa4Fair库，用于生成可针对异质客户端偏见评估公平性感知联邦学习方法的表数据集；并且发布四组具有异质偏见的数据集及其基准测试，以在受控环境中比较公平性缓解方法；还提供了评估这些数据集公平结果的现成函数。这些创新为公平性感知的联邦学习研究提供了统一的基准评估工具，增强了不同客户端公平性干预的有效性。
 ### Conclusion
 通过引入FeDa4Fair库和配套的数据集及基准测试，我们为公平感知的联邦学习方法的评估提供了统一的基准评估工具，提升了不同客户端公平性干预的有效性，并促进了相关领域的可重复研究。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 531. `cs.LG` - 基于生成对抗的UAV网络攻击规避与异常检测 [PDF](https://arxiv.org/pdf/2506.21142), [HTML](https://arxiv.org/abs/2506.21142)
 ### Authors
 Deepak Kumar Panda,Weisi Guo
@@ -6370,9 +4780,6 @@ Deepak Kumar Panda,Weisi Guo
 提出了一种基于条件生成对抗网络（cGAN）的框架，用于生成隐蔽的对抗性攻击以规避入侵检测系统。该方法通过扰动已知的攻击样本，生成能够被误分类为良性但仍与出界分布相似的对抗样本。此外，还实施了条件变分自动编码器（CVAE），利用负对数似然来区分对抗性样本和真实的出界样本。实验结果表明，基于CVAE的后悔得分显著优于传统的马氏距离检测方法，用于识别隐蔽的对抗性威胁。
 ### Conclusion
 本文的研究结果强调了先进的概率建模对于加强入侵检测系统能力的重要性，特别是在对抗生成模型基于的网络入侵方面。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 532. `cs.LG` - 通过双提示优化和交叉融合实现个性化联邦学习 [PDF](https://arxiv.org/pdf/2506.21144), [HTML](https://arxiv.org/abs/2506.21144)
 ### Authors
 Yuguang Zhang,Kuangpu Guo,Zhihe Lu,Yunbo Wang,Jian Liang
@@ -6382,9 +4789,6 @@ Yuguang Zhang,Kuangpu Guo,Zhihe Lu,Yunbo Wang,Jian Liang
 本文提出了一个基于双提示学习和跨融合的个性化联邦学习框架（pFedDC），该框架使每个客户端同时维护视觉和语言模态中的全局和本地提示。全局提示捕捉联邦内的共通知识，而本地提示编码客户端特有的语义和领域特征。此外，设计了一个跨融合模块，可以适应性地将不同层级的提示融合，使模型能够生成与每个客户端独特数据分布相匹配的个性化表示。跨异质性数据集的广泛实验显示，pFedDC 一贯优于现有方法。
 ### Conclusion
 pFedDC 框架显示出比现有方法更好的性能，特别是在具有各种类型异质性的九个数据集上。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 533. `cs.LG` - 基于线性性的神经网络压缩 [PDF](https://arxiv.org/pdf/2506.21146), [HTML](https://arxiv.org/abs/2506.21146)
 ### Authors
 Silas Dobler,Florian Lemmerich
@@ -6394,9 +4798,6 @@ Silas Dobler,Florian Lemmerich
 基于线性的神经网络压缩是一种全新的压缩方式，通过利用ReLU类激活函数下几乎始终激活的神经元行为线性的特性，将后续层进行合并，提高压缩效果和与现有基数的重要性基压缩方法的兼容性，实验结果表明这种新颖的方法大部分模型压缩至原始模型大小的1/4，且与其他压缩技术结合时互不影响，实现了高效的模型压缩与合并.
 ### Conclusion
 本文的工作为一种新的神经网络压缩方法奠定了基础，这种新方法能够实现更小且更高效的神经网络模型。它显示出了与基于重要性的压缩方法相结合的能力和潜力，为未来的神经网络压缩技术提供了新的研究视角和方向.
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 534. `cs.LG` - 人工代理人在部分到场情况下解决永续投票中的公平性问题 [PDF](https://arxiv.org/pdf/2506.21186), [HTML](https://arxiv.org/abs/2506.21186)
 ### Authors
 Apurva Shah,Axel Abels,Ann Nowé,Tom Lenaerts
@@ -6406,9 +4807,6 @@ Apurva Shah,Axel Abels,Ann Nowé,Tom Lenaerts
 本研究的创新之处在于引入了“人工代理”，这是一种能够代表缺席选民学习偏好的智能代理，将其整合到永续投票系统中。这一创新旨在解决在实践中常见的参选者不完全参与的问题，从而提高永续投票系统的公平性和代表性和稳健性。
 ### Conclusion
 研究结果表明，尽管缺席选民对公平性的影响显著，“人工代理”能够可靠地减轻这些影响，并在多种场景中显著增强永续投票系统的稳健性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 535. `cs.LG` - DiLoCoX: 分布式集群低通信大规模训练框架 [PDF](https://arxiv.org/pdf/2506.21263), [HTML](https://arxiv.org/abs/2506.21263)
 ### Authors
 Ji Qi,WenPeng Zhu,Li Li,Ming Wu,YingJun Wu,Wu He,Xun Gao,Jason Zeng,Michael Heinrich
@@ -6418,9 +4816,6 @@ Ji Qi,WenPeng Zhu,Li Li,Ming Wu,YingJun Wu,Wu He,Xun Gao,Jason Zeng,Michael Hein
 提出了一种名为DiLoCoX的低通信大规模分散集群训练框架，结合了管道并行、双优化器策略、通信和本地训练的一步延迟重叠以及自适应梯度压缩方案，显著提高了参数规模和模型预训练的速度。通过理论分析证明了一步延迟重叠通信和本地训练以及自适应梯度压缩方案的优势。在1Gbps网络上，DiLoCoX能够训练一个107B参数的基础模型，相较于传统的AllReduce，DiLoCoX在分布式训练中可以实现357倍的速度提升，且对模型收敛几乎没有负面影响，这是首个成功应用到超过100亿参数模型的分散训练框架.
 ### Conclusion
 DiLoCoX框架通过创新的通信管理和自适应梯度压缩方法，显著提升了分布在慢网络上的大规模模型训练效率，为处理超大规模参数模型提供了新方案。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 536. `cs.LG` - 复杂性意识下的微调 [PDF](https://arxiv.org/pdf/2506.21220), [HTML](https://arxiv.org/abs/2506.21220)
 ### Authors
 Andrey Goncharov,Daniil Vyazhev,Petr Sychev,Edvard Khalafyan,Alexey Zaytsev
@@ -6430,9 +4825,6 @@ Andrey Goncharov,Daniil Vyazhev,Petr Sychev,Edvard Khalafyan,Alexey Zaytsev
 该研究提出了一种新颖的高效微调方案，通过单个标记答案的熵来分类训练数据的复杂性，使用SFT和蒸馏仅对复杂数据进行推理。实验结果显示，该方法在使用62%较少数据的情况下，平均准确率与标准SFT方法相当，且优于蒸馏方法（平均准确率0.55 vs 0.43）.
 ### Conclusion
 该研究表明，通过复杂性标注的训练数据分类，仅对复杂数据进行推理的SFT方法显著优于标准SFT方法，并且通过减少数据使用量仍能达到与蒸馏方法相当的效果。研究结果为后续研究提供了一个有价值的框架。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 537. `cs.LG` - 改进的 k-means 和 k-GMM 种植策略 [PDF](https://arxiv.org/pdf/2506.21291), [HTML](https://arxiv.org/abs/2506.21291)
 ### Authors
 Guillaume Carrière,Frédéric Cazals
@@ -6442,9 +4834,6 @@ Guillaume Carrière,Frédéric Cazals
 本文利用前瞻性的原则和多 pass 方法，提出了通过条件概率选择种子的方法，这一方法可以加强种子与最终评估算法使用的度量的一致性。实验结果显示，这种方法能够提供比传统方法更稳定的最终结果（k-means 的 SSE、k-GMM 的对数似然比），并且改进了之前设计的多交换策略，该策略首次击败了贪心的 k-means++ 种植方法。此外，实验分析还揭示了 k-means 一些不易察觉的特性，增进了对聚类结果稳定性的理解，也进一步优化了这些方法的实际应用效果。
 ### Conclusion
 从实用性角度来看，本文提出的最有效的播种方法是成为标准技术的有力候选者。从理论角度来看，本文对播种方法的系统化分析为未来的研究打开了新的分析思路，使得进一步的技术改进和优化评估成为可能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 538. `cs.LG` - Latent Prototype Routing: 实现 Mixture-of-Experts 中的近完美负载均衡 [PDF](https://arxiv.org/pdf/2506.21328), [HTML](https://arxiv.org/abs/2506.21328)
 ### Authors
 Jiajie Yang
@@ -6454,9 +4843,6 @@ Jiajie Yang
 本文从聚类视角重新审视专家路由，并提出了一种新的路由框架—潜在原型路由（LPR），它不仅能够推广现有的方法，还能在不牺牲下游性能的情况下促进均衡的专家利用。实验结果表明，LPR能够将专家负载的基尼系数从0.70降低到0.035，并将最小最大专家负载比例从1e-6提高到0.70，从而实现近乎完美的负载平衡。
 ### Conclusion
 实验数据表明，LPR在多个开源MoE模型上取得了显著效果，有效实现了专家负载的平衡，提高了整体模型的性能和资源利用率。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 539. `cs.LG` - DynamicBench：评估大型语言模型的实时报告生成能力 [PDF](https://arxiv.org/pdf/2506.21343), [HTML](https://arxiv.org/abs/2506.21343)
 ### Authors
 Jingyao Li,Hao Sun,Zile Qiao,Yong Jiang,Pengjun Xie,Fei Huang,Hong Xu,Jiaya Jia
@@ -6466,9 +4852,6 @@ Jingyao Li,Hao Sun,Zile Qiao,Yong Jiang,Pengjun Xie,Fei Huang,Hong Xu,Jiaya Jia
 提出了DynamicBench基准，这是一种双路径检索管道的组合，结合了网络搜索和本地报告数据库。它需要特定领域的知识，以确保在特定领域生成准确的响应报告。此外，还引入了一个先进的报告生成系统，能够处理动态信息合成。实验结果表明，该方法在无文档和有文档辅助场景下分别比GPT4o高出7.0%和5.8%，取得了最先进的性能。
 ### Conclusion
 DynamicBench有效地衡量了模型独立处理最近信息的能力或利用上下文增强。代码和数据将在公开基础上提供。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 540. `cs.LG` - AGTCNet: 基于图-时间方法的Motor Imagery EEG分类 [PDF](https://arxiv.org/pdf/2506.21338), [HTML](https://arxiv.org/abs/2506.21338)
 ### Authors
 Galvin Brice S. Lim,Brian Godwin S. Lim,Argel A. Bandala,John Anthony C. Jose,Timothy Scott C. Chu,Edwin Sybingco
@@ -6478,9 +4861,6 @@ Galvin Brice S. Lim,Brian Godwin S. Lim,Argel A. Bandala,John Anthony C. Jose,Ti
 引入AGTCNet模型，一种基于图-时间的新颖模型，利用EEG电极的拓扑配置作为归纳偏见，并结合图卷积注意力网络（GCAT）来学习时空EEG表示。该模型不仅在BCI Competition IV Dataset 2a上实现优于现有方法的表现，而且通过降低49.87%的模型大小、64.65%的推理速度以及更短的输入EEG信号，实现了表现的提升，进一步证明了其在BCI部署中的有效性与实用性。
 ### Conclusion
 AGTCNet模型在BCI Competition IV Dataset 2a和EEG Motor Movement/Imagery Dataset中实现的分类准确率进一步提升了82.88%和90.54%，说明了其在受试者不变和特定分类中的优势，并为BCI系统的发展提供了一种新的有效方法。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 541. `cs.LG` - currency-aware graph attention network for cryptocurrency transaction fraud detection [PDF](https://arxiv.org/pdf/2506.21382), [HTML](https://arxiv.org/abs/2506.21382)
 ### Authors
 Zhi Zheng,Bochuan Zhou,Yuping Song
@@ -6490,9 +4870,6 @@ Zhi Zheng,Bochuan Zhou,Yuping Song
 该论文提出了一种增强时序感知图注意力网络(ATGAT)，通过以下三个模块增强欺诈检测性能：(1) 设计先进的时序嵌入模块，融合多尺度时间差特征与时序位置编码；(2) 构建时序感知三重注意力机制，共同优化结构、时序和全局上下文注意力；(3) 应用加权二元交叉熵损失来解决类别不平衡问题。实验证明，ATGAT在Elliptic++加密货币数据集上的AUC为0.9130，相较于传统的XGBoost提升了9.2%，相较于GCN提升了12.0%，相较于标准GAT提升了10.0%。
 ### Conclusion
 该方法不仅验证了时序感知和三重注意力机制对于图神经网络的增强效果，也为金融机构提供了更可靠的欺诈检测工具，其设计理念可推广至其他时序图异常检测任务。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 542. `cs.LG` - 关注小型权重 [PDF](https://arxiv.org/pdf/2506.21374), [HTML](https://arxiv.org/abs/2506.21374)
 ### Authors
 Chao Zhou,Tom Jacobs,Advait Gadhikar,Rebekka Burkholz
@@ -6502,9 +4879,6 @@ Chao Zhou,Tom Jacobs,Advait Gadhikar,Rebekka Burkholz
 我们提出了NANOADAM，这是一种在微调过程中动态更新只有小幅度权重的方法。NANOADAM具有几个主要优点：首先，这种方法是非梯度的，可以在不需要梯度计算的情况下确定参数子集；其次，这种方法保持了大幅度权重，这些权重很可能包含了在预训练过程中学到的重要特征，从而降低了灾难性遗忘的风险；第三，这种方法允许使用更大的学习率，且在实验中始终能实现更好的泛化性能。我们分别在NLP和视觉任务上展示了这一方法的效果。
 ### Conclusion
 NANOADAM提供了一种有效的方法，动态地更新只有小幅度权重，同时保持大幅度权重以实现更好的泛化性能，减少了微调过程中的资源消耗并降低了灾难性遗忘的风险。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 543. `cs.LG` - MAx-DNN：基于多级算术近似的能源高效DNN硬件加速器 [PDF](https://arxiv.org/pdf/2506.21371), [HTML](https://arxiv.org/abs/2506.21371)
 ### Authors
 Vasileios Leon,Georgios Makris,Sotirios Xydis,Kiamal Pekmestzi,Dimitrios Soudris
@@ -6514,9 +4888,6 @@ Vasileios Leon,Georgios Makris,Sotirios Xydis,Kiamal Pekmestzi,Dimitrios Soudris
 本文提出了基于多级算术近似的MAx-DNN（Multi-Level Arithmetic Approximation for Energy-Efficient DNN Hardware Accelerators），通过细粒度地分布ROUP近似乘法器，并且在不影响过多精度损失的情况下显著提高了能效。与基线量化模型相比，它在能耗方面可获得至多54%的提升，准确度下降最多4%；与最先进的DNN近似方法相比，它提供更好的准确性和2倍的能效提升。
 ### Conclusion
 本文提出的方法在不显著牺牲准确性的前提下，通过利用多级算术近似技术实现了显著的能效提升，为低功耗DNN计算提供了一种有效策略。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 544. `cs.LG` - SMMILE: 由专家驱动的多模态医学上下文学习基准 [PDF](https://arxiv.org/pdf/2506.21355), [HTML](https://arxiv.org/abs/2506.21355)
 ### Authors
 Melanie Rieff,Maya Varma,Ossian Rabow,Subathra Adithan,Julie Kim,Ken Chang,Hannah Lee,Nidhi Rohatgi,Christian Bluethgen,Mohamed S. Muneer,Jean-Benoit Delbrouck,Michael Moor
@@ -6526,9 +4897,6 @@ Melanie Rieff,Maya Varma,Ossian Rabow,Subathra Adithan,Julie Kim,Ken Chang,Hanna
 该研究引入了SMMILE，这是首个基于专家知识驱动的多模态ICL基准，以及其增强版本SMMILE++。SMMILE包含111个由11名医学专家制定的问题，每个问题都有一个多模态查询和多模态上下文示例。此外，该研究对15个MLLMs进行了全面评估，指出大多数模型在医学任务上的多模态ICL能力较为有限。该研究还发现，不相关或噪声示例会显著降低模型性能，同时，示例的排列顺序也会影响模型性能，最相关示例的放置位置甚至可以大幅提升性能。这些发现强调了当前多模态大型语言模型在从上下文学习多模态医学任务时的局限性和偏差问题。
 ### Conclusion
 大多数多模态大型语言模型在医学任务中的多模态ICL能力有限，且容易受不相关示例的影响，示例的排列顺序也会影响最终性能。该研究强调了当前多模态大型语言模型需要解决的关键限制和偏差问题。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 545. `cs.LG` - rQdia: 使用图像增强正则化Q值分布 [PDF](https://arxiv.org/pdf/2506.21367), [HTML](https://arxiv.org/abs/2506.21367)
 ### Authors
 Sam Lerman,Jing Bi
@@ -6538,9 +4906,6 @@ Sam Lerman,Jing Bi
 该论文提出了一种名为rQdia的方法，通过简单的辅助损失函数（MSE）来增强模型对Q值分布的控制。这种方法利用图像增强技术，改进了DrQ和SAC在MuJoCo连续控制套件中的9/12和10/12任务表现，同时提升了Data-Efficient Rainbow算法在18/26个Atari游戏中表现。rQdia不仅提高了样本效率，还增强了长期训练的有效性。此外，rQdia使得基于像素的无模型连续控制策略超过了基于状态编码的方法。
 ### Conclusion
 rQdia方法通过对Q值分布的正则化和利用图像增强技术，显著提升了基于像素的深度强化学习方法在MuJoCo和Atari环境中的样本效率和长期训练效果。这种方法已经在多个任务环境中显示出优于早期方法的性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 546. `cs.LG` - 早停表格式上下文学习 [PDF](https://arxiv.org/pdf/2506.21387), [HTML](https://arxiv.org/abs/2506.21387)
 ### Authors
 Jaris Küken,Lennart Purucker,Frank Hutter
@@ -6550,9 +4915,6 @@ Jaris Küken,Lennart Purucker,Frank Hutter
 提出了一种早停上下文学习过程的方法。通过在每个Transformer编码器层后动态评估是否应停止上下文学习，实现这一过程。一旦停止，使用预训练的逐层解码器解码嵌入。实验表明，在34个小分类任务上，早停上下文学习可以将推理加速1.3倍，预测性能几乎不受影响。在五个较大的分类任务上进一步评估，实现了最高2.2倍的加速。
 ### Conclusion
 结果表明，早退出策略具有提高表格式上下文学习效率的潜力，是一种有效且实用的方法。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 547. `cs.LG` - 在一simplicial插入下的持久拉普拉斯特征值的Lipschitz界 [PDF](https://arxiv.org/pdf/2506.21352), [HTML](https://arxiv.org/abs/2506.21352)
 ### Authors
 Le Vu Anh,Mehmet Dik,Nguyen Viet Anh
@@ -6562,9 +4924,6 @@ Le Vu Anh,Mehmet Dik,Nguyen Viet Anh
 本文首次证明了一次插入元素后，所有特征值的变化受到统一的Lipschitz界限制，此限制与过滤尺度及复杂大小无关，确保了在局部更新下的光谱特征稳定性，并提供了在动态数据环境下可靠误差控制的可能性，为光谱拓扑数据分析提供了首个特征值层面的鲁棒性保证。
 ### Conclusion
 本文通过证明一次插入元素后的Lipschitz界，首次从特征值层面提供了光谱拓扑数据分析的鲁棒性保证，确保了光谱特征在动态数据环境下的稳定性，并提供了可靠误差控制的基础。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 548. `cs.LG` - 分布式交叉通道分层聚合（D-CHAG）方法 [PDF](https://arxiv.org/pdf/2506.21411), [HTML](https://arxiv.org/abs/2506.21411)
 ### Authors
 Aristeidis Tsaris,Isaac Lyngaas,John Lagregren,Mohamed Wahib,Larry York,Prasanna Balaprakash,Dan Lu,Feiyi Wang,Xiao Wang
@@ -6574,9 +4933,6 @@ Aristeidis Tsaris,Isaac Lyngaas,John Lagregren,Mohamed Wahib,Larry York,Prasanna
 本文介绍了一种名为分布式交叉通道分层聚合（D-CHAG）的方法，适用于多通道图像数据集。该方法兼容任何模型并行策略和任何类型的视觉变压器架构，显著提高了计算效率。该方法已应用于高光谱成像和天气预报任务，与张量并行和模型分割集成后，在Frontier超级计算机上的1,024块AMD GPU上实现了高达75%的内存使用率减少和超过两倍的持续吞吐量提高。
 ### Conclusion
 D-CHAG 方法通过模型并行策略和技术优化，提高了处理多通道图像数据的效率，特别是在大规模高性能计算环境下的应用表现突出。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 549. `cs.LG` - Scalaable Bayesian Low-Rank Adaptation of Large Language Models via Stochastic Variational Subspace Inference [PDF](https://arxiv.org/pdf/2506.21408), [HTML](https://arxiv.org/abs/2506.21408)
 ### Authors
 Colin Samplawski,Adam D. Cobb,Manoj Acharya,Ramneet Kaur,Susmit Jha
@@ -6586,9 +4942,6 @@ Colin Samplawski,Adam D. Cobb,Manoj Acharya,Ramneet Kaur,Susmit Jha
 本文提出了一种名为ScalaBL（Scalable Bayesian Low-Rank Adaptation via Stochastic Variational Subspace Inference）的方法。通过在LoRA参数维度r的子空间中进行贝叶斯推断，并将这些参数重新用于投影矩阵，可以将子空间中的样本映射到LLM的整个权重空间，从而利用随机变分子空间推理学习模型的所有参数。与先前方法相比，ScalaBL仅需要大约1000个额外参数，并且能够扩展到迄今为止最大的贝叶斯LLM，参数量是之前工作的四倍。
 ### Conclusion
 ScalaBL能够在子空间低维度的同时，达到与最先进的方法相当的性能，同时还能够处理更大的模型。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 550. `cs.LG` - 从最优控制视角探讨ResNet训练 [PDF](https://arxiv.org/pdf/2506.21453), [HTML](https://arxiv.org/abs/2506.21453)
 ### Authors
 Jens Püttschneider,Simon Heilig,Asja Fischer,Timm Faulwasser
@@ -6598,9 +4951,6 @@ Jens Püttschneider,Simon Heilig,Asja Fischer,Timm Faulwasser
 提出了一种基于最优控制问题的ResNets训练公式，通过惩罚隐藏状态的中间输出来连接深度学习与最优控制领域，并显示了这种方法能够促使不必要的更深残差层权重逐渐消失，为理论指导下的层剪枝策略提供了可能性。
 ### Conclusion
 我们的训练动态机制成功地将标准ResNets训练与最优控制理论相结合，展示了通过一种基于理论的方式偏重深度网络层数，为实现有效的神经网络优化策略奠定了基础。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 551. `cs.LG` - 基于关键词的技术评价宽泛问题答案脚本 [PDF](https://arxiv.org/pdf/2506.21461), [HTML](https://arxiv.org/abs/2506.21461)
 ### Authors
 Tamim Al Mahmud,Md Gulzar Hussain,Sumaiya Kabir,Hasnain Ahmad,Mahmudus Sobhan
@@ -6610,9 +4960,6 @@ Tamim Al Mahmud,Md Gulzar Hussain,Sumaiya Kabir,Hasnain Ahmad,Mahmudus Sobhan
 本文提出了一种基于关键词的系统，用于自动评估主观答案脚本。该系统首先从答案脚本中提取关键词，然后将这些关键词与从开放和封闭领域提取的关键词进行比较。此外，系统还检查答案脚本中的语法和拼写错误。这种基于关键词的技术创新有助于实现自动化的答案评估，提高了效率和准确性。
 ### Conclusion
 利用提出的基于关键词的系统对学生(共100名)的主观答案脚本进行了测试，结果表明该系统具有较高的精度，得分为0.91。该研究展示了自动评估主观答案脚本是可能的，为教育评估领域引入了新的技术手段。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 552. `cs.LG` - 为特兰格尔州的癌症意识问题提出解决方案 [PDF](https://arxiv.org/pdf/2506.21500), [HTML](https://arxiv.org/abs/2506.21500)
 ### Authors
 Priyanka Avhad,Vedanti Kshirsagar,Urvi Ranjan,Mahek Nakhua
@@ -6622,9 +4969,6 @@ Priyanka Avhad,Vedanti Kshirsagar,Urvi Ranjan,Mahek Nakhua
 开发了基于机器学习的分类模型来预测个体是否对乳腺或宫颈癌易感，并根据用户地理位置或地址提供最近的医院或癌症治疗中心的建议。此外，可以整合健康卡以维护所有个人的医疗记录，并开展健康意识宣传和活动。对于机器学习分类模型，分别使用了决策树分类算法和支持向量分类算法来预测宫颈癌和乳腺癌的易感性。
 ### Conclusion
 通过提出这一解决方案，我们更接近于我们设定的目标，即提高癌症意识，从而降低癌症死亡率，提高特兰格尔州人民的癌症知识水平。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 553. `cs.LG` - 基于过程挖掘的建模与仿真以增强Cyber-Physical系统故障诊断 [PDF](https://arxiv.org/pdf/2506.21502), [HTML](https://arxiv.org/abs/2506.21502)
 ### Authors
 Francesco Vitale,Nicola Dall'Ora,Sebastiano Gaiardelli,Enrico Fraccaroli,Nicola Mazzocca,Franco Fummi
@@ -6634,9 +4978,6 @@ Francesco Vitale,Nicola Dall'Ora,Sebastiano Gaiardelli,Enrico Fraccaroli,Nicola 
 本文提出了一种新颖的无监督故障诊断方法，该方法结合了多维时间序列异常检测、过程挖掘和随机仿真。首先，低级传感器数据中的集体异常通过多维时间序列分析检测出来。然后，这些异常被转换为结构化的事件日志，使通过过程挖掘发现可解释的过程模型成为可能。通过将时间分布融入提取的佩特里网中，方法支持了故障行为的随机仿真，从而增强了根本原因分析和行为理解。这种方法通过使用Robotic Arm Dataset（RoAD）进行了验证，认为该方法在模式建模、仿真和故障行为分类方面是有效的。
 ### Conclusion
 该方法能够为CPS创建全面的故障字典，支持预测性维护，并开发工业环境中的数字双胞胎。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 554. `cs.LG` - 优化4阶Runge-Kutta方法：一种提高效率和低存储的动态启发式方法 [PDF](https://arxiv.org/pdf/2506.21465), [HTML](https://arxiv.org/abs/2506.21465)
 ### Authors
 Gavin Lee Goodship,Luis Miralles-Pechuan,Stephen O'Sullivan
@@ -6646,9 +4987,6 @@ Gavin Lee Goodship,Luis Miralles-Pechuan,Stephen O'Sullivan
 该研究提出了一种结合遗传算法（GA）和强化学习（RL）的混合方法，用于自动化启发式的发现与优化，特别针对低存储ESRK方法。此方法利用GA进行搜索空间探索，并通过RL启发式状态过渡机制动态优化启发式选择，从而系统地减少参数，同时显著提高计算效率，保持四阶精度。通过对基准问题（包括1D和2D布鲁塞尔反应扩散系统以及稳定态纳维-斯托克斯方程）的严格测试，验证了提出的GA-RL启发式优化框架的有效性。
 ### Conclusion
 研究发现，这种自适应启发式方法在高性能模拟中有可能提高资源效率，并扩展低存储Runge-Kutta方法在真实世界计算流体动力学、物理模拟和其他高要求领域的应用。该研究为数值方法的启发式优化建立了新的范式，并为使用深度RL和自动机器学习（AutoML）进行启发式搜索探索开启了新的途径。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 555. `cs.LG` - mTSBench: 大规模评估多元时间序列异常检测与模型选择 [PDF](https://arxiv.org/pdf/2506.21550), [HTML](https://arxiv.org/abs/2506.21550)
 ### Authors
 Xiaona Zhou,Constantin Brif,Ismini Lourentzou
@@ -6658,9 +4996,6 @@ Xiaona Zhou,Constantin Brif,Ismini Lourentzou
 介绍了mTSBench，这是迄今为止最大的MTS-AD和无监督模型选择基准，覆盖了344个标记的时间序列、19个数据集以及12个不同的应用领域，包含了24种异常检测方法，包括基于大型语言模型的多元时间序列检测器，以及系统性地在标准化条件下评估无监督模型选择技术。
 ### Conclusion
 本研究结果表明，没有一种检测器能够在所有数据集上表现出色，这突显了模型选择的重要性。尽管最先进的选择方法仍然离最优解决方案有较大差距，揭示了关键缺口。mTSBench提供了一个统一的评估套件，可以促进严格的、可重复的比较，并推动未来适应性异常检测和鲁棒模型选择的发展。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 556. `cs.LG` - 基于流的单步完成策略以实现高效的策略学习 [PDF](https://arxiv.org/pdf/2506.21427), [HTML](https://arxiv.org/abs/2506.21427)
 ### Authors
 Prajwal Koirala,Cody Fleming
@@ -6670,9 +5005,6 @@ Prajwal Koirala,Cody Fleming
 本文提出了一种名为单步完成策略 (SSCP) 的生成性策略，该策略通过一个增强的流匹配目标训练，从中间流样本直接预测完成向量，从而实现准确的单步动作生成。该方法将生成性模型的表达性和单模态策略的训练与推理效率结合在一起，无需长时间回传链，适用于离线、离线转在线和在线强化学习场景，显著提高了速度和适应性，与基于扩散的基线相比实现较大改进。此外，将SSCP扩展到有目标条件的强化学习中，使扁平策略能够利用子目标结构而不显式采用分层推理，从而实现更好的性能。
 ### Conclusion
 SSCP在标准离线强化学习和行为克隆基准测试中表现出色，将其定位为用于深度强化学习和序列决策的高度灵活、表达性强且高效的框架。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 557. `cs.LG` - 《 hitchhiker's 问题最终解决方案 》 [PDF](https://arxiv.org/pdf/2506.20672), [HTML](https://arxiv.org/abs/2506.20672)
 ### Authors
 Matjaž Omladič,Martin Vuk,Aljaž Zalar
@@ -6682,9 +5014,6 @@ J.J. Arias-Garcıa, R. Mesiar, and B. De Baets 在2020年的《模糊集与系�
 使用分析方法提供了一个完全解答关于半copula极端值的问题，解决了‘搭便车指南’中提出的公开问题Open Problem 5，并通过线性规划的方法达到了17维度的解决方案，反驳了一个最近提出的猜想。
 ### Conclusion
 通过对半copula极端值问题的分析研究，给出了问题的最终解决方案，并通过线性规划和分析方法证明了问题的具体答案。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 558. `cs.LG` - U-R-VEDA: 将UNet、残差链接、边缘检测和双注意力机制及视觉变换器集成以实现精确的心脏磁共振图像语义分割 [PDF](https://arxiv.org/pdf/2506.20689), [HTML](https://arxiv.org/abs/2506.20689)
 ### Authors
 Racheal Mukisa,Arvind K. Bansal
@@ -6694,9 +5023,6 @@ Racheal Mukisa,Arvind K. Bansal
 本文提出了一种基于深度学习模型的增强UNet，即U-R-Veda模型，该模型集成了卷积变换、视觉变换器、残差链接、通道注意力和空间注意力，并结合边缘检测基的跳跃连接，用于心脏磁共振（CMR）图像的精确全自动语义分割。该模型通过组合卷积块、嵌入通道和空间注意力，以及视觉变换器，提取局部特征及其相互关系，显著减少了卷积变换过程中的信息损失，提高了CMR图像的语义分割精度，特别是在心室分割方面表现出色。
 ### Conclusion
 U-R-Veda模型在DSC和HD指标上实现了95.2%的平均准确率，显著优于其他模型。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 559. `cs.LG` - Transfer disentangled representations: 桥接合成图像与真实图像之间的差距 [PDF](https://arxiv.org/pdf/2409.18017), [HTML](https://arxiv.org/abs/2409.18017)
 ### Authors
 Jacopo Dapueto,Nicoletta Noceti,Francesca Odone
@@ -6706,9 +5032,6 @@ Jacopo Dapueto,Nicoletta Noceti,Francesca Odone
 本文提出了一种新的可解释的基于干预的度量标准来衡量表示中因素编码的质量，并进行了详尽的实证研究，表明从合成数据到真实数据的解纠缠表示转移是可行且有效的。
 ### Conclusion
 研究表明，一定程度上从合成数据转移至真实数据的解纠缠表示是可行且有效的,并通过提出的新的度量标准有效地衡量了这些表示的质量。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 560. `cs.LG` - MegaFold：加速蛋白质结构预测模型的系统级优化 [PDF](https://arxiv.org/pdf/2506.20686), [HTML](https://arxiv.org/abs/2506.20686)
 ### Authors
 Hoa La,Ahan Gupta,Alex Morehead,Jianlin Cheng,Minjia Zhang
@@ -6718,9 +5041,6 @@ Hoa La,Ahan Gupta,Alex Morehead,Jianlin Cheng,Minjia Zhang
 MegaFold是一个跨平台系统，通过提前缓存来消除检索增强的数据管道中的GPU闲置时间，使用Triton内核实现异构设备上的内存高效EvoAttention，以及针对AF3中常见和关键的小操作的深度融合，加速了AF3训练。评估结果显示，使用MegaFold可以将AF3培训的峰值内存使用减少多达1.23倍，并且每次迭代的培训时间分别提高到1.73倍和1.62倍。此外，MegaFold使得可以在PyTorch基线不受内存溢出的情况下训练更长的序列长度，极大地提高了现代蛋白质折叠模型的可扩展性。
 ### Conclusion
 MegaFold通过系统级优化提升了蛋白质结构预测模型的训练速度，显著提高了现代蛋白质折叠模型的可扩展性，允许训练更长的序列长度，而不会出现内存溢出。其开源代码可以在指定的URL访问。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 561. `cs.LG` - 使用多模态机器学习在瑞典人群中检测二元互动中的欺骗：一项研究 [PDF](https://arxiv.org/pdf/2506.21429), [HTML](https://arxiv.org/abs/2506.21429)
 ### Authors
 Franco Rugolon,Thomas Jack Samuels,Stephan Hau,Lennart Högman
@@ -6730,9 +5050,6 @@ Franco Rugolon,Thomas Jack Samuels,Stephan Hau,Lennart Högman
 该研究采用的新颖之处在于：1) 利用多模式机器学习技术进行欺骗检测；2) 同时分析欺骗者和被欺骗者的数据；3) 通过不同融合策略和模态组合测试，得出最佳性能结果；4) 扩展至实际情景，如情感相关话题的谎言或真相情境；5) 为第一项针对斯堪的纳维亚人群的此类研究，填补了空白领域。
 ### Conclusion
 本研究通过新的模态融合策略，证明了结合言语和面部信息在检测欺骗方面优于单一模态方法，并显著提高了欺骗检测的准确性。特别是在应用晚期融合策略并涉及两个参与者时，准确率达到71%，验证了在初始互动中面部和语音表情控制差异的理论。该研究为未来在二元互动中的研究，特别是心理治疗领域，提供了新的视角和数据支持。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 562. `cs.LG` - LLM预训练中grokking的发现：无需测试监控记忆到泛化的转换 [PDF](https://arxiv.org/pdf/2506.21551), [HTML](https://arxiv.org/abs/2506.21551)
 ### Authors
 Ziyue Li,Chenrui Fan,Tianyi Zhou
@@ -6742,9 +5059,6 @@ grokking现象在神经网络训练中被观察到，即测试性能在训练损
 首次在大型基础模型的预训练过程中探索grokking现象，发现大型语言模型的预训练过程中仍然存在记忆到泛化的转换现象；开发了两个新度量标准来量化路径距离和路径复杂性，且在预训练中不依赖于微调和测试即能监控泛化性能；揭示了训练样本路径的结构化演变过程，表明了记忆到泛化的转换，为延迟泛化的机制提供了解释；理论上证明了具有结构化路径的样本有助于减少模型复杂性和提高泛化性能，从而提升了泛化界线.
 ### Conclusion
 研究表明，大型语言模型的预训练过程中确实存在grokking现象，且不依赖于微调和测试就可以通过监测特定度量标准来有效评估和监控模型的泛化性能，从而为预训练带来了实际价值。同时，研究揭示了训练样本路径的结构化演变机制，有助于理解记忆到泛化的机制，并从理论上证实了结构化路径在改善模型泛化性能方面的积极作用。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 563. `cs.LG` - 监督学习中神经偏微分方程的控制与优化 [PDF](https://arxiv.org/pdf/2506.20764), [HTML](https://arxiv.org/abs/2506.20764)
 ### Authors
 Alain Bensoussan,Minh-Binh Tran,Bangjie Wang
@@ -6754,9 +5068,6 @@ Alain Bensoussan,Minh-Binh Tran,Bangjie Wang
 本文提出了一个针对抛物型PDEs控制与优化问题的对偶系统表述，为未来研究中高效的数值方案开发奠定了基础。同时，证明了抛物型PDEs的控制与优化问题存在极小解。此外，还探究了与双曲型PDEs相关的控制问题，并证明了相应逼近控制问题的解的存在性。
 ### Conclusion
 本文通过提出对偶系统表述为抛物型PDEs的控制与优化问题提供了理论依据，并证明了该问题存在极小解。未来的研究将致力于发展高效的数值算法来解决这些问题，并进一步探索双曲型PDEs的控制问题。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 564. `cs.LG` - scMamba: 一个超越高变特征选择的大规模单细胞多组学集成可扩展基础模型 [PDF](https://arxiv.org/pdf/2506.20697), [HTML](https://arxiv.org/abs/2506.20697)
 ### Authors
 Zhen Yuan,Shaoqing Jiao,Yihang Xiao,Jiajie Peng
@@ -6766,9 +5077,6 @@ Zhen Yuan,Shaoqing Jiao,Yihang Xiao,Jiajie Peng
 scMamba 引入了一种基于补丁的细胞标记策略，将基因组区域视为词语（标记）和细胞视为句子，利用状态空间二元组的概念，从高维稀疏的单细胞多组学数据中提炼丰富的生物学洞察。此外，scMamba 的新颖对比学习方法添加余弦相似度正则化，能够比传统方法在跨组学层对齐方面取得更好的效果。系统基准测试跨多个数据集表明，scMamba 在保持生物变异性和跨组学层对齐方面显著优于现有最先进的方法，并且能够在关键下游任务中（如聚类、细胞类型注释和轨迹推理）增强表现。
 ### Conclusion
 我们的研究结果将 scMamba 定位为大规模单细胞多组学集成的强大工具，能够处理大规模图谱并促进生物发现。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 565. `cs.LG` - 为混合专家模型提供实用驱动的推测性解码 [PDF](https://arxiv.org/pdf/2506.20675), [HTML](https://arxiv.org/abs/2506.20675)
 ### Authors
 Anish Saxena,Po-An Tsai,Hritvik Taneja,Aamer Jaleel,Moinuddin Qureshi
@@ -6778,9 +5086,6 @@ GPU 内存带宽是低延迟大型语言模型推理的主要瓶颈。推测性�
 Cascade 提出了一种实用驱动的框架，可以在避免减速的同时选择性地启用推测性解码，并动态调整 K 的值以加速 MoE 服务。Cascade 使用了一个轻量级的指标——推测性解码的效用，即令牌收益与验证成本的比率，显示了迭代级别上的局部性，通过短的测试阶段和更长的一系列测试阶段，使周期性决策成为可能。对于每个请求，如果测试期间效用低于1，则禁用推测性解码，否则测试多个 K 值以选择效用最大化的 K。我们在 vLLM 中实现了 Cascade，并在涵盖代码、数学、提取和混合任务的工作负载中评估了五个流行的 MoE 模型。结果表明，与静态 K 相比，Cascade 可将减速限制在 5%，并且提高了 7-14% 的吞吐量，使推测性解码在 MoE 中变得实用。
 ### Conclusion
 尽管推测性解码在传统的大型语言模型中非常有效，但在 MoE 模型中却面临挑战。Cascade 提供了一种实用的方法，通过对 K 的动态调整来避免减速并提升性能，这使推测性解码在这些先进模型中成为可能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 566. `cs.LG` - ReLU神经网络的稳定局部最小值遭受维度诅咒：神经破碎现象 [PDF](https://arxiv.org/pdf/2506.20779), [HTML](https://arxiv.org/abs/2506.20779)
 ### Authors
 Tongtong Liang,Dan Qiao,Yu-Xiang Wang,Rahul Parhi
@@ -6790,9 +5095,6 @@ Tongtong Liang,Dan Qiao,Yu-Xiang Wang,Rahul Parhi
 该研究首次确定并证明了在多变量输入情况下，虽然平坦解和低余量解都能改善泛化能力，但平坦解的收敛率会随输入维度增加以指数级方式劣化。通过一种基于边界局部化ReLU神经元的新包装论证，推导出了一种“神经破碎效应”，解释了为何平坦解在高维空间中的表现会变差。此外，该研究通过广泛的数值模拟证实了理论发现，并首次系统地解释了为何平坦局部最小值在高维空间中可能会泛化不足的原因。
 ### Conclusion
 研究表明，平坦解在高维空间中存在泛化性能较差的问题，而低余量解则不受维度诅咒的影响。尽管具有与平坦解相似的稳定性，低余量解在高维空间中的泛化能力却更好，这提供了一种新的视角来理解如何选择和优化神经网络模型中的局部最小值。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 567. `cs.LG` - Temporal Fusion Transformers对径流模拟的有效性 [PDF](https://arxiv.org/pdf/2506.20831), [HTML](https://arxiv.org/abs/2506.20831)
 ### Authors
 Sinan Rasiya Koya,Tirthankar Roy
@@ -6802,9 +5104,6 @@ Sinan Rasiya Koya,Tirthankar Roy
 文章的创新点在于使用TFTs模型在径流模拟中的应用，并通过与LSTM模型的对比突出TFTs的优势。研究发现TFTs在模拟径流图的中部和峰值方面表现略优于LSTM。同时，TFTs能够更好地处理较长序列数据，对于较大或更多的流域可能更为适合。此外，通过TFTs的可解释性特点，可以识别出关键的动态和静态变量，提供宝贵的研究见解。
 ### Conclusion
 研究结果表明TFTs在径流模拟方面具有潜力，特别是在提高模型性能和科学理解方面的贡献。然而，TFTs和LSTM在Caravan数据集上的表现下降表明可能存在问题的数据质量。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 568. `cs.LG` - 通过验证与适应进行结构系统识别 [PDF](https://arxiv.org/pdf/2506.20799), [HTML](https://arxiv.org/abs/2506.20799)
 ### Authors
 Cristian López,Keegan J. Moore
@@ -6814,9 +5113,6 @@ Cristian López,Keegan J. Moore
 该研究提出了一种新的基于数据的方法，用于结构系统识别、不确定性量化和验证。该方法基于生成建模框架，通过神经网络将随机噪声映射到物理上有意义的参数，这些参数然后用于已知的运动方程中以生成假定的加速度。鉴别网络用于验证这些生成的加速度的真实性和指导参数生成器网络的过程。这种方法的关键创新在于同时通过独立的验证数据集来验证学习到的参数，并通过生成的和实际的加速度对比来增强参数估计的准确性和模型验证的有效性.
 ### Conclusion
 该研究展示了此方法在不同非线性结构系统中的参数估计准确性和模型验证效果。通过实际和分析实验表明了该方法的有效性，该框架为理解和预测复杂系统的动态提供了一种新的思路和技术手段。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 569. `cs.LG` - 用于合成孔径雷达干涉测相复原的尖峰神经网络：能源高效处理的理论框架 [PDF](https://arxiv.org/pdf/2506.20782), [HTML](https://arxiv.org/abs/2506.20782)
 ### Authors
 Marc Bara
@@ -6826,9 +5122,6 @@ Marc Bara
 开发了专门针对包裹相数据的尖峰编码方案，提出了利用相位解包的空间传播性质的SNN架构，并进行了计算复杂性和收敛性的理论分析。证明了SNNs中的时间动态性质能够自然地建模相位解包过程中至关重要的空间连续约束。这项工作开创了一条神经形态计算与SAR干涉测量交叉领域的研究方向，提供了一种不同于现有算法的补充方法，有可能促进更可持续的大规模InSAR处理。
 ### Conclusion
 本研究提出了针对SAR干涉测量的相位解包问题建立尖峰神经网络（SNNs）理论框架的方法，证明了SNNs在提升处理能效、保持精度的同时，能够自然地解决相位解包的关键问题，为这一领域提供了新的研究方向。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 570. `cs.LG` - 通过不确定的人工指导的强化学习进行复杂模型转换 [PDF](https://arxiv.org/pdf/2506.20883), [HTML](https://arxiv.org/abs/2506.20883)
 ### Authors
 Kyanna Dagenais,Istvan David
@@ -6838,9 +5131,6 @@ Kyanna Dagenais,Istvan David
 该论文提出了一种方法和技术框架，用于通过结合可能不确定的人类指导的强化学习来开发复杂的模型转换序列。该方法允许用户定义的模型转换映射到RL的基本单元上，并作为RL程序执行，最终找到最优的模型转换序列。这种方法通过人类指导和RL的结合，在开发复杂模型转换方面迈出了一步，并证明了即使人类指导存在不确定性，也能显著提高RL的性能和发展效率。
 ### Conclusion
 该研究展示了即使人类指导存在不确定性，也能通过人类指导适度提升强化学习性能，并更高效地开发复杂的模型转换。通过在人类建议的确定性与及时性之间进行权衡，这种方法朝着强化学习驱动的人工智能参与工程方法迈进了一步。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 571. `cs.LG` - 基于流形高斯过程回归的主动学习 [PDF](https://arxiv.org/pdf/2506.20928), [HTML](https://arxiv.org/abs/2506.20928)
 ### Authors
 Yuanxing Cheng,Lulu Kang,Yiwei Wang,Chun Liu
@@ -6850,9 +5140,6 @@ Yuanxing Cheng,Lulu Kang,Yiwei Wang,Chun Liu
 本文提出的方法结合了流形学习和神经网络减少维度，通过主动学习准则（最小化全局预测误差）协同优化神经网络和高斯过程回归器。这种方法能够有效地处理复杂和不连续的函数，同时保持良好的计算效率，优于随机顺序学习方法。
 ### Conclusion
 这种方法为科学和工程应用提供了实用价值，并未来将重点研究该框架的可扩展性和不确定性的流形学习。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 572. `cs.LG` - 赋能数字农业：一种保护隐私的数据共享与协作研究框架 [PDF](https://arxiv.org/pdf/2506.20872), [HTML](https://arxiv.org/abs/2506.20872)
 ### Authors
 Osama Zafar,Rosemarie Santa González,Mina Namazi,Alfonso Morales,Erman Ayday
@@ -6862,9 +5149,6 @@ Osama Zafar,Rosemarie Santa González,Mina Namazi,Alfonso Morales,Erman Ayday
 本研究提出了一种融合降维技术和差分隐私的保护隐私框架，它能够在保护农民隐私的同时促进安全的数据共享和合作研究，这对于提高农业数据的效益使用和促进创新具有重要意义。该框架的创新点在于结合了数据降维方法和差分隐私技术，既保护了农民的隐私，又保证了数据的有效利用，为数据驱动的农业提供了新的解决方案。它允许研究人员和农民更安全地共享数据并发现潜在的合作机会，从而推动农业研究的发展。此外，该框架还能够抵抗对抗性攻击，确保数据的有效性。
 ### Conclusion
 本研究提出的数据共享和协作研究的保护隐私框架能够促进农业数据的安全整合，支持创新和可持续农业系统的建设，对于推动数据驱动农业的变革性进步具有重要意义。通过解决关键的隐私挑战，本工作支持了数据的可持续利用和创新，为农业系统的改进和进步提供了坚实的技术基础。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 573. `cs.LG` - 使用稀疏时间融合变换器和高斯过程混合进行地缘政治事件预测：中东和美国冲突动态案例研究 [PDF](https://arxiv.org/pdf/2506.20935), [HTML](https://arxiv.org/abs/2506.20935)
 ### Authors
 Hsin-Hsiung Huang,Hayden Hampton
@@ -6874,9 +5158,6 @@ Hsin-Hsiung Huang,Hayden Hampton
 我们提出了STFT-VNNGP，一种混合架构，通过两个阶段过程解决这些挑战。第一阶段使用TFT捕捉复杂的时空动态生成多分位数预测。第二阶段使用变异最近邻高斯过程（VNNGP）进行原则性的时空平滑和不确定性量化。这种方法在中东和美国冲突动态的案例研究中表现优异，特别是在远程预测中的突发事件时间与幅度预测上，显著优于单独的TFT模型
 ### Conclusion
 我们提供了一个用于生成更具可靠性和行动性的从挑战性事件数据中生成情报的稳健框架。该模型在地缘政治冲突的预测上表现出了明显的优势，并且所有代码和工作流程均公开以确保可再现性
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 574. `cs.LG` - ZKPROV:一种用于大型语言模型数据来源的零知识方法 [PDF](https://arxiv.org/pdf/2506.20915), [HTML](https://arxiv.org/abs/2506.20915)
 ### Authors
 Mina Namazi,Alexander Nemecek,Erman Ayday
@@ -6886,9 +5167,6 @@ Mina Namazi,Alexander Nemecek,Erman Ayday
 ZKPROV引入了一种名为ZKPROV的新型加密框架，这是一种零知识证明框架，使用户能够在不泄露敏感信息或参数的情况下验证模型是否使用了可靠的数据集训练。通过使用数据集签名元数据和简化的模型参数承诺，ZKPROV能够在生成零知识证明的基础上保证结果来源于指定的数据集，同时保护数据集的机密性，免除逐个验证每个训练步骤的成本和复杂度。这种区别在于它提供了一种平衡的安全解决方案，适应了实际部署的需求。
 ### Conclusion
 实验证明了ZKPROV生成和验证这种证明的效率和可扩展性，为实际部署提供了实用的解决方案。我们还提供了正式的安全保证，证明了我们的方法不仅保持了数据集的机密性，还确保了数据来源的可信性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 575. `cs.LG` - 台湾股市板块轮动的量子增强强化学习交易代理 [PDF](https://arxiv.org/pdf/2506.20930), [HTML](https://arxiv.org/abs/2506.20930)
 ### Authors
 Chi-Sheng Chen,Xinyu Zhang,Ya-Chuan Chen
@@ -6898,9 +5176,6 @@ Chi-Sheng Chen,Xinyu Zhang,Ya-Chuan Chen
 该研究创新性地结合了Proximal Policy Optimization (PPO)算法与经典架构（如LSTM、Transformer）以及量子增强模型（如QNN、QRWKV、QASA），并通过自动特征工程流程从资本股份数据中提取金融指标，确保所有配置的一致输入。此外，研究分析了当前奖励设计可能激励对短期波动的过度拟合，而非优化风险调整回报的问题，并提出了未来改进方向，包括奖励重塑、模型正则化和基于验证的早期停止。
 ### Conclusion
 研究成果提供了一个可复现实验基准，并对部署量子增强强化学习在实际金融中的实践挑战提供了关键见解。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 576. `cs.LG` - Markov等价类大小的下界 [PDF](https://arxiv.org/pdf/2506.20933), [HTML](https://arxiv.org/abs/2506.20933)
 ### Authors
 Erik Jahn,Frederick Eberhardt,Leonard J. Schulman
@@ -6910,9 +5185,6 @@ Erik Jahn,Frederick Eberhardt,Leonard J. Schulman
 该论文探讨了在无环、因果充分性和均匀模型先验这三项核心假设放宽的情况下，马尔可夫等价类的可能规模，推导出马尔可夫等价类平均预期大小的指数级下界。
 ### Conclusion
 论文证明了在放松上述任何一条假设的情况下，马尔可夫等价类的平均预期大小都会有指数级的下界，从而指出了纯观测数据受限制从而难以完全恢复潜在因果图的问题。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 577. `cs.LG` - Uncertainty-Aware Machine-Learning Framework for Predicting Dislocation Plasticity and Stress-Strain Response in FCC Alloys [PDF](https://arxiv.org/pdf/2506.20839), [HTML](https://arxiv.org/abs/2506.20839)
 ### Authors
 Jing Luo,Yejun Gu,Yanfei Wang,Xiaolong Ma,Jaafar.A El-Awady
@@ -6922,9 +5194,6 @@ Jing Luo,Yejun Gu,Yanfei Wang,Xiaolong Ma,Jaafar.A El-Awady
 研究采用混合密度网络（MDN）模型，该模型能预测位错密度的分布以及晶粒级别上的应力分布。通过整合预测分布的统计参数到位错介导的塑性模型中，实现了准确的应力-应变预测并量化了误差。这种方法不仅提高了材料机械性能预测的准确性和可靠性，还对合金设计优化起到了关键作用，促进了新材料的发展。
 ### Conclusion
 该研究建立了一种包含不确定性意识的机器学习框架，可以预测fcc合金的位错塑性和应力-应变响应。这种方法不仅提高了应力-应变预测的准确性和可靠性，还对合金设计优化和技术发展具有重要作用。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 578. `cs.LG` - LLM生成与人类研究想法执行结果之间的想法执行差距：基于执行的结果 [PDF](https://arxiv.org/pdf/2506.20803), [HTML](https://arxiv.org/abs/2506.20803)
 ### Authors
 Chenglei Si,Tatsunori Hashimoto,Diyi Yang
@@ -6934,9 +5203,6 @@ Chenglei Si,Tatsunori Hashimoto,Diyi Yang
 本研究通过一种执行研究方法，评估了AI生成想法与人类专家生成想法在实际执行中的效果差异，填补了LLMs在想法生成阶段和执行结果之间的研究空白。研究采用盲审方式，共招募了43名专家进行为期超过100小时的执行和撰写实验报告，结果表明在多个评估指标上，AI生成的想法在执行后的分数显著低于人类专家生成的想法，揭示了LLMs在生成真正有效的研究想法方面存在局限性。
 ### Conclusion
 本研究展示了LLM生成的研究想法与人类专家生成的想法在实际执行后的差距，发现LLM生成的想法在多个评估指标上的效果确实不如人类生成的想法，这揭示出当前LLMs在生成有效研究想法方面的技术局限性和评估挑战。未来的研究可以进一步探索如何改进LLMs使得生成的研究想法在实际执行后也能表现出良好的效果。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 579. `cs.LG` - 更快的多链MDPs固定点方法 [PDF](https://arxiv.org/pdf/2506.20910), [HTML](https://arxiv.org/abs/2506.20910)
 ### Authors
 Matthew Zurek,Yudong Chen
@@ -6946,9 +5212,6 @@ Matthew Zurek,Yudong Chen
 我们开发了更好地解决导航子问题的算法，以便于更快地解决多链MDPs问题。相比于先前的工作，我们的方法具有更快收敛速度和更准确的时间复杂度测量。我们的结果包括了平均奖励和折扣问题之间的新联系、适用于一般Banach空间的最优固定点方法、折扣VI中新的次线性收敛率以及多链MDPs的新次优分解。这些关键组件对独立研究可能有所贡献。
 ### Conclusion
 我们的研究极大地改进了折扣和平均奖励问题的收敛速度，并扩展了价值迭代方法的理论基础。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 580. `cs.LG` - 通过负音频指导的逐步视频到音频合成 [PDF](https://arxiv.org/pdf/2506.20995), [HTML](https://arxiv.org/abs/2506.20995)
 ### Authors
 Akio Hayakawa,Masato Ishii,Takashi Shibuya,Yuki Mitsufuji
@@ -6958,9 +5221,6 @@ Akio Hayakawa,Masato Ishii,Takashi Shibuya,Yuki Mitsufuji
 本文的创新点在于提出了一个逐步视频到音频生成方法，该方法通过负音频指导来生成与视频特定声音事件对应的单独音频轨道，不依赖于专属配对数据集，而是利用预训练的视频到音频模型进行训练。这一设计灵感来自于先前组合生成框架中的概念否定理念，使得该方法能够在更广泛的、更易于获取的数据上进行有效的训练和生成。
 ### Conclusion
 实验结果表明，该方法能够为单个输入视频生成多个语义上不同的音频轨道，产生比现有基线方法更高质量的合成音频。此方法在逐步生成和负音频指导方面展示了其在视频到音频生成任务中的优势。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 581. `cs.LG` - 基于Transformer的空间时序反事实结果估计 [PDF](https://arxiv.org/pdf/2506.21154), [HTML](https://arxiv.org/abs/2506.21154)
 ### Authors
 He Li,Haoang Chi,Mingyu Liu,Wanrong Huang,Liyang Xu,Wenjing Yang
@@ -6970,9 +5230,6 @@ He Li,Haoang Chi,Mingyu Liu,Wanrong Huang,Liyang Xu,Wenjing Yang
 本文提出了一种基于Transformer的新框架，用于估计具有时空属性的反事实结果，展现出更强的估计能力。在温和的假设下，该框架中的新估计器具有一致性并且渐近正态分布。
 ### Conclusion
 仿真实验和真实数据实验验证了该方法的有效性。仿真实验表明我们的估计器在估计能力上优于基线方法。真实数据实验提供了冲突对哥伦比亚森林损失因果效应的重要结论。源代码可以在该链接中找到。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 582. `cs.LG` - 通过梯度下降模拟提示能否实现？ [PDF](https://arxiv.org/pdf/2506.20989), [HTML](https://arxiv.org/abs/2506.20989)
 ### Authors
 Eric Zhang,Leshem Choshen,Jacob Andreas
@@ -6982,9 +5239,6 @@ Eric Zhang,Leshem Choshen,Jacob Andreas
 本文提出了一种方法，通过元训练语言模型（LM）使得梯度更新模仿对新信息的条件效果。这种方法利用了基于梯度的元学习工具，但使用了LM本身的被提示预测作为目标，从而消除了真实标签的需求。随后的梯度下降训练能够恢复部分甚至全部被提示模型的性能，展示了在“逆转诅咒”任务上的改进，以及通过一次梯度更新回答文本片段的问题。这些成果表明，适当的初始化下，梯度下降可以令人惊讶地富有表现力。
 ### Conclusion
 这些结果表明，通过合适的初始化，梯度下降可以非常表达力，为长上下文建模提供了新的途径，并提供了梯度基学习泛化能力的洞察。未来的研究可以探索更有效的初始化策略，以及这种技术在实际应用中的潜在影响。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 583. `cs.LG` - 通过指导和调度提高基于扩散的图像编辑保真度 [PDF](https://arxiv.org/pdf/2506.21045), [HTML](https://arxiv.org/abs/2506.21045)
 ### Authors
 Hansam Cho,Seoung Bum Kim
@@ -6994,9 +5248,6 @@ Hansam Cho,Seoung Bum Kim
 提出了信仰度指导和调度（FGS），这是一种增强保真度但仍保持编辑灵活性的方法。FGS通过添加保真度指导增强了输入图像信息的保留，并引入了调度策略来解决编辑能力和保真度之间的偏差。实验结果表明，FGS能够实现更高的保真度同时保持编辑能力。此外，FGS与各种编辑方法兼容，可用于不同任务的精确高质量图像编辑。
 ### Conclusion
 FGS能够通过加强输入图像信息的保留并解决编辑能力与保真度之间的偏差，实现更高的保真度和编辑能力的平衡。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 584. `cs.LG` - EraRAG：不断扩大的语料库上的高效增量检索增强生成 [PDF](https://arxiv.org/pdf/2506.20963), [HTML](https://arxiv.org/abs/2506.20963)
 ### Authors
 Fangyuan Zhang,Zhengjun Huang,Yingli Zhou,Qintian Guo,Zhixun Li,Wensheng Luo,Di Jiang,Yixiang Fang,Xiaofang Zhou
@@ -7006,9 +5257,6 @@ Graph-based Retrieval-Augmented Generation (Graph-RAG)通过对外部语料库�
 我们引入了一种新型的多层EraRAG框架，支持高效和可扩展的动态更新。该方法利用基于超平面的局部敏感哈希（LSH）将原始语料库划分为分层图结构，可以在不影响现有拓扑的情况下高效地插入新数据。设计上避免了重新训练或昂贵的重新计算，同时保持高检索准确性和低延迟。实验结果表明，与现有Graph-RAG系统相比，EraRAG的更新时间和令牌消耗最多可减少一个数量级，且提供了更优越的准确性能。这项工作为必须在不断增长的语料库上运行的RAG系统提供了一条实用的途径，填补了检索效率和适应性的空白。
 ### Conclusion
 EraRAG为RAG系统提供了一种实际可行的途径，使其能够在不断扩大的语料库上运行，同时在检索效率和适应性之间取得了平衡。我们的代码和数据见 this <https://this.is.link＞.
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 585. `cs.LG` - HybridQ: 混合经典-量子生成对抗网络在皮肤疾病图像生成中的应用 [PDF](https://arxiv.org/pdf/2506.21015), [HTML](https://arxiv.org/abs/2506.21015)
 ### Authors
 Qingyue Jiao,Kangyu Zheng,Yiyu Shi,Zhiding Liang
@@ -7018,9 +5266,6 @@ Qingyue Jiao,Kangyu Zheng,Yiyu Shi,Zhiding Liang
 本文提出了一种新的经典-量子生成对抗网络（GAN）模型，克服了现有生成模型的限制，并能够在图像生成质量和分类性能方面超过传统深度卷积GAN及现有混合经典-量子GAN模型。此外，与最先进的经典生成模型相比，该模型的参数量减少了25倍以上，训练周期减少了10倍。这个成果表明随着量子硬件的进展，基于量子的图像生成具有光明的前景。
 ### Conclusion
 实验结果显示，本文提出的模型在实际的IBM量子机器上具有稳健的性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 586. `cs.LG` - 有限状态马尔可夫博弈中多代理学习动态的 homogenization [PDF](https://arxiv.org/pdf/2506.21079), [HTML](https://arxiv.org/abs/2506.21079)
 ### Authors
 Yann Kerzreho(ENS Paris Saclay)
@@ -7030,9 +5275,6 @@ Yann Kerzreho(ENS Paris Saclay)
 论文的创新点在于提出了一种新的方法来近似多个强化学习代理在有限状态马尔可夫博弈中的学习动态。该方法通过调整学习率和更新频率来重新缩放学习过程，使代理参数更具可处理性，并能够通过常微分方程提供学习动态的确定性近似。这一方法在理论分析和实际应用中都展示了显著的简化和优化效果。
 ### Conclusion
 基于温和的假设-状态过程的遍历性和更新的连续性，论文证明了重新缩放过程可以收敛到一个常微分方程。该常微分方程为代理的学习动态提供了一个可处理且确定性的近似。这一成果为理解和理论分析多代理在有限状态马尔可夫博弈中的学习动态提供了一种新的手段。论文提供的框架实现可以在 provided URL 获取。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 587. `cs.LG` - EgoAdapt：适应性多感官蒸馏和策略学习以实现高效的主观感知 [PDF](https://arxiv.org/pdf/2506.21080), [HTML](https://arxiv.org/abs/2506.21080)
 ### Authors
 Sanjoy Chowdhury,Subrata Biswas,Sayan Nag,Tushar Nagarajan,Calvin Murdock,Ishwarya Ananthabhotla,Yijun Qian,Vamsi Krishna Ithapu,Dinesh Manocha,Ruohan Gao
@@ -7042,9 +5284,6 @@ Sanjoy Chowdhury,Subrata Biswas,Sayan Nag,Tushar Nagarajan,Calvin Murdock,Ishwar
 本文介绍了一种名为EgoAdapt的框架，该框架通过适配性地进行跨模态蒸馏和策略学习，提高不同主观感知任务的高效推理能力。主要创新在于提出了一种可适应特定任务动作空间的策略模块，使该方法具有广泛的应用潜力。实验结果表明，与当前最先进的模型相比，该方法不仅在效率上有显著提高（GMACs减少89.09%，参数减少82.02%，能量消耗减少9.6倍），在多项主观感知任务上也保持了相当甚至优于现有模型的性能。
 ### Conclusion
 本研究通过引入EgoAdapt框架，展示了在多种挑战性的主观感知数据集上，如何通过适配性地进行跨模态蒸馏和策略学习，显著提高了感知任务的性能与效率。这种方法对资源受限环境中的主观感知任务具有重要的应用价值。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 588. `cs.LG` - CovDocker: 使用任务、数据集和解决方案评估共价药物设计 [PDF](https://arxiv.org/pdf/2506.21085), [HTML](https://arxiv.org/abs/2506.21085)
 ### Authors
 Yangzhe Peng,Kaiyuan Gao,Liang He,Yuheng Cong,Haiguang Liu,Kun He,Lijun Wu
@@ -7054,9 +5293,6 @@ Yangzhe Peng,Kaiyuan Gao,Liang He,Yuheng Cong,Haiguang Liu,Kun He,Lijun Wu
 我们引入了CovDocker，这是第一个全面的共价对接基准。它将共价对接过程分解为三个主要任务，并通过调整最先进的模型来建立基线性能，从而有效预测相互作用位点和模拟共价结合过程中的分子变化。
 ### Conclusion
 CovDocker 作为严谨的基准是促进共价药物设计研究的关键工具，数据驱动的方法在发现选择性共价抑制剂方面展现出巨大的潜力，并解决了治疗开发中的关键挑战。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 589. `cs.LG` - 从链上到宏观经济：评估数据源多样性在加密货币市场预测中的重要性 [PDF](https://arxiv.org/pdf/2506.21246), [HTML](https://arxiv.org/abs/2506.21246)
 ### Authors
 Giorgos Demosthenous,Chryssis Georgiou,Eliada Polydorou
@@ -7066,9 +5302,6 @@ Giorgos Demosthenous,Chryssis Georgiou,Eliada Polydorou
 本文引入了一个名为Crypto100指数的指标，代表市值最大的前100种加密货币，以及提出了一种新型特征缩减算法来识别多样数据来源中最具有影响力的特征。实验证明使用多种数据源可以显著提高预测模型的准确性并增强其对不同时间范围内的预测性能。这些发现为开发更准确、更稳健的预测模型提供了有力支持。
 ### Conclusion
 数据源多样性对于提高加密货币预测模型的准确性和鲁棒性至关重要。尤其是，技术指标在短期和长期预测中发挥着关键作用，而传统市场指数和宏观经济指标对长期预测的重要性不断增强。利用多种数据源可以显著改善预测模型的准确性，有助于揭示推动加密货币市场短期和长期变化的主要因素，并为丰富和发展加密货币预测模型提供了依据。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 590. `cs.LG` - DCASE 2025挑战任务4中通过丰富音频特征和基于代理的错误修正提高空间语义分割性能 [PDF](https://arxiv.org/pdf/2506.21174), [HTML](https://arxiv.org/abs/2506.21174)
 ### Authors
 Jongyeon Park,Joonhee Lee,Do-Hyeon Lim,Hong Kook Kim,Hyeongcheol Geum,Jeong Eun Lim
@@ -7078,9 +5311,6 @@ Jongyeon Park,Joonhee Lee,Do-Hyeon Lim,Hong Kook Kim,Hyeongcheol Geum,Jeong Eun 
 本文的创新之处在于通过引入额外的音频特征（谱滚降和音阶特征）提高了音频标记模型的分类能力，并应用基于代理的标签校正系统提高了最终的CA-SDRi指标，同时通过精炼训练数据集提高了低表现类别的分类准确性。这些技术的应用显著提升了系统的性能，特别是在处理包含细微线索的混合音频时效果更为显著。
 ### Conclusion
 实验结果证明，通过引入丰富音频特征（谱滚降和音阶特征）、应用基于代理的标签校正系统以及优化训练数据集，所提出的系统在DCASE 2025挑战任务4中可以在CA-SDRi指标上提高14.7%的表现，从而验证了这些方法的有效性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 591. `cs.LG` - 突破权衡边界：紧凑且有效的遥感变化检测 [PDF](https://arxiv.org/pdf/2506.21109), [HTML](https://arxiv.org/abs/2506.21109)
 ### Authors
 Luosheng Xu,Dalin Zhang,Zhaohui Song
@@ -7090,9 +5320,6 @@ Luosheng Xu,Dalin Zhang,Zhaohui Song
 本研究提出了一种名为FlickCD的方法，它通过引入增强差异模块（EDM）和局部-全局融合块，利用移位窗口自我注意力（SWSA）和增强全局自我注意力（EGSA），实现了在保持高准确度的同时显著减少计算和存储开销的技术创新。这一方法突破了计算资源与准确度之间的权衡边界，为遥感变化检测提供了一种高效的解决方案。
 ### Conclusion
 FlickCD方法在四个基准数据集上的实验结果证明，该方法在计算和存储开销方面大幅降低（超过一个数量级），同时达到最先进的技术水平或仅产生轻微（<1% F1）的准确度损失。这表明FlickCD能够在保证高准确度的同时实现低资源消耗，突破了传统的性能资源权衡边界。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 592. `cs.LG` - 关于均匀加权深度多项式逼近 [PDF](https://arxiv.org/pdf/2506.21306), [HTML](https://arxiv.org/abs/2506.21306)
 ### Authors
 Kingsley Yeon,Steven B. Damelin
@@ -7102,9 +5329,6 @@ Kingsley Yeon,Steven B. Damelin
 本文引入并分析了一类针对单边增长和双边衰减这类非对称行为函数的加权深度多项式逼近器。通过将可学习的深度多项式与单边权重相乘，能够捕捉局部非光滑性和全局增长特性。数值结果表明，此类框架在参数数量相同的情况下优于泰勒、切比雪夫以及标准深度多项式逼近器。为此类逼近器的实际优化，提出了基于图的方法进行稳定参数化。
 ### Conclusion
 研究表明，这种加权深度多项式逼近方法在处理非对称行为函数时，相较于传统的泰勒和 Chebyshev 多项式逼近方法，表现更优；并且提出了稳定且有效的参数化策略。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 593. `cs.LG` - 探索低资源音乐生成领域的适配器设计权衡 [PDF](https://arxiv.org/pdf/2506.21298), [HTML](https://arxiv.org/abs/2506.21298)
 ### Authors
 Atharva Mehta,Shivam Chauhan,Monojit Choudhury
@@ -7114,9 +5338,6 @@ Atharva Mehta,Shivam Chauhan,Monojit Choudhury
 本文首次系统地研究了适配器设计在低资源音乐生成中的权衡，并指出基于卷积的适配器在捕捉细微音乐细节方面表现出色，而基于变换器的适配器在保存长距离依赖性方面更为有效。此外，研究还发现，中等规模的适配器（40M参数）在表达能力和质量之间实现了良好的平衡。研究结果还对比了基于扩散的模型Mustango和自回归模型MusicGen在生成多样性和稳定性、训练速度和效率等方面的优缺点。
 ### Conclusion
 研究表明，对于低资源音乐生成任务，卷积基于的适配器擅长捕捉细微的音乐细节，而基于变换器的适配器则更擅长保持结构化即兴创作所需的长距离依赖性。此外，中等规模的适配器能够在表达能力和质量之间达到较好的平衡。这一研究通过详细分析不同适配器规模的计算资源需求，为选择合适的适配器设计提供了实用指导。同时，研究表明，MusicGen在训练速度和生成质量方面更有优势，而Mustango能够生成更具多样性的输出，但稳定性不足且训练时间较长。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 594. `cs.LG` - 揭示大型语言模型中的因果推理：幻觉还是现实？ [PDF](https://arxiv.org/pdf/2506.21215), [HTML](https://arxiv.org/abs/2506.21215)
 ### Authors
 Haoang Chi,He Li,Wenjing Yang,Feng Liu,Long Lan,Xiaoguang Ren,Tongliang Liu,Bo Han
@@ -7126,9 +5347,6 @@ Haoang Chi,He Li,Wenjing Yang,Feng Liu,Long Lan,Xiaoguang Ren,Tongliang Liu,Bo H
 本文通过构建新的因果问答基准CausalProbe-2024，揭示了当前LLMs的因果推理能力主要局限在浅层次，无法进行真正的人类类似的深层因果推理。基于此，提出了G^2-Reasoner模型，该模型将一般知识和目标导向的提示融入LLMs的因果推理过程中，显著增强了模型的因果推理能力，尤其是在新场景和反事实情景下。
 ### Conclusion
 本文为LLMs如何向真正的因果推理迈进提供了一个新的方向，即通过整合广博的背景知识和目标导向的提示，使得模型能够更接近于深度的因果推理，而不是仅仅停留在知识嵌入的浅层次因果推理阶段。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 595. `cs.LG` - 含量子记忆和局部学习的随机量子刺规神经网络 [PDF](https://arxiv.org/pdf/2506.21324), [HTML](https://arxiv.org/abs/2506.21324)
 ### Authors
 Jiechen Chen,Bipin Rajendran,Osvaldo Simeone
@@ -7138,9 +5356,6 @@ Jiechen Chen,Bipin Rajendran,Osvaldo Simeone
 本文提出了一种随机量子刺规（SQS）神经元模型，解决了上述挑战。SQS神经元采用多量子比特的量子电路来实现具有内部量子记忆的尖峰单元，能够单步生成事件驱动的概率尖峰。此外，提出了SQS神经网络（SQSNN）可以通过硬件友好的局部学习规则进行训练，消除了全局经典后向传播的需求。该SQSNN模型融合了神经形态计算的时间序列效率和量子计算的指数级内部状态空间，为基于量子硬硬件的尖峰神经网络铺平了道路，使其模块化、可扩展并能在量子硬件上进行训练。
 ### Conclusion
 提出的SQSNN模型融合了神经形态计算高效处理时间序列数据的特性以及量子计算具有指数级内态空间的能力，通过多量子比特电路实现了具有内部量子记忆的事件驱动式概率尖峰生成，并通过局部学习规则能够利用硬件特训，为量子尖峰神经网络的发展提供了可能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 596. `cs.LG` - 从用户交互中调整口语对话模型 [PDF](https://arxiv.org/pdf/2506.21463), [HTML](https://arxiv.org/abs/2506.21463)
 ### Authors
 Anne Wu,Laurent Mazaré,Neil Zeghidour,Alexandre Défossez
@@ -7150,9 +5365,6 @@ Anne Wu,Laurent Mazaré,Neil Zeghidour,Alexandre Défossez
 作者提出了一种新颖的偏好对齐框架，用于提高实时会话中的口语对话模型。该框架通过大规模收集语音多轮对话的数据，并使用离线对齐方法微调全双工自回归言语到言语模型，有效提升了对话模型的质量，使之更具有事实性、安全性和上下文一致性。此外，作者通过全面的人类评估展示了调整模型后的影响，不仅仅局限于单轮次对话，从而证明了调整对话模型的有效性以及对自然实时对话系统的全过程改进的重要性。
 ### Conclusion
 研究表明，通过AI反馈调整后的对话模型在进行多轮次对话时表现更为出色，这突显了各种动态因素之间的良好平衡对于构建自然的实时语音对话系统的重要性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 597. `cs.LG` - 使用高效球形卡仕达分布的超球面变分自动编码器 [PDF](https://arxiv.org/pdf/2506.21278), [HTML](https://arxiv.org/abs/2506.21278)
 ### Authors
 Lukas Sablica,Kurt Hornik
@@ -7162,9 +5374,6 @@ Lukas Sablica,Kurt Hornik
 本文提出了一种新颖的变分自动编码器架构，采用球形卡仕达（spCauchy）潜在分布。spCauchy相比传统的高斯潜在空间和vMF分布，能更好地捕捉方向数据，并提供更加自然的超球面表示，且具有更灵活的表达性。spCauchy具有重尾特性，能够防止过度正则化，确保有效的潜在空间利用。此外，它通过莫比乌斯变换使重构过程完全可微分，避免了vMF计算归一化常数时的数值不稳定性问题。spCauchy还可以通过快速收敛的级数计算Kullback-Leibler（KL）散度，避免了使用超几何函数时的下溢或上溢问题。
 ### Conclusion
 spCauchy为VAE提供了一种有吸引力的替代方案，不仅在理论上具有优势，还在高维生成建模中表现出高效性和实用性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 598. `cs.LG` - 进行空旷空间可靠检测的研究：基于条件标记点过程的目标检测 [PDF](https://arxiv.org/pdf/2506.21486), [HTML](https://arxiv.org/abs/2506.21486)
 ### Authors
 Tobias J. Riedlinger,Kira Maag,Hanno Gottschalk
@@ -7174,9 +5383,6 @@ Tobias J. Riedlinger,Kira Maag,Hanno Gottschalk
 本文提出了基于空间统计的目标检测模型，该模型以标记点过程为理论基础。边界框数据与标记点过程的实际实现相符，用来描述空间点事件的出现概率，其中标记信息用于描述边界框的空间范围和类别。该统计框架支持基于似然性的训练，能够提供定义明确的置信度估计，表明某个区域是否为可行驶区域，即无物体区域。通过校准评估和性能评估证明了本方法的有效性。
 ### Conclusion
 本文提出的方法通过基于标记点过程的统计框架，能够提供更为可靠的空旷区域检测，解决了现有模型在未检测区域的置信度估计问题。并通过实验证明了此方法的有效性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 599. `cs.LG` - 一个针对多元场景的地下矿工检测综合数据集 [PDF](https://arxiv.org/pdf/2506.21451), [HTML](https://arxiv.org/abs/2506.21451)
 ### Authors
 Cyrus Addy,Ajay Kumar Gurumadaiah,Yixiang Gao,Kwame Awuah-Offei
@@ -7186,9 +5392,6 @@ Cyrus Addy,Ajay Kumar Gurumadaiah,Yixiang Gao,Kwame Awuah-Offei
 本文提出了一种新颖的热像数据集，旨在促进和验证热基矿工检测系统的开发与验证。通过系统地捕捉多种采矿活动和场景的热图像，创建了检测算法的基础。同时，利用多种先进的物体检测算法（包括YOLOv8，YOLOv10，YOLO11和RT-DETR）在该数据集上进行评估，以建立基线性能指标。
 ### Conclusion
 这种方法证明了使用热像进行矿工检测的可行性，并为这一至关重要的安全保障领域的未来研究奠定了基础。尽管不涵盖所有可能的紧急情境，但该数据集已作为开发可靠热基矿工检测系统的关键第一步。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 600. `cs.LG` - skLEP: 斯洛伐克通用语言理解基准 [PDF](https://arxiv.org/pdf/2506.21508), [HTML](https://arxiv.org/abs/2506.21508)
 ### Authors
 Marek Šuppa,Andrej Ridzik,Daniel Hládek,Tomáš Javůrek,Viktória Ondrejová,Kristína Sásiková,Martin Tamajka,Marián Šimko
@@ -7198,9 +5401,6 @@ Marek Šuppa,Andrej Ridzik,Daniel Hládek,Tomáš Javůrek,Viktória Ondrejová,
 这是第一个专门设计的斯洛伐克自然语言理解模型基准。它集合了九项不同任务，旨在测试模型在标记级、句子对级和文档级任务上的能力。研究者还首次系统地评估了多种特定于斯洛伐克、多语言和英语的预训练语言模型的表现，并且提供了一个数据集、开源工具包用于模型的精细调整和评估，以及公开的联赛表，以促进重复性和未来的研究。
 ### Conclusion
 本研究发布了完整的基准数据、开源工具包，并且提供了公开的排行榜，以期促进斯洛伐克自然语言理解领域的研究和重复。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 601. `cs.LG` - 通过可学习自适应时频表示的可微分短时傅里叶变换 [PDF](https://arxiv.org/pdf/2506.21440), [HTML](https://arxiv.org/abs/2506.21440)
 ### Authors
 Maxime Leiber,Yosra Marnissi,Axel Barrau,Sylvain Meignen,Laurent Massoulié
@@ -7210,9 +5410,6 @@ Maxime Leiber,Yosra Marnissi,Axel Barrau,Sylvain Meignen,Laurent Massoulié
 提出了一种统一的可微分STFT形式，使得可以通过基于梯度的方法优化其参数。这种方法解决了传统STFT参数调整方法的局限性，并能够根据任何所需标准对时频表示（TFR）进行精细调整。此外，该方法能够无缝集成到神经网络中，允许STFT参数和网络权重的联合优化。实验表明，通过可微分STFT改进了TFR并提升了下游任务的性能，无论是仿真数据还是真实世界数据。
 ### Conclusion
 通过可微分STFT，可以精调时频表示，基于任何所需的评估标准，并且可以无缝集成到神经网络训练过程中，提升性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 602. `cs.LG` - Maximal Matching Matters: 防止表示坍缩以实现稳健的跨模态检索 [PDF](https://arxiv.org/pdf/2506.21538), [HTML](https://arxiv.org/abs/2506.21538)
 ### Authors
 Hani Alomari,Anushka Sivakumar,Andrew Zhang,Chris Thomas
@@ -7222,9 +5419,6 @@ Hani Alomari,Anushka Sivakumar,Andrew Zhang,Chris Thomas
 本文提出了最大化对应回合相似度（Maximal Pair Assignment Similarity）来优化嵌入集合之间的一对一匹配，以保持集合内的语义多样性。还引入了两个增强表示的方法：全局判别损失用于增强嵌入间的区分性，以及内部集合发散损失用于防止集合内部坍缩。
 ### Conclusion
 本文的方法在MS-COCO和Flickr30k数据集上实现了最先进的性能，且无需依赖外部数据。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 603. `cs.LG` - 3D MLLMs在CT报告生成中的设计空间探索 [PDF](https://arxiv.org/pdf/2506.21535), [HTML](https://arxiv.org/abs/2506.21535)
 ### Authors
 Mohammed Baharoon,Jun Ma,Congyu Fang,Augustin Toma,Bo Wang
@@ -7234,9 +5428,6 @@ Mohammed Baharoon,Jun Ma,Congyu Fang,Augustin Toma,Bo Wang
 介绍了两种基于知识的报告增强方法，这些方法在GREEN得分上提高了10%以上，使我们在MICCAI 2024 AMOS-MM挑战中获得了第二名。此外，通过研究3D MLLMs的设计空间，指出了模型大小、投影器、可视化输入表示和分割掩码使用等关键设计因素对CT报告生成性能的影响。公开了相关代码。
 ### Conclusion
 在AMOS-MM数据集的1,687个案例上，研究结果表明，与语义大小无关的情况下，MLLMs适用3D CT报告生成。除了这些发现外，研究强调了投影器、分割掩码的使用等设计因素对性能的影响，并证明了通过专门设计可以实现更好的报告生成效果。相关代码已公开。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 604. `cs.LG` - HalluSegBench：用于分割幻觉评估的反事实视觉推理 [PDF](https://arxiv.org/pdf/2506.21546), [HTML](https://arxiv.org/abs/2506.21546)
 ### Authors
 Xinzhuo Li,Adheesh Juvekar,Xingyou Liu,Muntasir Wahed,Kiet A. Nguyen,Ismini Lourentzou
@@ -7246,9 +5437,6 @@ Xinzhuo Li,Adheesh Juvekar,Xingyou Liu,Muntasir Wahed,Kiet A. Nguyen,Ismini Lour
 本文提出了HalluSegBench，这是第一个专门通过反事实视觉推理来评估视觉地基中幻觉的基准。该基准包含一个具有1340个反事实实例对的新颖数据集，覆盖281个独立的对象种类，并且引入了新的度量标准来量化在视觉一致性场景编辑下幻觉的敏感性。实验表明，模型受到的幻觉驱动的影响远大于标签驱动的影响，预测模型经常坚持错误的分割，这表明需要进行反事实推理以诊断地基的准确性。
 ### Conclusion
 HalluSegBench揭示了模型在幻觉检测方面存在显著差距，并强调了反事实推理对于评估视觉地基重要性。新数据集和度量标准提供了更全面的评估方法，帮助研究者更好地理解幻觉现象并改进模型性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 605. `cs.LG` - 持续学习作为一种受计算约束的强化学习 [PDF](https://arxiv.org/pdf/2307.04345), [HTML](https://arxiv.org/abs/2307.04345)
 ### Authors
 Saurabh Kumar,Henrik Marklund,Ashish Rao,Yifan Zhu,Hong Jun Jeon,Yueyang Liu,Benjamin Van Roy
@@ -7258,9 +5446,6 @@ Saurabh Kumar,Henrik Marklund,Ashish Rao,Yifan Zhu,Hong Jun Jeon,Yueyang Liu,Ben
 将持续学习定义为受限于计算能力的强化学习，并提供了一个框架和工具集来推动这一领域的进一步研究。
 ### Conclusion
 通过清晰定义和形式化持续学习的概念，该研究旨在促进对该领域的深入理解和进一步探索，从而推动人工智能力量的边界。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 606. `cs.LG` - Gaussian Invariant Markov Chain Monte Carlo [PDF](https://arxiv.org/pdf/2506.21511), [HTML](https://arxiv.org/abs/2506.21511)
 ### Authors
 Michalis K. Titsias,Angelos Alexopoulos,Siran Liu,Petros Dellaportas
@@ -7270,9 +5455,6 @@ Michalis K. Titsias,Angelos Alexopoulos,Siran Liu,Petros Dellaportas
 该研究的主要创新在于开发了高斯不变性的采样方法，并展示了高斯不变性如何提高抽样效率。具体创新包括开发新的高斯采样方法；使用高斯不变性精确求解泊松方程，用于任何难以处理的目标下的效率改进估计；以及提供几何遍历性和最优倍频分析的理论结果，展示了最优接受率与目标高斯性的依赖关系。
 ### Conclusion
 该研究展示了新的高斯不变采样器和估计器在各种示例中的应用，包括高纬度目标的潜藏高斯模型，并与多种高级方法进行对比，取得了最先进的结果。此外，还提供了关于几何遍历性和最优倍频分析的理论结果，证明了最优接受率与目标高斯性的依赖关系。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 607. `cs.LG` - 小型编码器能与大型解码器在检测接地性方面一较高下 [PDF](https://arxiv.org/pdf/2506.21288), [HTML](https://arxiv.org/abs/2506.21288)
 ### Authors
 Istabrak Abbes,Gabriele Prato,Quentin Fournier,Fernando Rodriguez,Alaa Boukhary,Adam Elwood,Sarath Chandar
@@ -7282,9 +5464,6 @@ Istabrak Abbes,Gabriele Prato,Quentin Fournier,Fernando Rodriguez,Alaa Boukhary,
 研究发现，通过使用在精选数据集上微调的小型编码器模型（如RoBERTa和NomicBERT），可以在约数个数量级的时间内检测出查询是否基于提供的文档，同时其准确率接近最先进的大型语言模型（如Llama3 8B和GPT4o）。这表明，小型编码器能够在保持高准确率的同时，大幅缩短推理延迟时间。相关代码已开源。
 ### Conclusion
 轻量化、针对特定任务的编码器可以在地基性检测方面与大型的解码器型语言模型媲美，同时提供显著的效率提升。这种方法可以极大地减少LLMs在生成答案前的推理时间和资源消耗，从而提高整个系统的性能和响应速度。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 608. `cs.LG` - 日常交通模式下的交通信号评估 [PDF](https://arxiv.org/pdf/2506.21469), [HTML](https://arxiv.org/abs/2506.21469)
 ### Authors
 Mohammad Shokrolah Shirazi,Hung-Fu Chang
@@ -7294,9 +5473,6 @@ Mohammad Shokrolah Shirazi,Hung-Fu Chang
 本文提出了三种基于转向运动计数数据的交通信号配置方法，包括动态、静态和混合配置。结合SUMO进行仿真实验，进一步研究了混合信号方法在适应双峰交通流量模式方面相较于静态方法的优势，特别是在跨区重量较高的交通交叉口上效果显著。此外，提出了基于区域交通流量模式的交通信号设计选择方法，这对于均匀分配和非均匀分配区域交通流量的交叉口具有不同的效果。
 ### Conclusion
 综合实验结果表明，在4小时的模拟时间内，区域交通流量模式分布影响了信号设计的选择。尽管静态方法适用于均匀分配区域的交通分布，但在高权重交通交叉口（如西-东和北-南区域），混合方法表现更优。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 609. `cs.LG` - 黑箱预测中的野性重拟合 [PDF](https://arxiv.org/pdf/2506.21460), [HTML](https://arxiv.org/abs/2506.21460)
 ### Authors
 Martin J. Wainwright
@@ -7306,9 +5482,6 @@ Martin J. Wainwright
 提出了一种新的计算基于最小二乘法最小化惩罚非参数估计的个例均方预测误差的高效重拟合过程。该过程不需要重复拟合多个数据集，而是通过一次数据集和对预测方法的黑箱访问，通过三个步骤实现：计算合适的残差、使用预因子ρ对它们进行对称化和缩放，以及使用它们定义并解决一个重新中心化的修改预测问题。这种方法称为野性重拟合，并且在理论分析上提供了如何形成残差、野性子问题所需的噪声尺度重新缩放量，以及黑箱过程的局部稳定性属性的指导。
 ### Conclusion
 本文提出的方法提供了提高预测准确性的新方法，并通过理论分析为设计此类过程提供了指导。该方法被应用于三个具体问题，展示了其广泛的应用性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 610. `cs.LG` - 在机器学习中平衡隐私、稳健性和效率 [PDF](https://arxiv.org/pdf/2312.14712), [HTML](https://arxiv.org/abs/2312.14712)
 ### Authors
 Youssef Allouah,Rachid Guerraoui,John Stephan
@@ -7318,9 +5491,6 @@ Youssef Allouah,Rachid Guerraoui,John Stephan
 本文倡导系统化的研究议程，旨在对健壮性-隐私性-效率的三难困境进行形式化，探索如何通过原则性的威胁模型放松来解锁更好的权衡，并设计能够暴露而不是遮掩妥协的基准测试。文章还从追求理想的普遍保证转向关注基于上下文的系统设计，从而使机器学习社区能够构建真正适合实际部署的模型。
 ### Conclusion
 通过调整关注点，机器学习社区可以建立真正适合现实部署的模型。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 611. `cs.LG` - 公平准确：面向在线讨论的公平意识多组目标检测 [PDF](https://arxiv.org/pdf/2407.11933), [HTML](https://arxiv.org/abs/2407.11933)
 ### Authors
 Soumyajit Gupta,Maria De-Arteaga,Matthew Lease
@@ -7330,9 +5500,6 @@ Soumyajit Gupta,Maria De-Arteaga,Matthew Lease
 本文提出了一种公平意识多目标群体检测方法，可以减少对不同群体的偏见，并且具有强预测性能，超过了现有的公平意识基准方法。此外，为了推动未来对公平意识目标群体检测的研究，并支持竞争性基准测试，本文还开放了相关代码。
 ### Conclusion
 本文展示了所提出的方法不仅减少了不同群体的偏见，而且实现了具有竞争力的预测性能，超过当前的公平性基准方法。本文的工作为未来的研究和公平意识目标群体检测提供了支持。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 612. `cs.LG` - GREAT 架构在类似于TSP的边基图问题中的应用 [PDF](https://arxiv.org/pdf/2408.16717), [HTML](https://arxiv.org/abs/2408.16717)
 ### Authors
 Attila Lischka,Filip Rydin,Jiaming Wu,Morteza Haghir Chehreghani,Balázs Kulcsár
@@ -7342,9 +5509,6 @@ Attila Lischka,Filip Rydin,Jiaming Wu,Morteza Haghir Chehreghani,Balázs Kulcsá
 本文提出了一种新型的GNN模型——Graph Edge Attention Network（GREAT），用以克服基于欧几里得坐标模型在处理非欧几里得、非对称问题实例上的不足。通过GREAT作为编码器，开发了一个强化学习框架，并应用于多种车辆路由问题任务中，尤其是非欧几里得版本的问题，这些问题是现实世界中常见的。
 ### Conclusion
 所提出的GREAT框架在学习算法求解器中取得了具有竞争力的结果，特别是在非欧几里得版本的旅行商问题、有载荷限制的车辆路径问题及导向问题上。这是首次使用学习方法解决非欧几里得问题，表明了该方法的有效性和前景。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 613. `cs.LG` - 全身条件驱动的主观视频预测 [PDF](https://arxiv.org/pdf/2506.21552), [HTML](https://arxiv.org/abs/2506.21552)
 ### Authors
 Yutong Bai,Danny Tran,Amir Bar,Yann LeCun,Trevor Darrell,Jitendra Malik
@@ -7354,9 +5518,6 @@ Yutong Bai,Danny Tran,Amir Bar,Yann LeCun,Trevor Darrell,Jitendra Malik
 本文的创新在于，它首次尝试从人类视角下利用视频预测来建模复杂的真实世界环境和体现型代理的行为。特别地，通过条件扩散变换器（conditional diffusion transformer）进行自回归训练，基于Nymeria数据集进行建模。文章设计了一种分层评估协议，逐步增加难度的任务，能够全面分析模型的预测能力和控制能力。同时，这种方法提供了对复杂环境建模的新视角，可以更好地理解现实世界中任性的、交互性的人类行为。
 ### Conclusion
 本文代表了首次尝试利用主观视频预测解决复杂真实世界环境和体现型行为建模的问题。通过自回归条件扩散变换器训练模型，并采用Nymeria数据集和分层评估协议，展示了解决这些挑战的初步方法。这种方法不仅有助于理解现实世界的交互性，还可以推动在虚拟现实、增强现实和机器人技术等领域的发展。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 614. `cs.LG` - HyperINF: Unleashing the HyperPower of the Schulz's Method for Data Influence Estimation [PDF](https://arxiv.org/pdf/2410.05090), [HTML](https://arxiv.org/abs/2410.05090)
 ### Authors
 Xinyu Zhou,Simin Fan,Martin Jaggi
@@ -7366,9 +5527,6 @@ Xinyu Zhou,Simin Fan,Martin Jaggi
 本文提出了一种名为HyperINF的影响函数近似方法，该方法利用了超幂方法，特别是舒尔兹迭代算法。为了处理矩阵乘法的计算密集度，引入了广义鱼信息（GFIM）作为海森矩阵的低秩逼近，从而减少了LoRA调整模型的存储和计算开销，使其与秩无关的成本恒定。该方法在矩阵逆模拟中有优越的准确性和稳定性，并在大规模实际数据属性任务中也表现出色，例如检测误标注数据和用于LLM和VLM微调的数据选择。而其他基准方法在这类任务中表现不佳，尤其是在LoRA调整模型中，HyperINF在实现出色下游性能的同时，内存和计算开销最小化。
 ### Conclusion
 HyperINF在LoRA调整模型上实现了显著的下游性能提升，同时最小化了内存和计算开销，而其他基准方法在这些任务中则表现不佳。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 615. `cs.LG` - 快速陀螺仪校准：一种深度学习方法 [PDF](https://arxiv.org/pdf/2409.00488), [HTML](https://arxiv.org/abs/2409.00488)
 ### Authors
 Yair Stolero,Itzik Klein
@@ -7378,9 +5536,6 @@ Yair Stolero,Itzik Klein
 提出了一种端到端的卷积神经网络用于陀螺仪校准的应用。探索使用多个实际和虚拟陀螺仪以提高单个陀螺仪校准性能的可能性。创建了一个虚拟数据集，包含模拟的陀螺仪读取。通过这种方法将低成本陀螺仪校准时间减少了89%。数据集公开，以保证研究的可重复性并增加研究兴趣。
 ### Conclusion
 通过深度学习方法减少低成本陀螺仪校准时间的关键成就是使用三个低成本陀螺仪将校准时间减少了89%。数据集公开以促进研究。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 616. `cs.LG` - Chain-of-Sketch: 使全局视觉推理成为可能 [PDF](https://arxiv.org/pdf/2410.08165), [HTML](https://arxiv.org/abs/2410.08165)
 ### Authors
 Aryo Lotfi,Enrico Fini,Samy Bengio,Moin Nabi,Emmanuel Abbe
@@ -7390,9 +5545,6 @@ Aryo Lotfi,Enrico Fini,Samy Bengio,Moin Nabi,Emmanuel Abbe
 引入了全球化视觉数据集、‘全球化度’测度以及‘链子划’（CoS）方法。‘链子划’分解了原始任务为中间视觉步骤，以协助学习复杂的任务。同时，提出了具有马尔可夫结构的归纳性CoS框架，改善了泛化性能。
 ### Conclusion
 研究展示了，尽管大型视觉模型和最先进的多模态语言模型在这类任务上仍表现不佳，但通过提出’链子划‘方法和采用马尔可夫结构，能够有效缓解这些问题，实现更好的离群分布泛化效果。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 617. `cs.LG` - 在线鞍点问题的近端点方法 [PDF](https://arxiv.org/pdf/2407.04591), [HTML](https://arxiv.org/abs/2407.04591)
 ### Authors
 Qing-xin Meng,Jian-wei Liu
@@ -7402,9 +5554,6 @@ Qing-xin Meng,Jian-wei Liu
 论文提出了三种近端点方法变体以解决在线鞍点问题：在线近端点方法（OPPM）、乐观OPPM（OptOPPM）和带有多个预测器的OptOPPM。每种算法保证了对偶差距和动态纳什均衡后悔的上界，并且在特定环境下，度量标准几乎保持恒定。
 ### Conclusion
 实验结果验证了这些算法的有效性。论文还讨论了使用动态纳什均衡后悔作为性能评估标准的潜在可靠性问题。相关技术附录和代码可以在指定网址找到。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 618. `cs.LG` - 通过评分校准减少记录匹配中的偏差 [PDF](https://arxiv.org/pdf/2411.01685), [HTML](https://arxiv.org/abs/2411.01685)
 ### Authors
 Mohammad Hossein Moslemi,Mostafa Milani
@@ -7414,9 +5563,6 @@ Mohammad Hossein Moslemi,Mostafa Milani
 提出了一种独立于阈值的框架来衡量和减少评分偏差，定义为不同群体间匹配评分分布的差异。该框架通过calib和ccalib两种算法校准评分，解决了以往方法未能检测到持续存在于不同阈值下的评分偏差问题，两种算法具有无模型数据访问需求和理论保证等优点，有效减少了偏见同时保持了模型准确性。
 ### Conclusion
 实验结果证实了calib和ccalib在减少评分偏差方面取得了显著成效，同时最小限度地影响了模型的准确性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 619. `cs.LG` - 解码器仅存器的下一个标记预测能力：通用上界和一层多头解码器的下界 [PDF](https://arxiv.org/pdf/2405.13718), [HTML](https://arxiv.org/abs/2405.13718)
 ### Authors
 Liam Madden,Curtis Fox,Christos Thrampoulidis
@@ -7426,9 +5572,6 @@ Liam Madden,Curtis Fox,Christos Thrampoulidis
 提出了一般的上界和经验设定下的下界，并特别针对一层多头解码器自注意力机制证明了一个重要的单射性质。此外，通过数值证据表明，为了训练模型达到熵下界，所必需的最小参数数量是足够的，从而区分了完成任务所需的最小模型复杂性。
 ### Conclusion
 通过数学证明，确定了解码器仅存器自注意力机制的插值能力的上下界，该研究不仅增强了对解码器仅存器模型的理解，还为设计更高效、更有效的自然语言处理模型提供了理论基础。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 620. `cs.LG` - 通过ReLU多层感知器的最大正则性实现逼近与学习的桥梁 [PDF](https://arxiv.org/pdf/2409.12335), [HTML](https://arxiv.org/abs/2409.12335)
 ### Authors
 Ruiyang Hong,Anastasis Kratsios
@@ -7438,9 +5581,6 @@ Ruiyang Hong,Anastasis Kratsios
 论文通过提出一种新的构造方法，使用Kuhn三角化完美拼接线性片段，同时提出了新的证明技术，证明这种构造不仅保留了Hölder函数的正则性，还保留了任何一致连续函数的正则性。此外，这种MLP类在给出随机归一化的亚高斯训练样例时达到了接近最优的样本复杂度。最终结果表明，神经网络能够解决麦克肖恩延拓问题在合适的有限集上。
 ### Conclusion
 论文提出了一个高度结构化的ReLU多层感知器类，实现了一种既足够广泛能够实现通用性，又能有效泛化的神经网络。该类具有接近最优的样本复杂度，实现了逼近理论和学习理论之间的桥梁，证明了神经网络在适合的有限集上能够解决麦克肖恩延拓问题。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 621. `cs.LG` - GASP: 高效的黑盒生成对抗后缀以劫持LLM [PDF](https://arxiv.org/pdf/2411.14133), [HTML](https://arxiv.org/abs/2411.14133)
 ### Authors
 Advik Raj Basani,Xiao Zhang
@@ -7450,9 +5590,6 @@ Advik Raj Basani,Xiao Zhang
 本文引入了 Generative Adversarial Suffix Prompter (GASP)，这是一种新颖的自动化框架，能够在完全封闭的黑盒环境中高效生成人类可读的出口脱狱后缀。GASP 利用潜在的贝叶斯优化来构造对抗后缀，通过有效探索连续的潜在嵌入空间指导论述的优化，通过一个目标迭代优化流程来平衡提示的一致性，逐步提高攻击效果。
 ### Conclusion
 通过一系列全面的实验，研究表明GASP能够生成自然的对抗后缀，显著提高了出口脱狱的成功率，并比基线减少训练时间，加快推理速度，因此是一个高效且可扩展的解决方案，用于红队演练LLM。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 622. `cs.LG` - 使用软注意模拟硬注意 [PDF](https://arxiv.org/pdf/2412.09925), [HTML](https://arxiv.org/abs/2412.09925)
 ### Authors
 Andy Yang,Lena Strobl,David Chiang,Dana Angluin
@@ -7462,9 +5599,6 @@ Andy Yang,Lena Strobl,David Chiang,Dana Angluin
 文章展示了软注意变压器如何通过使用无界位置嵌入或温度缩放来模拟由硬注意变压器识别的语言，以及如何使用温度缩放来模拟硬注意的行为，使得软注意软可以更加接近硬注意的效果。
 ### Conclusion
 本文的研究结果表明，通过适当的参数调整，软注意可以有效地模拟硬注意的行为，在某些情况下甚至可以实现完全等效的效果。这对于理解和优化注意机制的设计具有重要意义。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 623. `cs.LG` - Gaussian 测度下学习利普希茨算子的样本复杂性 [PDF](https://arxiv.org/pdf/2410.23440), [HTML](https://arxiv.org/abs/2410.23440)
 ### Authors
 Ben Adcock,Michael Griebel,Gregor Maier
@@ -7474,9 +5608,6 @@ Ben Adcock,Michael Griebel,Gregor Maier
 本文在高斯测度下研究了学习利普希茨算子的样本复杂性，证明了利普希茨算子的高斯Sobolev正则性，建立了Hermite多项式逼近误差的上下界，研究了从任意m个线性样本重构利普希茨算子的一般策略，并确定了样本复杂性下的理论限界，证明了在快速特征值衰减条件下能够实现接近任意代数速率的收敛性。
 ### Conclusion
 本文通过紧密刻画样本复杂性来确认学习利普希茨算子的固有困难性，表明仅基于m个线性样本，不存在能实现代数收敛速率的逼近方法。当协方差算子的特征值快速衰减时，可以实现任意接近代数收敛速率的收敛性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 624. `cs.LG` - 以分数为基础的生成模型的适度泛化 [PDF](https://arxiv.org/pdf/2412.07229), [HTML](https://arxiv.org/abs/2412.07229)
 ### Authors
 Wan Jiang,He Wang,Xin Zhang,Dan Guo,Zhaoxin Fan,Yunfeng Diao,Richang Hong
@@ -7486,9 +5617,6 @@ Wan Jiang,He Wang,Xin Zhang,Dan Guo,Zhaoxin Fan,Yunfeng Diao,Richang Hong
 本文首次提出了适度得分生成模型（MSGM），并提出了一种新颖的得分调整策略，该策略能够在连续时间的随机微分方程过程中引导得分函数远离不希望的数据。实验结果表明，MSGM显著减少了产生不希望内容的几率，同时保持了高质量的正常图像生成。这种设计不仅针对SGMs，MSGM还提供了一种通用且灵活的去学习框架，兼容多种扩散架构（SGM和DDPM）和训练策略（重新训练和微调），并且能实现预训练模型向下游任务（如图像修复和重建）的零样本迁移。
 ### Conclusion
 本文通过提出MSGM和新的得分调整策略，有效解决了SGMs中的适度泛化问题，能够在保持高视觉质量的同时减少不理想内容的生成，展示了其在各种扩散架构和训练策略中的广泛适用性，并致力于解决跨任务的预训练模型迁移问题。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 625. `cs.LG` - 拉格朗日索引策略用于平均回报的不安宁贝叶斯对策 [PDF](https://arxiv.org/pdf/2412.12641), [HTML](https://arxiv.org/abs/2412.12641)
 ### Authors
 Konstantin Avrachenkov,Vivek S. Borkar,Pratik Shah
@@ -7498,9 +5626,6 @@ Konstantin Avrachenkov,Vivek S. Borkar,Pratik Shah
 本文的主要创新点是提出了一种新的拉格朗日索引策略，并通过增强学习算法获得了在线学习方案，此方案在模型自由环境中所需的内存显著降低。此外，还对重启模型的拉格朗日指数进行了解析计算，并提供了均质臂渐近最优性的新证明方法。
 ### Conclusion
 本文提出了新的拉格朗日索引策略及其增强学习方法，特别在均质臂数量趋向无穷时证明了其渐近最优性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 626. `cs.LG` - 在数据中学习对称性的深度网络能力：一种神经内核理论 [PDF](https://arxiv.org/pdf/2412.11521), [HTML](https://arxiv.org/abs/2412.11521)
 ### Authors
 Andrea Perin,Stephane Deny
@@ -7510,9 +5635,6 @@ Andrea Perin,Stephane Deny
 提出了神经内核理论来解释对称性学习的问题。在无限宽度极限下，通过傅里叶域中的神经核Grassman矩阵分析，推导出对称性学习的泛化误差与类间信号和类轨道密度（噪声）之间的关系。该理论还扩展到了任何有限群，包括非交换群，并适用于仿射架构（如CNNs）。该框架揭示了为什么传统的深度网络通常无法在没有在架构中预先嵌入的情况下学习未明确嵌入的对称性，并预测了部分观察到的旋转MNIST数据集上多种网络的泛化失败。这表明现有框架可用于指导设计能够从数据中学习对称性的架构和训练过程的发展。
 ### Conclusion
 本文通过提出神经内核理论来探讨深度网络从数据中学习对称性的能力。该框架揭示了在架构定义的核空间中，局部数据结构优于非局部对称性诱导结构的情况下的泛化成功。该理论在有限宽度网络（如MLP、CNN和ViT）训练于部分观察到的旋转MNIST数据集上得到了验证。结论指出，传统的深度网络缺乏学习未预先嵌入在架构中的对称性的机制，而该框架可供指导新型架构和训练程序的发展，以从数据中学习对称性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 627. `cs.LG` - 通过凸优化实现逆强化学习 [PDF](https://arxiv.org/pdf/2501.15957), [HTML](https://arxiv.org/abs/2501.15957)
 ### Authors
 Hao Zhu,Yuan Zhang,Joschka Boedecker
@@ -7522,9 +5644,6 @@ Hao Zhu,Yuan Zhang,Joschka Boedecker
 1. 通过引入CVXPY来直接指定和解决凸优化问题的领域特定语言。2. 将CIRL问题扩展到专家策略以轨迹形式给出的场景，并通过增加约束来处理可能与最优性不一致的情况。3. 提供理论分析和超参数自动化选择的实用实现方法，使用户能够轻松应用CIRL，无需了解凸优化背景知识。
 ### Conclusion
 该论文通过改进CIRL问题的凸形式化并通过CVXPY简化了其应用过程，并提供了理论支持和实用实现出自动超参数选择的方法，使得逆强化学习的研究和应用更加简便和高效。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 628. `cs.LG` - 通过掩码自编码器学习实验室值的表示 [PDF](https://arxiv.org/pdf/2501.02648), [HTML](https://arxiv.org/abs/2501.02648)
 ### Authors
 David Restrepo,Chenwei Wu,Yueran Jia,Jaden K. Sun,Jack Gallifant,Catherine G. Bielick,Yugang Jia,Leo A. Celi
@@ -7534,9 +5653,6 @@ David Restrepo,Chenwei Wu,Yueran Jia,Jaden K. Sun,Jack Gallifant,Catherine G. Bi
 本文提出Lab-MAE，这是一种新颖的基于.transformer的掩码自编码器框架，利用自监督学习来填补连续的序列实验室值。Lab-MAE引入了一种结构化的编码方案，联合建模实验室测试值及其对应的时间戳，能够明确捕捉时间依赖性。实验评估表明，Lab-MAE在多个指标（包括均方根误差 RMSE、决定系数 R2 和 Wasserstein 距离 WD）上显著优于现有最先进的基线，如XGBoost、softimpute、GAIN、EM 和 MICE。Lab-MAE 在不同患者群体中的表现具有公平性，推进了临床预测中的公平性。我们进一步调查了后续实验室值作为潜在捷径特征的作用，揭示了在没有此类数据的情况下Lab-MAE的健壮性。研究发现，我们的基于transformer的架构适应EHR数据的特征，为更准确和公平的临床填补提供了基础模型。此外，我们测量并比较了Lab-MAE与XGBoost模型的碳足迹，突显了其环境需求。
 ### Conclusion
 本文提出的Lab-MAE框架在填补EHR中的连续序列实验室值方面表现出优越的效果，并且在不同群体中表现出公平性。这一框架不仅提供了一种更准确和公平的临床填补方法，还通过自监督学习提高了填补的效率。此外，通过测量碳足迹，突显了这一方法的环境效益。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 629. `cs.LG` - 一模型普适各实体概率预测且在实体分布中将它们统一 [PDF](https://arxiv.org/pdf/2501.15499), [HTML](https://arxiv.org/abs/2501.15499)
 ### Authors
 Kutay Bölat,Simon Tindemans
@@ -7546,9 +5662,6 @@ Kutay Bölat,Simon Tindemans
 该研究使用了GUIDE-VAE（条件变分自编码器），它是一种能够利用单一模型实现实体特定概率预测的先进技术。GUIDE-VAE提供的输出具有灵活性，可以从可解释的点估计到完整的概率分布。这些分布能够捕捉不确定性及时间依赖关系，提供比传统方法更丰富的洞察。使用家庭用电数据作为案例研究，结果表明GUIDE-VAE在关键指标上优于传统的分位数回归技术，并且具有可扩展性和灵活性。这些特性使GUIDE-VAE成为一种强大的、可扩展的概率预测工具，具有广泛的应用潜力，远超家庭用电消费数据之外。
 ### Conclusion
 GUIDE-VAE作为先进的单一模型方法，能够在满足一系列复杂系统数据需求的同时，提供高效率和灵活性，这项工作为开发更优的分布式能源逆向预测方法奠定了坚实基础。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 630. `cs.LG` - 自监督对比学习中实时发现全局假负样本的方法 [PDF](https://arxiv.org/pdf/2502.20612), [HTML](https://arxiv.org/abs/2502.20612)
 ### Authors
 Vicente Balmaseda,Bokun Wang,Ching-Long Lin,Tianbao Yang
@@ -7558,9 +5671,6 @@ Vicente Balmaseda,Bokun Wang,Ching-Long Lin,Tianbao Yang
 通过自动学习为每项锚数据设置阈值，实时发现全局假负样本，这种方法在整体上检测假负样本，而之前的局部方法则无法做到，同时保持每次迭代的计算成本与数据集大小无关。并且我们的方法通过实验证明了其有效性
 ### Conclusion
 实验结果表明所提出的GloFND方法在自监督对比学习中有效发现全局假负样本。并且，我们的实现已经公开可用。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 631. `cs.LG` - Mixture of Experts-augmented Deep Unfolding for Activity Detection in IRS-aided Systems [PDF](https://arxiv.org/pdf/2502.20183), [HTML](https://arxiv.org/abs/2502.20183)
 ### Authors
 Zeyi Ren,Qingfeng Lin,Jingreng Lei,Yang Li,Yik-Chung Wu
@@ -7570,9 +5680,6 @@ Zeyi Ren,Qingfeng Lin,Jingreng Lei,Yang Li,Yik-Chung Wu
 所提出的方法通过结合模型驱动的深度解折与混合专家框架（MoE），自动选择适配的专家设计应用于展开的投影梯度方法。这种方法能够在混合信道衰落条件下，避免对设备与基站间信道类型先验知识的需求，从而实现了更优的检测性能。
 ### Conclusion
 模拟结果表明，所提出的MoE增强的深度解折方法在混合信道衰落条件下，相较于传统协方差基方法和黑盒神经网络设计，能够提供更好的检测性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 632. `cs.LG` - 稀疏变分高斯过程的新边界 [PDF](https://arxiv.org/pdf/2502.08730), [HTML](https://arxiv.org/abs/2502.08730)
 ### Authors
 Michalis K. Titsias
@@ -7582,9 +5689,6 @@ Michalis K. Titsias
 通过引入更多一般性的变分分布 $q({bf f} | {bf u})$，在GPs回归中可以通过解析优化这些额外参数从而表达一个紧的可计算边界，这在以前的边界基础上更优。新边界也支持随机优化方法。另外，这种方法应用于非高斯似然问题上具有更好的性能。所有这些改进都不需要大量的代码修改，只需对现有的稀疏GPs代码做小的修改即可实现。通过这些改进，该方法在学习超参数上能更好地减少偏差，从而改善预测性能。
 ### Conclusion
 该方法通过引入更通用的变分分布及对优化边界的改进，减少了学习超参数的偏差，并提高了预测性能。试验结果证实了该方法的有效性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 633. `cs.LG` - 遗传算法在繁殖过程中引入创新的染色体模式 [PDF](https://arxiv.org/pdf/2501.18184), [HTML](https://arxiv.org/abs/2501.18184)
 ### Authors
 Qingchuan Lyu
@@ -7594,9 +5698,6 @@ Qingchuan Lyu
 GAB 通过引入新的染色体模式来增强遗传算法（GA）的探索能力，显著减缓了过早收敛现象，并提高了搜索多样性。相较于标准遗传算法，GAB 在复杂工作调度问题上的适应度提高了 8 倍，在经典翻转-翻转问题中，GAB 能够在较少的代数内找到最优或近似最优解，尤其是在输入规模较大的情况下表现更佳.
 ### Conclusion
 GAB 是一种高效且计算上可行的替代方案，用于解决大规模组合优化问题。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 634. `cs.LG` - 波let扩散神经操作者 [PDF](https://arxiv.org/pdf/2412.04833), [HTML](https://arxiv.org/abs/2412.04833)
 ### Authors
 Peiyan Hu,Rui Wang,Xiang Zheng,Tao Zhang,Haodong Feng,Ruiqi Feng,Long Wei,Yue Wang,Zhi-Ming Ma,Tailin Wu
@@ -7606,9 +5707,6 @@ Peiyan Hu,Rui Wang,Xiang Zheng,Tao Zhang,Haodong Feng,Ruiqi Feng,Long Wei,Yue Wa
 波let扩散神经操作者（WDNO）提出了一种新颖的PDE模拟和控制框架，增强了处理这些复杂任务的能力。WDNO引入了两个关键创新点：首先，WDNO在小波域中进行基于扩散的生成建模，以有效处理突变变化和长期依赖关系；其次，为了应对不同分辨率下泛化能力较差的问题，提出了多分辨率训练方法，这是物理系统建模中的基本任务之一。
 ### Conclusion
 我们在五个物理系统上验证了WDNO，包括1D对流方程，以及涉及突变变化的三个挑战性物理系统（1D伯努利方程，1D可压缩牛顿-斯托克斯方程和2D不可压缩流体），还包括一个真实世界的ERA5数据集。WDNO在模拟和控制任务上都表现出超过现有最佳方法的优越性能，且在长时间和细节预测准确性上有所提升。在旨在减少烟雾泄漏的2D高维间接控制任务中，WDNO将泄漏减少了78%。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 635. `cs.LG` - 容量约束下的延迟在线学习：调度框架与悔恨权衡 [PDF](https://arxiv.org/pdf/2503.19856), [HTML](https://arxiv.org/abs/2503.19856)
 ### Authors
 Alexander Ryabchenko,Idan Attias,Daniel M. Roy
@@ -7618,9 +5716,6 @@ Alexander Ryabchenko,Idan Attias,Daniel M. Roy
 研究在容量有限的情况下，建立了与无限容量假设的经典方法相匹配的性能边界，提出了基于帕累托分布代理延迟和批量技术的新型预处理和非预处理调度策略，从而统一了延迟多臂老虎机、标签高效学习和在线调度框架。
 ### Conclusion
 研究指出，即使在有限的容量下，通过合适的策略设计，依然可以实现与无限容量假设下的相同最优性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 636. `cs.LG` - 使用变分防御封堵后门 [PDF](https://arxiv.org/pdf/2503.08829), [HTML](https://arxiv.org/abs/2503.08829)
 ### Authors
 Ivan Sabolić,Matej Grcić,Siniša Šegvić
@@ -7630,9 +5725,6 @@ Ivan Sabolić,Matej Grcić,Siniša Šegvić
 提出了一种名为VIBE的模型泛化的后门攻击防御框架。核心创新在于将恶意输入和被污染的标签视为观察到的随机变量，实际的清洁标签视为潜在变量。VIBE通过变分推断恢复对应的潜在清洁标签后验概率，结合期望最大化（EM）算法进行迭代优化。这种方法可以无缝集成最近的自监督表示学习进展，以增强其抵御后门攻击的能力。实验结果表明，该方法在标准数据集、大规模不同类别的设置以及被多起攻击污染的数据集上表现出了优越性，能够有效抵御当代后门攻击方法。
 ### Conclusion
 实验结果表明，VIBE在所有测试情景中都优于之前的防御方法。它可以无缝地与最近的自监督表示学习发展相结合，以提高其抵御后门攻击的能力。该项工作提出了一个新的框架，为抵御后门攻击提供了一种有效的方法。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 637. `cs.LG` - 在线鲁棒决策的后悔界 [PDF](https://arxiv.org/pdf/2504.06820), [HTML](https://arxiv.org/abs/2504.06820)
 ### Authors
 Alexander Appel,Vanessa Kosoy
@@ -7642,9 +5734,6 @@ Alexander Appel,Vanessa Kosoy
 论文提出了一个理论来界定这种鲁棒在线决策框架下的后悔界。尽管下界和上界不够精确，但他们足以完全阐述幂律可学习性。此外，论文在两种特殊情况下证实了这一理论：鲁棒线性多臂老虎机和基于表格的鲁棒在线强化学习。在两种情况下，都推导出了优于现有最先进的后悔界（除了不涉及计算效率部分）的结果。
 ### Conclusion
 研究显示了这种框架能够提供更为弱化的可实现性假设，适用于非透明对抗性环境，并且在两种特殊情况下证明了理论的有效性。尽管上界和下界不是最紧的，但仍能充分刻画幂律可学习性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 638. `cs.LG` - 利用嵌入的普遍几何结构 [PDF](https://arxiv.org/pdf/2505.12540), [HTML](https://arxiv.org/abs/2505.12540)
 ### Authors
 Rishi Jha,Collin Zhang,Vitaly Shmatikov,John X. Morris
@@ -7654,9 +5743,6 @@ Rishi Jha,Collin Zhang,Vitaly Shmatikov,John X. Morris
 该研究提出了一种无监督的方法，可以在没有任何成对数据、编码器或预定义匹配集的情况下，将任何嵌入从一个向量空间转换到另一个向量空间，且转换前后保持原有的几何结构。这种方法基于一个假想的普罗泰戈拉代表假设（Platonic Representation Hypothesis），将嵌入转换为一个通用的潜在表示，实现了不同模型之间的高余弦相似度。
 ### Conclusion
 这种能力对未知嵌入向量在不同空间间的转换具有重要影响，能够有效保护向量数据库的安全。即使攻击者只能访问嵌入向量，也能从这些向量中提取足够的敏感信息，用于分类和属性推断，这对数据库安全带来了严重威胁。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 639. `cs.LG` - 通过李群转换实现广义张量基参数高效微调 [PDF](https://arxiv.org/pdf/2504.00851), [HTML](https://arxiv.org/abs/2504.00851)
 ### Authors
 Chongjie Si,Zhiyi Shi,Xuehui Wang,Yichen Xiao,Xiaokang Yang,Wei Shen
@@ -7666,9 +5752,6 @@ Chongjie Si,Zhiyi Shi,Xuehui Wang,Yichen Xiao,Xiaokang Yang,Wei Shen
 我们提出了一种广义张量基PEFT方法，通过李群转换实现参数高效微调。将参数视为李群元素，利用李代数进行模型更新，通过指数映射将更新映射回李群，确保更新的平滑性和结构一致性。这种方法不仅适用于高维参数空间，还能保持结构关系，使得在计算机视觉和自然语言处理中取得了显著的效果改进。
 ### Conclusion
 通过广泛的实验验证，我们的方法在计算机视觉和自然语言处理任务中表现出色且具有泛化能力，相比现有方法展示了明显的改进。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 640. `cs.LG` - 学习6G V2X中的联合通信与控制中的信息价值 [PDF](https://arxiv.org/pdf/2505.06978), [HTML](https://arxiv.org/abs/2505.06978)
 ### Authors
 Lei Lei,Kan Zheng,Xuemin(Sherman)Shen
@@ -7678,9 +5761,6 @@ Lei Lei,Kan Zheng,Xuemin(Sherman)Shen
 本文引入了Sequential Stochastic Decision Process（SSDP）来定义和评估VoI，同时提出了基于MDP、强化学习（RL）和最优控制的VoI建模框架，明确VoI的不同类别及其估计方法。并通过构建VoI相关的奖励函数，将SSDP模型应用于优化通信决策时间、内容和方式等问题。这种方法可用于泛在网络控制系统中同时优化随机性、顺序控制和通信决策。
 ### Conclusion
 通过构建SSDP模型，本文为VoI建模提供了一种系统的方法，并通过VoI奖励函数优化了通信问题的决策过程，包括确定何时、什么内容和如何通信。这种框架展示了SSDP模型在各类网络控制系统中的广泛适用性，特别是在交通系统中的应用潜力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 641. `cs.LG` - 能量匹配：生成建模中流动匹配和能量模型的统一框架 [PDF](https://arxiv.org/pdf/2504.10612), [HTML](https://arxiv.org/abs/2504.10612)
 ### Authors
 Michal Balcerak,Tamaz Amiranashvili,Antonio Terpin,Suprosanna Shit,Lea Bogensperger,Sebastian Kaltenbach,Petros Koumoutsakos,Bjoern Menze
@@ -7690,9 +5770,6 @@ Michal Balcerak,Tamaz Amiranashvili,Antonio Terpin,Suprosanna Shit,Lea Bogensper
 提出了一种新的能源匹配框架（Energy Matching），该框架允许流动模型在远离数据流形时沿无旋最优传输路径从噪声向数据移动，并在接近数据流形时，通过熵能量项引导系统进入玻尔兹曼平衡分布，从而明确捕捉数据的潜在似然结构。这种方法使用单一的时间不变标量场参数化解这一动态过程，同时仍能在远离数据流形的情况下实现流动模型的无模拟训练。通过引入互动能量，该方法还支持了多样性的模态探索。
 ### Conclusion
 该方法在CIFAR-10和ImageNet生成任务上显著优于现有的EBMs，同时保留了流动模型的仿真无训练在外部区域的优势。此外，利用该方法的灵活性可以在分子生成中进行多样化的模式探索。这种方法表示学习了一个标量势能，没有时间条件化、辅助生成器或其他额外网络，为能量模型的发展开辟了新的途径。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 642. `cs.LG` - 始终跳过注意力机制 [PDF](https://arxiv.org/pdf/2505.01996), [HTML](https://arxiv.org/abs/2505.01996)
 ### Authors
 Yiping Ji,Hemanth Saratchandran,Peyman Moghadam,Simon Lucey
@@ -7702,9 +5779,6 @@ Yiping Ji,Hemanth Saratchandran,Peyman Moghadam,Simon Lucey
 本文理论地解释了自注意力机制本质上是病态条件的，并因此唯一依赖于跳过连接来实现正则化。与此同时，提出了Token Graying——一种简单的有效方法（补充跳过连接），进一步改善输入令牌的状态。验证了这种方法在监督学习和半监督学习中的适用性。
 ### Conclusion
 本文强调了自注意力机制需要跳过连接才能有效训练的重要性，并通过理论解释了这种依赖关系。同时提出了一种新的方法来改善输入令牌的状态，并通过实验证明了该方法的有效性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 643. `cs.LG` - 不平衡图之间最优传输计划的无监督学习 [PDF](https://arxiv.org/pdf/2506.12025), [HTML](https://arxiv.org/abs/2506.12025)
 ### Authors
 Sonia Mazelet,Rémi Flamary,Bertrand Thirion
@@ -7714,9 +5788,6 @@ Sonia Mazelet,Rémi Flamary,Bertrand Thirion
 提出了不平衡学习最优传输（ULOT）方法，一种深度学习方法，用于预测图之间的最优传输计划。该方法通过最小化融合不平衡Gromov-Wasserstein（FUGW）损失进行训练，采用包含交叉注意力的神经架构，并且该架构在FUGW权重超参数上进行了条件化。ULOT能够使用合成随机块模型图和来自fMRI的真实皮层表面数据进行评估。与经典求解器相比，ULOT预测传输计划的速度快两个数量级且具有竞争力。此外，预测的计划可以作为经典求解器的暖启动以加速其收敛。最后，预测的传输计划完全相对于图输入和FUGW超参数可微，为优化ULOT计划的功能提供了可能。
 ### Conclusion
 ULOT方法通过快速而准确地预测图之间的传输计划，显著提高了图最优传输的效率和可扩展性，为优化图上的函数提供了一种有效的方式。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 644. `cs.LG` - 基于潜在扩散模型的去噪接收器在6G语义通信中的应用：从随机微分理论到应用 [PDF](https://arxiv.org/pdf/2506.05710), [HTML](https://arxiv.org/abs/2506.05710)
 ### Authors
 Xiucheng Wang,Honggang Jia,Nan Cheng,Dusit Niyato
@@ -7726,9 +5797,6 @@ Xiucheng Wang,Honggang Jia,Nan Cheng,Dusit Niyato
 提出了一种基于生成人工智能（GAI）的新型语义通信框架，该框架结合了变分自编码器和潜在扩散模型，用于语义特征提取和去噪，实现了在低信噪比和数据分布变化条件下的卓越性能。引入了数学倍率方法来解决接收到的语义特征与训练分布的不匹配问题。理论分析推导出了信噪比与最优去噪时间步长之间的解析映射。所提出的框架支持零样本泛化，适用于未来6G语义通信系统的可扩展且鲁棒的解决方案。
 ### Conclusion
 所提出的基于潜在扩散模型的去噪接收器在6G语义通信中实现了优秀的语义感知质量和像素级准确性，在广泛的信噪比和数据分布条件下达到了最先进的性能，并且无需进一步的微调或培训。该框架为未来6G通信系统提供了可扩展且鲁棒的解决方案，支持零样本泛化。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 645. `cs.LG` - 基于理性的内在上下文学习策略自然涌现 [PDF](https://arxiv.org/pdf/2506.17859), [HTML](https://arxiv.org/abs/2506.17859)
 ### Authors
 Daniel Wurgaft,Ekdeep Singh Lubana,Core Francisco Park,Hidenori Tanaka,Gautam Reddy,Noah D. Goodman
@@ -7738,9 +5806,6 @@ Daniel Wurgaft,Ekdeep Singh Lubana,Core Francisco Park,Hidenori Tanaka,Gautam Re
 本文采用理性分析视角下的规范性框架，提出一种分层贝叶斯框架，几乎完全预测了Transformer的下一步预测，不依赖于其权重信息。预训练被视作更新不同策略后验概率的过程，推理时刻的行为是这些策略预测的加权平均。认为候选策略复杂度和损失之间的权衡决定模型如何实施策略偏好，这有助于解释已知的ICL现象并提出新的预测。例如，当任务多样性增加时，从泛化到记忆的过渡时间有超线性趋势。
 ### Conclusion
 本文通过策略复杂度与损失之间的权衡提出了一种解释性和预测性的ICL框架，为理解模型在不同条件下的行为提供了一个新的视角。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 646. `cs.LG` - 这些都不是您想要的所有特征：监督预训练中的一个基本瓶颈 [PDF](https://arxiv.org/pdf/2506.18221), [HTML](https://arxiv.org/abs/2506.18221)
 ### Authors
 Xingyu Alice Yang,Jianyu Zhang,Léon Bottou
@@ -7750,9 +5815,6 @@ Xingyu Alice Yang,Jianyu Zhang,Léon Bottou
 该研究揭示了深度学习模型中的信息饱和瓶颈，并通过评估模型从预训练混合数据到各个组件任务的转移，提出了一个潜在的解决方案——更丰富的特征表示，以更好地在新数据集上泛化，同时还介绍了一种新的方法来应对这一挑战，即初步步骤。研究建议，当有特定任务时，依赖大规模网络可能不如专注于特定任务的训练有效。
 ### Conclusion
 该研究揭示了监督预训练中信息饱和瓶颈的重要性，并强调了依赖大型网络可能不如针对特定任务进行训练有效。研究提出更丰富的特征表示作为一种可能的解决方案，旨在更好地跨新数据集泛化，并还介绍了一种新的方法，这是应对这一挑战的初步尝试。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 647. `cs.LG` - ScaleGNN：通过自适应高阶邻域特征融合迈向可扩展的图神经网络 [PDF](https://arxiv.org/pdf/2504.15920), [HTML](https://arxiv.org/abs/2504.15920)
 ### Authors
 Xiang Li,Jianpeng Qi,Haobing Liu,Yuan Cao,Guoqing Chao,Zhongying Zhao,Junyu Dong,Yanwei Yu
@@ -7762,9 +5824,6 @@ Xiang Li,Jianpeng Qi,Haobing Liu,Yuan Cao,Guoqing Chao,Zhongying Zhao,Junyu Dong
 ScaleGNN 通过自适应地融合多跳节点特征来解决大型图学习中的可扩展性和表达能力问题。首先，构建了每个跳的纯邻居矩阵，仅捕捉每一跳独有的结构信息，避免了传统聚合的冗余。然后，采用了增强的特征融合策略，显著平衡了低阶和高阶信息，保持局部细节和全局联系，而不会引入过高的复杂度。此外，引入了基于局部贡献分数（LCS）的掩码机制，过滤掉不相关的高阶邻居，确保只有最有意义的信息被聚合。并且，可学习的稀疏约束选择性地整合多跳有价值特征，强调最具有信息含量的高阶邻居。在多个真实世界数据集上的实验证明，ScaleGNN 在预测准确性和计算效率上都优于现有的最先进的 GNNs，突显了其在大型图学习中的实用价值。
 ### Conclusion
 实验结果表明，ScaleGNN 在预测准确性和计算效率方面都优于现有的最先进的 GNNs，展示了其在大规模图学习中的实际价值。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 648. `cs.LG` - 使用Noise Estimation through Reinforcement-based Diffusion (NERD)模型揭示神经不确定性表示 [PDF](https://arxiv.org/pdf/2503.14333), [HTML](https://arxiv.org/abs/2503.14333)
 ### Authors
 Hojjat Azimi Asrari,Megan A. K. Peters
@@ -7774,9 +5833,6 @@ Hojjat Azimi Asrari,Megan A. K. Peters
 开发并应用了Noise Estimation through Reinforcement-based Diffusion (NERD)模型，这个模型用来描述大脑在必要时学习并估计自己噪声的过程。该研究展示了NERD模型强大的解释能力，适用于人类行为的解释
 ### Conclusion
 研究表明使用NERD模型能够有效地揭示大脑如何估计和学习它们的噪声，特别是关于不确定性的高级表征，并且该模型能够显著地解释人类在这种任务中的行为。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 649. `cs.LG` - PARALLELPROMPT: 从大规模语言模型查询中提取并行性 [PDF](https://arxiv.org/pdf/2506.18728), [HTML](https://arxiv.org/abs/2506.18728)
 ### Authors
 Steven Kolawole,Keshav Santhanam,Virginia Smith,Pratiksha Thaker
@@ -7786,9 +5842,6 @@ Steven Kolawole,Keshav Santhanam,Virginia Smith,Pratiksha Thaker
 本文引入了PARALLELPROMPT，这是第一个用于测量自然用户查询中查询内部并行性的基准。该基准包括一个包含37,000多个公共LLM对话日志中真实提示的数据集，每个提示都附有捕获任务模板、共享上下文和迭代输入的结构化模式。这些模式是通过LLM辅助提示和基于规则的多语言验证提取的。为了评估分解的效益，还提供了一个执行套件，比较了串行和并行策略，测量了延迟、结构兼容性和语义保真度。结果表明，有针对性的数据集中有75%以上的查询可以成功解析为并行性，对于如翻译、理解以及比较分析等任务，可以实现高达5倍的速度提升，且质量下降较小。为此，本研究发布了基准、标注管道和评估套件，提供了一个标准化的研究平台来研究结构感知的大语言模型服务管道执行.
 ### Conclusion
 通过发布此基准、标注管道和评估套件，首次提供了标准化的研究平台来研究结构感知的大语言模型服务管道执行。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 650. `cs.LG` - Onsager-Machlup 功能与生成模型相遇：基于 Onsager-Machlup 功能高效路径采样 [PDF](https://arxiv.org/pdf/2504.18506), [HTML](https://arxiv.org/abs/2504.18506)
 ### Authors
 Sanjeev Raja,Martin Šípka,Michael Psenka,Tobias Kreiman,Michal Pavelka,Aditi S. Krishnapriyan
@@ -7798,9 +5851,6 @@ Sanjeev Raja,Martin Šípka,Michael Psenka,Tobias Kreiman,Michal Pavelka,Aditi S
 本文通过将候选路径解释为由预训练生成模型（具体为去噪扩散和流匹配）学习的评分函数诱导的随机动力学下的轨迹采样，提出了一种新的方法。在这些动力学下，找到高概率的过渡路径等同于最小化 Onsager-Machlup (OM) 动作泛函。这种方法允许直接利用预训练生成模型进行 TPS，而无需专门针对任务的训练。该方法在多种分子系统上得到验证，得到了多样且物理上可实现的过渡路径，并且能够泛化到预训练模型最初训练数据集之外。这种方法可以轻松集成到新的生成模型中，使其在模型继续扩展和改善时变得实际相关。
 ### Conclusion
 该方法在多种分子系统中获得了多样化、物理上现实的过渡路径，可泛化到预训练模型的原始训练数据集之外，并且可以轻松集成到新模型中，显示出其实用性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 651. `cs.LG` - 使用可变注意头高效生成图像 [PDF](https://arxiv.org/pdf/2211.05770), [HTML](https://arxiv.org/abs/2211.05770)
 ### Authors
 Steven Walton,Ali Hassani,Xingqian Xu,Zhangyang Wang,Humphrey Shi
@@ -7810,9 +5860,6 @@ Steven Walton,Ali Hassani,Xingqian Xu,Zhangyang Wang,Humphrey Shi
 本文提出了一种简单而强大的方法——允许单一变压器的注意头能够关注多个感受野，以此解决计算成本和视觉任务性能之间的权衡问题。通过将该方法称为Neighborhood Attention (NA)集成到StyleGAN架构中，实现了在FFHQ数据集上的FID为2.05，相比StyleGAN-XL提高了6%，同时参数减少了28%，吞吐量提高了4倍。该方法在FFHQ-256上达到了帕累托前沿，在其他数据集上证明了其高效且强大的图像生成能力。
 ### Conclusion
 本文提出的方法StyleNAT，在保持高性能的同时减少了计算负担，展示了在多种数据集上的高效图像生成能力。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 652. `cs.LG` - Devil's Hand: 数据泄露攻击对本地私密图学习协议 [PDF](https://arxiv.org/pdf/2506.09803), [HTML](https://arxiv.org/abs/2506.09803)
 ### Authors
 Longzhu He,Chaozhuo Li,Peng Tang,Li Sun,Sen Su,Philip S. Yu
@@ -7822,9 +5869,6 @@ Longzhu He,Chaozhuo Li,Peng Tang,Li Sun,Sen Su,Philip S. Yu
 该研究是首个针对基于本地隐私的图学习协议的数据投毒攻击。攻击方注入虚假用户，引导这些虚假用户与真实用户建立联系，并向服务器发送精心构建的数据，最终损害了私密图学习的实用性。研究不仅在理论上证明了攻击的有效性，还在实际中进行了验证。此外，还探索了几种防御策略，但其有限的有效性突显了需要更 robust 的防御的必要性。
 ### Conclusion
 本研究揭示了本地隐私图学习协议面临的一个重要安全威胁，数据投毒攻击。通过理论和实际验证，展示了攻击的可行性。进一步探索的防御策略虽有尝试，但仍需更加 robust 的解决方案来保障系统的稳健性和安全性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 653. `cs.LG` - 高维上下文贝叶斯问题无需稀疏性 [PDF](https://arxiv.org/pdf/2306.11017), [HTML](https://arxiv.org/abs/2306.11017)
 ### Authors
 Junpei Komiyama,Masaaki Imaizumi
@@ -7834,9 +5878,6 @@ Junpei Komiyama,Masaaki Imaizumi
 提出了一个探索-然后-承诺(EtC)算法来解决这个问题，并考察了其性能。通过分析，推导出了EtC算法的最优速率，显示了通过平衡探索和利用可以实现该速率。此外，引入了一个自适应探索-然后-承诺(AEtC)算法以自适应地找到最优平衡。
 ### Conclusion
 本文提出了EtC和AEtC算法，并通过一系列模拟评估了它们的性能。通过分析，得出了EtC算法的最优速率，证明了通过平衡探索与利用可以实现此速率。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 654. `cs.LG` - PuriDefense: 随机局部隐式对抗净化用于防御黑盒查询式攻击 [PDF](https://arxiv.org/pdf/2401.10586), [HTML](https://arxiv.org/abs/2401.10586)
 ### Authors
 Ping Guo,Xiang Li,Zhiyuan Yang,Xi Lin,Qingchuan Zhao,Qingfu Zhang
@@ -7846,9 +5887,6 @@ Ping Guo,Xiang Li,Zhiyuan Yang,Xi Lin,Qingchuan Zhao,Qingfu Zhang
 提出了一种高效防御机制PuriDefense，该机制在较低的推理成本下采用随机块级净化，并结合了轻量级净化模型的集成，利用局部隐式函数重建自然图像流形。理论分析表明，这种方法通过净化过程中的随机性减慢了查询式攻击的收敛速度。广泛实验在CIFAR-10和ImageNet上验证了提出防御机制的有效性，显示出对抗黑盒查询攻击的鲁棒性显著提高。
 ### Conclusion
 实验结果表明，PuriDefense在对抗黑盒查询式攻击方面表现出显著的鲁棒性改进，验证了其在MLaaS系统中的防御效果。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 655. `cs.LG` - 从Tiny机器学习到Tiny深度学习：综述 [PDF](https://arxiv.org/pdf/2506.18927), [HTML](https://arxiv.org/abs/2506.18927)
 ### Authors
 Shriyank Somvanshi,Md Monzurul Islam,Gaurab Chhetri,Rohit Chakraborty,Mahmuda Sultana Mimi,Sawgat Ahmed Shuvo,Kazi Sifatul Islam,Syed Aaqib Javed,Sharif Ahmed Rafat,Anandi Dutta,Subasish Das
@@ -7858,9 +5896,6 @@ Shriyank Somvanshi,Md Monzurul Islam,Gaurab Chhetri,Rohit Chakraborty,Mahmuda Su
 本文分析了最先进的量化、剪枝和神经架构搜索(NAS)方法，并探讨了从微控制器到专用神经加速器的硬件趋势。此外，本文分类了软件部署框架、编译器和AutoML工具，以实现实际的设备内置学习。文章回顾了跨计算机视觉、音频识别、医疗健康和工业监测等领域的应用，以说明TinyDL的现实世界影响。最后，本文提出了新兴方向，包括神经形态计算、联邦TinyDL、边缘原生基础模型和领域特定协同设计方法。这为研究人员和实践者提供了一个全面的生态视图，为未来的边缘AI进展奠定了基础。
 ### Conclusion
 本文旨在作为研究人员和从业人员的基础资源，提供一个全面的生态系统视图，并为未来的边缘AI进展奠定基础。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 656. `cs.LG` - Review learning: 实现医疗机构间隐私保护持续学习的现实验证 [PDF](https://arxiv.org/pdf/2210.09394), [HTML](https://arxiv.org/abs/2210.09394)
 ### Authors
 Jaesung Yoo,Sunghyuk Choi,Ye Seul Yang,Suhyeon Kim,Jieun Choi,Dongkyeong Lim,Yaeji Lim,Hyung Joon Joo,Dae Jung Kim,Rae Woong Park,Hyeong-Jin Yoon,Kwangsoo Kim
@@ -7870,9 +5905,6 @@ Jaesung Yoo,Sunghyuk Choi,Ye Seul Yang,Suhyeon Kim,Jieun Choi,Dongkyeong Lim,Yae
 引入了一种名为 'review learning'（RevL）的低消耗持续学习算法，用于电子健康记录（EHR）的诊断预测。RevL通过生成源自模型的数据样本，来回顾先前数据集中的知识。通过六次模拟的机构实验和一次真实世界实验，验证了RevL的能力与效果。
 ### Conclusion
 RevL能够在保留先前学习的知识的同时，在模拟和实际医疗环境中提高PPDL的性能，表明了RevL在机构间使用私有EHR数据进行模型转移的现实可行性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 657. `cs.LG` - 图神经网络在中微子物理事件重构中的应用 [PDF](https://arxiv.org/pdf/2403.11872), [HTML](https://arxiv.org/abs/2403.11872)
 ### Authors
 V Hewes,Adam Aurisano,Giuseppe Cerati,Jim Kowalkowski,Claire Lee,Wei-keng Liao,Daniel Grzenda,Kaushal Gumpula,Xiaohe Zhang
@@ -7882,9 +5914,6 @@ LArTPC探测器技术能够提供关于粒子相互作用的高分辨率信息�
 提出了一种名为NuGraph2的图神经网络（GNN），用于低层模拟微中子在LArTPC探测器中的相互作用重构。该网络通过一种多头注意力信息传递机制对图节点进行背景过滤和语义标签识别，可以以98.0%的效率识别与主要物理相互作用相关的节点，并以94.9%的效率进行粒子类型的标签分类。网络直接作用于多层2D表示，并结合3D上下文感知机制确保不同表示的一致性。该模型在CPU上的推理时间仅为0.12秒/事件，在GPU上批处理时仅为0.005秒/事件。
 ### Conclusion
 该网络架构适用于LArTPC探测器中的粒子重构，并且具有广泛推广到不同探测器技术领域的潜力。它还提供了一个可部署到多种任务的核心卷积引擎。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 658. `cs.LG` - Self-Regulated Neurogenesis for Online Data-Incremental Learning [PDF](https://arxiv.org/pdf/2403.14684), [HTML](https://arxiv.org/abs/2403.14684)
 ### Authors
 Murat Onur Yildirim,Elif Ceren Gok Yildirim,Decebal Constantin Mocanu,Joaquin Vanschoren
@@ -7894,9 +5923,6 @@ Murat Onur Yildirim,Elif Ceren Gok Yildirim,Decebal Constantin Mocanu,Joaquin Va
 该研究受到‘自我调节神经发生’机制的启发，即大脑创造专门用于不同功能的区域或电路的机制，提出了一种名为SERENA（Self-Regulated Neurogenesis for Online Data-Incremental Learning）的新颖方法。此方法将每个概念编码为一个专门的网络路径‘概念细胞’，集成到一个超参数化的网络中。一旦概念被学习，对应的概念细胞被冻结，从而防止之前学习信息的遗忘。此外，还引入了两种新的连续学习场景，更能反映现实条件，即样本大小逐渐变化的情况。实验证明，该方法不仅在十个基准测试中设定新的SOTA结果，还显著超过了离线监督批量学习的性能。
 ### Conclusion
 实验结果表明，SERENA方法不仅在十个基准上取得了新的SOTA结果，还显著优于离线监督批量学习的性能。该方法通过在一个集成模型中为每个新概念创建一个专门的‘概念细胞’，解决了神经网络在线增量学习中的灾难性遗忘问题，实验证明了其实用性和有效性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 659. `cs.LG` - 在作者和文档表示中捕捉风格 [PDF](https://arxiv.org/pdf/2407.13358), [HTML](https://arxiv.org/abs/2407.13358)
 ### Authors
 Enzo Terreau,Antoine Gourru,Julien Velcin
@@ -7906,9 +5932,6 @@ Enzo Terreau,Antoine Gourru,Julien Velcin
 本文提出了一种基于变分信息瓶-neck（VIB）的新架构，该架构学习带有风格约束的作者和文档嵌入。该模型通过预训练文档编码器进行微调，通过添加预定义的风格特征来增强写作风格的检测，并使其表示更易于解释。试验结果显示该方法在三组数据集上与强或最新的基线相比表现优异，更好地捕捉了作者的风格特征。
 ### Conclusion
 我们提出的新模型在三个数据集上评估了作者身份识别任务，显示了在作者身份识别方面与强或最新的基线方法相比，该方法在精确识别作者风格方面表现更佳。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 660. `cs.LG` - 具有编码数据结构的可解释量子回归算法 [PDF](https://arxiv.org/pdf/2307.03334), [HTML](https://arxiv.org/abs/2307.03334)
 ### Authors
 C.-C. Joseph Wang,F. Perkkola,I. Salmenperä,A. Meijer-van de Griend,J. K. Nurminen,R. S. Bennink
@@ -7918,9 +5941,6 @@ C.-C. Joseph Wang,F. Perkkola,I. Salmenperä,A. Meijer-van de Griend,J. K. Nurmi
 提出了第一个可解释的量子回归算法，其中量子态精确地编码了经典数据表，并且变量子参数直接对应到回归系数，这些系数是通过构造得到的真实数，具有高度的模型可解释性，并且由于正确的表达能力，优化成本也相对较低。此外，该算法利用编码数据结构减少了回归映射的计算时间复杂度。对于非线性回归优化，通过经典的预处理构建非线性特征作为独立的编码列向量。尽管在超导量子位中实现了较无噪声压缩编码的压缩编码实现，该方法未来可能在中性冷原子和离子中实现通过多量子门操作的压缩编码，具有潜在的量子用途。
 ### Conclusion
 本文提出了一种新的可解释量子回归算法，通过将经典数据表有效地编码到量子态中，并使变量子参数直接对应到可解释的回归系数，提高了模型的可解释性。这种方法还通过利用编码数据结构减少了计算复杂度，并且具有潜在的量子用途，特别是在中性冷原子和离子的多量子门操作中实现压缩编码。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 661. `cs.LG` - MINO：一种基于网格的变换生成方法 [PDF](https://arxiv.org/pdf/2506.16656), [HTML](https://arxiv.org/abs/2506.16656)
 ### Authors
 Yaozhong Shi,Zachary E. Ross,Domniki Asimaki,Kamyar Azizzadenesheli
@@ -7930,9 +5950,6 @@ Yaozhong Shi,Zachary E. Ross,Domniki Asimaki,Kamyar Azizzadenesheli
 我们提出了Mesh-Informed Neural Operator (MINO)，通过利用图神经操作符和交叉注意力机制，为生成建模提供了原则上、领域和离散化方式不依赖的支持。MINO显著扩大了此类模型的应用范围，并提供了一种整合神经操作符和通用先进深度学习架构的统一视角。此外，我们还引入了一套标准的评估指标，以客观比较功能性生成模型。
 ### Conclusion
 MINO突破了传统生成模型的局限，通过提供一个通用的框架，使其能够应用于更广泛的任务类型。该工作不仅为功能性生成模型提供了一个新的视角，还填补了领域内缺乏统一评估标准的空白。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 662. `cs.LG` - 变分监督对比学习 [PDF](https://arxiv.org/pdf/2506.07413), [HTML](https://arxiv.org/abs/2506.07413)
 ### Authors
 Ziwen Wang,Jiajun Fan,Thao Nguyen,Heng Ji,Ge Liu
@@ -7942,9 +5959,6 @@ Ziwen Wang,Jiajun Fan,Thao Nguyen,Heng Ji,Ge Liu
 本文提出了一种变分监督对比学习（VarCon），它将监督对比学习重新表述为潜在类别变量的变分推理，并最大化后验加权下的证据下界（ELBO），这种方法取代了耗时的配对对比，实现了类感知的高效匹配，并在嵌入空间内实现更精细的类内分布控制。VarCon仅使用图像数据进行训练，在CIFAR-10、CIFAR-100、ImageNet-100和ImageNet-1K上的实验表明，它能够实现对比学习框架的最先进性能，达到了ImageNet-1K上79.36%的最高精度和CIFAR-100上78.29%的精度，并仅在200个epochs内收敛；由KNN分类、层次聚类结果和迁移学习评估可见，VarCon在嵌入空间中的边界更为清晰且有更清晰的语义组织；此外，VarCon在少量样本学习中优于监督基准，并且具有更强的泛化能力，适应各种增强策略的鲁棒性更好。
 ### Conclusion
 变分监督对比学习（VarCon）通过将监督对比学习重新表述为变分推理，并通过最大化后验加权下的证据下界实现了优化的类内分布控制和高效匹配，证明了其在对比学习、少量样本学习以及泛化能力方面的优势。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 663. `cs.LG` - 使用动量改进随机三次牛顿法 [PDF](https://arxiv.org/pdf/2410.19644), [HTML](https://arxiv.org/abs/2410.19644)
 ### Authors
 El Mahdi Chayti,Nikita Doikov,Martin Jaggi
@@ -7954,9 +5968,6 @@ El Mahdi Chayti,Nikita Doikov,Martin Jaggi
 提出了一种特殊的动量机制稳定随机梯度和海森矩阵估计，使用三次正则化技术证明了一种新的随机三次牛顿法在任何噪声级别下都能收敛，并且能够在非凸问题中使用任意大小的数据批次进行全局收敛，这是针对非凸问题的第一个此类示例。
 ### Conclusion
 该研究通过增加动量改进了随机三次牛顿法，并证明了其在非凸问题中的全局收敛性，即使每次迭代只使用一个随机数据样本，而在凸问题中也展示了改进的迭代速度。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 664. `cs.LG` - 复合流匹配在动态转移数据的强化学习中的应用 [PDF](https://arxiv.org/pdf/2505.23062), [HTML](https://arxiv.org/abs/2505.23062)
 ### Authors
 Lingkai Kong,Haichuan Wang,Tonghan Wang,Guojun Xiong,Milind Tambe
@@ -7966,9 +5977,6 @@ Lingkai Kong,Haichuan Wang,Tonghan Wang,Guojun Xiong,Milind Tambe
 提出了基于流匹配与最优传输理论联系的CompFlow方法。具体而言，将目标动力学建模为根据源领域流的输出分布构建的条件流，而非直接从高斯先验学习。这种复合结构提供了两个关键优势：（1）提升了学习目标动力学的泛化能力；（2）通过源和目标过渡之间的Wasserstein距离提供了动力学差异的原理性估计。进一步引入了一种乐观的主动数据收集策略，优先探索高动力学差异区域，并理论上证明该策略减少了与最优策略之间的性能差距。
 ### Conclusion
 实验结果显示，CompFlow在几个具有转移动力学的RL基准测试中优于强基线方法。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 665. `cs.LG` - 使用音素提示：提升非拉丁字母语言多语言能力的LLM [PDF](https://arxiv.org/pdf/2411.02398), [HTML](https://arxiv.org/abs/2411.02398)
 ### Authors
 Hoang H Nguyen,Khyati Mahajan,Vikas Yadav,Julian Salazar,Philip S. Yu,Masoud Hashemi,Rishabh Maheshwary
@@ -7978,9 +5986,6 @@ Hoang H Nguyen,Khyati Mahajan,Vikas Yadav,Julian Salazar,Philip S. Yu,Masoud Has
 本文提出了利用音素转写作为补充信号来诱导书写体系不变的表示方式。实验表明，结合音素信号可以提高非拉丁字母语言和拉丁字母语言的表现，并对未来非拉丁字母语言的表现差异影响显著。此外，通过详细的实验发现，音素和书写体系的转写在上下文学习中检索到的是不同的例子，因此提出了混合上下文学习（Mixed-ICL）检索策略。这种策略在拉丁和非拉丁字母语言表现上均显示出了比随机上下文学习显著的改进，特别是在非拉丁字母语言上提高可达15.1%.
 ### Conclusion
 总之，通过引入音素信号和提出的混合上下文学习策略，可以显著提升非拉丁字母语言的表现，特别是对现有技术表现的显著改善，特别是在非拉丁字母语言上表现尤为明显。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 666. `cs.LG` - 基于新型联邦学习的IDS增强UAV的隐私和安全 [PDF](https://arxiv.org/pdf/2312.04135), [HTML](https://arxiv.org/abs/2312.04135)
 ### Authors
 Ozlem Ceviz(1),Pinar Sadioglu(1),Sevil Sen(1),Vassilios G. Vassilakis(2) ((1) WISE Lab., Deparment of Computer Engineering, Hacettepe University, Ankara, Turkey (2) Department of Computer Science, University of York, York, United Kingdom)
@@ -7990,9 +5995,6 @@ Ozlem Ceviz(1),Pinar Sadioglu(1),Sevil Sen(1),Vassilios G. Vassilakis(2) ((1) WI
 FL-IDS通过减少客户端和中央服务器的计算和存储成本，降低了资源受限的UAV的负担。它以去中心化的方式操作，使UAVs能够协作训练全局入侵检测模型而不共享原始数据，从而避免了传统方法因收集的数据导致的延迟。引入了Bias Towards Specific Clients（BTSC）方法，即使在较低的攻击者比例下也进一步增强了FL-IDS的性能，同时减轻了隐私问题。通过对比分析传统入侵检测方法，包括本地入侵检测（L-IDS），展示了FL-IDS的优势。
 ### Conclusion
 本研究通过引入基于联邦学习的、关注隐私的去中心化入侵检测方法，显著贡献于UAV安全。此外，通过为FANETs引入现实的联邦学习数据集，本研究区别于其他缺乏高动态性和三维节点移动验证的方法。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 667. `cs.LG` - 用于动态偏好对齐的多偏好Lambda加权列表式DPO [PDF](https://arxiv.org/pdf/2506.19780), [HTML](https://arxiv.org/abs/2506.19780)
 ### Authors
 Yuhui Sun(University of Alberta),Xiyao Wang(University of Toronto),Zixi Li(Zhejiang University),Jinman Zhao(University of Toronto)
@@ -8002,9 +6004,6 @@ Yuhui Sun(University of Alberta),Xiyao Wang(University of Toronto),Zixi Li(Zheji
 本文提出了一种新的框架：多偏好Lambda加权列表式DPO，将DPO扩展到结合多个人类偏好维度（例如：有用性、无害性、信息性）并在可控的简形加权形式下实现动态插值。该方法支持列表偏好反馈并且能够在多种用户意图下灵活对齐而无需重新训练。实证和理论分析表明，该方法在静态目标上与传统DPO同样有效，但在现实世界部署中提供了更大的通用性和适应性。
 ### Conclusion
 本文提出的方法在静态目标上与传统的DPO同样有效，但在多目标或动态对齐等方面提供了更大的灵活性和适应性。这种方法在实际部署中具有更强的通用性，能够在多种用户意图下灵活对齐，而无需重新训练模型。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 668. `cs.LG` - SceneGenAgent：开发编码代理实现精确工业场景生成 [PDF](https://arxiv.org/pdf/2410.21909), [HTML](https://arxiv.org/abs/2410.21909)
 ### Authors
 Xiao Xia,Dan Zhang,Zibo Liao,Zhenyu Hou,Tianrui Sun,Jing Li,Ling Fu,Yuxiao Dong
@@ -8014,9 +6013,6 @@ Xiao Xia,Dan Zhang,Zibo Liao,Zhenyu Hou,Tianrui Sun,Jing Li,Ling Fu,Yuxiao Dong
 本文引入了SceneGenAgent，这是一种基于C#代码的LLM代理，用于生成工业场景。它通过结构化和可计算的格式、布局验证和迭代精炼来确保精确的布局规划，以满足工业场景的定量要求。实验结果表明，使用SceneGenAgent的LLMs在真实工业场景生成任务中的成功率高达81.0%，并有效地满足了大部分场景生成需求。此外，还构造了SceneInstruct数据集，用于微调开源LLMs以整合到SceneGenAgent，实验表明，使用SceneInstruct微调开源LLMs可以显著提高性能，Llama3.1-70B的表现接近GPT-4o的水平。
 ### Conclusion
 SceneGenAgent通过微调开源LLMs来实现精确的工业场景生成，提高了LLMs在工业场景生成任务中的成功率和性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 669. `cs.LG` - 通过凸优化求解多臂bandits逆问题 [PDF](https://arxiv.org/pdf/2501.18945), [HTML](https://arxiv.org/abs/2501.18945)
 ### Authors
 Hao Zhu,Joschka Boedecker
@@ -8026,9 +6022,6 @@ Hao Zhu,Joschka Boedecker
 我们提出了一种两步序列启发式方法，该方法可以将IMAB问题转化为凸问题。该方法不仅提供了解决IMAB问题的全局解，还提供了进一步节省计算时间的近似方法。此外，我们的方法比直接的重复局部优化更稳健，并且可以在显著减少运行时间的情况下达到类似蒙特卡洛方法的性能。我们基于CVXPY提供了该方法的实现，使对凸优化不熟悉的研究者也能轻松使用。
 ### Conclusion
 我们的研究表明，与直接通过重复局部优化求解IMAB问题相比，使用启发式方法可以提供更稳健的解决方案，并且在显著减少运行时间的情况下达到与蒙特卡洛方法相当的性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 670. `cs.LG` - 利用无人机图像进行地理位置参考车辆轨迹提取的高级计算机视觉技术 [PDF](https://arxiv.org/pdf/2411.02136), [HTML](https://arxiv.org/abs/2411.02136)
 ### Authors
 Robert Fonod,Haechan Cho,Hwasoo Yeo,Nikolas Geroliminis
@@ -8038,9 +6031,6 @@ Robert Fonod,Haechan Cho,Hwasoo Yeo,Nikolas Geroliminis
 本文的创新在于一个多方面的贡献，包括针对高空鸟瞰视角优化的定制目标检测器，使用检测到的车辆边界框作为排除掩码进行图像注册的独特轨迹稳定方法，以及基于正射影像和主框架的地理参考策略，从而提高了多个无人机视角之间的精确对齐。此外，本文框架还提供了用于综合交通分析的鲁棒车辆尺寸估计和详细的道路分割功能。
 ### Conclusion
 本文展示了将无人机技术与先进的计算机视觉技术相结合，在密集的城市环境中实现精确和成本效益的交通监控的潜力，提供了开发智能交通系统和改进交通管理策略的重要资源。最终，通过公开发布松岛交通和松岛视觉数据集及提取管道的完整源代码，建立了交通研究中数据质量、可复制性和可扩展性的新基准。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 671. `cs.LG` - 基于潜在域插件式去噪的无线电地图估计 [PDF](https://arxiv.org/pdf/2501.13472), [HTML](https://arxiv.org/abs/2501.13472)
 ### Authors
 Le Xu,Lei Cheng,Junting Chen,Wenqiang Pu,Xiao Fu
@@ -8050,9 +6040,6 @@ Le Xu,Lei Cheng,Junting Chen,Wenqiang Pu,Xiao Fu
 本文提出了一种基于插件式（PnP）去噪的新型空间频谱RME方法。该方法利用信号（如自然图像和无线电地图）去噪操作相似性的观察结果，直接利用自然图像的复杂去噪器辅助RME过程，避免使用无线电地图数据进行训练。所提方法在潜在域中进行去噪，并提出了一种基于ADMM算法的去噪方法，这在提高计算效率和增强噪声鲁棒性方面表现出色。
 ### Conclusion
 该研究分析了算法的理论方面，包括无线电地图的完整重构能力和ADMM算法的收敛性，并通过合成和实际数据实验验证了方法的有效性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 672. `cs.LG` - Split-Merge: 基于差异的主导特征值问题方法 [PDF](https://arxiv.org/pdf/2501.15131), [HTML](https://arxiv.org/abs/2501.15131)
 ### Authors
 Xiaozhi Liu,Yong Xia
@@ -8062,9 +6049,6 @@ Xiaozhi Liu,Yong Xia
 本文利用基于差异形式的新视角重新解读经典幂法为了一阶优化算法，并提供了新的收敛分析方法，从而开发出具有更大步长的加速变体，以实现更快的收敛而无需额外的计算成本。通过这种方法，引入了一族广泛的意义上的基于差异的方法，并在此基础上提出了一种名为Split-Merge的算法，该算法在无需先验谱知识的情况下，仅通过矩阵-向量乘法就能达到加速收敛的效果。实验表明，Split-Merge在效率和可扩展性方面均优于现有的算法，特别是在大规模问题上，比经典幂法的速度提升超过10倍，进一步证明了其实用有效性。
 ### Conclusion
 本文提出的方法及其加速变体为解决大规模特征值问题提供了有效的工具，Split-Merge算法特别适用于无需任何先验知识的实际应用，并且在大规模数据集上表现出显著的性能优势。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 673. `cs.LG` - SDE Matching: 隐状态随机微分方程的可扩展且无需模拟的训练方法 [PDF](https://arxiv.org/pdf/2502.02472), [HTML](https://arxiv.org/abs/2502.02472)
 ### Authors
 Grigory Bartosh,Dmitry Vetrov,Christian A. Naesseth
@@ -8074,9 +6058,6 @@ Latent Stochastic Differential Equation (SDE) 是一种强大的时间序列和�
 本工作提出了一种新方法 SDE Matching，这是一种无需模拟的可训练 Latent SDE 的方法。受到现代得分匹配和流匹配算法的启发，我们将其扩展到随机动力学领域，用于时间序列和序列建模，从而消除了昂贵的数值模拟需求。与 adjoint sensitivity 方法相比，SDE Matching 的表现相当，但计算复杂性大大降低。
 ### Conclusion
 实验结果表明，SDE Matching 在性能上可与 adopted sensitivity 方法相媲美，但在计算复杂性上则有了显著改进。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 674. `cs.LG` - 情境感知双稳健半监督学习 [PDF](https://arxiv.org/pdf/2502.15577), [HTML](https://arxiv.org/abs/2502.15577)
 ### Authors
 Clement Ruah,Houssem Sifaou,Osvaldo Simeone,Bashir Al-Hashimi
@@ -8086,9 +6067,6 @@ Clement Ruah,Houssem Sifaou,Osvaldo Simeone,Bashir Al-Hashimi
 提出了一种情境感知双稳健（CDR）学习方法，这是一种新颖的半监督学习方案，能够根据NDT在不同环境中的不同精度调整其对伪数据的依赖度。该方法能够在数据稀缺条件下显著改进模型性能。
 ### Conclusion
 文中提出的情境感知双稳健（CDR）学习方法，在下行链路波束形成任务上超过了之前最先进的半监督学习方法，尤其是在标定数据稀缺的情况下，能够显著降低损失率。该技术有望通过准确适应不同环境中的准确性差异，提高AI在下一代通信系统中的应用效果。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 675. `cs.LG` - 通过广义平滑性下的自我边界规则高效逃脱鞍点 [PDF](https://arxiv.org/pdf/2503.04712), [HTML](https://arxiv.org/abs/2503.04712)
 ### Authors
 Daniel Yiming Cao,August Y. Chen,Karthik Sridharan,Benjamin Tang
@@ -8098,9 +6076,6 @@ Daniel Yiming Cao,August Y. Chen,Karthik Sridharan,Benjamin Tang
 我们开发了一种新的框架，允许系统地研究满足广义光滑性的大量一阶优化算法的收敛性。我们将其应用于分析到一阶和二阶平稳点的收敛性。作为结果，我们首次为满足广义光滑性的条件下的一阶方法提供二阶平稳点的收敛性保证。我们的研究涵盖了多个经典示例，强调了其实用性。
 ### Conclusion
 我们建立了满足广义光滑性的条件下，一阶方法达到二阶平稳点的第一个收敛性保证。这一研究扩展了一阶优化算法的应用范围，特别是在非凸优化中。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 676. `cs.LG` - 基于多凸规划的离散潜因子模型原型设计 [PDF](https://arxiv.org/pdf/2504.01431), [HTML](https://arxiv.org/abs/2504.01431)
 ### Authors
 Hao Zhu,Shengchao Yan,Jasper Hoffmann,Joschka Boedecker
@@ -8110,9 +6085,6 @@ Hao Zhu,Shengchao Yan,Jasper Hoffmann,Joschka Boedecker
 本文提出了一种基于CVXPY的通用框架，允许用户在很短的脚本内指定并解决多种DLFM（包括回归和分类模型）的拟合问题，同时增强了参数和潜因子的正则化项和约束项的集成能力，使得用户可以根据数据集和应用场景轻松地原型化DLFM结构。这种方法比现有的定制求解器更加灵活和高效。
 ### Conclusion
 我们还提供了开源的Python实现，并在几个示例中展示了该框架的应用。这为快速和灵活地构建和测试DLFM模型提供了一个新的工具。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 677. `cs.LG` - LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey [PDF](https://arxiv.org/pdf/2505.00753), [HTML](https://arxiv.org/abs/2505.00753)
 ### Authors
 Henry Peng Zou,Wei-Chieh Huang,Yaozu Wu,Yankai Chen,Chunyu Miao,Hoang Nguyen,Yue Zhou,Weizhi Zhang,Liancheng Fang,Langzhou He,Yangning Li,Dongyuan Li,Renhe Jiang,Xue Liu,Philip S. Yu
@@ -8122,9 +6094,6 @@ Henry Peng Zou,Wei-Chieh Huang,Yaozu Wu,Yankai Chen,Chunyu Miao,Hoang Nguyen,Yue
 本文提供了第一个全面和系统性的LLM-HAS综述。它阐明了基本概念，系统地呈现了这些系统的核心组件，包括环境与建模、人类反馈、交互类型、协调与通信，探讨了新兴应用，并讨论了人机协作带来的独特挑战和机遇。通过汇总现有知识并提供结构化的概览，本文旨在促进这一快速发展的跨学科领域的进一步研究和创新。
 ### Conclusion
 本文通过整合现有知识并提供系统的概览，旨在促进这一快速发展的跨学科领域的进一步研究和创新。相关列表和资源可在以下此 https URL 获取。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 678. `cs.LG` - InterFormer: 针对点击率预测的有效异构交互学习 [PDF](https://arxiv.org/pdf/2411.09852), [HTML](https://arxiv.org/abs/2411.09852)
 ### Authors
 Zhichen Zeng,Xiaolong Liu,Mengyue Hang,Xiaoyi Liu,Qinghai Zhou,Chaofei Yang,Yiqun Liu,Yichen Ruan,Laming Chen,Yuxin Chen,Yujia Hao,Jiaqi Xu,Jade Nie,Xi Liu,Buyun Zhang,Wei Wen,Siyang Yuan,Hang Yin,Xin Zhang,Kai Wang,Wen-Yen Chen,Yiping Han,Huayu Li,Chunzhi Yang,Bo Long,Philip S. Yu,Hanghang Tong,Jiyan Yang
@@ -8134,9 +6103,6 @@ Zhichen Zeng,Xiaolong Liu,Mengyue Hang,Xiaoyi Liu,Qinghai Zhou,Chaofei Yang,Yiqu
 为此，本文提出了一种名为InterFormer的新模块，以交错的方式学习不同模式之间的异构信息交互。InterFormer通过使不同模式之间的信息流双向流动，以实现更好的交互学习。为避免过于激进的信息聚合，InterFormer在每个数据模式中保留完整信息，并使用单独的桥梁结构进行有效信息选择和汇总。
 ### Conclusion
 我们的InterFormer在三个公开数据集和一个大规模工业数据集上取得了最先进的性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 679. `cs.LG` - 子空间距离驱动的主动学习方法在参数动力系统数据驱动模型减少中的高效应用 [PDF](https://arxiv.org/pdf/2505.00460), [HTML](https://arxiv.org/abs/2505.00460)
 ### Authors
 Harshit Kapadia,Peter Benner,Lihong Feng
@@ -8146,9 +6112,6 @@ Harshit Kapadia,Peter Benner,Lihong Feng
 提出了一种子空间距离驱动的主动学习（SDE-AL）框架，该框架通过利用主成分分析在多个参数特定线性子空间中表达高保真解快照，并利用线性子空间之间的相对距离作为引导机制进行主动学习。同时，提供了一种新的距离度量方法，用于评估具有不同维度的线性子空间之间的相似性，并证明了该度量是一个度量。此外，通过对两个参数物理模型的成功测试，证明了所提SDE-AL方法的有效性，强调了该方法的效率。通过将SDE-AL框架应用于两个现有的非侵入性降阶建模方法，开发了主动学习增强的版本，即SDE-ActLearn-POD-KSNN和SDE-ActLearn-POD-NN
 ### Conclusion
 对两个参数物理模型的成功测试表明，所提出的SDE-AL方法是有效的，且方法显示出一定的效率。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 680. `cs.LG` - 预训练可逆生成模型作为无监督视觉表征学习 [PDF](https://arxiv.org/pdf/2412.01787), [HTML](https://arxiv.org/abs/2412.01787)
 ### Authors
 Rongkun Xue,Jinouwen Zhang,Yazhe Niu,Dazhong Shen,Bingqi Ma,Yu Liu,Jing Yang
@@ -8158,9 +6121,6 @@ Rongkun Xue,Jinouwen Zhang,Yazhe Niu,Dazhong Shen,Bingqi Ma,Yu Liu,Jing Yang
 提出了Pretrained Reversible Generation (PRG)方法，这是一种新颖的通过对预训练连续生成模型进行逆向过程来提取无监督特征表示的方法。PRG的方法为利用生成模型在判别任务中的能力提供了一个新的视角，并且与之前的生成分类器方法相比，通过在多个基准测试上的表现，PRG方法展示了其在基于生成模型的方法中达到最先进的性能，例如在64*64分辨率的ImageNet数据集上达到了78%的top-1精度。此外，通过广泛的消融研究进一步证明了PRG方法的有效性，包括对未在训练数据中出现的样本的评估。相关代码可以在指定的网址获取。
 ### Conclusion
 Pretrained Reversible Generation (PRG)方法有效利用了预训练生成模型的高度容量，作为健壯且泛化的特征提取器，适用于下游任务。该方法在多个基准测试中取得了最先进的性能，并通过消融研究验证了其有效性。PRG不仅解决了未来的研究方向，还提供了为特定下游任务定制特征表示的一种新的灵活途径。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 681. `cs.LG` - 一种基于SRBB的可扩展量子神经网络用于近似酉合成 [PDF](https://arxiv.org/pdf/2412.03083), [HTML](https://arxiv.org/abs/2412.03083)
 ### Authors
 Giacomo Belli,Marco Mordacci,Michele Amoretti
@@ -8170,9 +6130,6 @@ Giacomo Belli,Marco Mordacci,Michele Amoretti
 提出了通过SRBB来设计可扩展量子神经网络的新方法，利用Lie代数及其拓扑特征，实现了可扩展参数化，并提出了一种减少CNOT数目的算法，使得需仅一层近似。该方法已在PennyLane库中实现，并评估了不同大小的幺正矩阵。通过比较不同优化器的性能，验证了其有效性和在实际硬件上的适用性。此外，还提出了一种新的可实现的可扩展方案。
 ### Conclusion
 通过SRBB设计的可扩展量子神经网络在PennyLane库中的实现和评估显示，该方法能够有效地近似幺正演化，同时减少CNOT的数量，仅需一层近似即可。该方法不仅在理论上有新的突破，还在实际硬件上得到了验证，表明其在量子计算中的潜在应用价值。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 682. `cs.LG` - 利用基础视觉转换器的材料微结构-性质关系的机器学习 [PDF](https://arxiv.org/pdf/2501.18637), [HTML](https://arxiv.org/abs/2501.18637)
 ### Authors
 Sheila E. Whitman,Marat I. Latypov
@@ -8182,9 +6139,6 @@ Sheila E. Whitman,Marat I. Latypov
 本研究提出了使用预训练的基础视觉变换器来提取任务无关的微结构特征，从而实现轻量级的微结构依赖性能的机器学习，而无需为特定任务进行昂贵的训练或微调定制的深度学习模型。通过对现有模型的学习，验证了这种方法的有效性和潜力。
 ### Conclusion
 本研究的结果表明，基础视觉变换器对于微结构表示和材料微结构-性能关系的高效机器学习具有巨大的潜力，无需昂贵的特定任务训练或微调定制的深度学习模型。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 683. `cs.LG` - PCF-Grasp: 将点完成结果转换为几何特征以增强6自由度抓取 [PDF](https://arxiv.org/pdf/2504.16320), [HTML](https://arxiv.org/abs/2504.16320)
 ### Authors
 Yaofeng Cheng,Fusheng Zha,Wei Guo,Pengfei Wang,Chao Zeng,Lining Sun,Chenguang Yang
@@ -8194,9 +6148,6 @@ Yaofeng Cheng,Fusheng Zha,Wei Guo,Pengfei Wang,Chao Zeng,Lining Sun,Chenguang Ya
 创新之处在于提出了一种全新的6-DoF抓取框架，该框架通过将点完成结果作为物体形状特征用于训练6-DoF抓取网络，模仿人类的几何经验。此外，还引入了评分过滤器，以选择更可行的抓取提案，提高实际机器人抓取的成功率和可靠性。
 ### Conclusion
 研究通过使用完整点特征生成更准确的抓取提案，并结合评分过滤器的选择机制，有效提高了真实世界机器人抓取的性能，实验结果表明该方法比现有的最优方法提高了17.8%的成功率。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 684. `cs.LG` - AI评估中的度量与意义：一种以效度为中心的框架 [PDF](https://arxiv.org/pdf/2505.10573), [HTML](https://arxiv.org/abs/2505.10573)
 ### Authors
 Olawale Salaudeen,Anka Reuel,Ahmed Ahmed,Suhana Bedi,Zachary Robertson,Sudharsan Sundar,Ben Domingue,Angelina Wang,Sanmi Koyejo
@@ -8206,9 +6157,6 @@ Olawale Salaudeen,Anka Reuel,Ahmed Ahmed,Suhana Bedi,Zachary Robertson,Sudharsan
 本研究提供了一个结构化的方法，以根据现有证据思考能作出哪些评估声明。该框架能够确定数学基准表现是否反映了解决数学测试问题的能力，还是更广泛的推理能力。该框架可以支持下游用户验证其声明和决策，同时也能构建旨在验证内容性声明的评估。利用心理测量学中有效性的分解，评估可以优先考虑特定声明中最关键的方面，提高实证效用和决策的效率。通过详细的视觉和语言模型评估案例研究来演示该框架，着重于明确考虑有效性如何加强评估证据与声明之间的联系
 ### Conclusion
 本研究提供了一个有效的框架，用于设计和评估AI技术，强调了使用心理学效度理论来优化评估方法的重要性。该框架不仅有助于下游用户的决策验证，还促进了构建能够准确反映AI技术真实能力的评估。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 685. `cs.LG` - 通过应用机器学习分析纽约房地产中的种族平等 [PDF](https://arxiv.org/pdf/2505.16946), [HTML](https://arxiv.org/abs/2505.16946)
 ### Authors
 Sanjana Chalavadi,Andrei Pastor,Terry Leitch
@@ -8218,9 +6166,6 @@ Sanjana Chalavadi,Andrei Pastor,Terry Leitch
 研究提出了先进的种族/族裔推断模型，结合了LSTM和Geo的XGBoost过滤模型，并通过对比预测的房产所有者种族构成和来自人口普查数据的居住人口，揭露了显著的不平等现象。模型还评估了地理空间上下文如何影响预测和不平等估算结果。研究特别关注少数族裔占多数的街区以及公司所有权（LLCs、信托等）如何进一步加剧所有权和人口分布之间的不平等。
 ### Conclusion
 研究结果强调了房地产所有权中持续存在的种族不平等，反映出更广泛的历史和社会经济因素。研究结果表明，需要数据驱动的方法来解决这些问题。研究还特别指出了少数族裔占多数的街区与白人为主的物业所有权之间的不平等，并提供了各民族占多数的街区中所有权与人口的详细对比分析。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 686. `cs.LG` - 使用SMILE进行大规模语言模型可解释性：基于局部解释的统计模型无偏解释 [PDF](https://arxiv.org/pdf/2505.21657), [HTML](https://arxiv.org/abs/2505.21657)
 ### Authors
 Zeinab Dehghani,Mohammed Naveed Akram,Koorosh Aslansefat,Adil Khan
@@ -8230,9 +6175,6 @@ Zeinab Dehghani,Mohammed Naveed Akram,Koorosh Aslansefat,Adil Khan
 SMILE是一种无模型的方法，通过微调输入并测量输出变化来解释大型语言模型的响应，从而生成突出显示关键词语的简单视觉热力图。这种方法在多个主流的大规模语言模型上进行了测试，并通过准确度、一致性、稳定性和可靠性等指标证明，能够提供清晰且可靠的解释。
 ### Conclusion
 通过SMILE这种简单有效的可视化热力图方法，使大型语言模型的决策过程更加透明，从而使这些模型更易于理解，朝向让AI变得更透明和可信的目标迈进一步。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 687. `cs.LG` - 二元线性分类问题中均匀泛化误差的精确集中现象 [PDF](https://arxiv.org/pdf/2505.16713), [HTML](https://arxiv.org/abs/2505.16713)
 ### Authors
 Shogo Nakakita
@@ -8242,9 +6184,6 @@ Shogo Nakakita
 文章通过等周论证方法证明了泊松不等式和对数－辛普尔不等式，用于推导泛化误差的集中界限。这些界限在标签均衡的情况下非常接近，并且在渐近分析中扩展了几乎一致收敛于期望值的情态到广泛的应用场景，比如比例高维设置。此外，本文还基于这种收敛性，建立了维度无关条件下的统一大数法则。
 ### Conclusion
 本文对二元线性分类问题中的集中现象进行了详细的探究，证明了泛化误差的精确集中界限，并且在广泛的场景下，统一泛化误差几乎一致地收敛于其期望值。同时，本文还研究了在维度无关条件下的统一大数法则。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 688. `cs.LG` - A3: 一种解析的低秩近似框架用于注意力机制 [PDF](https://arxiv.org/pdf/2505.12942), [HTML](https://arxiv.org/abs/2505.12942)
 ### Authors
 Jeffrey T. H. Wong,Cheng Zhang,Xinye Cao,Pedro Gimenes,George A. Constantinides,Wayne Luk,Yiren Zhao
@@ -8254,9 +6193,6 @@ Jeffrey T. H. Wong,Cheng Zhang,Xinye Cao,Pedro Gimenes,George A. Constantinides,
 本文提出了A3，一种后训练低秩近似框架。A3将Transformer层分为三个功能组件，即QK、OV和MLP。对于每个组件，A3提供了减少隐藏维度大小的同时，最小化组件的功能损失（即注意力分数、输出和MLP输出的误差）的解析解。这种方法直接减少了模型大小、KV缓存大小和FLOPs，没有引入任何运行时开销。此外，它提供了一种新的方法，通过提高端到端性能推动优化问题，从单一线性层误差优化转向更优的效果。实验证明，A3在性能上优于SOTA模型，在相同计算和内存预算下，A3低秩近似后的LLaMA 3.1-70B在WikiText-2上的困惑度为4.69，优于前SOTA的7.87，高出3.18。同时展示了A3的通用性，包括KV缓存压缩、量化和混合秩分配，以增强性能。
 ### Conclusion
 A3保持了出色的性能，使得在相同的计算和内存预算下，LLaMA 3.1-70B的困惑度降低了3.18，同时展示了其在KV缓存压缩、量化和混合秩分配方面的多功能性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 689. `cs.LG` - TaxaDiffusion: 进行精细分类物种生成的渐进训练扩散模型 [PDF](https://arxiv.org/pdf/2506.01923), [HTML](https://arxiv.org/abs/2506.01923)
 ### Authors
 Amin Karimi Monsefi,Mridul Khurana,Rajiv Ramnath,Anuj Karpatne,Wei-Lun Chao,Cheng Zhang
@@ -8266,9 +6202,6 @@ Amin Karimi Monsefi,Mridul Khurana,Rajiv Ramnath,Anuj Karpatne,Wei-Lun Chao,Chen
 1. TaxaDiffusion是一个分类学知识指导的训练框架，它考虑了许多物种在形态、图案和颜色上的细微差异，而不是将每个物种作为独立类别处理。2. TaxaDiffusion采用分层学习策略，从大类到科属再到物种，逐步训练条件扩散模型，先捕捉共祖物种的粗粒形态特征，再细化到物种级的细微差异。3. 该方法利用了物种间的视觉相似性，即使在有限的物种训练样本情况下，也能实现较高的生成精度和细节准确性。
 ### Conclusion
 经过三种精细分类动物数据集的广泛实验，TaxaDiffusion优于现有方法，在精细分类动物图像生成方面表现出更高的细节真实性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 690. `cs.LG` - 超声图像解释和扫描指导的语义场景图 [PDF](https://arxiv.org/pdf/2506.19683), [HTML](https://arxiv.org/abs/2506.19683)
 ### Authors
 Xuesong Li,Dianye Huang,Yameng Zhang,Nassir Navab,Zhongliang Jiang
@@ -8278,9 +6211,6 @@ Xuesong Li,Dianye Huang,Yameng Zhang,Nassir Navab,Zhongliang Jiang
 本文首次引入了超声图像的场景图来解释图像内容并提供扫描指导。场景图的计算使用了一种基于变压器的单阶段方法，消除了显式的对象检测需求。通过大型语言模型进一步根据用户查询对抽象的场景图进行细化，为普通人生成易于理解的图像解释。这种方法还探索了场景图指导超声扫描以寻找当前图像视角中的缺失解剖结构的潜力，帮助普通人实现更为标准化和完整的解剖探索
 ### Conclusion
 通过在颈部左侧和右侧包括颈动脉和甲状腺的五名志愿者的图像上验证，该基于场景图的图像解释和扫描指导方法被证明可以最大化地将超声技术普及给普通人，提高其可解释性和使用便利性
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 691. `cs.LG` - 以假乱真：通过辨别预测进行奖励模型构建 [PDF](https://arxiv.org/pdf/2506.13846), [HTML](https://arxiv.org/abs/2506.13846)
 ### Authors
 Runtao Liu,Jiahao Zhan,Yingqing He,Chen Wei,Alan Yuille,Qifeng Chen
@@ -8290,9 +6220,6 @@ Runtao Liu,Jiahao Zhan,Yingqing He,Chen Wei,Alan Yuille,Qifeng Chen
 提出的GAN-RM框架通过无监督的方法在不需要人工偏好标注和明确质量维度工程的情况下训练奖励模型，这显著简化了实现过程。GAN-RM仅需少量的代表性未配对的目标样本来训练奖励模型，该方法的有效性已在多个关键应用中得到验证，包括测试时扩展（通过Best-of-N样本筛选）、后训练调整如监督微调（SFT）以及直接偏好优化（DPO）等。
 ### Conclusion
 实验表明，GAN-RM框架在多种关键应用上具有高度有效性。未来的研究方向可能是进一步优化和扩展该方法，使其适用于更多样的生成模型和应用场合。代码和数据将在指定的链接处提供。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 692. `cs.LG` - TracLLM: 一种针对长上下文LLM的通用归因框架 [PDF](https://arxiv.org/pdf/2506.04202), [HTML](https://arxiv.org/abs/2506.04202)
 ### Authors
 Yanting Wang,Wei Zou,Runpeng Geng,Jinyuan Jia
@@ -8302,9 +6229,6 @@ Yanting Wang,Wei Zou,Runpeng Geng,Jinyuan Jia
 我们开发了TracLLM，这是第一个针对长上下文LLM的通用上下文溯源框架。我们的框架能够提高现有特征归因方法的有效性和效率。为了提高效率，我们在TracLLM中开发了一种基于启发式搜索的算法。我们还开发了贡献分数集成/去噪技术，以提高TracLLM的准确性。我们的评估结果表明，TracLLM能够有效识别导致LLM生成输出的长上下文中的文本。
 ### Conclusion
 我们的代码和数据可在以下链接获取：this https URL.
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 693. `cs.SE` - 需求工程中的领域知识：一项系统映射研究 [PDF](https://arxiv.org/pdf/2506.20754), [HTML](https://arxiv.org/abs/2506.20754)
 ### Authors
 Marina Araújo,Júlia Araújo,Romeu Oliveira,Lucas Romao,Marcos Kalinowski
@@ -8314,9 +6238,6 @@ Marina Araújo,Júlia Araújo,Romeu Oliveira,Lucas Romao,Marcos Kalinowski
 本文通过提供现有贡献的全面概述，包括用于将领域知识纳入RE实践的方法、技术及工具，填补了这一空白。研究采用了数据库搜索和迭代的雪球筛选相结合的系统映射方法，最终纳入了75篇符合条件的论文。这些信息支持研究者和实践者识别现有方法和未解决的问题，并指出了未来研究的有前途的方向，强调了开发可扩展的自动化和可持续解决方案的重要性，以将领域知识整合到RE过程中。
 ### Conclusion
 该研究通过提供一个全面的概述，有助于建立知识驱动的需求工程的概念和方法论基础。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 694. `cs.SE` - 机器学习中的敏捷管理：一项系统映射研究 [PDF](https://arxiv.org/pdf/2506.20759), [HTML](https://arxiv.org/abs/2506.20759)
 ### Authors
 Lucas Romao,Hugo Villamizar,Romeu Oliveira,Silvio Alonso,Marcos Kalinowski
@@ -8326,9 +6247,6 @@ Lucas Romao,Hugo Villamizar,Romeu Oliveira,Silvio Alonso,Marcos Kalinowski
 我们通过系统映射研究进行了一项综合搜索策略，结合数据库搜索和雪球法迭代，识别了 27 篇发表于 2008 年至 2024 年的论文。从这些论文中，我们确定了 8 个框架，并将推荐和实践分类为 8 个关键主题，如迭代灵活性、创新 ML 特定的工具和最小可行模型。研究中识别出的主要挑战是在 ML 相关任务中的准确工作量估算。这项研究通过概述领域现状并识别领域中的开放空白，做出了贡献。虽然存在相关工作，但仍需要更 robust 的实证评估来验证这些贡献。
 ### Conclusion
 本研究通过映射现状并识别领域中的空白，做出了贡献。虽然存在相关工作，但如果要验证这些贡献的有效性，仍需要更多的 robust 实证评估。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 695. `cs.LG` - 从网页搜索到具备推理能力的主动深度研究：用推理代理激励搜索 [PDF](https://arxiv.org/pdf/2506.18959), [HTML](https://arxiv.org/abs/2506.18959)
 ### Authors
 Weizhi Zhang,Yangning Li,Yuanchen Bei,Junyu Luo,Guancheng Wan,Liangwei Yang,Chenxuan Xie,Yuyao Yang,Wei-Chieh Huang,Chunyu Miao,Henry Peng Zou,Xiao Luo,Yusheng Zhao,Yankai Chen,Chunkit Chan,Peilin Zhou,Xinyang Zhang,Chenwei Zhang,Jingbo Shang,Ming Zhang,Yangqiu Song,Irwin King,Philip S. Yu
@@ -8338,9 +6256,6 @@ Weizhi Zhang,Yangning Li,Yuanchen Bei,Junyu Luo,Guancheng Wan,Liangwei Yang,Chen
 我们提出了一种新的范式——具备推理和自主能力的大型语言模型（LLMs）主导的主动深度研究。这些系统通过将自主推理、迭代检索和信息综合紧密整合进一个动态反馈循环中，超越了传统的信息检索技术。此外，我们还介绍了测试时的扩展法则，以形式化计算深度对推理和检索的影响。基于基准结果和开源实现的兴起，证明了主动深度研究不仅大幅优于现有方法，而且有望成为未来信息搜索的主要范式。
 ### Conclusion
 主动深度研究不仅显著超过了现有的方法，而且有着成为未来信息检索主导范式的潜力。所有相关的资源（包括行业产品、研究论文、基准数据集和开源实现）均收集于此链接：[此网址].
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 696. `cs.LG` - 使用潜在空间强化学习引导您的扩散政策 [PDF](https://arxiv.org/pdf/2506.15799), [HTML](https://arxiv.org/abs/2506.15799)
 ### Authors
 Andrew Wagenmaker,Mitsuhiko Nakamoto,Yunchu Zhang,Seohong Park,Waleed Yagoub,Anusha Nagabandi,Abhishek Gupta,Sergey Levine
@@ -8350,9 +6265,6 @@ Andrew Wagenmaker,Mitsuhiko Nakamoto,Yunchu Zhang,Seohong Park,Waleed Yagoub,Anu
 提出了使用潜在空间强化学习引导扩散策略的方法（DSRL），这种方法高度样本高效，只需要对扩散策略的黑盒访问，能够实现有效的实际强化学习中的自主策略改进。此外，DSRL避免了调整扩散策略权重的相关挑战，在实际强化学习中展示了高效的样本使用量和有效的表现提升
 ### Conclusion
 在仿真基准、真实世界机器人任务以及预训练通用策略的适应上，展示了DSRL的样本效率和实际效果。该研究通过高效的实际强化学习实现了快速的自主适应，是理解和提高扩散策略效果的重要步骤
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 697. `cs.LG` - Metis-RISE: RL Incentivizes and SFT Enhances Multimodal Reasoning Model Learning [PDF](https://arxiv.org/pdf/2506.13056), [HTML](https://arxiv.org/abs/2506.13056)
 ### Authors
 Haibo Qiu,Xiaohan Lan,Fanfan Liu,Xiaohu Sun,Delian Ruan,Peng Shi,Lin Ma
@@ -8362,9 +6274,6 @@ Haibo Qiu,Xiaohan Lan,Fanfan Liu,Xiaohu Sun,Delian Ruan,Peng Shi,Lin Ma
 本文提出了一种新颖的多模态推理模型学习方法——Metis-RISE。该方法不同于现有的方法，直接从强化学习（RL）阶段入手，无需先进行冷启动的监督微调（SFT）阶段，旨在通过激励模型的潜在推理能力，然后利用SFT阶段解决从RL过程中发现的两个关键挑战：任务中模型虽然拥有正确的推理能力但不一致地应用，以及模型完全缺失某些基础能力的问题。这种通过RL激励随后SFT增强的方法在7B和72B参数的两版本MLLMs上得到了应用，并在OpenCompass多模态推理排行榜上表现优异，两模型分别达到了同类模型中的最先进性能，72B版本排名第4位。
 ### Conclusion
 Metis-RISE方法在多模态推理模型的学习中展现出优越性，通过结合RL激励和SFT增强两种策略有效提升了模型的性能，并且已经在开源平台上提供相关信息。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 698. `cs.LG` - HARPT：移动健康应用中消费者信任和隐私担忧分析的语料库 [PDF](https://arxiv.org/pdf/2506.19268), [HTML](https://arxiv.org/abs/2506.19268)
 ### Authors
 Timoteo Kelly,Abdulkadir Korkmaz,Samuel Mallet,Connor Souders,Sadra Aliakbarpour,Praveen Rao
@@ -8374,9 +6283,6 @@ Timoteo Kelly,Abdulkadir Korkmaz,Samuel Mallet,Connor Souders,Sadra Aliakbarpour
 HARPT 数据集的创建过程中，作者克服了多个复杂性问题，包括定义细腻的标签方案、从大量噪声数据中提取相关内容，以及设计一种既能提高规模性又保持准确性的注解策略。该策略结合了基于规则的筛选、迭代的手动标注、针对特定数据集的目标增强以及使用基于变换器的分类器进行弱监督，以加速覆盖面。为了支持模型开发和评估，还专门标注了7,000条评论。
 ### Conclusion
 研究通过验证一系列分类模型，证明了在HARPT数据集上可以实现强劲的分类性能，并为未来的研究提供了基准。数据集被公开展示供健康信息学、网络安全和自然语言处理等领域的研究人员使用。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 699. `cs.SE` - 增强漏洞检测的跨函数多向关联洞察 [PDF](https://arxiv.org/pdf/2506.21014), [HTML](https://arxiv.org/abs/2506.21014)
 ### Authors
 Shaojian Qiu,Mengyang Huang,Jiahao Cheng
@@ -8386,9 +6292,6 @@ Shaojian Qiu,Mengyang Huang,Jiahao Cheng
 本文提出了一种跨函数多向关联分析框架（IFMA-VD），其核心在于构建代码行为超图并通过超边卷积提取多向关联特征。首先，将函数解析为代码属性图以生成内部函数特征；其次，通过分割程序依赖图构建代码行为超图，隔离并编码行为特征至超边；最后，利用超图网络捕获多向关联知识以增强漏洞检测。实验结果显示，与基线方法相比，IFMA-VD在F-测量和召回率上有所提升，并证实了多向关联特征能提升代码特征表示及IFMA-VD在实际数据集上的效果。
 ### Conclusion
 IFMA-VD框架通过识别和利用跨函数间多向关联关系，有效提高了漏洞检测的性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 700. `cs.SE` - T³: 多层次树形结构的大型语言模型驱动的自动程序修复 [PDF](https://arxiv.org/pdf/2506.21211), [HTML](https://arxiv.org/abs/2506.21211)
 ### Authors
 Quanming Liu,Xupeng Bu,Zhichao Yan,Ru Li
@@ -8398,9 +6301,6 @@ Quanming Liu,Xupeng Bu,Zhichao Yan,Ru Li
 提出了一种名为$T^3$的创新框架，将大型语言模型（LLMs）的强大推理能力与树搜索技术相结合，用于自动程序修复（APR）任务，提高了生成候选修复解决方案的准确性，并提供了优化APR任务中样本选择和修复策略的指导。
 ### Conclusion
 该研究通过系统评估了几种常见的CoT技术在APR任务中的性能，并建立了基于$T^3$框架的全面模型，该模型能够有效进行自动程序修复，并优化样本选择和修复策略，从而实现高效自动化调试。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 701. `cs.SE` - 通过自动化集成数据生成可靠不良事件概况以促进健康 (GRAPH-AID): 半自动化本体构建方法 [PDF](https://arxiv.org/pdf/2506.20851), [HTML](https://arxiv.org/abs/2506.20851)
 ### Authors
 Srikar Reddy Gadusu,Larry Callahan,Samir Lababidi,Arunasri Nishtala,Sophia Healey,Hande McGinty
@@ -8410,9 +6310,6 @@ Srikar Reddy Gadusu,Larry Callahan,Samir Lababidi,Arunasri Nishtala,Sophia Heale
 本文提出了一个用户友好的方法，利用Python及其rdflib库来支持本体开发。该方法通过整合美国食品药品监督管理局（FDA）不良反应报告系统（FAERS）数据库中的数据创建了一个Neo4j数据库，并开发了一个Python脚本自动生成所需的类及其公理，简化了集成过程。这种方法为在快速增长的不良药物事件数据集中生成本体提供了实际解决方案，支持了药物安全监测和公共卫生决策的进步。
 ### Conclusion
 本文提出的半自动化本体构建方法通过Python和rdflib库创建了一个实用的工具，简化了本体开发过程，支持了高效的药物安全监控和公共卫生决策。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 702. `cs.SE` - 维护MTEB：嵌入基准的长期实用性和可重现性 [PDF](https://arxiv.org/pdf/2506.21182), [HTML](https://arxiv.org/abs/2506.21182)
 ### Authors
 Isaac Chung,Imene Kerboua,Marton Kardos,Roman Solomatin,Kenneth Enevoldsen
@@ -8422,9 +6319,6 @@ Isaac Chung,Imene Kerboua,Marton Kardos,Roman Solomatin,Kenneth Enevoldsen
 本文提出了一种维护稳健的持续集成管道的方法，包括验证数据集的完整性、自动化测试执行以及评估基准结果的泛化能力。此外，还讨论了如何处理社区贡献，如何扩展基准以包含新的任务和数据集，这些工程实践对MTEB进行了扩展，使其更加全面，在保持质量和最终相关性方面发挥了关键作用。
 ### Conclusion
 本文的经验为面对类似挑战确保机器学习评估框架的实用性和可重现性中的基准维护者提供了宝贵的见解。MTEB仓库可通过此链接访问：this https URL
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 703. `cs.SE` - IXAII：针对决策支持系统的互动式可解释人工智能界面 [PDF](https://arxiv.org/pdf/2506.21310), [HTML](https://arxiv.org/abs/2506.21310)
 ### Authors
 Pauline Speckmann,Mario Nadj,Christian Janiesch
@@ -8434,9 +6328,6 @@ Pauline Speckmann,Mario Nadj,Christian Janiesch
 IXAII通过整合四种XAI方法（LIME、SHAP、Anchors和DiCE），并提供多种可视化选项，实现对不同用户群体的个性化解释界面。该系统让用户能够在解释内容和形式上拥有自主权，这种交互性和可解释性之间的结合为人工智能的解释实践和人机交互提供了新的视角，增强了透明度，是现有技术的一大创新。
 ### Conclusion
 研究结果表明，IXAII能够提供多种不同的解释，通过增强透明度被视为对用户具有帮助。通过缩小XAI方法、交互性和实际实施之间的差距，IXAII提供了一种新的可解释人工智能实践和人机交互的视角。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 704. `cs.SE` - 探索微前端：在电商平台中的案例研究应用 [PDF](https://arxiv.org/pdf/2506.21297), [HTML](https://arxiv.org/abs/2506.21297)
 ### Authors
 Ricardo Hideki Hangai Kojo(1),Luiz Fernando Corte Real(1),Renato Cordeiro Ferreira(1,2,3,4),Thatiane de Oliveira Rosa(1,5),Alfredo Goldman(1) ((1) University of São Paulo, (2) Jheronimus Academy of Data Science, (3) Technical University of Eindhoven, (4) Tilburg University, (5) Federal Institute of Tocantins)
@@ -8446,9 +6337,6 @@ Ricardo Hideki Hangai Kojo(1),Luiz Fernando Corte Real(1),Renato Cordeiro Ferrei
 论文通过结合调研与实际应用，评估了微前端架构在特定上下文中的适用性和效果，提出了其他替代方案也可能达到类似目标的观点，为未来采用微前端提供了参考依据。
 ### Conclusion
 在电商平台采用微前端虽然有效，但在某些情况下，采用单体前端或其他替代方案也可能达到类似的效果。微前端的选择主要取决于公司内部的具体条件，如单体扼杀和微服务采用，这使得可以通过基础设施重用和团队间的知识共享更轻松地实施。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 705. `cs.SE` - 合成需求的效果如何？评估LLM生成的数据集在AI4RE中的性能 [PDF](https://arxiv.org/pdf/2506.21138), [HTML](https://arxiv.org/abs/2506.21138)
 ### Authors
 Abdelkarim El-Hajjami,Camille Salinesi
@@ -8458,9 +6346,6 @@ Abdelkarim El-Hajjami,Camille Salinesi
 提出了 Synthline v1，这是一种增强的产品线方法，用于生成合成需求数据，扩展了早期 v0 版本，引入了先进的生成策略和内容审查技术。利用多样本提示策略显著提升了数据质量和多样性，通过自动提示优化技术（如 PACE）改进了功能分类的准确性，而基于相似性的内容审查虽然提高了多样性但有时会损害分类性能。研究发现，合成需求数据在某些任务上可以匹配甚至超过人工撰写的数据，特别是在安全性和缺陷分类方面表现更优。
 ### Conclusion
 研究结果指出，合成需求数据可以被用于 AI4RE，并通过系统生成的数据弥补了数据稀缺性的问题。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 706. `cs.SE` - 工程化RAG系统：设计、开发与评估 [PDF](https://arxiv.org/pdf/2506.20869), [HTML](https://arxiv.org/abs/2506.20869)
 ### Authors
 Md Toufique Hasan,Muhammad Waseem,Kai-Kristian Kemell,Ayman Asad Khan,Mika Saari,Pekka Abrahamsson
@@ -8470,9 +6355,6 @@ Md Toufique Hasan,Muhammad Waseem,Kai-Kristian Kemell,Ayman Asad Khan,Mika Saari
 本文介绍了针对政府、网络安全、农业、工业研究和医疗诊断五大领域的五个特定领域RAG应用的开发，每个系统结合了多语言光学字符识别、向量嵌入的语义检索以及与特定领域适应的LLM，部署在本地服务器或云API上以满足不同的用户需求。通过web基础评估，涉及100名参与者，考察了六个维度：易用性、相关性、透明度、响应性、准确性及推荐可能性。基于用户反馈和开发经验，记录了十二条关键的教训，强调了技术、运营和伦理问题对RAG系统可靠性和可使用性的挑战。
 ### Conclusion
 本文通过五个实际应用案例展现RAG系统的开发与评估，总结了系统在真实场景中的表现和遇到的挑战，提供了系统性的经验教训，为RAG系统的进一步研究和应用奠定了基础。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 707. `cs.SE` - 面向物联网增强事件日志的对象中心核心元模型 [PDF](https://arxiv.org/pdf/2506.21300), [HTML](https://arxiv.org/abs/2506.21300)
 ### Authors
 Yannis Bertrand,Christian Imenkamp,Lukas Malburg,Matthias Ehrendorfer,Marco Franceschetti,Joscha Grüger,Francesco Leotta,Jürgen Mangler,Ronny Seiger,Agnes Koschmider,Stefanie Rinderle-Ma,Barbara Weber,Estefania Serral
@@ -8482,9 +6364,6 @@ Yannis Bertrand,Christian Imenkamp,Lukas Malburg,Matthias Ehrendorfer,Marco Fran
 本文提出了一个核心模型，综合了现有数据模型中最关键的特点。这个核心模型基于共同需求制定，极大地促进了过程挖掘领域内的数据共享与协作。此外，采用典型的Python实现来评估该模型，并证明其能满足这些共同需求。
 ### Conclusion
 该核心模型是基于常见需求定制的，显著简化了物联网数据与传统流程数据的整合，为过程挖掘提供了统一的数据模型，从而促进了数据分析和协作。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 708. `cs.SE` - KOALA: 一种在解决编程任务时收集IDE数据的可配置工具 [PDF](https://arxiv.org/pdf/2506.21266), [HTML](https://arxiv.org/abs/2506.21266)
 ### Authors
 Daniil Karol,Elizaveta Artser,Ilya Vlasov,Yaroslav Golubev,Hieke Keuning,Anastasiia Birillo
@@ -8494,9 +6373,6 @@ Daniil Karol,Elizaveta Artser,Ilya Vlasov,Yaroslav Golubev,Hieke Keuning,Anastas
 KOALA工具解决了很多现有工具存在的问题，比如控制收集代码的粒度、收集编程环境中特定事件、以及配置的简便性。工具能够安装在IDE中并配置提供给学生必要的任务，启用或禁用某些IDE功能（如代码自动补全），运行调查。在问题解决过程中，插件收集了按照配置粒度的代码快照，IDE操作（如运行和调试），以及此前收集不到的数据，例如使用过的快捷键和文件间切换焦点。收集到的数据会被发送到随工具一起提供的服务器中，存储并通过标准化的ProgSnap2格式进行转换。这样一个工具使用的方法和能力，更加直观地显示出所收集数据的价值，能够提供有关学生如何解决编程任务的深层次见解。
 ### Conclusion
 研究团队通过开发KOALA工具，成功地解决了现有数据收集工具的诸多限制。KOALA能够方便快捷地收集到学生解决编程任务时的大量数据，收集的数据还包括不少此前未收集过的细节，如使用过的快捷键和文件间切换等。这些数据不仅可以验证学生是否正确应用了课程学习的知识，还能帮助科研人员或教育者发现学生存在的重要误区或对某些知识的理解偏差，从而进一步改进教育方法。同时，作为高度可配置的工具，KOALA也能适应不同课程或实验设计的需求。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 709. `cs.SE` - 通过不确定的人工指导进行强化学习的复杂模型转换 [PDF](https://arxiv.org/pdf/2506.20883), [HTML](https://arxiv.org/abs/2506.20883)
 ### Authors
 Kyanna Dagenais,Istvan David
@@ -8506,9 +6382,6 @@ Kyanna Dagenais,Istvan David
 本文提出了一种通过强化学习开发复杂MT序列的方法和技术框架，该框架可以利用可能不确定的人类建议进行引导。这一创新之处在于通过RL将自定义的MTs映射为RL程序来寻求最优的序列，同时还能利用不确定的人类指导来优化MT序列的开发过程。这种方法与传统的强化学习方法相比，更具备实际应用价值。
 ### Conclusion
 通过使用RL并结合不确定的人类指导，本文的方法显著改善了复杂MT序列的开发性能。通过对人类建议的确定性与及时性之间的平衡，该方法代表了RL驱动的工程中人类在闭环中作用的一种新方法。实验结果表明，即使人类建议存在不确定性，这种方法仍能有效提高MT序列的开发效率。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 710. `cs.SE` - ToolScan: 一种用于表征工具使用大语言模型错误的基准 [PDF](https://arxiv.org/pdf/2411.13547), [HTML](https://arxiv.org/abs/2411.13547)
 ### Authors
 Shirley Kokane,Ming Zhu,Tulika Awalgaonkar,Jianguo Zhang,Thai Hoang,Akshara Prabhakar,Zuxin Liu,Tian Lan,Liangwei Yang,Juntao Tan,Rithesh Murthy,Weiran Yao,Zhiwei Liu,Juan Carlos Niebles,Huan Wang,Shelby Heinecke,Caiming Xiong,Silivo Savarese
@@ -8518,9 +6391,6 @@ Shirley Kokane,Ming Zhu,Tulika Awalgaonkar,Jianguo Zhang,Thai Hoang,Akshara Prab
 我们提出了TOOLSCAN，这是一种新基准，旨在识别LLMs在工具使用任务输出中的错误模式。通过TOOLSCAN，我们证明即使是当前最先进的话语言模型在输出中也存在这些模式。这为研究者提供了指导错误缓解策略的依据。
 ### Conclusion
 TOOLSCAN是评估LLMs工具使用错误的有效基准。利用TOOLSCAN，研究者可以发现错误模式，并据此制定缓解策略，提高系统性能。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 711. `cs.SE` - 描述Haskell中学生提交的控制台I/O行为 [PDF](https://arxiv.org/pdf/2008.09253), [HTML](https://arxiv.org/abs/2008.09253)
 ### Authors
 Oliver Westphal,Janis Voigtländer
@@ -8530,9 +6400,6 @@ Oliver Westphal,Janis Voigtländer
 提出了一个小型形式化语言，用于描述简单的控制台I/O程序行为。该语言受到具体的应用案例——测试学生编写的Haskell程序的驱动。它结构类似于词法分析的正规表达式，但增加了全局变量等功能，这使得能够表达动态行为的广泛范围。基于该语言的执行跟踪接受语义，导出了所有有效执行踪迹的定义，通过抽样这些踪迹，可以机械地以概率方式进行程序行为与规范的检查。此外，该形式化语言在教育环境中的其他潜在用途还包括提供更有帮助的反馈，生成示例解决方案以及生成随机练习任务等。
 ### Conclusion
 研究结果表明，基于接受执行踪迹的语义，能够有效地机械检查程序行为与规范的一致性。由于该语言设定了清晰的规范，因此在未来使用中提供更优的教育支持是有潜力的。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 712. `cs.SE` - GPU Kernel Scientist: 一种由LLM驱动的迭代核优化框架 [PDF](https://arxiv.org/pdf/2506.20807), [HTML](https://arxiv.org/abs/2506.20807)
 ### Authors
 Martin Andrews,Sam Witteveen
@@ -8542,9 +6409,6 @@ Martin Andrews,Sam Witteveen
 该研究提出了一个使用LLM的自动方法来逐步改进GPU加速器内核，解决了对较新的或文档较少的GPU架构进行高效内核优化的挑战。这个方法包括：选择有潜力的代码版本作为新迭代的基础、基于现有代码和通用GPU文献生成优化假设、通过代码修改并利用外部评估系统的观察结果来进行实验，仅通过运行时间获取反馈。这种方法能够补偿在特定领域有限的人类专业知识，促进内核优化程序的自动化和民主化。
 ### Conclusion
 尽管从性能竞赛中获得的定量结果尚未披露，本文详细介绍了该架构和操作工作流，展示了LLM驱动方法在受限资源或快速演化的硬件环境中优化GPU内核的潜力，特别是强调了这一方法如何促进性能优化的民主化和加速。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 713. `cs.SE` - SceneGenAgent：基于编码代理的精确工业场景生成 [PDF](https://arxiv.org/pdf/2410.21909), [HTML](https://arxiv.org/abs/2410.21909)
 ### Authors
 Xiao Xia,Dan Zhang,Zibo Liao,Zhenyu Hou,Tianrui Sun,Jing Li,Ling Fu,Yuxiao Dong
@@ -8554,9 +6418,6 @@ Xiao Xia,Dan Zhang,Zibo Liao,Zhenyu Hou,Tianrui Sun,Jing Li,Ling Fu,Yuxiao Dong
 提出了SceneGenAgent，这是一种基于大型语言模型（LLMs）的生成工业场景的代理，通过C#代码实现精准的布局规划，解决了现有LLMs面临的空间布局复杂规划等难题。通过结构化格式、布局验证和迭代优化来确保准确度，并且通过自主开发的SceneInstruct数据集进一步增强了开源LLMs的性能，使其在真实世界中的工业场景生成任务中达到了出色的性能，接近于先进的模型如GPT-4o。同时保证了场景生成的准确性和可操作性，提高了实际应用中的适用性。
 ### Conclusion
 实验结果显示，由SceneGenAgent驱动的LLMs在工业场景生成任务中表现优异，达到81.0%的成功率，展示了其在真实工业场景生成中的实际应用能力。Datasets如SceneInstruct及代码等均已被公开，为开源LLMs提供了增强基础以应对更复杂任务。这些成果有效地解决了传统LLMs在精确生成工业场景时难以处理的问题，为工业制造领域的模拟提供了有力工具。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 714. `cs.SE` - 大型语言模型赋能的C到Rust代码翻译代理 [PDF](https://arxiv.org/pdf/2505.15858), [HTML](https://arxiv.org/abs/2505.15858)
 ### Authors
 HoHyun Sim,Hyeonjoong Cho,Yeonghyeon Go,Zhoulai Fu,Ali Shokri,Binoy Ravindran
@@ -8566,9 +6427,6 @@ C语言在构建系统级软件方面基础性作用显著，但其手动内存�
 提出了一个新的中间步骤——基于虚拟模糊测试的等价性测试（VFT）和一个生成性的规划框架——由大型语言模型驱动的C到Rust代码翻译代理（LAC2R）。VFT通过发现导致不同行为的输入参数，帮助LLM生成有信息量的诊断以修正Rust代码中的不安全部分。LAC2R使用MCTS系统化地组织由LLM引发的中间步骤，确保正确翻译。实验结果表明，LAC2R能够有效地对大规模的真实-world基准进行C到Rust的翻译。
 ### Conclusion
 本文提出了一种新的代理框架，用于解决C到Rust的翻译问题。通过引入VFT并利用MCTS组织中间步骤，LAC2R有效地克服了现有的挑战，并在大规模实际基准测试中展示了其有效性。
-# 20250627
-[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
-
 ## 715. `cs.SE` - Anonymized Network Sensing Graph Challenge [PDF](https://arxiv.org/pdf/2409.08115), [HTML](https://arxiv.org/abs/2409.08115)
 ### Authors
 Hayden Jananthan,Michael Jones,William Arcand,David Bestor,William Bergeron,Daniel Burrill,Aydin Buluc,Chansup Byun,Timothy Davis,Vijay Gadepally,Daniel Grant,Michael Houle,Matthew Hubbell,Piotr Luszczek,Peter Michaleas,Lauren Milechin,Chasen Milner,Guillermo Morales,Andrew Morris,Julie Mullen,Ritesh Patel,Alex Pentland,Sandeep Pisharody,Andrew Prout,Albert Reuther,Antonio Rosa,Gabriel Wachman,Charles Yee,Jeremy Kepner
