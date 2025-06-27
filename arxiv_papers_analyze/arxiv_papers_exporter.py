@@ -75,7 +75,6 @@ class ArxivPaperExporter:
 
         try:
             items = []
-            lastBuildDate = get_date_rfc822_string()
             with open(self.arxiv_papers_analyzed_jsonl, "r", encoding="utf-8") as jsonl_file:
                 jsonl_lines = jsonl_file.readlines()
                 jsonl_lines.reverse()
@@ -92,6 +91,7 @@ class ArxivPaperExporter:
                         topic = escape(f"{data['topic']}")
                         title = escape(f"{idx}. {topic}-{data['title']}")
                         link = escape(f"{data['pdf_url']}")
+                        lastBuildDate = get_date_rfc822_string(data['llm_update_time'])
                         content = escape(f"Background: \n{data['background']}\n\nInnovation: \n{data['innovation']}\n\nConclusion: \n{data['conclusion']}<a href='https://github.com/nituchao/latest_arxiv_analyze_ai' ><img src='https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss' alt='Visitors' title='Visitors'></a>")
 
                         item = PyRSS2Gen.RSSItem(  

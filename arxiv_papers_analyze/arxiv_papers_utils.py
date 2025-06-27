@@ -22,10 +22,13 @@ def get_date_string(dt=None, fmt='%Y%m%d', tz=timezone('Asia/Shanghai')):
         return datetime.now(tz).strftime(fmt)
     return dt.strftime(fmt)
 
-def get_date_rfc822_string(dt=None, tz=timezone('Asia/Shanghai')):
+def get_date_rfc822_string(dt_str=None, tz=timezone('Asia/Shanghai')):
     
-    if dt is None:
+    if dt_str is None:
         dt = datetime.now(tz)
+    else:
+        dt = datetime.strptime(dt_str, "%Y-%m-%d %H:%M:%S")
+        dt = dt.replace(tzinfo=ZoneInfo("Asia/Shanghai"))
     date_rfc822 = format_datetime(dt)
 
     return date_rfc822
