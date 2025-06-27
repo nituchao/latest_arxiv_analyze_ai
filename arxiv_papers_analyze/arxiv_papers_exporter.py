@@ -49,14 +49,15 @@ class ArxivPaperExporter:
                         line = line.replace("\\n", "").replace("\n", "")
                         line = convert_c_escapes_to_ascii(line)
                         data = json.loads(line)
-                        md_file.write(f"# {idx}. `{data['topic']}` - {data['title']} [PDF]({data['pdf_url']}), [HTML]({data['html_url']})\n")
-                        md_file.write(f"## Authors\n")
+                        md_file.write(f"# {self.current_date}\n[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)\n\n")
+                        md_file.write(f"## {idx}. `{data['topic']}` - {data['title']} [PDF]({data['pdf_url']}), [HTML]({data['html_url']})\n")
+                        md_file.write(f"### Authors\n")
                         md_file.write(f"{data['authors']}\n")
-                        md_file.write(f"## Background\n")
+                        md_file.write(f"### Background\n")
                         md_file.write(f"{data['background']}\n")
-                        md_file.write(f"## Innovation\n")
+                        md_file.write(f"### Innovation\n")
                         md_file.write(f"{data['innovation']}\n")
-                        md_file.write(f"## Conclusion\n")
+                        md_file.write(f"### Conclusion\n")
                         md_file.write(f"{data['conclusion']}\n")
                     except Exception as e:
                         print(f"idx: {idx}, error happens: {e}, skip this paper, line: {line}")
@@ -91,7 +92,7 @@ class ArxivPaperExporter:
                         topic = escape(f"{data['topic']}")
                         title = escape(f"{idx}. {topic}-{data['title']}")
                         link = escape(f"{data['pdf_url']}")
-                        content = escape(f"Background: \n{data['background']}\n\nInnovation: \n{data['innovation']}\n\nConclusion: \n{data['conclusion']}")
+                        content = escape(f"Background: \n{data['background']}\n\nInnovation: \n{data['innovation']}\n\nConclusion: \n{data['conclusion']}<a href='https://github.com/nituchao/latest_arxiv_analyze_ai' ><img src='https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss' alt='Visitors' title='Visitors'></a>")
 
                         item = PyRSS2Gen.RSSItem(  
                             title = title,  
@@ -139,7 +140,7 @@ class ArxivPaperExporter:
                         llm_update_time = escape(f"{data['llm_update_time']}")
                         
                         summary = escape(f"{data['background']}")
-                        content = escape(f"Background: <br>{data['background']}<br><br>Innovation: <br>{data['innovation']}<br><br>Conclusion: <br>{data['conclusion']}")
+                        content = escape(f"Background: <br>{data['background']}<br><br>Innovation: <br>{data['innovation']}<br><br>Conclusion: <br>{data['conclusion']}<a href='https://github.com/nituchao/latest_arxiv_analyze_ai' ><img src='https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss' alt='Visitors' title='Visitors'></a>")
                         entry = get_arxiv_papers_feed_atom_entry(id, title, link, author, topic, summary, content, llm_update_time)
                         
                         atom_entry_list.append(entry)
