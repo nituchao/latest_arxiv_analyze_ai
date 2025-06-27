@@ -1,4 +1,4 @@
-# 20250627 [![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss&right_color=green&left_color=red&left_text=Nituchao%20Subscribe%20Visitors)](https://github.com/nituchao/latest_arxiv_analyze_ai)
+# 20250627 [![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss&right_color=green&left_color=red&left_text=Nituchao%20Subscribe%20Visitors)](https://github.com/nituchao/latest_arxiv_analyze_ai)
 
 # 1. `cs.AI` - 全球意识规划叙事增强大型视觉语言模型规划者 [PDF](https://arxiv.org/pdf/2506.21230), [HTML](https://arxiv.org/abs/2506.21230)
 ## Authors
