@@ -51,7 +51,7 @@ class ArxivPaperAnalyst:
             paperAnalysis = completion.choices[0].message.content
             paperAnalysis = json.loads(paperAnalysis)
             
-            paper_analysis['llm_update_time'] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            paper_analysis['llm_update_time'] = get_date_string()
 
             paper_analysis['topic'] = paper['topic']
             paper_analysis['pdf_url'] = paper['pdf_url']
