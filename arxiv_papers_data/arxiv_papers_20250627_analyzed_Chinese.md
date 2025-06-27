@@ -1,3 +1,5 @@
+# 20250627 [![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss&right_color=green&left_color=red&left_text=Nituchao%20Subscribe%20Visitors)](https://github.com/nituchao/latest_arxiv_analyze_ai)
+
 # 1. `cs.AI` - 全球意识规划叙事增强大型视觉语言模型规划者 [PDF](https://arxiv.org/pdf/2506.21230), [HTML](https://arxiv.org/abs/2506.21230)
 ## Authors
 Junhao Shi,Zhaoye Fei,Siyin Wang,Qipeng Guo,Jingjing Gong,Xipeng QIu
@@ -7,6 +9,7 @@ Junhao Shi,Zhaoye Fei,Siyin Wang,Qipeng Guo,Jingjing Gong,Xipeng QIu
 本文提出了一种名为World-Aware Planning Narrative Enhancement (WAP)的新框架，该框架通过视觉外观建模、空间推理、功能抽象和语义接地四种认知能力，增强了LVLMs的环境理解能力。同时，该框架通过仅使用原始视觉观察并通过梯度学习进行模型开发和评估，克服了传统方法的局限性。实验结果表明，该方法显著提高了任务成功率，特别是在常识推理和长时间规划方面。增强后的开源模型在EB-ALFRED基准测试中表现出色，远超诸如GPT-4o和Claude-3.5-Sonnet等专有系统。
 ## Conclusion
 WAP框架显著提高了利用LVLMs进行后续任务的规划能力，特别是在处理陌生环境和多步骤目标的复杂场景时。通过增强模型的认知能力，WAP使得LVLMs能够更深入地理解和应对各种环境，提高任务的成功率和效果。
+
 # 2. `cs.AI` - IXAII：决策支持系统中的一种互动可解释人工智能界面 [PDF](https://arxiv.org/pdf/2506.21310), [HTML](https://arxiv.org/abs/2506.21310)
 ## Authors
 Pauline Speckmann,Mario Nadj,Christian Janiesch
