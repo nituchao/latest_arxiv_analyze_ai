@@ -6422,7 +6422,7 @@ Yue Li,Xin Yi,Dongsheng Shi,Gerard de Melo,Xiaoling Wang,Linlin Wang
 ### Authors
 Jai Bardhan,Tanumoy Mandal,Subhadip Mitra,Cyrin Neeraj,Mihir Rawat
 ### Background
-本文基于我们之前在[J. Bardhan et al., Machine learning-enhanced search for a vectorlike singlet B quark decaying to a singlet scalar or pseudoscalar, Phys. Rev. D 107 (2023) 115001; arXiv:2212.02442]中的研究，探讨LHC下面对矢量奇异数B夸克对产生后异常衰变成新的规范单态（伪）标量场Φ和b夸克的前景。在电弱对称性破缺后，Φ主要以$gg/bb$终态衰变，产生完全hadronic $2b+4j$或$6b$特征。由于标准模型背景巨大且缺乏带电标尺，这是一个难以探索的通道。为克服这一挑战，我们采用了包含图神经网络后接深度神经网络的混合深度学习模型，估计这种最先进的深度学习分析流水线在完全奇异衰变的情况下，即衰变分支比BR$(B to btext{Φ}) = 100text{%}$时，可以实现与半电离模式相似的性能，在高亮度LHC（HL-LHC）处，$M_B$可达到约1.8（2.4）TeV的发现（排除）范围。
+本文基于我们之前在[J. Bardhan et al., Machine learning-enhanced search for a vectorlike singlet B quark decaying to a singlet scalar or pseudoscalar, Phys. Rev. D 107 (2023) 115001; arXiv:2212.02442]中的研究，探讨LHC下面对矢量奇异数B夸克对产生后异常衰变成新的规范单态（伪）标量场Φ和b夸克的前景。在电弱对称性破缺后，Φ主要以$gg/bb$终态衰变，产生完全hadronic $2b+4j$或$6b$特征。由于标准模型背景巨大且缺乏带电标尺，这是一个难以探索的通道。为克服这一挑战，我们采用了包含图神经网络后接深度神经网络的混合深度学习模型，估计这种最先进的深度学习分析流水线在完全奇异衰变的情况下，即衰变分支比BR$(B to btext{Φ}) = 100%$时，可以实现与半电离模式相似的性能，在高亮度LHC（HL-LHC）处，$M_B$可达到约1.8（2.4）TeV的发现（排除）范围。
 ### Innovation
 我们采用了一种混合深度学习模型，该模型以图神经网络为先驱，后接深度神经网络。这种方法能够克服困难的hadronic终态背景，提高对矢量奇异数B夸克奇异衰变的发现能力，特别是在完全没有特征标尺和巨大标准模型背景的极端情况下，能够实现性能媲美半电离模式的结果，显著扩展了对探测该物理过程的界限。
 ### Conclusion
