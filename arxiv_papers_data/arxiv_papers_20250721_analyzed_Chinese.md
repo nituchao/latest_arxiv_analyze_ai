@@ -4705,7 +4705,7 @@ Nikola Pavlovic,Sudeep Salgia,Qing Zhao
 ### Background
 研究了上下文多臂老虎机中上下文是随机的场景，其中潜在的奖励函数属于已知的再生核希尔伯特空间。在差分隐私的额外约束下，代理需要确保查询点序列在上下文和奖励序列的双重意义上是差分私有的。
 ### Innovation
-提出了一种新颖的算法，该算法在联合差分隐私和局部差分隐私模型中分别实现了累计遗憾的最优保证textasciicircumtextasciitildetextasciitildetextasciitilde textbackslash mathcal{{O}}(textasciicircumtextasciitildetextasciitildetextasciitilde textbackslash sqrt{{textbackslash gamma}_T T}+frac{textbackslash textbackslash gamma}_T}{textbackslash varepsilon_{textbackslashmathrm{DP}}})和textasciicircumtextasciitildetextasciitildetextasciitilde textbackslash mathcal{{O}}(textasciicircumtextasciitildetextasciitildetextasciitilde textbackslash sqrt{{textbackslash gamma}_T T}+frac{textbackslash textbackslash gamma}_Ttextbackslash sqrt{T}}{textbackslash varepsilon_{textbackslashmathrm{DP}}})，其中textbackslash textbackslash gamma}_T是核的有效维数，textbackslash varepsilon_{textbackslashmathrm{DP}} > 0是隐私参数。提出的算法的关键成分是一种新颖的私人核岭回归估计器，基于私人协方差估计和私人随机投影的组合。与其他经典方法相比，它具有显著降低的灵敏度，同时保持较高的预测准确性，从而使算法能够实现最新的性能保证。
+提出了一种新颖的算法，该算法在联合差分隐私和局部差分隐私模型中分别实现了累计遗憾的最优保证。提出的算法的关键成分是一种新颖的私人核岭回归估计器，基于私人协方差估计和私人随机投影的组合。与其他经典方法相比，它具有显著降低的灵敏度，同时保持较高的预测准确性，从而使算法能够实现最新的性能保证。
 ### Conclusion
 该算法在满足差分隐私约束的情况下，通过结合私人协方差估计和私人随机投影技术，提供了高效的性能保障，解决了核上下文多臂老虎机问题。
 ## 524. `cs.LG` - COREVQA: 一个基于群众观察与推理关联的视觉问答基准 [PDF](https://arxiv.org/pdf/2507.13405), [HTML](https://arxiv.org/abs/2507.13405)
