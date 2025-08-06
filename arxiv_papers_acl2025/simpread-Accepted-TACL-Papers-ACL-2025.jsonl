@@ -1,0 +1,42 @@
+{"title": "Phonetic Reconstruction of the Consonant System of Middle Chinese via Mixed Integer Optimization", "authors": "Xiaoxi Luo, Weiwei Sun"}
+{"title": "Benchmarking Uncertainty Quantification Methods for Large Language Models with LM-Polygraph", "authors": "Roman Vashurin, Ekaterina Fadeeva, Artem Vazhentsev, Lyudmila Rvanova, Akim Tsvigun, Daniil Vasilev, Rui Xing, Abdelrahman “Boda” Sadallah, Kirill Grishchenkov, Sergey Petrakov, Alexander Panchenko, Timothy Baldwin, Preslav Nakov, Maxim Panov, Artem Shelmanov"}
+{"title": "LLM Reading Tea Leaves: Automatically Evaluating Topic Models with Large Language Models", "authors": "Xiaohao Yang, He Zhao, Dinh Phung, Wray Buntine, Lan Du"}
+{"title": "LLM Reading Tea Leaves: Automatically Evaluating Topic Models with Large Language Models", "authors": "Same paper above"}
+{"title": "NLP Security and Ethics, in the Wild", "authors": "Heather Lent, Erick Galinkin, Yiyi Chen, Jens Myrup Pedersen, Leon Derczynski, Johannes Bjerva"}
+{"title": "The Thai Universal Dependency Treebank", "authors": "Panyut Sriwirote, Wei Qi Leong, Charin Polpanumas, Santhawat Thanyawong, William Tjhi, Wirote Aroonmanakun, Attapol T Rutherford"}
+{"title": "Know Your Limits: A Survey of Abstention in Large Language Models", "authors": "Bingbing Wen, Jihan Yao, Shangbin Feng, Chenjun Xu, Yulia Tsvetkov, Bill Howe, Lucy Lu Wang"}
+{"title": "Few-shot Multilingual Open-domain QA from 5 Examples", "authors": "Fan Jiang, Tom Drummond, Trevor Cohn"}
+{"title": "How “Real” is Your Real-Time Simultaneous Speech-to-Text Translation System?", "authors": "Sara Papi, Peter Polak, Dominik Macháček, Ondřej Bojar"}
+{"title": "TaxoPro: A Plug-In LoRA-based Cross-Domain Method for Low-Resource Taxonomy Completion", "authors": "Hongyuan Xu, Yuhang Niu, Ciyi Liu, Yanlong Wen, Xiaojie Yuan"}
+{"title": "Patchwise Cooperative Game-based Interpretability Method for Large Vision-Language Models", "authors": "Yao Zhu, Yunjian Zhang, Zizhe Wang, Xiu Yan, Peng Sun, Xiangyang Ji"}
+{"title": "A Comparative Approach for Auditing Multilingual Phonetic Transcript Archives", "authors": "Farhan Samir, Emily, Shreya Prakash, Márton Sóskuthy, Vered Shwartz, Jian Zhu"}
+{"title": "TANQ: An open domain dataset of table answered questions", "authors": "Mubashara Akhtar, Chenxi Pang, Andreea Marzoca, Yasemin Altun, Julian Eisenschlos"}
+{"title": "Sense-Specific Historical Word Usage Generation", "authors": "Pierluigi Cassotti, Nina Tahmasebi"}
+{"title": "Navigating the Landscape of Hint Generation Research: From the Past to the Future", "authors": "Anubhav Jangra, Jamshid Mozafari, Adam Jatowt, Smaranda Muresan"}
+{"title": "Exploring Practical Gaps in Using Cross Entropy to Implement Maximum Mutual Information Criterion for Rationalization", "authors": "Wei Liu, Zhiying Deng, Zhongyu Niu, Jun Wang, Haozhao Wang, Ruixuan Li"}
+{"title": "Data Contamination Quiz: A Tool to Detect and Estimate Contamination in Large Language Models", "authors": "Shahriar Golchin, Mihai Surdeanu"}
+{"title": "MURI: High-Quality Instruction Tuning Datasets for Low-Resource Languages via Reverse Instructions", "authors": "Abdullatif Köksal, Marion Thaler, Ayyoob Imani, Ahmet Üstün, Anna Korhonen, Hinrich Schütze"}
+{"title": "(Perhaps) Beyond Human Translation: Harnessing Multi-Agent Collaboration for Translating Ultra-Long Literary Texts", "authors": "Minghao Wu, Jiahao Xu, Yulin Yuan, Gholamreza Haffari, Longyue Wang, Weihua Luo, Kaifu Zhang"}
+{"title": "A Context-aware Framework for Translation-mediated Conversations", "authors": "José Pombal, Sweta Agrawal, Emmanouil Zaranis, Patrick Fernandes, André Martins"}
+{"title": "Culturally Aware and Adapted NLP: A Taxonomy and a Survey of the State of the Art", "authors": "Chen Cecilia Liu, Iryna Gurevych, Anna Korhonen"}
+{"title": "Retrieval-style In-Context Learning for Few-shot Hierarchical Text Classification", "authors": "Huiyao Chen, Zulong Chen, Yu Zhao, Mengjia Wang, Liangyue Li, Meishan Zhang, Min Zhang"}
+{"title": "Hypernetworks for Personalizing ASR to Atypical Speech", "authors": "Dianna Yee, Max Müller-Eberstein, Karren Yang, Gautam Varma Mantena, Colin Lea"}
+{"title": "CAMELL: Confidence-based Acquisition Model for Efficient Self-supervised Active Learning with Label Validation", "authors": "Carel van Niekerk, Christian Geishauser, Michael Heck, Shutong Feng, Hsien-Chin Lin, Nurul Lubis, Benjamin Ruppik, Renato Vukovic, Milica Gašić"}
+{"title": "TabVer: Tabular Fact Verification with Natural Logic", "authors": "Rami Aly, Andreas Vlachos"}
+{"title": "OPT-Tree: Speculative Decoding with Adaptive Draft Tree Structure", "authors": "Jikai Wang, Yi Su, Juntao Li, Qinrong Xia, Zi Ye, Xinyu Duan, Zhefeng Wang, Min Zhang"}
+{"title": "Salute the Classic: Revisiting Challenges of Machine Translation in the Age of Large Language Models", "authors": "Jianhui Pang, Fanghua Ye, Derek Fai Wong, Dian Yu, Shuming Shi, Zhaopeng Tu, Longyue Wang"}
+{"title": "DEAR: Disentangled Event-Agnostic Representation Learning for Early Fake News Detection", "authors": "Xiao Pu, Hao Wu, Xiuli Bi, Yu Wu, Xinbo Gao"}
+{"title": "Supervised Neural Topic Modeling with Label Alignment", "authors": "Ruihao Chen, Hegang Chen, Yuyin Lu, Yanghui Rao, Chunjiang Zhu"}
+{"title": "Investigating Adversarial Trigger Transfer in Large Language Models", "authors": "Nicholas Carl Meade, Arkil Patel, Siva Reddy"}
+{"title": "Improving Text-to-SQL with Constrained Decoding of Satisfiable Plans and Faithful Queries", "authors": "Christopher Coleman, David Demeter, Doug Downey"}
+{"title": "Diverse AI Feedback For Large Language Model Alignment", "authors": "Tianshu Yu"}
+{"title": "BroadLLM: Wider and Deeper LLM Networks are Fairer LLM Evaluators", "authors": "Xinghua Zhang, Bowen Yu, Haiyang Yu, Yangyu Lv, Tingwen Liu, Fei Huang, Hongbo Xua, Yongbin Li"}
+{"title": "Transformers as Transducers", "authors": "Lena Strobl, Dana Angluin, David Chiang, Jonathan Rawski, Ashish Sabharwal"}
+{"title": "Self-Rationalization in the Wild: A Large Scale Out-of-Distribution Evaluation on NLI-related tasks", "authors": "Jing Yang, Max Glockner, Anderson Rocha, Iryna Gurevych"}
+{"title": "STPar:AStructure-AwareTriaffineParserforScreenplay CharacterCoreferenceResolution", "authors": "Li Zheng, Hao Fei, Lei Chen, Bobo Li, Fei Li, Chong Teng, Liang Zhao, Donghong Ji"}
+{"title": "Contextualized Evaluations: Taking the Guesswork Out of Language Model Evaluations", "authors": "Chaitanya Malaviya, Joseph Chee Chang, Dan Roth, Mohit Iyyer, Mark Yatskar, Kyle Loa"}
+{"title": "MTRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems", "authors": "Yannis Katsis, Sara Rosenthal, Kshitij Fadnis, Chulaka Gunasekara, Young-Suk Lee, Lucian Popa, Vraj Shah, Huaiyu Zhu, Marina Danilevsky"}
+{"title": "Human Choice Prediction in Language-Based Persuasion Games: Simulation-Based Off-Policy Evaluation", "authors": "Eilam Shapira, Omer Madmon, Reut Apel, Moshe Tennenholtz, Roi Reichart"}
+{"title": "Continual Pre-training on Character-Level Noisy Texts Makes Decoder-based Language Models Robust Few-shot Learners", "authors": "Takeshi Kojima, Yutaka Matsuo, Yusuke Iwasawa"}
+{"title": "DARE: Diverse Visual Question Answering with Robustness Evaluation", "authors": "Hannah Sterz, Jonas Pfeiffer, Ivan Vuli´c"}
+{"title": "Explanatory Summarization with Discourse-Driven Planning", "authors": "Dongqi Liu, Xi Yu, Vera Demberg, Mirella Lapata"}
