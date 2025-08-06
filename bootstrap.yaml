@@ -27,10 +27,13 @@ llm:
 # llm prompt info
 prompt:
     system: |
-        You are a professional paper translator.
+        You are a professional paper analyst.
         You should not respond too long output.
         Your output should in language {}.
-        Please translate the following content of papers.
+        Please analyze the following content of papers.
     user: |
+        please analyze the following content of paper, tell me the `background`, `innovation`, `conclusion` of this paper.
         please translate the following title of paper.
-        title: {}.
+        content: {},
+        title: {},
+        the result is output in a parseable json format containing fields 'title', 'background', 'innovation', 'conclusion'.
