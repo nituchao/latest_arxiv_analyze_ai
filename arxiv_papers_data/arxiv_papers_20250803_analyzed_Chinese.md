@@ -5311,7 +5311,7 @@ Luis Roque,Carlos Soares,Vitor Cerqueira,Luis Torgo
 通过使用L-GTA模型在模型的潜在空间中进行受控变换，该方法能够生成保留原始数据内在特性的新时间序列。L-GTA能够应用多种基本变换，并可以综合这些变换生成更复杂的时间序列数据集。实验结果表明，与直接转换方法相比，L-GTA生成的增强数据更加可靠、一致和可控，这在预测精度和相似性指标方面带来了显著改善。
 ### Conclusion
 L-GTA模型在多种真实数据集上的评估表明，它能够生成更可靠的、一致的和可控的时间序列增强数据。这导致了在预测精度和相似性指标上的显著提高。
-## 591. `cs.LG` - Manifold-regularised Signature Kernel Large-Margin $boldsymbol{boldsymbol{boldsymbol{boldsymbol{boldsymbol{boldsymbol{boldsymbol{boldsymbol{boldsymbol{boldsymbol{boldsymbol{boldsymbol{boldsymbol{boldsymbol{boldsymbol{boldsymbol{boldsymbol{boldsymbol{boldsymbol{boldsymbol{boldsymbol{boldsymbol{boldsymbol{boldsymbol{boldsymbol{boldsymbol{boldsymbol{boldsymbol{boldsymbol{{$l_p}}}}-text{SVDD}}}}}}}})}})}})}})}})}}}$ for Multidimensional Time Series Anomaly Detection [PDF](https://arxiv.org/pdf/2507.23449), [HTML](https://arxiv.org/abs/2507.23449)
+## 591. `cs.LG` - Manifold-regularised Signature Kernel Large [PDF](https://arxiv.org/pdf/2507.23449), [HTML](https://arxiv.org/abs/2507.23449)
 ### Authors
 Shervin Rahimzadeh Arashloo
 ### Background

@@ -3542,7 +3542,7 @@ TextSAM-EUS是首个结合提示学习在SAM基础上进行医学图像分割的
 ### Authors
 Ravin Kumar
 ### Background
-文章提出了APTx Neuron，这是一种新颖且统一的神经计算单元，能够将非线性激活和线性变换整合为单一可训练表达式，从而消除单独的激活层需求，使架构既高效又简洁。所述神经元基于APTx激活函数，并采用表达式 $y = frac{text{sum}((text{tanh}(beta_i x_i) + text{alpha}_i )text{gamma}_i x_i) + text{delta})}{{text{gamma}_i x_i + beta_i}}$ 的形式，所有参数 $text{alpha}_i$，$beta_i$，$text{gamma}_i$，和 $text{delta}$ 都是可训练的。该架构在MNIST数据集上进行了验证，在大约332K可训练参数下，仅用11个epoch就达到了96.69%的测试准确率。这些结果展示了APTx Neuron相比传统神经元在表达能力和计算效率方面的优势，指向了新的统一神经元设计和其架构的新范式。
+文章提出了APTx Neuron，这是一种新颖且统一的神经计算单元，能够将非线性激活和线性变换整合为单一可训练表达式，从而消除单独的激活层需求，使架构既高效又简洁。所述神经元基于APTx激活函数，并采用表达式 y = frac{text{sum}((text{tanh}(beta_i x_i) + text{alpha}_i )text{gamma}_i x_i) + text{delta})}gamma_i x_i + beta_i 的形式，所有参数 $text{alpha}_i$，$beta_i$，$text{gamma}_i$，和 $text{delta}$ 都是可训练的。该架构在MNIST数据集上进行了验证，在大约332K可训练参数下，仅用11个epoch就达到了96.69%的测试准确率。这些结果展示了APTx Neuron相比传统神经元在表达能力和计算效率方面的优势，指向了新的统一神经元设计和其架构的新范式。
 ### Innovation
 提出了APTx Neuron，其将非线性激活和线性变换整合到一个可训练的表达式中，从而省去了单独的激活层，使架构既高效又简约。此外，该神经元能够以更高效的方式表示和处理数据，具有更好的表达能力和计算效率，相比传统神经元有显著改进。这是一种新的统一神经元设计范式，对后续的研究和应用有着积极的推动作用。
 ### Conclusion
