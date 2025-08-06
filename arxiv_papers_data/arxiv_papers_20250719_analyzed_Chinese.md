@@ -3058,7 +3058,7 @@ Songlin Li,Guofeng Yu,Zhiqing Guo,Yunfeng Diao,Dan Ma,Gaobo Yang,Liejun Wang
 ### Background
 深度学习（DL）驱动的图像操纵定位（IML）方法近年来取得了显著成果，但通常依赖大规模的像素级标注数据集。为了克服高质量标注难以获取的挑战，一些弱监督方法通过使用图像级标注来进行区域分割，但这种监督信号不足导致性能受限。
 ### Innovation
-本文提出了一种基于涂鸦标注的弱监督IML框架，首先重新标注主流IML数据集使用涂鸦标签，建立了首个基于涂鸦的IML数据集，还提出了自监督训练、先验感知特征调制模块（PFMM）、门控自适应融合模块（GAFM）及基于置信度的熵最小化损失（${text{L}}_{{text{CEM}}}$）等技术创新。
+本文提出了一种基于涂鸦标注的弱监督IML框架，首先重新标注主流IML数据集使用涂鸦标签，建立了首个基于涂鸦的IML数据集，还提出了自监督训练、先验感知特征调制模块（PFMM）、门控自适应融合模块（GAFM）及基于置信度的熵最小化损失（L_CEM）等技术创新。
 ### Conclusion
 实验结果表明，我们的方法在分布内和分布外的表现优于现有的完全监督方法。
 ## 341. `cs.CV` - Channel-wise Motion Features for Efficient Motion Segmentation [PDF](https://arxiv.org/pdf/2507.13082), [HTML](https://arxiv.org/abs/2507.13082)
