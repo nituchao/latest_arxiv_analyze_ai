@@ -1,0 +1,12 @@
+# 20251010
+[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
+
+## 1. `cs.AI` - LLMs for Process Model Analysis and Optimization [PDF](https://arxiv.org/pdf/2510.07489), [HTML](https://arxiv.org/abs/2510.07489)
+### Authors
+Akhil Kumar,Jianliang Leon Zhao,Om Dobariya
+### Background
+该论文探讨了大型语言模型（LLMs）在理解流程模型、发现语法规则错误以及通过自然语言（NL）接口进行深入推理方面的应用。背景在于，现有系统和手动方法在处理流程模型的复杂性和错误时可能不够有效。
+### Innovation
+研究发现，虽然未经训练的LLMs如ChatGPT（模型o3）在零样本设置下竟能有效理解BPMN流程模型并以语法规则、逻辑和语义层面智能回答查询，但不同模型在准确性和有效性上存在差异。研究表明LLMs可以作为业务流程设计者和用户的助理发挥重要作用，同时也研究了LLMs的推理过程和深层次推理能力。
+### Conclusion
+研究结果显示，LLMs可以在业务流程分析和优化中发挥有价值的辅助作用，并且在理解和推理流程模型方面显示出类人特质。这一发现为将来利用LLMs改进业务流程提供了新的视角。
