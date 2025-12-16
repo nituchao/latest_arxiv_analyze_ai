@@ -1,0 +1,183 @@
+# 20251216
+[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
+
+## 1. `cs.AI` - CAPTURE: 用于解决 CAPTCHA 的大视觉语言模型的基准和评估 [PDF](https://arxiv.org/pdf/2512.11323), [HTML](https://arxiv.org/abs/2512.11323)
+### Authors
+Jianyi Zhang,Ziyin Zhou,Xu Ji,Shizhao Liu,Zhangchi Zhao
+### Background
+传统的文本和图像综合挑战（CAPTCHA）测试基准局限于特定的研究目标，导致现有的 CAPTCHA 基准未能全面覆盖所有类型。此外，专门为大视觉语言模型（LVLMs）定制的专门基准不足。
+### Innovation
+提出了新的 CAPTURE CAPTCHA 基准，专注于 LVLMs，包含4种主要类别、25种子类型和来自31个供应商的数据，具有广泛的类别多样性、大规模数据和定制的 LVLM 标签，填补了先前研究在数据全面性和标签相关性方面的空白。
+### Conclusion
+当前的 LVLMs 在解决 CAPTCHA 方面的表现较差。CAPTURE 基准可以提供多维度且全面的评测，发现现有模型的不足。
+## 2. `cs.AI` - FutureWeaver: 通过模块化合作规划多智能体系统的测试时间计算 [PDF](https://arxiv.org/pdf/2512.11213), [HTML](https://arxiv.org/abs/2512.11213)
+### Authors
+Dongwon Jung,Peng Shi,Yi Zhang
+### Background
+近期研究表明，重复采样、自我核实和自我反思等技术可以通过在推理时间分配更多计算来显著提高任务成功，但对于多智能体系统的多个代理应用这些技术时，缺乏合理的机制来分配计算以促进智能体间的协作、扩展推理时间的扩展到协作交互、以及在明确的预算约束下分配计算。
+### Innovation
+提出了一种名为FutureWeaver的框架，该框架在固定预算下规划和优化多智能体系统的测试时间计算分配。FutureWeaver利用可模块化的合作机制，通过对过去的轨迹进行自我游戏反思来抽象出重复的交互模式，并将其封装为可调用的函数。这种框架在当前任务状态和未来步骤上实现双重规划架构，以优化计算分配。
+### Conclusion
+实验结果表明，FutureWeaver在不同的预算设置下始终优于基线，验证了其在推理时优化多智能体合作的有效性。
+## 3. `cs.AI` - CORL：通过分支定界求解的MILP策略的强化学习 [PDF](https://arxiv.org/pdf/2512.11169), [HTML](https://arxiv.org/abs/2512.11169)
+### Authors
+Akhil S Anand,Elias Aarekol,Martin Mziray Dalseg,Magnus Stalhane,Sebastien Gros
+### Background
+组合序列决策问题通常被建模为混合整数线性规划（MILP）并使用分支定界（B&B）算法求解。但由于建模MILP难以准确反映具有随机性的实际问题，导致其在实际应用中的性能不佳。近年来，已经尝试使用机器学习方法来构建基于MILP的决策模型，但这些方法大多依靠监督学习，且需要访问真实的最佳决策。本文探讨了通过强化学习（RL）直接优化MILP模型以提高操作性能的可能性。
+### Innovation
+提出了一个端到端的CORL框架，通过强化学习直接优化MILP模型，而不需要依赖于真实的最佳决策或使用MILP的梯度近似。这种方法将由B&B求解的MILP转换为与强化学习兼容的可微分随机策略。
+### Conclusion
+CORL方法在简单的组合性序列决策示例中得到了验证，证明了通过强化学习直接优化MILP模型的有效性。
+## 4. `cs.AI` - A-LAMP: 以代理为导向的大语言模型框架实现自动化MDP建模和策略生成 [PDF](https://arxiv.org/pdf/2512.11270), [HTML](https://arxiv.org/abs/2512.11270)
+### Authors
+Hong Je-Gal,Chan-Bin Yi,Hyun-Suk Lee
+### Background
+应用强化学习（RL）到现实世界任务需要将非正式描述转化为形式化的马尔可夫决策过程（MDP），实现可执行环境，并训练一个策略代理。自动化这一过程具有挑战性，因为它涉及建模错误、代码脆弱性和目标不一致等问题，这些问题常常阻碍策略训练。
+### Innovation
+本文提出了一种以代理为导向的大语言模型（LLM）为基础的自动化MDP建模和策略生成框架（A-LAMP），能够自动将自由格式的自然语言任务描述转化为MDP表示，并进行策略训练。该框架将建模、编码和训练分解成可验证阶段，确保整个流水线中语义的一致性。A-LAMP在经典控制和自定义RL领域中的策略生成能力优于单个最先进的LLM模型，其轻量级变体（基于较小的LLM模型）甚至接近更大模型的性能。失败分析揭示了这些改进的原因。
+### Conclusion
+A-LAMP生成的环境和策略保留了任务的最优性，验证了其正确性和可靠性。
+## 5. `cs.AI` - 基于深度学习的多启动大邻域搜索方法在实时货物捆绑中的应用 [PDF](https://arxiv.org/pdf/2512.11187), [HTML](https://arxiv.org/abs/2512.11187)
+### Authors
+Haohui Zhang,Wouter van Heeswijk,Xinyu Hu,Neil Yorke-Smith,Martijn Mes
+### Background
+在线货物交换系统（OFEX）通过在承运人和发货人之间进行实时匹配，对现代货物物流起到了重要作用。然而，在线市场环境下高效组合装载运输任务仍然是一个挑战。本文将OFEX中的组合装载问题建模为多商品一对一提货和送货选择旅行商问题（m1-PDSTSP），它在容量、顺序和路线长度的约束下优化基于收入的货物组合。关键是需要在低于一秒钟的延迟时间内结合组合装载的选择与提货和送货的路径规划。
+### Innovation
+提出了一个学习加速的混合搜索管道，该管道结合了一个基于Transformer神经网络的建设性策略和一个创新的多启动大邻域搜索（MSLNS）元启发式算法，通过对当前市场冻结并将其在短时间内求解。该方法充分发挥了基于学习的构建者低延迟和高质量的推理能力，同时利用改进搜索的鲁棒性；多启动设计和种子有助于LNS更高效地探索解空间。实验表明，该方法在解决质量与时间上可与最先进的基于神经网络的组合优化和元启发式方法相媲美，相对于现有的最精确基准方法的收入优化缺口不到2%。
+### Conclusion
+本文首次证明了基于深度神经网络的构建器可以可靠地为改进启发式算法提供高质量的初始种子，这种应用于不仅仅是m1-PDSTSP，还可扩展到广泛的挑选旅行商问题和提货及送货问题。
+## 6. `cs.AI` - Motif-2-12.7B-Reasoning: 一个关于强化学习训练配方的指南 [PDF](https://arxiv.org/pdf/2512.11463), [HTML](https://arxiv.org/abs/2512.11463)
+### Authors
+Junghwan Lim,Sungmin Lee,Dongseok Kim,Taehyun Kim,Eunhwan Park,Jeesoo Lee,Jeongdoo Lee,Junhyeok Lee,Wai Ting Cheung,Dahye Choi,Minsu Ha,Jaeheui Her,Jaeyeon Huh,Hanbin Jung,Changjin Kang,Beomgyu Kim,Minjae Kim,Taewhan Kim,Youngrok Kim,Hyukjin Kweon,Haesol Lee,Kungyu Lee,Dongpin Oh,Yeongjae Park,Bokki Ryu,Dongjoo Weon
+### Background
+在复杂推理和长上下文理解方面，开源和专有模型之间存在性能差距。现有模型在推理适应过程中经常遇到模型崩溃和训练不稳定的问题。
+### Innovation
+提出了全面可重复的训练方案，结合了高效基础设施、优化数据和算法，并采用两阶段监督微调（SFT）课程，利用验证过的、对齐的合成数据来缓解分布偏差。此外，还详细描述了一种稳健的强化学习微调（RLFT）流程，通过难度感知的数据过滤和混合策略轨迹重用来稳定训练。
+### Conclusion
+Motif-2-12.7B-Reasoning 在数学、编程和代理基准测试方面的表现与参数量极大的模型相当，为社区提供了一个竞争性的开源模型和实现受现实计算约束下的推理能力扩展的实用蓝图。
+## 7. `cs.AI` - 通过行为指导实现可靠的多轮LLM代理 [PDF](https://arxiv.org/pdf/2512.11421), [HTML](https://arxiv.org/abs/2512.11421)
+### Authors
+Gonca Gürsun
+### Background
+大语言模型展示了强大的推理和生成能力，但在多轮任务中的行为往往缺乏可靠性和可验证性。
+### Innovation
+提出了一个任务完成框架，使基于大语言模型的代理能够在强化学习形式定义的环境中，在明确的行为指导下执行任务。该框架整合了轻量级任务解析器、推理模块和生成模块三个组件，以确保行为的可靠性。
+### Conclusion
+随着代理与环境的互动，这些组件共同进化，产生了可信赖的行为。
+## 8. `cs.AI` - AgentBalance: Backbone-then-Topology Design for Cost-Effective Multi-Agent Systems under Budget Constraints [PDF](https://arxiv.org/pdf/2512.11426), [HTML](https://arxiv.org/abs/2512.11426)
+### Authors
+Shuowei Cai,Yansong Ning,Hao Liu
+### Background
+大型语言模型（LLM）为基础的多智能体系统（MAS）在网页搜索、社交网络分析和在线客户支持等大规模应用中变得不可或缺。成本效益逐渐成为大规模部署中的主要限制条件。尽管近期工作通过设计交互智能体的通信拓扑结构和选择智能体的基础来提高MAS的成本效益，但它们很少考虑和优化符合部署约束的明确的令牌成本和延迟预算。这往往导致拓扑优先的设计，当预算成为绑定条件时，会带来成本效益上的不足。
+### Innovation
+提出了AgentBalance框架，旨在通过基于基础架构随后设计拓扑的方法，在明确的令牌成本和延迟预算下构建成本效益高的MAS。AgentBalance首先进行基于基础架构的智能体生成，通过LLM池构建、池选择和角色-基础架构匹配来构建具有异构基础架构的智能体。然后进行自适应的MAS拓扑生成，通过智能体表示学习、门控和延迟感知拓扑合成指导智能体间的交互。
+### Conclusion
+在14个候选LLM基础架构下的基准测试中，AgentBalance分别在匹配的令牌成本和延迟预算下，实现多达10%和22%的性能增益，并且性能-预算曲线上的AUC值较高。此外，AgentBalance可以作为现有MAS的插件，在相同的令牌成本和延迟约束下提高性能，并且能够很好地适应未见过的LLM，便于实际、预算感知的部署。
+## 9. `cs.AI` - TriFlow: 一种渐进式多代理框架以实现智能旅行规划 [PDF](https://arxiv.org/pdf/2512.11271), [HTML](https://arxiv.org/abs/2512.11271)
+### Authors
+Yuxing Chen,Basem Suleiman,Qifan Chen
+### Background
+实际旅行计划需要将开放性的用户请求转化为可执行的行程，同时满足严格的时空预算约束并符合用户偏好。然而，现有的基于语言模型的代理在满足约束条件、协调工具和效率方面存在明显不足，常常无法产生可行或成本适中的计划。
+### Innovation
+TriFlow 提出了一种逐阶段的多代理框架，通过检索、规划和治理三阶段的管道流程，将结构化推理和基于语言的灵活性统一起来。TriFlow 让搜索空间逐步缩小，通过规则和语言模型的合作来构建约束一致的旅行计划，并进行有界的迭代改进以确保全局可行性和个人化。
+### Conclusion
+TriFlow 在 TravelPlanner 和 TripTailor 基准测试中的评估显示了卓越的结果，最终通过率达到 91.1% 和 97%，相比当前最先进的技术效率提高了超过 10 倍。
+## 10. `cs.AI` - 回到基线：探讨基线对可解释性度量的影响 [PDF](https://arxiv.org/pdf/2512.11433), [HTML](https://arxiv.org/abs/2512.11433)
+### Authors
+Agustin Martin Picard(ANITI),Thibaut Boissin(ANITI),Varshini Subhash,Rémi Cadène(SU),Thomas Fel(ANITI)
+### Background
+在可解释人工智能（XAI）领域，归因方法是最常见的技术之一，通常通过Fidelity指标进行评估和比较，其中插入和删除是使用最广泛的指标。然而，这些指标依赖于一个基线函数来修改输入图像中归因图认为最重要的像素。现有的基线选择会影响归因方法的表现，甚至简单的线性模型在使用常用基线时也会自相矛盾地推荐不同的最优方法。因此，选择合适的基线方法是一个关键问题。
+### Innovation
+本文提出了一种新的基线方法，通过利用最新的特征可视化技术，人为地产生了模型依赖的基线，这种基线可以在不生成过度离分布（OOD）图像的情况下移除信息，从而在与其他现有基线方法相比时提高了平衡。
+### Conclusion
+本文研究表明，当前测试的基线方法都不满足两条重要特性：移除信息和不会生成过度离分布的图像。最终提出了一个新的基线方法，该方法能够在不生成过度离分布图像的情况下有效移除信息，改进了现有基线方法之间的权衡。
+## 11. `cs.AI` - 通过动态多目标调度减少GPU集群中的碎片化和饥饿现象 [PDF](https://arxiv.org/pdf/2512.10980), [HTML](https://arxiv.org/abs/2512.10980)
+### Authors
+Akhmadillo Mamirov
+### Background
+GPU集群已成为训练和部署现代AI系统的关键，但由于碎片化、异构工作负载和静态调度策略的局限性，实际部署中的平均利用率仍接近50%。
+### Innovation
+本文提出了一种系统的方法来评估这些问题，并引入了三项专门的动态调度器：Hybrid Priority (HPS)、Predictive Backfill (PBS) 和 Smart Batch (SBS)，旨在改进多租户GPU集群中的利用率、公平性和总体吞吐量。
+### Conclusion
+动态多目标调度器在所有关键指标（包括吞吐量、作业等待时间、公平性差异和饥饿现象）上均优于单目标启发式策略，表明定向和透明的调度策略可以显著提高异构AI集群中的GPU效率，并为未来的生产调度框架提供实用基础。
+## 12. `cs.AI` - Marti-5: 作为迈向自我意识第一步的'世界中的自我'的数学模型 [PDF](https://arxiv.org/pdf/2512.10985), [HTML](https://arxiv.org/abs/2512.10985)
+### Authors
+Igor Pivovarov,Sergey Shumsky
+### Background
+关于大脑中信息处理的'what'和'where'路径的概念已提出约30年，但仍未有一个清晰的数学模型来展示路径如何协同工作。本文旨在利用这个概念，通过生物启发的数学模型来区分自我与环境，并构建和使用一个自我模型进行更好的预测。
+### Innovation
+作者提出了一个神经元柱模型，由基底核协调，进行预测和选择下一步行动。其中一些柱子充当'what'柱，另一些充当'where'柱。根据这一模型，作者提出并训练了一个强化学习代理，该代理在虚拟环境中学习有目的的行为，并在Atari游戏中Pong和Breakout中成功学习游戏。
+### Conclusion
+通过保持自我和环境的分离，代理显示出了优势。因此，该模型可能在进化过程中出现在生物体中。作者提出了自我意识原则1：将自我与世界分离的能力是自我意识的必要但不充分条件。
+## 13. `cs.AI` - 基于代理的模块化学习在人类-代理系统中的多模态情绪识别 [PDF](https://arxiv.org/pdf/2512.10975), [HTML](https://arxiv.org/abs/2512.10975)
+### Authors
+Matvey Nepomnyaschiy,Oleg Pereziabov,Anvar Tliamov,Stanislav Mikhailov,Ilya Afanasyev
+### Background
+有效的代理间交互(HAI)依赖于对人类情绪状态的准确和适应性感知。虽然利用面部表情、语音和文本线索的多模态深度学习模型在情绪识别上准确性高，但它们的训练和维护通常计算密集且对模态变化不灵活。
+### Innovation
+本文提出了一种新的多代理框架，用于训练多模态情绪识别系统。每个模态编码器和融合分类器作为自主代理由中央监督者协调。这种架构使新模态（如使用emotion2vec的音频特征）的模块化集成、过时组件的无缝替换以及训练期间计算开销的降低成为可能。
+### Conclusion
+通过一个支持视觉、音频和文本模态的可行性实现，本文的方法不仅提高了训练效率，还为HAI场景中的嵌入式和虚拟代理提供了更灵活、可扩展和可维护的感知模块设计贡献。
+## 14. `cs.AI` - 认知映像：探索大型语言模型推理中注意力头的多样化功能角色 [PDF](https://arxiv.org/pdf/2512.10978), [HTML](https://arxiv.org/abs/2512.10978)
+### Authors
+Xueqi Ma,Jun Wang,Yanbei Jiang,Sarah Monazam Erfani,Tongliang Liu,James Bailey
+### Background
+大型语言模型(LLMs)在多种任务中取得了最先进的性能，但其内部机制仍然高度不透明。理解这些机制对于改进其推理能力至关重要。借鉴神经过程和人类认知之间的交互，本文提出了一种新的可解释性框架，系统地分析了注意力头的作用与行为，注意力头是LLMs的关键组成部分。
+### Innovation
+本文引入了CogQA数据集，分解复杂问题为具有思维链设计的逐步子问题，并与特定认知功能（如检索或逻辑推理）关联。通过多类探测方法，我们发现了负责这些功能的注意力头。我们发现，这些类认知头具有多个关键特性：它们是普遍稀疏的，在不同认知功能上数量和分布各异，并显示交互和分层结构。此外，我们展示了类认知头在推理任务中的重要性——移除它们会导致性能下降，而增强它们则可以提高推理准确性。
+### Conclusion
+这种洞察为理解和改进LLM推理提供了更深入的见解，并对模型设计、训练和微调策略提出了重要启示。
+## 15. `cs.AI` - 区域脑专家的多模态融合以实现可解释的阿尔茨海默病诊断 [PDF](https://arxiv.org/pdf/2512.10966), [HTML](https://arxiv.org/abs/2512.10966)
+### Authors
+Farica Zhuang,Dinara Aliyeva,Shu Yang,Zixuan Wen,Duy Duong-Tran,Christos Davatzikos,Tianlong Chen,Song Wang,Li Shen
+### Background
+准确且早期诊断阿尔茨海默病（AD）可以从多种模态的互补信息集成中受益，这与临床实践相符。然而，传统融合方法通常依赖于特征的简单拼接，这不能适应地平衡如淀粉样蛋白PET和MRI等生物标志物在不同脑区的贡献。
+### Innovation
+提出了一种多模态区域专家融合模型MREF-AD，这是一种混合专家（MoE）框架，将每种模态中的中尺度脑区视为独立专家，并使用两层门控网络来学习个体的融合权重。此模型不仅提高了诊断性能，还提供了模态和区域级别洞见，说明结构和分子影像如何共同贡献于疾病诊断。
+### Conclusion
+使用阿尔茨海默病神经影像学倡议（ADNI）的数据，MREF-AD 在基准线之上实现了最先进的性能，同时提供了对脑区特异性生物标志器相关性的增强解析性，突显了其作为适用于神经影像学中自适应和具可解释性的多模态融合框架的价值。
+## 16. `cs.AI` - Developmental Symmetry-Loss: 一种基于自由能视角的仿生不变性学习 [PDF](https://arxiv.org/pdf/2512.10984), [HTML](https://arxiv.org/abs/2512.10984)
+### Authors
+Arif Dönmez
+### Background
+该研究提出了Symmetry-Loss，一种受大脑启发的算法原则，通过从环境对称性中导出的不同可微约束来确保不变性和等变性。此框架将学习视为有效对称群的迭代细化过程，类似于皮层表征与世界结构对齐的发育过程。该方法通过最小化结构意外，即对称一致性的偏差来实现表示学习，从而将预测编码和群论视角联系起来，展示了如何通过基于对称性的自我组织产生高效、稳定和组合的表示。
+### Innovation
+提出了Symmetry-Loss，一种借鉴大脑机制来实现不变性和等变性的算法。通过最小化结构意外，该方法实现了一种类似于自由能的表示学习目标。这种框架结合了预测编码和群论视角，展示了一种新的机制，可以从对称性自我组织中产生高效和稳定的表示。
+### Conclusion
+研究提出了一种一般性的计算机制，将大脑的发育学习与人工系统中的原理性表示学习连接起来。通过基于对称性的自发组织，该机制能够产生高效、稳定和组合的表示，为理解和设计生物启发的学习系统提供了新的视角。
+## 17. `cs.AI` - 自然智能的数学理论 [PDF](https://arxiv.org/pdf/2512.10988), [HTML](https://arxiv.org/abs/2512.10988)
+### Authors
+Evgenii Vityaev
+### Background
+在进化过程中，大脑已经达到了人工智能系统所不具备的完美状态，这些是需要其自身数学来描述的。学术院院士K.V. Anokhin提出了“cognitome”概念，作为认知结构的基础，这是大脑中的高级结构和神经超网络，从而显现出意识是这种超网络中认知元素的大规模整合中的特殊形式。cognitome由两种类型的COGs（认知神经元群）组成——功能系统和细胞群。K.V. Anokhin认为大脑和心智的基本理论在于描述这些结构、它们的起源、功能及其过程。
+### Innovation
+该论文基于新的数学成果，提出了这些结构的数学模型以及不同认知过程的模型。论文还展示了这些模型能够根据一个相当通用的大脑工作原则得出：‘大脑发现外部世界中所有可能的因果关系并从中得出所有可能的结论’。论文中还提出了关于自然分类、功能脑系统理论、原型分类理论、因果模型理论和意识作为整合信息的理论等模式。
+### Conclusion
+基于这些成果，该论文提出了一系列模型，包括自然分类、功能脑系统理论、原型分类理论、因果模型理论以及作为整合信息的意识理论。
+## 18. `cs.AI` - MolSculpt: 从化学语法中雕刻3D分子几何结构 [PDF](https://arxiv.org/pdf/2512.10991), [HTML](https://arxiv.org/abs/2512.10991)
+### Authors
+Zhanpeng Chen,Weihao Gao,Shunyu Wang,Yanan Zhu,Hong Meng,Yuexian Zou
+### Background
+生成精确的3D分子几何对于药物发现和材料科学至关重要。尽管之前的努力利用如SELFIES等1D表示确保分子的有效性，但它们未能充分利用隐藏在1D模型中的丰富化学知识，这导致了1D语法生成和3D几何实现之间的断层。
+### Innovation
+提出了一个新的框架MolSculpt，它从化学语法中“雕刻”出3D分子几何结构。MolSculpt基于冷冻的1D分子基础模型和一个3D分子扩散模型。引入了一组可学习的查询以从基础模型中提取固有的化学知识，并通过可训练的投影机将此多模态信息注入扩散模型的条件空间中，以引导3D几何生成。这样，模型通过端到端优化将1D隐含化学知识深度整合到3D生成过程中。
+### Conclusion
+实验表明，MolSculpt在全新的3D分子生成和条件3D分子生成中实现了最先进的性能，在GEOM-DRUGS和QM9数据集上均表现出更出色的3D真实性和稳定性。代码在此：this https URL
+## 19. `cs.AI` - Dora: 考虑用户体验的分布式边缘AI混合并行性 [PDF](https://arxiv.org/pdf/2512.10990), [HTML](https://arxiv.org/abs/2512.10990)
+### Authors
+Jianli Jin,Ziyang Lin,Qianli Dong,Yi Chen,Jayanth Srinivasa,Myungjin Lee,Zhaowei Tan,Fan Lai
+### Background
+随着边缘AI应用的普及，满足用户的用户体验（QoE）要求，如模型推理延迟，已经成为了一项首要目标。由于这些模型在资源受限的环境中运行并直接与用户交互，现代AI模型通常会超过单个设备的资源能力，需要在不同的设备上分布式执行。现有的针对混合并行性（如数据和管道并行性）的规划器主要优化吞吐量或设备利用率，但忽视了QoE，这导致了严重的资源低效（例如不必要的能耗）或在运行时动态下违背QoE。
+### Innovation
+Dora提出了一种框架，用于分布式边缘AI训练和推理中的QoE感知混合并行性。Dora通过以下三种机制联合优化异构计算、竞争性网络以及多维QoE目标：（i）一种感知异构性的模型分割器，确定并分配模型分割，形成一组符合QoE的计划；（ii）一种感知竞争性的网络调度器，进一步细化候选计划，通过最大化计算通信重叠来优化；（iii）一个运行时适配器，可自适应地组合多个计划，以最大化全局效率并遵守整体QoE。
+### Conclusion
+在包括智能家居、交通分析和小型边缘集群等代表性边缘部署中，Dora实现了1.1到6.3倍的执行速度提升，或者降低了21%到82%的能耗，并且在运行时动态下维持了QoE。
+## 20. `cs.AI` - MedBioRAG：使用大型语言模型进行医学和生物问答的语义搜索和检索增强生成 [PDF](https://arxiv.org/pdf/2512.10996), [HTML](https://arxiv.org/abs/2512.10996)
+### Authors
+Seonok Kim
+### Background
+近年来，检索增强生成（RAG）技术显著提升了大规模语言模型（LLMs）在复杂问答（QA）任务中的能力。本文研究的背景是利用RAG技术优化医学和生物学领域的问答性能。
+### Innovation
+本文创新性地提出了MedBioRAG，一种结合语义和词汇搜索、文档检索以及监督微调的检索增强模型。实验结果显示，MedBioRAG在文档检索、封闭问答和长格式问答任务中均优于先前的最优模型和GPT-4o基模型，特别是在NDCG和MRR分数方面提高了文档检索效果，同时在封闭问答中实现了更高的准确率，在长格式问答中获得了更高的ROUGE分数。
+### Conclusion
+研究表明，基于语义搜索的检索和LLM微调对于医学应用是有效的，并且MedBioRAG在多个验证任务中表现出色，证明了该模型在医学和生物学问答领域的优越性。
