@@ -1,0 +1,183 @@
+# 20251223
+[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
+
+## 1. `cs.AI` - 现实威胁感知推动群体间冲突：基于生成性代理模拟的因果动态分析 [PDF](https://arxiv.org/pdf/2512.17066), [HTML](https://arxiv.org/abs/2512.17066)
+### Authors
+Suhaib Abdurahman,Farzan Karimi-Malekabadi,Chenxiao Yu,Nour S. Kteily,Morteza Dehghani
+### Background
+人类冲突往往归因于对物质条件和象征性价值的威胁，但它们如何相互作用以及哪一个占据主导地位仍不清楚。现有的研究受限于因果控制薄弱、伦理限制以及稀有的时间数据。
+### Innovation
+本文使用大型语言模型（LLM）驱动的代理在虚拟社会中的仿真来克服这些障碍。实验独立地改变了现实威胁和象征性威胁，通过分析代理的行为、语言和态度的变化，来探索这两种威胁如何影响冲突的动力学。
+### Conclusion
+现实威胁直接增加敌意，而象征性威胁的效果较弱，主要通过族群偏见来间接作用，仅在没有现实威胁的情况下才增加敌意。非敌意的团体间接触可以缓冲冲突升级。结构性弊端则使敌意集中在多数群体中。
+## 2. `cs.AI` - 基于知识库驱动的实体集分类扩展导航 [PDF](https://arxiv.org/pdf/2512.16953), [HTML](https://arxiv.org/abs/2512.16953)
+### Authors
+Pietro Cofone,Giovanni Amendola,Marco Manna,Aldo Ricioppo
+### Background
+实体间相似性的识别对人类认知和计算智能至关重要。实体集扩展是一种重要任务，即从初始的（实体组）集合开始，识别出具有相关语义特征的额外实体，并且可以重复此过程以形成越来越广泛的集合。现有方法以线性方式处理，但未能揭示知识资源中更丰富的分类结构。一种基于逻辑的方法引入了扩展图的概念，它是一个有根的有向无环图，每个节点代表一个用逻辑公式标注的语义泛化，边表示严格的语义包含。这种结构支持基于知识库的实体集分类扩展。
+### Innovation
+该研究提出了解决基于知识图谱驱动的实体集分类扩展的新型任务，这些任务检查图中两个实体组是否在比较、不相交或相同的节点中。在现实假设下，如限制输入或实体描述，这些任务可以高效地实现。该方法允许进行局部、增量的扩展图导航，无需完整构建整个图。
+### Conclusion
+在现实可行的假设下，这些解析任务可以高效实现，使用户能够进行本地、增量的扩展图导航，从而支持实际应用，而不必进行全面图构建。
+## 3. `cs.AI` - 以科学家对齐的工作流程探究LLMs的科学通用智能 [PDF](https://arxiv.org/pdf/2512.16969), [HTML](https://arxiv.org/abs/2512.16969)
+### Authors
+Wanghan Xu,Yuhao Zhou,Yifan Zhou,Qinglong Cao,Shuo Li,Jia Bu,Bo Liu,Yixin Chen,Xuming He,Xiangyu Zhao,Xiang Zhuang,Fengxiang Wang,Zhiwang Zhou,Qiantai Feng,Wenxuan Huang,Jiaqi Wei,Hao Wu,Yuejin Yang,Guangshuai Wang,Sheng Xu,Ziyan Huang,Xinyao Liu,Jiyao Liu,Cheng Tang,Wei Li,Ying Chen,Junzhi Ning,Pengfei Jiang,Chenglong Ma,Ye Du,Changkai Ji,Huihui Xu,Ming Hu,Jiangbin Zheng,Xin Chen,Yucheng Wu,Feifei Jiang,Xi Chen,Xiangru Tang,Yuchen Fu,Yingzhou Lu,Yuanyuan Zhang,Lihao Sun,Chengbo Li,Jinzhe Ma,Wanhao Liu,Yating Liu,Kuo-Cheng Wu,Shengdu Chai,Yizhou Wang,Ouwen Zhangjin,Chen Tang,Shufei Zhang,Wenbo Cao,Junjie Ren,Taoyong Cui,Zhouheng Yao,Juntao Deng,Yijie Sun,Feng Liu,Wangxu Wei,Jingyi Xu,Zhangrui Li,Junchao Gong,Zijie Guo,Zhiyu Yao,Zaoyu Chen,Tianhao Peng,Fangchen Yu,Bo Zhang,Dongzhan Zhou,Shixiang Tang,Jiaheng Liu,Fenghua Ling,Yan Lu,Yuchen Ren,Ben Fei,Zhen Zhao,Xinyu Gu,Rui Su,Xiao-Ming Wu,Weikang Si,Yang Liu,Hao Chen,Xiangchao Yan,Xue Yang,Junchi Yan,Jiamin Wu,Qihao Zheng,Chenhui Li,Zhiqiang Gao,Hao Kong,Junjun He,Mao Su,Tianfan Fu,Peng Ye,Chunfeng Song,Nanqing Dong,Yuqiang Li,Huazhu Fu
+### Background
+尽管科学AI取得了进展，但缺乏一个关于科学通用智能（SGI）的连贯框架。SGI指的是能够自主构思、调查和跨学科推理的能力。本文提出了基于实用探究模型（PIM：审慎、构思、行动、感知）的科学通用智能定义，并通过四个科学家对齐的任务进行操作化：深入研究、创意生成、干湿实验以及实验推理。构建了SGI-Bench基准测试，包含来自《科学》125大问题的1000多个专家手选的跨学科样本，用于先进LLM的系统评价。结果显示，尽管在步骤水平上存在一致，但深度研究仍存在准确率低（10%～20%）、创意缺乏可行性和细节、干实验代码具有高可执行性但结果准确性低、湿实验顺序准确度低以及多模态比较推理挑战持续存在等问题。
+### Innovation
+提出了基于实用探究模型（PIM）的科学通用智能定义，构建了科学家对齐的工作流程基准测试（SGI-Bench），包含1000多个专家手选的跨学科样本，以及引入了在推理时优化检索增强新颖性奖励的测试时强化学习（TTRL），以增强假设新颖性。
+### Conclusion
+基于PIM定义、注重工作流程的基准测试和实证洞察，本文为使AI系统真正参与科学发现奠定了基础。
+## 4. `cs.AI` - UniRel-R1: 使用强化学习调优的LLM推理在知识图关系查询回答中 [PDF](https://arxiv.org/pdf/2512.17043), [HTML](https://arxiv.org/abs/2512.17043)
+### Authors
+Yinxu Tang,Chengsong Huang,Jiaxin Huang,William Yeoh
+### Background
+知识图谱问答（KGQA）传统上集中于实体为中心的查询，这些查询返回单一的答案实体。然而，现实生活中的查询往往是关系性的，旨在理解实体之间的关联。现有的KGQA方法在处理这种查询时，面临候选子图过多的问题，这使得识别独特且具有信息价值的答案变得困难。
+### Innovation
+本文提出了关系为中心的KGQA方法，该方法的目标是返回一个子图，而不是单一实体，以捕捉实体之间的语义连接。为此，作者提出了一种名为UniRel-R1的统一框架，该框架结合了子图选择、多阶段图剪枝和基于强化学习调整的LLM。通过设计奖励函数，鼓励生成紧凑且具体的子图，这些子图具有更丰富的关系和更低度的中间实体。实验结果表明，UniRel-R1在连通性和奖励方面显著优于传统基线方法，并且能够有效地推广到未见过的实体和关系。
+### Conclusion
+UniRel-R1框架通过集成子图选择、多阶段图剪枝和基于强化学习调整的LLM，为知识图关系查询回答提供了有效解决方案。该方法在连接性与奖励方面取得了显著进展，并且具有良好的推广能力，能够更好地处理实体和关系更为复杂的查询。
+## 5. `cs.AI` - 认知和跨层威胁下阿格尼特车辆的安全风险：系统性分析 [PDF](https://arxiv.org/pdf/2512.17041), [HTML](https://arxiv.org/abs/2512.17041)
+### Authors
+Ali Eslami,Jiangbo Yu
+### Background
+阿格尼特人工智能（Agentic AI）正在越来越多地应用于手动驱动和自主车辆中，这种应用催生了阿格尼特车辆（Agentic Vehicles, AgVs）的概念，其中具备基于记忆的个性化、目标解读、战略推理和工具中介辅助等功能。尽管OWASP阿格尼特AI安全风险等框架指出了推理驱动型AI系统的漏洞，但它们并不是为安全关键的网络物理平台（如车辆）设计的，也不考虑与其他层（如感知层、通信层和控制层）的交互风险。
+### Innovation
+本文引入了一种基于角色的阿格尼特车辆架构，由个人代理和驾驶策略代理组成，以研究阿格尼特AI层和跨层风险中的漏洞，包括上游层（如感知层、控制层等）的风险。通过引入严重程度矩阵和攻击链分析，说明了小的偏差如何升级为人类驾驶员和自主车辆中的不一致或不安全行为，从而提供了一个针对当前和新兴车辆平台中阿格尼特AI安全风险的第一系统化基础。
+### Conclusion
+所提出的框架为分析阿格尼特AI在当前和新兴车辆平台中的安全风险提供了一个结构化的基础，能够揭示认知和跨层威胁下的潜在漏洞，并为保障此类车辆的安全性提供指导。
+## 6. `cs.AI` - 以索洛金诺为灵感的基于LLM的假设排序方法在不确定预测中的应用 [PDF](https://arxiv.org/pdf/2512.17145), [HTML](https://arxiv.org/abs/2512.17145)
+### Authors
+Josh Barber(QUT),Rourke Young(QUT),Cameron Coombe(QUT and CSIRO),Will Browne(QUT)
+### Background
+在AI中进行不确定性推理是一个关键挑战，特别是在现实世界任务中，由于数据稀疏问题需要系统化的泛化能力。现有方法在评估多个候选解决方案时难以平衡准确性和简洁性。
+### Innovation
+该论文提出了一种索洛金诺启发式的假设权重方法，该方法通过简洁性和预测适应性来加权LLM生成的假设。研究表明，与贝叶斯模型平均相比，索洛金诺评分能够更均匀地分配概率给竞争假设，从而在假设可能嘈杂或部分错误时生成保守且具有不确定性的输出。
+### Conclusion
+研究表明，在这些任务中，算法信息论先验对于解释性和可靠的多假设不确定性推理是很有价值的。与贝叶斯模型平均相比，索洛金诺评分能够更均衡地分配概率给竞争假设。
+## 7. `cs.AI` - 在通用人工智能中的无知价值 [PDF](https://arxiv.org/pdf/2512.17086), [HTML](https://arxiv.org/abs/2512.17086)
+### Authors
+Cole Wyeth,Marcus Hutter
+### Background
+本文扩展了AIXI强化学习代理，使其能够适应更广泛的效用函数。这迫使研究者必须面对一个假设在其信念分布中仅预测历史的有限前缀的问题，这有时被解释为相当于死亡概率，即所谓的半测度损失。该研究探讨了如何根据这种解释对这种历史前缀进行效用分配，并提出了将其视为不精确概率分布的看法，并且半测度损失被视为完全无知的自然观念。
+### Innovation
+本文通过将效用函数扩展到更通用的形式，解决了一个新的计算问题，即利用选择整合来处理不明概率理论中的预期效用，探讨了其可计算性水平。这一方法为通用人工智能提供了一种新的视角，不仅恢复了标准的递归价值函数，还提出了适用于理解不明状态下的预期效用的方法。
+### Conclusion
+在死亡解释下，我们得到了最通用的预期效用，但这种效用不能用标准的Choquet整合来描述。标准的递归价值函数是这一研究的一个特例。研究者认为，这种不精确概率理论的应用可以为估算代理在未知条件下的最佳行为提供一种新的方法。
+## 8. `cs.AI` - 用于逻辑谜题求解的ASP的循环求解器框架以提高LLMs效能 [PDF](https://arxiv.org/pdf/2512.17093), [HTML](https://arxiv.org/abs/2512.17093)
+### Authors
+Timo Pierre Schrader,Lukas Lange,Tobias Kaminski,Simon Razniewski,Annemarie Friedrich
+### Background
+大型语言模型（LLMs）的发展激发了对编程助手的兴趣，尽管这些模型广泛支持通用编程语言，但在生成特定领域的编程语言代码上仍面临挑战。本研究聚焦于使用LLMs生成用于回答集编程（ASP）的代码，ASP是一种特别适合解决组合搜索问题的方法。然而，LLMs在ASP代码生成上的有效性受到其早期预训练阶段见过的示例数量有限的限制。
+### Innovation
+本文提出了一种新颖的ASP-求解器在环（ASP-solver-in-the-loop）方法，通过求解器引导指令调整LLMs来解决ASP代码生成中固有的高复杂度语义解析任务。该方法仅需自然语言的问题描述及其解决方案。具体而言，通过从LLMs中随机抽取ASP语句进行程序续写并借助求解器反馈进行分类，然后使用监督微调和求解器引导搜索（包括N-best采样）进一步训练LLMs，提高模型的鲁棒性。
+### Conclusion
+实验结果在两个不同的提示设置下，在两个数据集上一致表明了该方法在提高LLMs生成ASP代码性能方面的有效性。
+## 9. `cs.AI` - 基于技能库的自我改进Agent的强化学习方法 [PDF](https://arxiv.org/pdf/2512.17102), [HTML](https://arxiv.org/abs/2512.17102)
+### Authors
+Jiongxiao Wang,Qiaojing Yan,Yawei Wang,Yijun Tian,Soumya Smruti Mishra,Zhichao Xu,Megha Gandhi,Panpan Xu,Lin Lee Cheong
+### Background
+大规模语言模型（LLM）代理展示了在复杂推理和多回合交互中的出色能力，但在新环境中部署时难以持续改进和适应。现有技能库方法主要依赖LLM提示，导致技能库实现一致性具有挑战性。
+### Innovation
+提出了一个基于强化学习（RL）的方法来增强代理的自我改进能力，引入了名为Skill Augmented GRPO for self-Evolution (SAGE)的新颖RL框架，系统地将技能融入学习过程中。特别地，SAGE框架通过顺序布署来迭代地将代理部署在一系列相似的任务中，技能库中的技能会随着任务链的进行而累积，且生成了一个技能集成的奖励，以补充原始的目标奖励，从而提升了技能的产生和利用。
+### Conclusion
+实验结果表明，在经过监督微调并结合专家经验的模型上应用SAGE后，能够实现8.9%更高的场景目标完成率，同时只需要26%更少的交互步骤和59%更少的令牌生成，显著优于现有方法，在准确性和效率上都有显著提升。
+## 10. `cs.AI` - PAACE：一种计划感知的自动代理上下文工程框架 [PDF](https://arxiv.org/pdf/2512.16970), [HTML](https://arxiv.org/abs/2512.16970)
+### Authors
+Kamer Ali Yuksel
+### Background
+大型语言模型（LLM）代理越来越多地被部署在涉及规划、工具使用、反省以及与外部知识系统的交互的复杂、多步骤的工作流中。这些工作流产生了大量需要编目、转化和压缩以维持准确性、避免注意力分散、减少推理成本的背景信息。前期关于汇总和查询感知压缩的工作大都忽略了代理推理中的多步骤和计划感知特性。因此，需要一种新的方法来优化LLM代理不断变化的状态。
+### Innovation
+引入了PAACE（计划感知自动化上下文工程），这是一种统一框架，用于通过下k任务相关性建模、计划结构分析、指令共同精炼以及功能保持压缩来优化LLM代理的状态。PAACE包括两个部分：PAACE-Syn，一个带有逐步压缩监督的大规模合成代理工作流生成器；PAACE-FT，从成功的教师示范中训练出的一系列计划感知压缩器。实验结果表明PAACE在提高代理准确性的同时显著减少了上下文负载，特别是在AppWorld，PAACE的准确性优于所有基线模型，同时降低了峰值上下文和累积依赖性。
+### Conclusion
+经过蒸馏的PAACE-FT保留了97%教师的表现，但将推理成本降低了十倍以上，使计划感知压缩的实用部署成为可能，从而使用紧凑模型实现了这一目标。
+## 11. `cs.CV` - STAGNet: 基于时空图和LSTM框架的事故预判 [PDF](https://arxiv.org/pdf/2508.15216), [HTML](https://arxiv.org/abs/2508.15216)
+### Authors
+Vipooshan Vipulananthan,Kumudu Mohottala,Kavindu Chinthana,Nimsara Paramulla,Charith D Chitraranjan
+### Background
+事故预测和及时的预防措施可以提高道路安全性，减少道路使用者的受伤风险和财产损失。因此，它们是高级驾驶辅助系统(ADAS)和自主车辆的关键组成部分。虽然许多现有的系统依赖于多种传感器（如LiDAR、雷达和GPS），但仅依赖于仪表摄像头视频提供了一个更具挑战性但更经济实惠和易于部署的解决方案。本工作将改进的时空特征引入，并通过递归网络对其进行聚合，以增强现有的基于图的神经网络，从而提高从仪表摄像头视频预测事故的能力。
+### Innovation
+提出了一种名为STAGNet的新模型，该模型结合了改进的时空特征并通过递归网络进行聚合，以增强现有的基于图的神经网络。实验结果显示，STAGNet在三个公开可用的数据集（DAD、DoTA和DADA）上的交叉验证和跨数据集训练与测试中，平均精度和平均事故发生时间评分均优于先前的方法。
+### Conclusion
+提出的方法STAGNet在结合改进的时空特征和递归网络的基础上，显著提高了事故预测的性能，对于提高道路安全具有重要意义。
+## 12. `cs.CV` - 使用语言导向稀疏编码器实现生成AI的人类化内容分析 [PDF](https://arxiv.org/pdf/2508.18236), [HTML](https://arxiv.org/abs/2508.18236)
+### Authors
+Yiming Tang,Arash Lagzian,Srinivas Anumasa,Qiran Zou,Yingtao Zhu,Ye Zhang,Trang Nguyen,Yih-Chung Tham,Ehsan Adeli,Ching-Yu Cheng,Yilun Du,Dianbo Liu
+### Background
+生成AI的快速发展改变了内容创造、沟通和人类发展，但在高风险领域引发了深刻担忧，需要建立严格的分析方法来评估其生成的内容。现有方法往往倾向于将图像视为整体进行分析，而实际的AI失败通常表现为特定的视觉模式，这些模式可能逃避整体检测，更适合精细和分解分析。
+### Innovation
+提出了一个内容分析工具，LanSE（Language-Grounded Sparse Encoders），能够将图像分解为可解析的视觉模式，并提供自然语言描述。通过利用可解释性和大型多模态模型，LanSE 可自动识别数据模态中的视觉模式。该方法发现了超过5000种视觉模式，且93%由人类同意，提供了优于现有方法的分解评估，并首次系统地评估了物理可信度，且适用于医疗成像领域。
+### Conclusion
+LanSE 方法提取的语言导向的视觉模式能够自然地适应多个领域，包括生物学、地理学以及其它数据形式，如蛋白质结构和时间序列，从而推动生成AI内容分析的进步。
+## 13. `cs.CV` - TimeSenCLIP：一种基于单像素的时间序列视觉语言模型用于远程 sensing [PDF](https://arxiv.org/pdf/2508.11919), [HTML](https://arxiv.org/abs/2508.11919)
+### Authors
+Pallavi Jain,Diego Marcos,Dino Ienco,Roberto Interdonato,Tristan Berchoux
+### Background
+视觉语言模型（VLMs）在远程 sensing 应用中显示出巨大的潜力，特别是在通过零-shot 分类和检索进行土地利用和土地覆盖 (LULC) 映射方面。然而，当前的方法面临一些关键挑战，如依赖基于描述的监督，这种监督通常不可用或非常有限，以及这些模型是从适合高分辨率图像的通用VLM 架构中适应而来的。因此，这些模型往往优先考虑空间上下文，而不是光谱和时间信息，这限制了它们在中分辨率远程 sensing 图像中的效果。
+### Innovation
+TimeSenCLIP 是一种轻量级 VLM，用于远程 sensing 时间序列。它使用跨视图时间对比框架，将多光谱 Sentinel-2 时间序列与带有地理标签的低层图像对齐，而无需需要文本注释。TimeSenCLIP 强调时间和光谱信号而非空间上下文，探索单像素时间序列是否包含足够信息来解决各种任务。
+### Conclusion
+TimeSenCLIP 模型通过使用跨视图时间对比框架，有效地结合了多光谱 Sentinel-2 数据和低分辨率图像，并强调时间和光谱信号的重要性，而不是仅关注空间上下文。实验结果表明，该模型在时间和光谱信息的捕捉上更为有效，能解决各类相关任务。
+## 14. `cs.CV` - CLIP纹理-形状偏好的动态演变及其与人类对齐和模型鲁棒性的关系 [PDF](https://arxiv.org/pdf/2508.09814), [HTML](https://arxiv.org/abs/2508.09814)
+### Authors
+Pablo Hernández-Cámara,Jose Manuel Jaén-Lorites,Alexandra Gómez-Villa,Jorge Vila-Tomás,Valero Laparra,Jesus Malo
+### Background
+对比语言-图像模型如CLIP已经展示了显著的泛化能力，但是它们在训练过程中内部视觉表示如何演变以及这种演变如何与人类感知的关系仍然是一个未知领域。大多数现有的分析集中在完全训练好的模型上，忽略了表示偏见和感知对齐的动态变化。
+### Innovation
+本文通过一个epoch接一个epoch的方式对CLIP模型的训练过程进行了分析，重点关注纹理-形状偏见演化、与人类感知评估的对齐以及对图像噪声的敏感度。通过跨越低级图像质量评估、中级感知相似性、显著性对应以及嘈杂环境下的鲁棒性等多个感知基准，我们发现了一个训练阶段相关的表示转变。早期训练阶段表现出强烈的纹理偏好以及与低级人类感知度量的高对齐程度，并且对高斯噪声扰动更加敏感。随着训练的进行，这种纹理偏好逐渐减弱，取而代之的是更基于形状的表示，并且在噪声鲁棒性方面表现更好，低级感知对齐程度则下降。这些动态变化在多个CLIP模型规模中都一致存在，表明这种现象不受特定架构规模的影响。
+### Conclusion
+本研究通过实证分析展示了感知对齐、特征偏见和模型鲁棒性共同演进的过程。揭示了早期低级感知对齐和后期鲁棒性之间系统性的权衡，并为视觉-语言模型的表示动态及其与人类视觉处理的关系提供了新的见解。
+## 15. `cs.CV` - PhysGM：用于直接前馈4D合成的大物理高斯模型 [PDF](https://arxiv.org/pdf/2508.13911), [HTML](https://arxiv.org/abs/2508.13911)
+### Authors
+Chunji Lv,Zequn Chen,Donglin Di,Weinan Zhang,Hao Li,Wei Chen,Yinjie Lei,Changsheng Li
+### Background
+尽管在基于物理的3D运动合成方面取得了进展，但现有方法仍面临关键限制：依赖于从密集多视角图像中重建的时间消耗的3D高斯散斑（3DGS），并且需要场景特定的优化；物理集成要么通过刚性、手动指定的属性，要么通过使用Score Distillation Sampling (SDS)从视频模型中进行优化导向，这既不灵活又不稳定；还存在将预先构建的3DGS与物理模块简单拼接的情况，这种做法忽略了嵌入在外观中的物理信息，导致性能不佳。
+### Innovation
+为了应对这些问题，本文提出了PhysGM，一个前馈框架，能够同时从单张图像中预测3D高斯表示和物理属性，从而实现即时模拟和高保真4D渲染。首先，我们预训练了一个物理感知的重建模型，可以直接推断出高斯和物理参数，然后通过直接偏好优化（DPO）进一步改进该模型，使其模拟结果与物理上合理参考视频相匹配，从而避免了高成本的SDS优化。为了应对缺乏支持数据集的问题，我们还提出了一种名为PhysAssets的数据集，其中包括50000多个带有物理属性标注和相应参考视频的3D资产。
+### Conclusion
+实验表明，PhysGM能够在一分钟内从单张图像中生成高保真的4D模拟，其速度比以往的工作更快，同时也提供了现实感很强的模拟结果。该项目页面可在此访问：this https URL
+## 16. `cs.CV` - FakeParts: 一种新的AI生成的深度伪造 [PDF](https://arxiv.org/pdf/2508.21052), [HTML](https://arxiv.org/abs/2508.21052)
+### Authors
+Ziyi Liu,Firas Gabetni,Awais Hussain Sani,Xi Wang,Soobash Daiboo,Gaetan Brison,Gianni Franchi,Vicky Kalogeiton
+### Background
+目前的深度伪造技术多采用完全合成的方式，在视频中植入虚构的内容，而这种技术面临的一个关键挑战是如何检测出精细的局部篡改。作者引入了一种新类型的深度伪造——FakeParts，通过在真实视频的特定区域或时间片段进行微妙而局部的篡改，使得检测变得更加困难。
+### Innovation
+作者提出了FakePartsBench，这是首个专门用于检测部分篡改深度伪造内容的大型基准数据集。该数据集包含超过81,000个视频样本（其中包含44,000个FakeParts视频），并提供了像素级和帧级的篡改标注，使得检测方法可以进行全面评估。实验结果显示，FakeParts可以降低人类检测准确率高达26%，且最新检测模型的表现也有所下降。
+### Conclusion
+本文揭示了当前检测器中存在的重大漏洞，并提供了必要的资源来开发能够抵御部分篡改的检测方法。
+## 17. `cs.CV` - HOLODECK 2.0：基于视觉语言的3D世界生成及其编辑 [PDF](https://arxiv.org/pdf/2508.05899), [HTML](https://arxiv.org/abs/2508.05899)
+### Authors
+Zixuan Bian,Ruohan Ren,Yue Yang,Chris Callison-Burch
+### Background
+3D场景生成在游戏、艺术创作、虚拟现实等领域发挥着重要作用，但目前3D场景设计很大程度上依赖于创作者的大量手工劳动。现有的自动化方法在生成开放领域场景或支持灵活编辑方面表现出色不足。
+### Innovation
+霍洛德克2.0是一个基于视觉语言的框架，用以生成3D世界的高级应用程序，支持基于人类反馈的交互式场景编辑。该框架能够生成多种风格（如写实、漫画、动画和赛博朋克风格）且具有细粒度语义准确度的3D场景，既适合室内场景也适用于开放领域。它通过视觉语言模型（VLMs）识别和解析场景所需对象，然后利用最先进的3D生成模型生成相应的高质量资产，并通过应用从VLMs派生的空间约束来实现语义上连贯且物理上可信的布局。该框架的有效性通过人类和模型评估展现在室内和开放领域的场景中。
+### Conclusion
+霍洛德克2.0能够有效地生成与详细文本描述高度一致的高质量3D场景，能够提供灵活的编辑能力，适应人类反馈以支持版面细节调整和风格一致的对象编辑。最后，展示了霍洛德克2.0在程序化游戏建模中的应用，以生成视觉丰富且沉浸式的环境，提高游戏设计效率。
+## 18. `cs.CV` - SGS-3D: 高保真3D实例分割通过可靠的语义掩模分割和生长 [PDF](https://arxiv.org/pdf/2509.05144), [HTML](https://arxiv.org/abs/2509.05144)
+### Authors
+Chaolei Wang,Yang Luo,Jing Du,Siyu Chen,Yiping Chen,Ting Han
+### Background
+准确的3D实例分割对于3D视觉领域的高质量场景理解至关重要。然而，基于2D到3D提升的方法在从语义指导的模糊性和不足的深度约束中提升掩模后，难以产生精确的实例级分割，导致累积的错误。
+### Innovation
+本文提出了一种新颖的“分割-然后生长”框架——可靠的语义掩模分割和生长（SGS-3D）。该框架首先使用几何原语净化和分割模糊提升的掩模，然后在场景中将其生长为完整的实例。SGS-3D通过联合融合语义和几何信息，成为一种无需训练的细化方法，有效实现了两个表示层次的合作。
+### Conclusion
+实验结果在ScanNet200、ScanNet++和KITTI-360上表明，SGS-3D显著提高了分割准确性，并且对预训练模型产生的错误掩模具有很强的鲁棒性，能够生成高保真对象实例，同时保持在各种室内和室外环境中较强的泛化能力。
+## 19. `cs.CV` - DocR1: 由证据页面引导的GRPO方法用于多页文档理解 [PDF](https://arxiv.org/pdf/2508.07313), [HTML](https://arxiv.org/abs/2508.07313)
+### Authors
+Junyu Xiong,Yonghui Wang,Weichao Zhao,Chenyu Liu,Bing Yin,Wengang Zhou,Houqiang Li
+### Background
+多页文档的理解对于多模态大型语言模型（MLLMs）是一个重大挑战，因为这需要对视觉细节有精细化的理解，并且需要在多页之间进行多步推理。尽管先前的工作探索了强化学习（RL）以提升MLLMs的高级推理能力，但其在多页文档理解中的应用仍相对较少研究。
+### Innovation
+本文提出了DocR1，一种使用新RL框架Evidence Page-Guided GRPO（EviGRPO）训练的MLLM。EviGRPO引入了一种基于证据奖励机制，促进粗到细的推理策略，引导模型首先检索相关信息页面，然后生成答案。这种训练范式使我们能够在有限监督下建立高质量的模型。此外，基于此，设计了一个两阶段注解流程和课程学习策略，以构建两个数据集：高质量的训练集EviBench（包含4800个示例）和基于学术论文的评估基准ArxivFullQA（包含8600个问答对）。
+### Conclusion
+广泛的实验表明，DocR1在多页任务上取得了最先进的性能，同时在单页基准上的结果也保持了强劲的表现。
+## 20. `cs.CV` - 基于混合启发式与深度学习框架的手写成绩单边缘原生数字化 [PDF](https://arxiv.org/pdf/2508.16295), [HTML](https://arxiv.org/abs/2508.16295)
+### Authors
+Md. Irtiza Hossain,Junaid Ahmed Sifat,Abir Chowdhury
+### Background
+手写成绩单的结构化数字化依然是一个重要的挑战，因为它们具有不规则的表格结构和多样的手写风格。尽管Transformer等最近的方法如TableNet和TrOCR在精度上达到了最新水平，但这些方法的高计算成本使其不适合资源受限的边缘部署。
+### Innovation
+该论文提出了一种资源高效且混合的框架，结合了启发式的OpenCV管道快速检测表格结构和修改轻量级的YOLOv8架构进行手写字符识别。通过从标准的YOLOv8主干中战略性地移除SPPF和深C2f层，降低了计算开销同时保持了高识别精度。在EMNIST数字基准测试上，改进的YOLOv8模型达到了97.5%的准确率。此外，报告详细分析了该框架相对于标准OCR管道95倍的推理速度提升以及在新兴的大规模多模态模型（LMMs）如Qwen2.5-VL方面的巨大效率 gains，实现了在标准CPU硬件上实时性能29 FPS。
+### Conclusion
+实验结果和定性定量评估在AMES数据集（包含真实世界成绩单的部分）上证明了该系统处理混合的字母数字内容的鲁棒性，填补了高性能深度学习与实际的、可扩展文档自动化之间的差距。
