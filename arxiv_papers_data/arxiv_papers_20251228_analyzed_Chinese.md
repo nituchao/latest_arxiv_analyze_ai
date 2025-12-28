@@ -1,0 +1,183 @@
+# 20251228
+[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
+
+## 1. `cs.AI` - AIAuditTrack: 一种AI安全体系框架 [PDF](https://arxiv.org/pdf/2512.20649), [HTML](https://arxiv.org/abs/2512.20649)
+### Authors
+Zixun Luo,Yuhang Fan,Yufei Li,Youzhi Zhang,Hengyu Lin,Ziqi Wang
+### Background
+随着由大规模语言模型驱动的AI应用的快速扩展，AI交互数据激增，导致安全、问责制和风险追溯的紧迫挑战。
+### Innovation
+提出了一种基于区块链的框架（AiAuditTrack，AAT），用于记录和治理AI使用流量。AAT利用去中心化身份（DID）和可验证凭证（VC）建立可信任和可识别的AI实体，并将跨实体交互轨迹记录在链上，以实现跨系统的监督和审计。此外，提出了一种风险扩散算法，用于追踪不良行为的起源，并在涉及实体之间传播早期预警。
+### Conclusion
+AAT提供了一种可扩展的、可验证的解决方案，用于复杂多主体环境中的AI审计、风险管理及责任归属，在大规模交互记录下已经证明了其可行性和稳定性。
+## 2. `cs.AI` - 20th国际知识、信息与创意支持系统会议（KICSS 2025）的会议论文集 [PDF](https://arxiv.org/pdf/2512.20628), [HTML](https://arxiv.org/abs/2512.20628)
+### Authors
+Edited by Tessai Hayama(Nagaoka University of Technology, Japan),Takayuki Ito(Kyoto University, Japan),Takahiro Uchiya(Nagoya Institute of Technology, Japan),Motoki Miura(Chiba Institute of Technology, Japan),Takahiro Kawaji(University of Kurume, Japan),Takaya Yuizono(Japan Advanced Institute of Science and Technology, Japan),Atsuo Yoshitaka(Japan Advanced Institute of Science and Technology, Japan),Tokuro Matsuo(Advanced Institute of Industrial Technology, Japan),Shun Okuhara(Mie University, Japan),Jawad Haqbeen(Kyoto University, Japan),Sofia Sahab(Kyoto University, Japan),Wen Gu(Nagoya Institute of Technology, Japan),Shiyao Ding(Kyoto University, Japan)
+### Background
+该会议是国际知识、信息与创意支持系统领域的年度重要会议，本次会议于2025年12月3日至5日在日本那珂市召开。此次活动以IEICE论文系列的合作形式举办，吸引了来自人工智能、知识工程、人机交互以及创意支持系统等领域的多学科研究者，旨在促进这些领域的学术交流和合作。
+### Innovation
+会议提交了通过双盲评审过程接受的论文集，并精选部分论文推荐至IEICE Transactions on Information and Systems进行进一步评审，以确保高质量的研究成果得到发表。这表明会议注重研究成果的质量，并致力于推动该领域的高水平学术研究。
+### Conclusion
+本次会议汇集了多个领域的研究成果，为参与者提供了广泛的知识共享和互动机会，同时展示了在人工智能、知识工程、人机交互以及创意支持系统等领域的最新进展。
+## 3. `cs.AI` - Mixture of Attention Schemes (MoAS): Learning to Route Between MHA, GQA, and MQA [PDF](https://arxiv.org/pdf/2512.20650), [HTML](https://arxiv.org/abs/2512.20650)
+### Authors
+Esmail Gumaan
+### Background
+在Transformer模型中，注意力机制的选择涉及建模质量和推理效率之间的关键权衡。多头注意力（MHA）提供最佳质量，但推理过程中需要大量的键值（KV）缓存内存。多查询注意力（MQA）和组查询注意力（GQA）减少了内存使用，但通常以模型性能为代价。
+### Innovation
+我们提出了混合注意力方案（MoAS），这是一种新颖的架构，通过学习路由器动态选择为每个标记的最佳注意力方案（MHA、GQA或MQA）。实验证明，动态路由比静态方案平均效果更好，并且在性能上与MHA基准相当，同时具有潜在的条件计算效率。
+### Conclusion
+实验结果在WikiText-2上表明，动态路由（验证损失2.3074）优于静态混合（2.3093），验证了提出方法的有效性。我们的代码可在以下链接下载：this https URL.
+## 4. `cs.AI` - Memory Bear AI 从记忆到认知迈向人工通用智能 [PDF](https://arxiv.org/pdf/2512.20651), [HTML](https://arxiv.org/abs/2512.20651)
+### Authors
+Deliang Wen,Ke Sun
+### Background
+大型语言模型（LLMs）在记忆方面存在固有的限制，包括有限的上下文窗口、长期知识遗忘、冗余信息累积和幻觉生成。这些问题严重限制了对话和个性化服务的持续性。
+### Innovation
+Memory Bear 系统提出了一种基于认知科学原理构建的人类化记忆架构。它结合了多模态信息感知、动态记忆维护和自适应认知服务，实现了LLM记忆机制的全链条重建。在医疗保健、企业运营和教育等领域，Memory Bear展示了显著的工程创新和性能突破，在长期对话中显著提高了知识准确性和检索效率，降低了幻觉率，并通过记忆认知集成增强了上下文适应性和推理能力。
+### Conclusion
+实验结果表明，与现有解决方案（如Mem0、MemGPT、Graphiti）相比，Memory Bear在关键指标（如准确性、token效率和响应延迟）上优于它们。这一结果标志着AI发展领域从“记忆”到“认知”的重要进步。
+## 5. `cs.AI` - MegaRAG：基于多模态知识图的检索增强生成 [PDF](https://arxiv.org/pdf/2512.20626), [HTML](https://arxiv.org/abs/2512.20626)
+### Authors
+Chi-Hsiang Hsiao,Yi-Cheng Wang,Tzung-Sheng Lin,Yi-Ren Yeh,Chu-Song Chen
+### Background
+检索增强生成（RAG）能够使大规模语言模型（LLMs）动态访问外部信息，这在回答未见过的文档的问题方面非常有用。然而，由于受限于短的上下文窗口，LLMs 在高层次概念理解和整体理解方面仍面临挑战，这限制了它们处理长篇、特定领域的内容（如整本书）进行深层推理的能力。尽管知识图（KG）能提供以实体为中心的结构和分层摘要，以更结构化的方式支持推理，但现有的KG增强RAG解决方案仍然局限于文本输入，并且未能利用来自其他模态（如视觉）的互补见解。RAG方法处理视觉文档时需要结合视觉、文本和空间线索，进入结构化的分层概念。因此，需要一种能够解决视觉文档推理中模态间差异的方法。
+### Innovation
+我们提出了一个基于多模态知识图的RAG方法，能够进行跨模态推理，以更好地理解内容。该方法将视觉线索融入知识图的构建、检索阶段和答案生成过程中。实验结果表明，在全局和细粒度的问答任务中，我们的方法在文本和多模态数据集上的表现均优于现有RAG方法。
+### Conclusion
+我们的研究表明，通过将视觉线索纳入RAG流程，我们能够显著提高模型对于长篇、特定领域内容的理解和推理能力。未来的研究可以探讨进一步改善知识图结构和跨模态融合的方法，以实现更高质量的生成和推理结果。
+## 6. `cs.AI` - BitRL-Light：基于深度强化学习的1比特LLM代理实现节能智能家居照明优化 [PDF](https://arxiv.org/pdf/2512.20623), [HTML](https://arxiv.org/abs/2512.20623)
+### Authors
+Ravi Gupta,Shabista Haider
+### Background
+智能家居照明系统消耗了住宅能源的15-20%，但缺乏能够同时优化用户舒适度和能效的自适应智能。现有的系统多依赖人工规则控制，缺乏智能性和适应性。
+### Innovation
+提出了BitRL-Light框架，结合1比特量化的大语言模型（LLM）与深度Q网络（DQN）的强化学习，实现实时的边缘设备智能照明控制。该框架在Raspberry Pi硬件上部署1比特量化的大语言模型Llama-3.2-1B，相比全精度模型在能耗上降低了71.4倍，同时保持了智能控制能力。通过多目标强化学习，BitRL-Light能够从用户反馈中学习最优照明策略，平衡能耗、舒适度和昼夜节律对齐。
+### Conclusion
+实验结果显示，与基于规则的系统相比，BitRL-Light节省了32%的能耗，Raspberry Pi 4上的推理时延低于200ms，用户满意度达95%。该系统通过Google Home/IFTTT集成处理自然语言指令，并通过手动覆盖学习隐式反馈。相比1比特模型，1比特模型在ARM处理器上实现了5.07倍的速度提升，同时保持92%的任务准确率。该研究建立了一种在资源受限的物联网设备上部署适应性AI的实用框架，实现了无需依赖云的智能家居自动化。
+## 7. `cs.AI` - Erkang-Diagnosis-1.1技术报告 [PDF](https://arxiv.org/pdf/2512.20632), [HTML](https://arxiv.org/abs/2512.20632)
+### Authors
+Jianbing Ma,Ao Feng,Zhenjie Gao,Xinyu Song,Li Su,Bin Chen,Wei Wang,Jiamin Wu
+### Background
+介绍了Erkang-Diagnosis-1.1模型，这是使用阿里巴巴Qwen-3模型开发的AI医疗咨询服务。该模型整合了约500GB高质量结构化医疗知识，采用增强预训练与检索增强生成相结合的方式来构建一个安全、可靠、专业的AI医疗顾问。
+### Innovation
+Erkang-Diagnosis-1.1模型通过3-5轮高效互动，能够准确理解用户症状，进行初步分析，并提供有价值的诊断建议和健康指导。该模型在综合医学考试中优于GPT-4，显示出其在医疗领域的技术优势。
+### Conclusion
+Erkang-Diagnosis-1.1成为用户的智能健康伙伴，赋能初级医疗和健康管理。该模型的设计目标是提升医疗咨询服务的效率和质量。
+## 8. `cs.AI` - 推理接力：评估大型语言模型在数学推理中的稳定性和可替代性 [PDF](https://arxiv.org/pdf/2512.20647), [HTML](https://arxiv.org/abs/2512.20647)
+### Authors
+Leo Lu,Jonathan Zhang,Sean Chua,Spencer Kim,Kevin Zhu,Sean O'Brien,Vasu Sharma
+### Background
+链式思维（CoT）提示显著提高了大型语言模型（LLMs）的推理能力。尽管先前的研究侧重于通过内部推理策略提高模型性能，但目前对不同模型间推理的互换性了解有限。这项工作旨在探索一个模型部分完成的推理链是否能够被另一个模型可靠地继续，不管是同家族的模型还是跨家族的模型。
+### Innovation
+通过使用裁剪推理链的方法，结合推理过程中各阶段的概率阈值，研究团队验证了逻辑连贯性和最终答案准确性。这一方法作为一种评估推理稳定性的框架，揭示了混合推理链在一定程度上保留甚至提高了准确性和逻辑结构。这一发现揭示了推理模型中可替代性的新兴行为特征，为开发可靠模块化推理的协作AI系统提供了新的视角。
+### Conclusion
+研究结果表明，推理可替代性是推理模型的一个重要行为特征。这一发现为在协作AI系统中建立可靠模块化推理提供了新的见解。后续研究可进一步探索如何最佳地利用这一特性，以增强AI系统的整体推理能力与可靠性。
+## 9. `cs.AI` - MicroProbe：最少数据的高效基础模型可靠性评估 [PDF](https://arxiv.org/pdf/2512.20630), [HTML](https://arxiv.org/abs/2512.20630)
+### Authors
+Aayam Bansal,Ishaan Gangwani
+### Background
+基础模型的可靠性评估通常需要大量的评估样本，这在实际部署中既耗费计算资源也非常耗时。
+### Innovation
+提出了一种新颖的方法——MicroProbe，仅通过100个战略性选择的样本即可实现全面的可靠性评估。该方法结合了五个关键可靠性维度的战略提示多样性、先进的不确定性量化以及自适应权重，有效检测潜在的故障模式。
+### Conclusion
+通过在多个语言模型（GPT-2变体、GPT-2 Medium、GPT-2 Large）和跨领域验证（医疗、金融、法律），MicroProbe实现了23.5%更高的综合可靠性评分，具有显著的统计意义（p < 0.001，Cohen's d = 1.21）。专家验证表明，该方法的战略选择效果显著，得到了4.14/5.0的评分，而随机选择只有3.14/5.0。MicroProbe在保持95%的传统方法覆盖范围内，只需90%的评估成本，且统计功效达到99.9%。这种方法有效地填补了负责人工智能部署中高效模型评估的关键空白。
+## 10. `cs.AI` - 量子启发式多智能体强化学习在UAV辅助6G网络部署中的探索与利用优化 [PDF](https://arxiv.org/pdf/2512.20624), [HTML](https://arxiv.org/abs/2512.20624)
+### Authors
+Mazyar Taghavi,Javad Vahidi
+### Background
+本文介绍了一种基于量子启发式的框架，用于优化多智能体强化学习中的探索与利用权衡，应用于UAV辅助的6G网络部署。研究考虑了在部分可观测和动态条件下的协同场景，十架智能的UAV自主协调以最大化信号覆盖并支持网络扩张。
+### Innovation
+提出了一种结合经典MARL算法与量子启发式优化技术的方法，利用可变量子电路（VQC）作为核心结构，并采用量子近似优化算法（QAOA）作为基于VQC的组合优化方法。通过贝叶斯推理、高斯过程和变分推理等概率建模技术，捕捉动态环境下的潜在动态。采用集中训练分散执行（CTDE）范式，提升局部感知。实验结果表明，提出框架提高了样本效率，加速了收敛，并且提升了覆盖性能。
+### Conclusion
+雷达图和收敛分析进一步表明，量子启发式MARL（QI MARL）在探索与利用之间达到了比经典方法更好的平衡。所有实现代码和补充材料已公开在GitHub上，以确保可重复性。
+## 11. `cs.CL` - 测度机制独立性：去除偏见是否意味着消除人口统计数据？ [PDF](https://arxiv.org/pdf/2512.20796), [HTML](https://arxiv.org/abs/2512.20796)
+### Authors
+Zhengyang Shan,Aaron Mueller
+### Background
+本文探讨了独立的人口统计偏差机制与语言模型中一般的人口统计识别之间的关系。通过一个与姓名、职业和教育水平相关的多任务评估设置，研究模型是否能在保留人口统计检测能力的同时减轻偏差。
+### Innovation
+文章采用了基于归因和基于相关性的方法来定位偏差特征，并发现Gemma-2-9B模型中针对稀疏自动编码器的特征消融可以减少偏差而不降低识别性能。此外，研究还揭示了去除教育任务中的归因特征会导致‘先验坍塌’，从而增加总体偏见，强调了需要针对特定维度的干预。
+### Conclusion
+研究结果表明，人口统计偏见源自任务特定的机制而非绝对的人口统计标记，并且通过机制性的推理时干预可以实现“手术式”的去偏，而不会牺牲核心模型的能力。
+## 12. `cs.CL` - 探究大型语言模型中编辑方法在脱敏中的应用 [PDF](https://arxiv.org/pdf/2512.20794), [HTML](https://arxiv.org/abs/2512.20794)
+### Authors
+Shariqah Hossain,Lalana Kagal
+### Background
+机器卸载旨在从模型中移除不需要的信息，但许多方法对于具有大量参数的大型语言模型（LLMs）来说效率低下，或者在不破坏对未来知识应保留的部分性能的前提下无法完全移除所需的信息。模型编辑算法解决了一个类似的改变模型中信息的问题，但它们的关注点是在重新定向输入到新目标上，而不是完全移除这些信息。本研究探讨了编辑算法 ROME、IKE 和 WISE，并为此脱敏设定设计了新的编辑目标。
+### Innovation
+研究发现，模型编辑方法根据设定情况下可以在忘记质量方面超过基线脱敏方法。然而，它们仍存在难以准确界定需要脱敏的范围而不会损害整体模型性能的问题。
+### Conclusion
+模型编辑方法在相对于传统脱敏技术在某些情况下具备更好的遗忘质量，但在设定需要脱敏的范围时仍具有挑战性。
+## 13. `cs.CL` - EssayCBM：透明作文评分的准则对齐概念瓶颈模型 [PDF](https://arxiv.org/pdf/2512.20817), [HTML](https://arxiv.org/abs/2512.20817)
+### Authors
+Kumar Satvik Chaudhary,Chengshuai Zhao,Fan Zhang,Yung Hin Tse,Garima Agrawal,Yuli Deng,Huan Liu
+### Background
+自动化评分系统评估作文的机制对于教育者和学生来说仍是很大的挑战，尤其是在大型语言模型作为黑箱操作的情况下。因此，开发一种可以提高评分机制可解释性且同时具备高性能的系统变得尤为重要。
+### Innovation
+本文提出了EssayCBM，这是一种基于准则的框架，它优先考虑评分的可解释性。系统设计为直接评估八种写作概念（如论点清晰度和证据使用等），而不是直接从文本中预测分数。概念分数形成了一个透明的瓶颈，通过简单的网络计算最终分数。教师可以调整概念预测并立即查看更新后的分数，实现了负责任的人工介入评价。论文指出，EssayCBM能够在保持黑箱模型性能的同时，提供可操作的概念级别反馈。
+### Conclusion
+EssayCBM匹配了黑箱模型的性能，通过直观的Web界面提供了具有解释性的概念级反馈，从而实现了一个透明且可信任的评分系统。
+## 14. `cs.CL` - 在心理健康对话优化中的对抗训练以实现敏感于失败的用户模拟 [PDF](https://arxiv.org/pdf/2512.20773), [HTML](https://arxiv.org/abs/2512.20773)
+### Authors
+Ziyi Zhu,Olivier Tieleman,Caitlin A. Stamatis,Luka Smyth,Thomas D. Hull,Daniel R. Cahn,Matteo Malgaroli
+### Background
+现实用户的模拟对于训练和评估任务导向对话(TOD)系统至关重要，但创建能够准确再现人类行为的模拟器仍面临挑战。有效的模拟器的关键性质在于能够揭示被评估系统的失败模式。本文提出了一个对抗训练框架，通过生成器（用户模拟器）和判别器之间的竞争动态，逐步提高用户模拟器的现实性。
+### Innovation
+该方法展示了微调后的模拟器在心理健康的对话支持聊天机器人领域大大超过了零样本基本模型对系统问题的揭示能力，并且对抗训练进一步提升了多样性和分布对齐性，以及预测有效性。对抗训练后的模拟器在多种聊天机器人配置下，模拟的和真实失败发生率之间的相关性很强，并保持了失败模式分布的低偏差。判别器的准确性在三次对抗迭代后大幅下降，表明模拟器现实性有所提高。这些结果为在心理健康支持TOD领域的用户模拟器真实化提供了一个强有力的训练方法。
+### Conclusion
+该方法为在心理健康支持TOD领域的用户模拟器真实化提供了一个新的训练框架，能够快速、可靠、成本效益地对系统进行评估，这将有助于在部署前对系统的性能进行有效检测。
+## 15. `cs.CL` - Nemotron 3 Nano: 开放、高效混合 Mamba-Transformer 模型，用于自主推理 [PDF](https://arxiv.org/pdf/2512.20848), [HTML](https://arxiv.org/abs/2512.20848)
+### Authors
+NVIDIA:Aaron Blakeman,Aaron Grattafiori,Aarti Basant,Abhibha Gupta,Abhinav Khattar,Adi Renduchintala,Aditya Vavre,Akanksha Shukla,Akhiad Bercovich,Aleksander Ficek,Aleksandr Shaposhnikov,Alex Kondratenko,Alexander Bukharin,Alexandre Milesi,Ali Taghibakhshi,Alisa Liu,Amelia Barton,Ameya Sunil Mahabaleshwarkar,Amir Klein,Amit Zuker,Amnon Geifman,Amy Shen,Anahita Bhiwandiwalla,Andrew Tao,Ann Guan,Anubhav Mandarwal,Arham Mehta,Ashwath Aithal,Ashwin Poojary,Asif Ahamed,Asma Kuriparambil Thekkumpate,Ayush Dattagupta,Banghua Zhu,Bardiya Sadeghi,Barnaby Simkin,Ben Lanir,Benedikt Schifferer,Besmira Nushi,Bilal Kartal,Bita Darvish Rouhani,Boris Ginsburg,Brandon Norick,Brandon Soubasis,Branislav Kisacanin,Brian Yu,Bryan Catanzaro,Carlo del Mundo,Chantal Hwang,Charles Wang,Cheng-Ping Hsieh,Chenghao Zhang,Chenhan Yu,Chetan Mungekar,Chintan Patel,Chris Alexiuk,Christopher Parisien,Collin Neale,Damon Mosk-Aoyama,Dan Su,Dane Corneil,Daniel Afrimi,Daniel Rohrer,Daniel Serebrenik,Daria Gitman,Daria Levy,Darko Stosic,David Mosallanezhad,Deepak Narayanan,Dhruv Nathawani,Dima Rekesh,Dina Yared,Divyanshu Kakwani,Dong Ahn,Duncan Riach,Dusan Stosic,Edgar Minasyan,Edward Lin,Eileen Long,Eileen Peters Long,Elena Lantz,Ellie Evans,Elliott Ning,Eric Chung,Eric Harper,Eric Tramel,Erick Galinkin,Erik Pounds,Evan Briones,Evelina Bakhturina,Faisal Ladhak,Fay Wang,Fei Jia,Felipe Soares,Feng Chen,Ferenc Galko,Frankie Siino,Gal Hubara Agam,Ganesh Ajjanagadde,Gantavya Bhatt
+### Background
+论文背景介绍了Nemotron 3 Nano是一个混合Mamba-Transformer语言模型，它基于Mixture-of-Experts体系结构。该模型预训练在大量文本数据上，并通过监督微调和大规模强化学习进一步训练。Nemotron 3 Nano相比之前版本Nemotron 2 Nano在参数激活数量减少一半的情况下，达到更好的准确度。
+### Innovation
+创新点在于Nemotron 3 Nano采用了混合专家架构的Mamba-Transformer模型，并且在预训练阶段使用了超过25万亿个文本标记，包括超过3万亿的新独特标记。相比同等规模的开源模型，Nemotron 3 Nano在推理吞吐量和准确度上都有显著提升，同时支持长达100万标记的上下文长度。
+### Conclusion
+结论是Nemotron 3 Nano展示了增强的自主性、推理和聊天能力，同时在多个基准测试中表现出色。作者通过将Nemotron 3 Nano的预训练和后训练检查点发布到Hugging Face上，分享了这一先进技术。
+## 16. `cs.CL` - TokSuite:衡量不同分词器选择对语言模型行为影响的方法 [PDF](https://arxiv.org/pdf/2512.20757), [HTML](https://arxiv.org/abs/2512.20757)
+### Authors
+Gül Sena Altıntaş,Malikeh Ehghaghi,Brian Lester,Fengyuan Liu,Wanru Zhao,Marco Ciccone,Colin Raffel
+### Background
+分词器是在语言模型中表示和处理文本的基础。尽管分词器很重要，但由于测量分词器影响的挑战，其对语言模型性能和行为的影响尚未充分理解。
+### Innovation
+作者提出了TokSuite，一个分词模型集合和基准，旨在支持对分词对语言模型影响的研究。TokSuite包括训练了十四种不同分词器但其他方面完全一致的语言模型，并发布了一个新的基准，专门衡量模型在遇到现实世界可能影响分词的干扰下的性能。
+### Conclusion
+TokSuite能够稳健地分离模型分词器的影响，揭示了一系列新的发现，明确了广泛流行分词器各自的优缺点。
+## 17. `cs.CL` - SA-DiffuSeq: Addressing Computational and Scalability Challenges in Long-Document Generation with Sparse Attention [PDF](https://arxiv.org/pdf/2512.20724), [HTML](https://arxiv.org/abs/2512.20724)
+### Authors
+Alexandros Christoforos,Chadbourne Davis
+### Background
+基于扩散的方法在长文本生成中由于序列长度增加会导致计算成本和内存开销变得不可接受。扩散框架通常依赖密集注意力机制来保持语义连贯性和生成质量，但这随着序列长度增加导致效率下降。
+### Innovation
+提出了SA-DiffuSeq框架，通过整合稀疏注意力机制来显著提高长期文档建模的可扩展性。该方法在扩散过程中选择性地分配注意力，从而大幅降低计算复杂性，同时保持语义连贯性和生成质量。特别地，方法中采用了软吸收状态，以稳定扩散路径并加速序列重构，从而提高采样效率，并在长范围依赖性建模中提升精度。
+### Conclusion
+大量实验表明，SA-DiffuSeq在训练效率和采样速度方面均优于现有的最先进的扩散基线，特别是在长序列上获得了特别显著的收益。这些特性使得SA-DiffuSeq非常适合科学写作、大规模代码生成和多轮长上下文对话等具有挑战性的长文本生成应用。整体而言，结果表明将结构化稀疏性纳入扩散模型是对高效和富有表现力的长文本生成的一种具有前景的方向。
+## 18. `cs.CL` - MediEval: 用于LLMs在医学情境下根据知识进行推理的统一基准 [PDF](https://arxiv.org/pdf/2512.20822), [HTML](https://arxiv.org/abs/2512.20822)
+### Authors
+Zhan Qu,Michael Färber
+### Background
+大型语言模型（LLMs）在医学领域的应用越来越多，但由于可靠性和安全性方面的担忧，其采纳受到了限制。现有的评价方法要么只是测试医学事实知识，要么评估患者层面的推理但不核实正确性，这留下了一个重要缺口。
+### Innovation
+作者介绍了MediEval基准，将MIMIC-IV电子健康记录（EHRs）与来自UMLS和其他生物医学词汇表构建的统一知识库链接起来。MediEval在真实的患者背景下生成多样化的事实性和反事实性医学陈述，通过一个四象限框架进行系统评估，该框架同时考虑知识基础和上下文一致性。在此框架下，作者识别出当前专有、开源和领域特定LLMs常见的关键失败模式，如虚假支持和事实倒置，并提出了一种名为Counterfactual Risk-Aware Fine-tuning (CoRFu)的DPO基方法，该方法包含目标不对称惩罚以应对潜在风险。CoRFu模型在宏F1得分上提高了16.4个点，并消除了事实倒置错误，展示了更高的准确性和显著更高的安全性。
+### Conclusion
+CoRFu模型不仅提高了准确率，还显著提高了安全性，通过引入MediEval基准和评估框架，识别了当前LLM系统的多个故障模式，并针对性地提出了改进策略。
+## 19. `cs.CL` - 大型语言模型在数学辅导中接近专家教学质量但在教学和语言特征上存在差异 [PDF](https://arxiv.org/pdf/2512.20780), [HTML](https://arxiv.org/abs/2512.20780)
+### Authors
+Ramatu Oiza Abdulsalam,Segun Aroyehun
+### Background
+近期研究探索了使用大型语言模型生成数学辅导响应的可能性，但尚不清楚其教学行为与专家人类实践的契合程度。本研究通过对照实验，允许专家人类导师、新手人类导师和多个大型语言模型对同一组数学辅导对话轮流做出回应，以此来探讨这一问题。
+### Innovation
+本研究在对话水平上对多次回应进行对比分析，探索大型语言模型的教学策略和语言特征，包括重述和复述策略、准确性要求、词汇多样性、可读性、礼貌性和自主性，并通过统计分析确立了这些特征与教学质量之间的正相关和负相关关系。
+### Conclusion
+大型语言模型在感知教学质量方面达到了专家人类导师的水平，但他们在教学和语言策略上存在系统性差异。特别是，他们倾向于低估专家人类导师常用的重述和复述策略，但会产生更长、词汇更丰富、更礼貌的回应。结果显示，重述和复述、词汇多样性以及准确性要求与感知的教学质量正相关，而更高的自主性和礼貌性语言与感知的教学质量负相关。总之，近年来的大型语言模型在感知的教学质量上与专家人类导师相当，但在采取的教学和语言策略方面有所不同。这些发现强调了在评估跨人类和智能辅导系统时分析教学策略和语言特征的重要性。
+## 20. `cs.CL` - 语义欺骗：当推理模型无法完成加法运算时 [PDF](https://arxiv.org/pdf/2512.20812), [HTML](https://arxiv.org/abs/2512.20812)
+### Authors
+Nathaniël de Leeuw,Marceau Nahon,Mathis Reymond,Raja Chatila,Mehdi Khamassi
+### Background
+大型语言模型（LLMs）在涉及人类价值观的关键决策任务中越来越受欢迎。为了更好地理解LLMs在处理新型符号表示中的推理能力，作者引入了一个实验框架。通过重新定义标准符号和数学运算符，用新符号提出简单计算任务，旨在评估LLMs在处理和操作任意符号系统时的能力，以及它们是否能抵抗误导的语义线索，这些线索可能与任务的符号逻辑相冲突。
+### Innovation
+作者提出了“语义欺骗”的概念，设计了实验来测试LLMs在处理新符号表示时的能力。通过重新定义数字和数学运算符的新符号，并要求LLMs解决用这些新符号表示的简单计算问题，验证了LLMs在处理和操作陌生符号系统时的抽象能力以及抵抗误导性语义线索的能力。
+### Conclusion
+实验结果表明，语义线索显著影响了推理模型在非常简单的任务上的表现，揭示了当前LLMs在符号操作方面的能力有限，并显示了模型倾向于过度依赖表层语义的趋势，提示这种依赖可能是由于建模过程中的统计相关性。即使在表面上遵循指令的情况下，语义线索仍影响基本能力。这些限制引发了伦理和社会方面的担忧，质疑将推理能力错误赋予LLMs的做法，并指出在决策过程中，丽珠应避免受到遗留的语义关联的影响，以确保确立坚实的符号推理功能。
