@@ -1,0 +1,183 @@
+# 20251230
+[![Subscribe_Visitors](https://visitor-badge.laobi.icu/badge?page_id=nituchao.latest_arxiv_analyze_ai_rss)](https://github.com/nituchao/latest_arxiv_analyze_ai)
+
+## 1. `cs.AI` - 使用相关区基解决围棋生死问题的研究 [PDF](https://arxiv.org/pdf/2512.21365), [HTML](https://arxiv.org/abs/2512.21365)
+### Authors
+Chung-Chin Shih,Ti-Rong Wu,Ting Han Wei,Yu-Shan Hsu,Hung Guei,I-Chen Wu
+### Background
+本文分析了使用当前最先进的人工智能围棋求解器解决围棋生死（L& D）问题的过程，考察了两种技术：相关区基搜索（RZS）和相关区模式表。研究人员检查了对七道由围棋大师Cho Chikun编写的著名书籍《围棋生死字典》中的问题，发现了一些有趣的结果。
+### Innovation
+使用RZS和相关区模式表这两种技术进行分析；发现每道问题的关键区域；找到一系列模式，其中包括罕见的模式；给出两种求解器识别出的不同答案。
+### Conclusion
+发现了两个求解器存在的问题：一是错误评估罕见模式的价值，二是倾向于优先直接存活而不是最大化领地，这与人类围棋玩家的行为不同。建议未来工作的可能解决方案。开源代码和数据可访问此链接：this https URL。
+## 2. `cs.AI` - Leash: 自适应长度惩罚和奖励塑形以实现高效的大型推理模型 [PDF](https://arxiv.org/pdf/2512.21540), [HTML](https://arxiv.org/abs/2512.21540)
+### Authors
+Yanhao Li,Lu Ma,Jiaran Zhang,Lexiang Tang,Wentao Zhang,Guibo Luo
+### Background
+现有的方法通常依赖于固定的长度惩罚，但这样的惩罚难以调整，无法适应LLMs（大型语言模型）不断发展的推理能力，导致准确性和简洁性的trade-offs不够优化。这使生成的文本长度控制成为一个挑战。
+### Innovation
+本文提出了一种名为Leash的强化学习框架，以实现LLMs的高效推理。Leash将长度控制形式化为一个受限优化问题，并使用拉格朗日原始对偶方法动态调整惩罚系数。当生成的长度超过目标长度时，惩罚会被加强；反之则会减弱。这种自适应机制可以引导模型生成简洁的推理，而不牺牲任务性能。
+### Conclusion
+实验表明，Leash能够将各种任务中的平均推理长度降低60%，包括分布内的数学推理和分布外的领域（如编码和指令跟随），同时保持竞争力。本工作提出了一种实用且有效的范例，用于开发能够在推理能力和计算预算之间取得平衡的可控高效LLMs。
+## 3. `cs.AI` - 基于相似性和可满足性的不完整信息下的三决策 [PDF](https://arxiv.org/pdf/2512.21421), [HTML](https://arxiv.org/abs/2512.21421)
+### Authors
+Junfang Luo,Mengjun Hu,Keyun Qin
+### Background
+三决策方法在粗糙集理论中被广泛应用于学习分类或决策规则。虽然处理完全信息的方法已经在文献中有了详尽的研究，包括计算和概念上的两个互补形式，但对于不完全信息的处理方式相对较少。论文在简要回顾这两个形式的基础上，将计算形式和概念形式推广到处理不完全信息的三决策方法，这更具实际应用价值。
+### Innovation
+提出了一种新的对象相似度度量方法，作为等价关系的泛化，并提出了一种度量公式的满足度度量，作为完全信息中满足度的定量泛化。还提出了两种基于相似类和对象近似性的三决策方法，以及两种基于公式α-意义集和公式的置信度的三决策方法。特别强调将相似类作为分析不完全信息的常见方法，而新提出的近似性和概念形式中的两种方法则为三决策方法指出了新的发展方向。
+### Conclusion
+本文通过将相似性和可满足性的概念推广到处理不完全信息的三决策方法，提出了新的结果。这不仅为完全信息情况下的方法提供了一种泛化的形式，也为处理不完全信息提供了新的分析工具和方法。
+## 4. `cs.AI` - 使用多模式LLM和多智能体协作进行房屋-树木-人物绘图深层共情自动评估框架 [PDF](https://arxiv.org/pdf/2512.21360), [HTML](https://arxiv.org/abs/2512.21360)
+### Authors
+Shuide Wen,Yu Sun,Beier Ku,Zhi Gao,Lijun Ma,Yang Yang,Can Jiao
+### Background
+房屋-树木-人物（HTP）绘图测试是在1948年由约翰·卜克引入的一种投射性评估技术，长期以来在临床心理学中广泛使用。然而，它面临着诸如评分标准不一致、依赖评估者主观经验、缺乏统一的定量编码系统等挑战。
+### Innovation
+定量实验结果显示，多模态大规模语言模型（MLLM）对HTP绘画的解释与人类专家的解释的平均语义相似度约为0.75（标准差约为0.05）。在结构导向的专家数据集中，这一相似度上升至0.85，表明达到了专家级别基本理解的水平。质性分析表明，通过结合社会心理学视角和去污名化叙事的多智能体系统，有效纠正了视觉幻觉，产生了高生态效度和内部一致性的心理报告。
+### Conclusion
+实验结果证实，多模态大规模模型有可能作为标准化的投射评估工具。提出的一种多智能体框架，通过分工将特征识别与心理推理分离，为数字心理健康服务提供了一个新的范式。
+## 5. `cs.AI` - NEMO-4-PAYPAL: 利用NVIDIA的Nemo框架提升PayPal的商务代理 [PDF](https://arxiv.org/pdf/2512.21578), [HTML](https://arxiv.org/abs/2512.21578)
+### Authors
+Ali Sahami,Sudhanshu Garg,Andrew Wang,Chaitanya Kulkarni,Farhad Farahani,Sean Yun-Shiuan Chuang,Jian Wan,Srinivasan Manoharan,Uma Kona,Nitin Sharma,Linsey Pang,Prakhar Mehrotra,Jessica Clark,Mark Moyou
+### Background
+本文介绍了PayPal的商务代理的发展和优化，该代理是基于NVIDIA的NeMo-4-PAYPAL多代理系统设计的，旨在革新PayPal平台上的商务代理。本文通过与NVIDIA的战略合作，利用NeMo框架对LLM模型进行微调，以提升代理性能。具体优化了搜索和发现代理，使用了微调后的Nemotron小型语言模型（SLM）。通过使用llama3.1-nemotron-nano-8B-v1架构的全面实验，训练LoRA基于模型，系统地进行了学习率、优化器（Adam, AdamW）、余弦退火计划和LoRA秩的超参数调整。
+### Innovation
+本文的创新之处包括：（1）首次将NVIDIA的NeMo框架应用于特定于商务代理的优化；（2）一种基于LLM的微调策略，用于基于检索的商务任务；（3）证明在保持或提高代理质量的同时，显着提高了响应延迟和成本；（4）一个在生产电商环境中优化多代理系统的可扩展框架。
+### Conclusion
+通过微调后的Nemotron SLM有效解决了检索组件的关键性能问题，该组件占总代理响应时间的超过50%，同时保持或提高了整体系统性能。
+## 6. `cs.AI` - 三值评价下的三元冲突分析中可行策略 [PDF](https://arxiv.org/pdf/2512.21420), [HTML](https://arxiv.org/abs/2512.21420)
+### Authors
+Jing Liu,Mengjun Hu,Guangming Lang
+### Background
+现有的冲突分析大多集中在拆分代理对、代理或议题上，虽有助于理解冲突的性质，但在解决冲突方面有所欠缺。特别是在形成可行策略这一关键组成部分方面，学术研究关注不足。基于此，本研究旨在从一致性和非一致性两个角度来探讨可行策略。
+### Innovation
+提出了基于一致性和非一致性的可行策略研究，特别是在基于正负相似度计算代理团体的整体评价的基础上，进一步考虑代理和问题的权重，提出加权一致性和非一致性度量方法，并据此识别代理团体的可行策略。开发了识别可行策略、L-级可行策略及相应最优方案的算法。
+### Conclusion
+通过将加权代理议题评价与一致性和非一致性措施结合，本研究模型展示了其实用性、有效性和优越性，能够在参数灵敏度分析和与现有先进冲突分析方法的比较中明显超越传统方法，实现了复杂冲突环境下的系统性可行策略和最优解决方案的识别。
+## 7. `cs.AI` - AMS-IO-Bench 和 AMS-IO-Agent：用于模拟和混合信号集成电路输入/输出设计的基准测试和结构化推理 [PDF](https://arxiv.org/pdf/2512.21613), [HTML](https://arxiv.org/abs/2512.21613)
+### Authors
+Zhishuai Zhang,Xintian Li,Shilong Liu,Aodong Zhang,Lu Jie,Nan Sun
+### Background
+本文介绍了一个用于模拟和混合信号（AMS）集成电路（IC）中的输入/输出（I/O）子系统生成的领域专业化LLM（大型语言模型）代理系统，即AMS-IO-Agent。论文的背景在于结合自然语言设计意图与工业级别的AMS IC设计交付成果，为AMS IC的设计自动化提供了一种新的解决思路。通过引入AMS-IO-Bench，该基准测试展示了AMS-IO-Agent在自动化模拟和混合信号I/O环设计方面的优越性能，并展示了该方法在实际AMS IC设计中的有效性。
+### Innovation
+论文的核心贡献在于提出一种框架，该框架能够将自然语言的设计意图转化为可验证的逻辑步骤，并且能够与工业级别的AMS IC设计交付成果相连接。具体而言，AMS-IO-Agent结合了两个关键能力：1) 一个结构化的领域知识库；2) 设计意图结构化，将模糊的用户意图转化为验证逻辑步骤，使用JSON和Python作为中介格式。此外，该论文还引入了AMS-IO-Bench基准测试，用来自动化模拟和混合信号I/O环的设计。
+### Conclusion
+通过AMS-IO-Agent生成的I/O环在28 nm CMOS工艺中进行了实际制造和验证，显示出该方法在实际AMS IC设计流程中的有效性。据我们所知，这是首次报道的人工智能代理在模拟和混合信号IC设计中完成了一项非平凡的子任务，并且输出直接被用于硅材料。这标志着在该领域设计自动化方面的一个重要进展。AMS-IO-Agent系统在设计周转时间上也取得了显著的提升，并且在DRC+LVS通过率上达到了70%以上。
+## 8. `cs.AI` - 基于联盟与冲突函数的三向冲突分析 [PDF](https://arxiv.org/pdf/2512.21419), [HTML](https://arxiv.org/abs/2512.21419)
+### Authors
+Junfang Luo,Mengjun Hu,Guangming Lang,Xin Yang,Keyun Qin
+### Background
+三向冲突分析中的关键议题包括参与者、问题及参与者对问题的配对分析。这些议题通常基于评级函数或辅助函数进行研究。评级函数定义了参与者对问题的正向、负向或中立评级；辅助函数定义了参与者之间的联盟、冲突和中立关系。然而，这些函数在衡量这两种相反方面的同时，导致了在一组问题或参与者上进行聚合解释的挑战。例如，在研究关于一组问题的参与者关系时，标准聚合方法只是平均单个问题上的辅助函数值，这使得联盟+1和冲突-1的关系与中立0的关系产生相同结果，尽管这两种关系的态度差异很大。
+### Innovation
+本文通过将辅助函数中的这两种相反方面分离为联盟函数和冲突函数，明确其语义。基于这种分离，对参与者、问题和参与者配对进行了三向分析，并探讨了在冲突分析中解决一些关键问题的实用概念，特别是联盟集合和策略的概念。
+### Conclusion
+本文提出了一种基于联盟和冲突函数的三向冲突分析方法，并通过实际应用展示了所提模型的应用，从而为理解和解决冲突问题提供了新的视角。
+## 9. `cs.AI` - 结合视觉语言模型和逻辑树推理的医学多模态诊断框架 [PDF](https://arxiv.org/pdf/2512.21583), [HTML](https://arxiv.org/abs/2512.21583)
+### Authors
+Zelin Zang,Wenyi Gu,Siqi Ma,Dan Yang,Yue Shen,Zhu Zhang,Guohui Fan,Wing-Kuen Ling,Fuji Yang
+### Background
+随着医学领域大型语言模型（LLMs）和视觉语言模型（VLMs）的迅速增长，简单地整合临床文本和医学影像并不总是能够确保可靠的推理。现有的多模态模型经常产生幻觉或不一致的思维链，限制了临床信任。
+### Innovation
+我们提出了一种基于LLaVA的诊断框架，结合了视觉-语言对齐与逻辑正则化推理。该系统包括文本和图像输入编码器、用于跨模态对齐的投影模块、将诊断任务分解为步骤的推理控制器，以及逻辑树生成器，将步骤假设组装成可验证的结论。
+### Conclusion
+我们的方法在MedXpertQA和其他基准测试上提高了诊断准确性，同时在纯文本设置上保持竞争力，其结果表明向可信赖的多模态医学人工智能迈进了一步。
+## 10. `cs.AI` - LogicLens: 视觉-逻辑联合推理在文本中心化伪造分析中的应用 [PDF](https://arxiv.org/pdf/2512.21482), [HTML](https://arxiv.org/abs/2512.21482)
+### Authors
+Fanwei Zeng,Changtao Miao,Jing Huang,Zhiya Tan,Shutao Gong,Xiaoming Yu,Yang Wang,Huazhe Tan,Weibin Yao,Jianshu Li
+### Background
+随着AIGC技术的快速发展，复杂的文本中心化伪造活动对社会安全和信息的真实性构成重大威胁。现有的文本中心化伪造分析方法通常局限于粗粒度的视觉分析，缺乏深入的逻辑推理能力。此外，它们通常将检测、定位和解释视为独立任务，而忽略了这些任务之间的内在联系，这阻碍了整体性能的提升。
+### Innovation
+本文提出了逻辑透镜（LogicLens），这是一种统一的视觉-文本联合推理框架，将这些目标整合为一个联合任务。逻辑透镜的核心创新在于我们提出的一种新型跨线索意识推理链机制（CCT），该机制可以迭代地在视觉线索和文本逻辑之间进行验证。为了确保所有任务的稳健对齐，我们还提出了一种加权多任务奖励函数，针对基于GRPO的优化进行了设计。此外，我们还设计了一个分层和迭代的多智能体系统（PR$^2$）管道和构建了一个名为RealText的多样数据集，其中包括5,397张图像及详细的细粒度注释，以供模型训练。
+### Conclusion
+在多个基准测试中，逻辑透镜表现出优越性。在零样本评估中，它在T-IC13中的宏平均F评分上超过了专门的框架41.4%，在GPT-4o上的提升为23.4%。在具有挑战性的密集文本T-SROIE数据集上，它的mF1、CSS和宏平均F评分均超过了其他基于MLLM的方法。本文的数据集、模型和代码将公开提供。
+## 11. `cs.CV` - 跨域泛化深度换脸检测中的局部不连续性挖掘 [PDF](https://arxiv.org/pdf/2512.22027), [HTML](https://arxiv.org/abs/2512.22027)
+### Authors
+Huanhuan Yuan,Yang Ping,Zhengqin Xu,Junyi Cao,Shuai Jia,Chao Ma
+### Background
+生成型人工智能的快速发展使得制作高度逼真的虚假面部图像成为可能，这对个人隐私和在线信息的完整性构成了严重威胁。现有的深度伪造检测方法通常依赖于手工设计的法医线索和复杂架构，尽管在特定领域内表现出色，但在面对未见过的伪造模式时性能会大幅下降。
+### Innovation
+本文提出了一种简单的有效框架GenDF，它通过紧凑且简洁的网络设计将大型视觉模型迁移到深度伪造检测任务中。GenDF包含了针对深度伪造的特定表示学习、特征空间重分布以及分类不变性的特征增强策略，无需引入额外的可训练参数即可改善泛化能力。
+### Conclusion
+泛大量的实验表明，GenDF在跨域和跨操控场景中实现了最先进的泛化性能，并且仅需0.28M的可训练参数，验证了所提框架的有效性和高效性。
+## 12. `cs.CV` - StreamAvatar: 实时流式扩散模型用于实时交互式人类avatar [PDF](https://arxiv.org/pdf/2512.22065), [HTML](https://arxiv.org/abs/2512.22065)
+### Authors
+Zhiyao Sun,Ziqiao Peng,Yifeng Ma,Yi Chen,Zhengguang Zhou,Zixiang Zhou,Guozhen Zhang,Youliang Zhang,Yuan Zhou,Qinglin Lu,Yong-Jin Liu
+### Background
+实时流式交互式avatar是数字人类研究中的关键且具有挑战性的目标。虽然基于扩散的人类avatar生成方法取得了显著的成功，但它们的非因果架构和高计算成本使其不适合流式传输。此外，现有的交互式方法通常仅限于头部和肩部区域，限制了其产生手势和身体动作的能力。
+### Innovation
+提出了一种两阶段自回归适应和加速框架，该框架使用自回归蒸馏和对抗性细化来适应高保真人体视频扩散模型，以实现实时、交互式流式传输。为了确保长期稳定性和一致性，引入了三个关键组件：参考汇流池、参考锚定位置重新编码（RAPR）策略以及一致感知鉴别器。
+### Conclusion
+ extensive experiments demonstrate that our method achieves state-of-the-art performance, surpassing existing approaches in generation quality, real-time efficiency, and interaction naturalness.
+## 13. `cs.CV` - iSHIFT: 轻量级自适应感知的慢速-快速GUI代理 [PDF](https://arxiv.org/pdf/2512.22009), [HTML](https://arxiv.org/abs/2512.22009)
+### Authors
+Sarthak Mehrotra,Sairam V C Rebbapragada,Mani Hemanth Reddy Bonthu,Vineeth N Balasubramanian
+### Background
+多模式大规模语言模型（MLLMs）在解释和交互复杂、像素密集的图形用户界面（GUI）环境中显示出强大的潜力。然而，构建既高效执行高层次任务又精确处理像素级别的细粒度交互的任务仍具有挑战性。现有的GUI代理必须在执行常规操作效率的同时处理需要精确视觉定位的任务，但现有方法在依赖特定界面元素识别的准确性方面表现不佳。此外，这些MLLMs仍然很大，无法根据任务需要调整其推理深度。
+### Innovation
+本文引入了iSHIFT：隐式的慢速-快速混合推理与灵活令牌，这是一种轻量级代理，它将潜在思考（隐式推理链）与感知控制模块集成在一起。iSHIFT使MLLM能够根据任务需求在详尽的视觉定位高精度模式（慢速模式）和使用全局线索提高效率模式（快速模式）之间切换。特殊感知令牌引导注意力到相关屏幕区域，允许模型决定如何推理以及需要关注的地方。尽管iSHIFT只有2.5B的参数，但仍达到了多项基准数据集上的顶级性能。
+### Conclusion
+iSHIFT通过结合隐式推理和灵活的感知控制模块，实现了高效和高精度的GUI交互，且模型规模较小，这不仅提高了任务执行的灵活性，还有效提升了性能。
+## 14. `cs.CV` - Yume-1.5: 一种受文本控制的互动世界生成模型 [PDF](https://arxiv.org/pdf/2512.22096), [HTML](https://arxiv.org/abs/2512.22096)
+### Authors
+Xiaofeng Mao,Zhen Li,Chuanhao Li,Xiaojie Xu,Kaining Ying,Tong He,Jiangmiao Pang,Yu Qiao,Kaipeng Zhang
+### Background
+最近的研究已经表明，扩散模型在生成交互式和可探索的世界方面具有潜力。然而，大多数这些方法面临诸如参数量过大、推理步骤过长以及历史上下文迅速增加等问题，严重限制了实时性能，并欠缺文本控制生成的能力。
+### Innovation
+本文提出了一种名为textbf{textit{方法}}的新框架，能够从单一的图像或文本提示生成逼真、互动且连续的世界。该框架通过六个关键技术点实现：1）结合统一上下文压缩和线性注意力的长视频生成框架；2）通过双向注意力蒸馏和增强文本嵌入方案加速实时流式传输；3）文本控制生成世界事件的方法，支持键盘探索生成的世界。
+### Conclusion
+该方法提供了一个完善的框架，支持从图像和文本生成逼真的互动世界，且能够实现实时流式传输和键盘探索，并已经将代码发布在附录中。
+## 15. `cs.CV` - 通过轨迹-检测匹配进行关联学习的多对象跟踪 [PDF](https://arxiv.org/pdf/2512.22105), [HTML](https://arxiv.org/abs/2512.22105)
+### Authors
+Momir Adžemović
+### Background
+多对象跟踪的目的是通过跨视频帧进行检测关联来保持对象身份。文献中有两种主导的方法：检测驱动方法，虽然计算效率高但依赖于手工设计的关联启发式方法；端到端方法，虽然能从数据中学习关联但计算复杂性更高。这两种方法各有优缺点。
+### Innovation
+提出了一种轨迹-检测链接预测（TDLP）方法，这是一种检测驱动的方法，通过每帧之间跟踪和检测的链接预测来进行关联，即预测每帧中每个跟踪的正确延续。TDLP特别设计用于几何特征（如边界框），同时可选地结合姿态和外观等附加线索。与基于启发式的方法不同，TDLP直接从数据中学习关联，而非依赖手工设计的规则，但仍保持模块化和计算效率高于端到端追踪器。
+### Conclusion
+在多个基准数据集上的大量实验表明，TDLP 在检测驱动方法和端到端方法中的一致性上超过了最先进的性能。我们还详细分析了链接预测与基于度量学习的关联的差异，表明链接预测在处理检测边界框等异构特征时更为有效。完整的代码请参见此网址：this https URL。
+## 16. `cs.CV` - 减少观看，精确理解：多模态推理中的双向感知塑造 [PDF](https://arxiv.org/pdf/2512.22120), [HTML](https://arxiv.org/abs/2512.22120)
+### Authors
+Shuoshuo Zhang,Yizhen Zhang,Jingjing Fu,Lei Song,Jiang Bian,Yujiu Yang,Rui Wang
+### Background
+大型视觉-语言模型（VLMs）通常从中间视觉提示中获益，这些提示可以通过外部工具注入或在推理期间生成为潜在视觉标记。然而，这些机制仍然忽略了细微视觉证据（如图表中的多段线），在不同领域上表现不佳，并且在推理时间上成本高昂。
+### Innovation
+本文提出了一种双向感知塑造（Bi-directional Perceptual Shaping，BiPS），它将由问题条件化的蒙版视图转化为双向的“看哪里”信号，在训练期间塑造感知。BiPS首先施加在原始图像与保留仅问题相关区域的证据保留视图之间的一致性约束KL，鼓励覆盖关键像素的粗略但完整的覆盖。然后，它施加原始视图与证据删除视图（关键像素被遮盖，不再支持初始答案）的一致性分裂约束KL，从而防止仅依赖文本的捷径和强化对细粒度视觉证据的依赖。
+### Conclusion
+BiPS 在八个基准测试中将 Qwen2.5-VL-7B 提升了约 8.2% 的性能，显示出强大的跨域泛化特性，对未见过的数据集和图像类型表现良好。
+## 17. `cs.CV` - LongFly：结合时空上下文的长航时无人机视觉-语言导航 [PDF](https://arxiv.org/pdf/2512.22010), [HTML](https://arxiv.org/abs/2512.22010)
+### Authors
+Wen Jiang,Li Wang,Kangyao Huang,Wei Fan,Jinyuan Liu,Shaoyu Liu,Hongwei Duan,Bin Xu,Xiangyang Ji
+### Background
+无人机在灾后搜救中具有重要作用，但面临高信息密度、快速视角变化和动态结构等挑战，尤其是长航时导航中的问题。当前的无人机视觉-语言导航（VLN）方法在复杂环境中的长时间尺度时空上下文建模能力不足，导致语义对齐不准和路径规划不稳定。
+### Innovation
+提出了一种时空上下文建模框架LongFly，用于长航时无人机VLN。LongFly提出了基于槽的历史图像压缩模块，可以动态地将多视角历史观察转化为固定长度的上下文表示。还引入了时空轨迹编码模块，捕捉无人机轨迹的时空动态和结构。此外，设计了提示引导式多模态集成模块，支持基于时间的推理和鲁棒航点预测。
+### Conclusion
+实验结果表明，LongFly在成功率达到7.89%和路径长度加权成功率达到6.33%方面优于最先进的无人机VLN基线，在已见和未见环境中都表现出一致性。
+## 18. `cs.CV` - 基于提示驱动视频分割基础模型的后门攻击 [PDF](https://arxiv.org/pdf/2512.22046), [HTML](https://arxiv.org/abs/2512.22046)
+### Authors
+Zongmin Zhang,Zhen Sun,Yifan Liao,Wenhan Dong,Xinlei He,Xingshuo Han,Shengmin Xu,Xinyi Huang
+### Background
+提示驱动视频分割基础模型（VSFMs）如SAM2在自动驾驶和数字病理学等应用中被广泛部署，这引发了后门威胁方面的新关注。尽管如此，直接将经典的后门攻击（例如BadNet）应用到VSFMs上效果并不明显，ASR（攻击成功率）低于5%。
+### Innovation
+研究发现在常规训练下，编码器梯度和注意力图保持干净和触发样本的梯度高度对齐，并且注意力仍集中在真实物体上，阻止编码器学习特定触发器相关的表示。因此，该文提出了BadVSFM，第一个专门针对提示驱动VSFMs的后门框架。BadVSFM采用两阶段策略：首先引导图像编码器使触发帧映射到指定的目标嵌入，干净帧保持与干净参考编码器对齐；然后训练掩码解码器，使得不同的提示类型下，触发帧-提示对生成共享的目标掩码，而干净输出保持接近参考解码器。实验结果表明，BadVSFM在多种触发器和提示下能实现强大的、可调控的后门效果，同时保持干净的分割质量。此外，对损失、阶段、目标、触发设置和中毒率的消融研究证明了BadVSFM对合理超参数变化的稳健性，并证实了其两阶段设计的必要性。进一步的梯度冲突分析和注意力可视化显示，BadVSFM能够区分触发和干净的表示，并使注意力集中在触发区域，而且四种代表性防御措施对此效果基本无效，揭示了当前VSFMs的一个未被充分探索的漏洞。
+### Conclusion
+反向分析和注意力可视化结果显示，BadVSFM能够区分触发和干净的表示，并将注意转移到触发区域。四种代表性的防御措施对此效果基本无效，揭示了当前VSFMs的一个未被充分探索的漏洞。最后的实验和消融研究进一步验证了BadVSFM的有效性和必要性，展示了其在面对合理超参数变化时的稳健性。
+## 19. `cs.CV` - MAI-UI技术报告：以真实世界为中心的基础GUI代理 [PDF](https://arxiv.org/pdf/2512.22047), [HTML](https://arxiv.org/abs/2512.22047)
+### Authors
+Hanzhang Zhou,Xu Zhang,Panrong Tong,Jianan Zhang,Liangyu Chen,Quyu Kong,Chenglin Cai,Chen Liu,Yue Wang,Jingren Zhou,Steven Hoi
+### Background
+GUI代理的发展有望彻底改变下一代人机交互。鉴于这一前景，本文提出了一种名为MAI-UI的家族式GUI代理基础模型，其中包括2B、8B、32B和235B-A22B等不同规模的版本。文章识别了实现这些模型所需解决的四大关键挑战：缺乏本征的代理-用户交互、UI操作的限制、缺乏实用的部署架构以及动态环境中的脆弱性。
+### Innovation
+MAI-UI通过一个统一的方法解决了上述问题：包括用户交互和MCP工具调用的数据集扩增自我演化数据管道、设备与云协作执行调度系统、以及支持并行环境和上下文长度优化的在线强化学习框架。这些创新性地推动了GUI语义理解基准测试表现的新纪录，特别是在GUI对齐、移动环境导航和移动GUI导航方面。
+### Conclusion
+实验证明，MAI-UI通过增加并行环境的规模和增加环境步进预算，在基准测试中取得了显著提升，并通过设备与云协作系统增强了本地性能，减少了云模型调用次数并保护了用户的隐私。该模型在全球尺度背景下展现了对端到端GUI模型和基于模拟框架的竞争优势。
+## 20. `cs.CV` - ProEdit: 基于倒置的从提示正确的编辑 [PDF](https://arxiv.org/pdf/2512.22118), [HTML](https://arxiv.org/abs/2512.22118)
+### Authors
+Zhi Ouyang,Dian Zheng,Xiao-Ming Wu,Jian-Jian Jiang,Kun-Yu Lin,Jingke Meng,Wei-Shi Zheng
+### Background
+现有基于倒置的视觉编辑方法通常在采样过程中注入源图像信息来保持编辑一致性，但这会导致编辑受到影响，无法根据用户指令更改图像主题的姿态、数量或颜色等属性。针对这一问题，本文提出ProEdit方法，在注意和潜在方面进行改善。
+### Innovation
+1. 引入KV-mix，通过混合编辑区域中源图像和目标图像的KV特征，减少了源图像对编辑区域的影响，同时保持了背景的一致性。2. 提出了Latents-Shift，通过扰动源图像的潜在表示，消除了反变换潜在变量对采样的影响。3. 该方法在图像和视频编辑基准上表现出最先进的性能，并且是插件式的，可以无缝集成到现有的倒置编辑方法中。
+### Conclusion
+本文提出的ProEdit方法在注意和潜在表示方面通过引入KV-mix和Latents-Shift显著提高了编辑效果，并且展示了其与现有方法的兼容性，未来可以通过进一步优化实现更加复杂的视觉编辑。
